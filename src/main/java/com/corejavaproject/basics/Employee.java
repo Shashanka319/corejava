@@ -28,4 +28,8 @@ public class Employee {
         log.info("Address:"+this.add);
     }
 
+    public  void salaryDetails(){
+        log.info("Executing the salary details of the Employee");
+    }
+
 }

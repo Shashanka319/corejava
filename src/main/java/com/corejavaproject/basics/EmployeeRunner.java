@@ -6,5 +6,6 @@ public class EmployeeRunner {
         Employee employee = new Employee(30000.0,"Niladri Nagar",address);
         Employee.info();
         employee.jobInfo();
+        employee.salaryDetails();
     }
 }
