@@ -1,9 +1,42 @@
-2026-05-31 10:29:18,757 INFO c.c.b.Employee [main] Employee Age:25
-2026-05-31 10:29:18,769 INFO c.c.b.Employee [main] Employee Name:Shashank
-2026-05-31 10:29:18,770 INFO c.c.b.Employee [main] Employee Salary:30000.0
-2026-05-31 10:29:18,775 INFO c.c.b.Employee [main] Employee Address:Niladri Nagar
-2026-05-31 10:39:54,397 INFO c.c.b.Employee [main] Employee Age:25
-2026-05-31 10:39:54,407 INFO c.c.b.Employee [main] Employee Name:Shashank
-2026-05-31 10:39:54,409 INFO c.c.b.Employee [main] Employee Salary:30000.0
-2026-05-31 10:39:54,410 INFO c.c.b.Employee [main] Employee Address:Niladri Nagar
-2026-05-31 10:39:54,411 INFO c.c.b.Employee [main] Address:com.corejavaproject.basics.Address@2f465398
+2026-06-03 19:32:31,309 INFO c.c.b.Employee [main] Employee Age:25
+2026-06-03 19:32:31,320 INFO c.c.b.Employee [main] Employee Name:Shashank
+2026-06-03 19:32:31,321 INFO c.c.b.Employee [main] Employee Salary:30000.0
+2026-06-03 19:32:31,322 INFO c.c.b.Employee [main] Employee Address:Niladri Nagar
+2026-06-03 19:32:31,322 INFO c.c.b.Employee [main] Address:com.corejavaproject.basics.Address@4470f8a6
+2026-06-03 19:32:31,322 INFO c.c.b.Employee [main] Executing the salary details of the Employee
+2026-06-03 19:32:47,345 INFO c.c.b.Employee [main] Employee Age:25
+2026-06-03 19:32:47,350 INFO c.c.b.Employee [main] Employee Name:Shashank
+2026-06-03 19:32:47,351 INFO c.c.b.Employee [main] Employee Salary:30000.0
+2026-06-03 19:32:47,352 INFO c.c.b.Employee [main] Employee Address:Niladri Nagar
+2026-06-03 19:32:47,352 INFO c.c.b.Employee [main] Address:com.corejavaproject.basics.Address@2f465398
+2026-06-03 19:32:47,352 INFO c.c.b.Employee [main] Executing the salary details of the Employee
+2026-06-03 19:33:01,345 INFO c.c.i.PoliceStaion [main] Executing the Station Info in Police Station
+2026-06-03 19:33:01,350 INFO c.c.i.PoliceStaion [main] Station Name:null
+2026-06-03 19:33:01,350 INFO c.c.i.PoliceStaion [main] Station Location:null
+2026-06-03 19:33:01,352 INFO c.c.i.PoliceStaion [main] No of Polices in Station:10
+2026-06-03 19:33:01,352 INFO c.c.i.PoliceStaion [main] Police Name:Sharan
+2026-06-03 19:33:01,353 INFO c.c.i.PoliceStaion [main] Station Rules:On time Duty take to at any Situation
+2026-06-03 19:39:47,346 INFO c.c.i.PoliceStaion [main] Executing the Station Info in Police Station
+2026-06-03 19:39:47,354 INFO c.c.i.PoliceStaion [main] Station Name:null
+2026-06-03 19:39:47,355 INFO c.c.i.PoliceStaion [main] Station Location:null
+2026-06-03 19:39:47,356 INFO c.c.i.PoliceStaion [main] No of Polices in Station:10
+2026-06-03 19:39:47,356 INFO c.c.i.PoliceStaion [main] Police Name:Sharan
+2026-06-03 19:39:47,357 INFO c.c.i.PoliceStaion [main] Station Rules:On time Duty take to at any Situation
+2026-06-03 19:42:07,603 INFO c.c.i.PoliceStaion [main] Executing the Station Info in Police Station
+2026-06-03 19:42:07,613 INFO c.c.i.PoliceStaion [main] Station Name:
+2026-06-03 19:42:07,614 INFO c.c.i.PoliceStaion [main] Station Location:null
+2026-06-03 19:42:07,615 INFO c.c.i.PoliceStaion [main] No of Polices in Station:10
+2026-06-03 19:42:07,616 INFO c.c.i.PoliceStaion [main] Police Name:Sharan
+2026-06-03 19:42:07,616 INFO c.c.i.PoliceStaion [main] Station Rules:On time Duty take to at any Situation
+2026-06-03 19:42:12,295 INFO c.c.i.PoliceStaion [main] Executing the Station Info in Police Station
+2026-06-03 19:42:12,304 INFO c.c.i.PoliceStaion [main] Station Name:
+2026-06-03 19:42:12,305 INFO c.c.i.PoliceStaion [main] Station Location:null
+2026-06-03 19:42:12,306 INFO c.c.i.PoliceStaion [main] No of Polices in Station:10
+2026-06-03 19:42:12,306 INFO c.c.i.PoliceStaion [main] Police Name:Sharan
+2026-06-03 19:42:12,307 INFO c.c.i.PoliceStaion [main] Station Rules:On time Duty take to at any Situation
+2026-06-03 19:43:31,182 INFO c.c.i.PoliceStaion [main] Executing the Station Info in Police Station
+2026-06-03 19:43:31,192 INFO c.c.i.PoliceStaion [main] Station Name:
+2026-06-03 19:43:31,193 INFO c.c.i.PoliceStaion [main] Station Location:null
+2026-06-03 19:43:31,194 INFO c.c.i.PoliceStaion [main] No of Polices in Station:10
+2026-06-03 19:43:31,195 INFO c.c.i.PoliceStaion [main] Police Name:Sharan
+2026-06-03 19:43:31,196 INFO c.c.i.PoliceStaion [main] Station Rules:On time Duty take to at any Situation
