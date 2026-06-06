@@ -2,3 +2,26 @@
 2026-06-06 12:44:33,814 INFO j.u.ArrayList [main] Badminton
 2026-06-06 12:44:33,814 INFO j.u.ArrayList [main] Cricket
 2026-06-06 12:44:33,816 INFO j.u.ArrayList [main] Volleyball
+2026-06-06 13:54:32,168 INFO c.c.a.EmployeeRunner [main] Employee Information:[com.corejavaproject.arrayList.Employee@707194ba, com.corejavaproject.arrayList.Employee@1190200a, com.corejavaproject.arrayList.Employee@6a2f6f80, com.corejavaproject.arrayList.Employee@45b4c3a9]
+2026-06-06 13:57:54,608 INFO c.c.a.EmployeeList [main] Employee1 Detailes:com.corejavaproject.arrayList.Employee@707194ba
+2026-06-06 13:57:54,614 INFO c.c.a.EmployeeList [main] Employee2 Detailes:com.corejavaproject.arrayList.Employee@313b2ea6
+2026-06-06 13:57:54,615 INFO c.c.a.EmployeeList [main] Employee3 Detailes:com.corejavaproject.arrayList.Employee@2f465398
+2026-06-06 13:57:54,617 INFO c.c.a.EmployeeList [main] Employee4 Detailes:com.corejavaproject.arrayList.Employee@623a8092
+2026-06-06 13:57:54,619 INFO c.c.a.EmployeeRunner [main] Employee Information:[com.corejavaproject.arrayList.Employee@707194ba, com.corejavaproject.arrayList.Employee@313b2ea6, com.corejavaproject.arrayList.Employee@2f465398, com.corejavaproject.arrayList.Employee@623a8092]
+2026-06-06 13:58:08,527 INFO c.c.a.EmployeeList [main] Employee1 Detailes:com.corejavaproject.arrayList.Employee@707194ba
+2026-06-06 13:58:08,534 INFO c.c.a.EmployeeList [main] Employee2 Detailes:com.corejavaproject.arrayList.Employee@313b2ea6
+2026-06-06 13:58:08,534 INFO c.c.a.EmployeeList [main] Employee3 Detailes:com.corejavaproject.arrayList.Employee@2f465398
+2026-06-06 13:58:08,535 INFO c.c.a.EmployeeList [main] Employee4 Detailes:com.corejavaproject.arrayList.Employee@623a8092
+2026-06-06 13:58:08,536 INFO c.c.a.EmployeeRunner [main] Employee Information:[com.corejavaproject.arrayList.Employee@707194ba, com.corejavaproject.arrayList.Employee@313b2ea6, com.corejavaproject.arrayList.Employee@2f465398, com.corejavaproject.arrayList.Employee@623a8092]
+2026-06-06 16:37:38,638 INFO c.c.e.HumanRunner [main] Human Age:21
+2026-06-06 16:37:38,645 INFO c.c.e.HumanRunner [main] Human Name:Shashank
+2026-06-06 16:38:04,682 INFO c.c.e.HumanRunner [main] Human Age:0
+2026-06-06 16:38:04,688 INFO c.c.e.HumanRunner [main] Human Name:null
+2026-06-06 16:41:13,783 INFO c.c.e.HumanRunner [main] Human Age:0
+2026-06-06 16:41:13,788 INFO c.c.e.HumanRunner [main] Human Name:null
+2026-06-06 16:54:33,738 INFO c.c.e.HumanRunner [main] Human Age:22
+2026-06-06 16:54:33,744 INFO c.c.e.HumanRunner [main] Human Name:Shashanka
+2026-06-06 16:56:33,158 INFO c.c.e.HumanRunner [main] Human Age:22
+2026-06-06 16:56:33,163 INFO c.c.e.HumanRunner [main] Human Name:Shashanka
+2026-06-06 16:56:57,623 INFO c.c.e.HumanRunner [main] Human Age:22
+2026-06-06 16:56:57,627 INFO c.c.e.HumanRunner [main] Human Name:Shashanka
