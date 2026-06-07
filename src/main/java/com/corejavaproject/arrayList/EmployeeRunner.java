@@ -9,7 +9,14 @@ public class EmployeeRunner {
     public static void main(String[] args) {
         EmployeeList employeeList = new EmployeeList();
         List<Employee> list =employeeList.getEmployee();
-        log.info("Employee Information:"+list);
+
+        employeeList.setEmployee(list);
+        employeeList.empInfo(list);
+        employeeList.empDetailes(list);
+        employeeList.empinformation(list);
+
+
+
 
 
     }

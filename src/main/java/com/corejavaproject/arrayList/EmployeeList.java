@@ -3,9 +3,8 @@ package com.corejavaproject.arrayList;
 import lombok.extern.log4j.Log4j2;
 import org.apache.commons.collections4.CollectionUtils;
 
-import java.util.ArrayList;
-import java.util.EnumMap;
-import java.util.List;
+import java.util.*;
+
 @Log4j2
 
 public class EmployeeList {
@@ -20,13 +19,52 @@ public class EmployeeList {
         list.add(employee1);
         list.add(employee3);
         list.add(employee4);
-        log.info("Employee1 Detailes:"+employee);
-        log.info("Employee2 Detailes:"+employee1);
-        log.info("Employee3 Detailes:"+employee3);
-        log.info("Employee4 Detailes:"+employee4);
+
         return list;
 
+
     }
+
+    public void setEmployee(List<Employee> list){
+
+        if(CollectionUtils.isNotEmpty(list)){
+            list.forEach(data ->log.info(data));
+        }
+    }
+
+    public void empInfo(List<Employee>list){
+        if(CollectionUtils.isNotEmpty(list)) {
+            for (int i = 0; i < list.size(); i++) {
+                Employee data = list.get(i);
+                log.info(data);
+            }
+
+        }
+
+    }
+
+   public void empDetailes(List<Employee>list){
+        if(CollectionUtils.isNotEmpty(list)) {
+            Iterator<Employee> iterator = list.iterator();
+            while (iterator.hasNext()) {
+                Employee data = iterator.next();
+                log.info(data);
+            }
+        }
+   }
+
+   public void empinformation(List<Employee>list){
+        if(CollectionUtils.isNotEmpty(list)) {
+            ListIterator<Employee> listIterator = list.listIterator();
+            while (listIterator.hasNext()) {
+                Employee data = listIterator.next();
+                log.info(listIterator.next());
+            }
+            while (listIterator.hasPrevious()) {
+                log.info(listIterator.previous());
+            }
+        }
+   }
 
 
 }

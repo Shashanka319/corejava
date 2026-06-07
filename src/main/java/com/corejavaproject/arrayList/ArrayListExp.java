@@ -4,6 +4,8 @@ import lombok.extern.log4j.Log4j2;
 import org.apache.commons.collections4.CollectionUtils;
 
 import java.util.ArrayList;
+import java.util.Collection;
+import java.util.Collections;
 import java.util.List;
 
 @Log4j2
@@ -16,7 +18,20 @@ public class ArrayListExp {
         list.add("Cricket");
         list.add("Volleyball");
 
+        Collections.sort(list);
+        log.info(list);
         return list;
+    }
+    public List<String> desendingOrder(){
+        List<String> desendingList = new ArrayList<>();
+        desendingList.add("Badminton");
+        desendingList.add("ThrowBall");
+        desendingList.add("Haky");
+        desendingList.add("FootBall");
+
+        Collections.sort(desendingList, Collections.reverseOrder());
+
+        return desendingList;
     }
 
     public void iterateWithLambda(List<String> list){
