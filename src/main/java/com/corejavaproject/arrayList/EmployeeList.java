@@ -28,14 +28,17 @@ public class EmployeeList {
     public void setEmployee(List<Employee> list){
 
         if(CollectionUtils.isNotEmpty(list)){
+            log.info("Execute the setEmployee in Employee List....");
             list.forEach(data ->log.info(data));
         }
     }
 
     public void empInfo(List<Employee>list){
         if(CollectionUtils.isNotEmpty(list)) {
+            log.info("Execute the empInfo in Employee List");
             for (int i = 0; i < list.size(); i++) {
                 Employee data = list.get(i);
+
                 log.info(data);
             }
 
@@ -45,6 +48,7 @@ public class EmployeeList {
 
    public void empDetailes(List<Employee>list){
         if(CollectionUtils.isNotEmpty(list)) {
+            log.info("Execute the empDetailes in EmployeeList");
             Iterator<Employee> iterator = list.iterator();
             while (iterator.hasNext()) {
                 Employee data = iterator.next();
@@ -55,6 +59,7 @@ public class EmployeeList {
 
    public void empinformation(List<Employee>list){
         if(CollectionUtils.isNotEmpty(list)) {
+            log.info("Execute the empInformation in Employee List");
             ListIterator<Employee> listIterator = list.listIterator();
             while (listIterator.hasNext()) {
                 Employee data = listIterator.next();

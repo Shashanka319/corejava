@@ -7,10 +7,14 @@ public class DMart implements  Comparable<DMart>{
 
     public DMart(String productName, int count, double price){
         this.productName=productName;
-        this.count=count
+        this.count=count;
     }
 
 
+    @Override
+    public int compareTo(DMart o) {
+        return 0;
+    }
 }
 // Sort :
 //1 compare
