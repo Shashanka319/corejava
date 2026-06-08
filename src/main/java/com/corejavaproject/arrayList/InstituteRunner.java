@@ -1,9 +1,16 @@
 package com.corejavaproject.arrayList;
 
+import lombok.extern.log4j.Log4j2;
+
+import java.util.List;
+@Log4j2
+
 public class InstituteRunner {
     public static void main(String[] args) {
-        Institute institutes = new Institute(101,"Java Development","Six Months",30000.0,"Reno","Reghu");
-        institutes.institueInfo();
+        CourseList courseList = new CourseList();
+        List<Institute> list = courseList.getInstitute();
+
+        log.info("Course Informations in Institute:"+list);
     }
 
 }

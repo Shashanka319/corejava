@@ -29,5 +29,9 @@ public class Institute {
         log.info("Course Trainer Name:"+this.trainer);
     }
 
+    @Override
+    public String toString() {
 
+        return "Institute Course Id:"+this.courseId +",Course Name:"+this.courseName + ",Course Duration:"+this.duration +",Course Fees:"+this.courseFees +",Course Manager Name:"+this.managerName +",Course Trainer:"+this.trainer;
+    }
 }
