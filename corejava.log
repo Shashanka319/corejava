@@ -6,3 +6,54 @@
 2026-06-09 21:59:21,287 INFO c.c.b.Employee [main] Employee Address:Niladri Nagar
 2026-06-09 21:59:21,287 INFO c.c.b.Employee [main] Address:com.corejavaproject.basics.Address@548e6d58
 2026-06-09 21:59:21,287 INFO c.c.b.Employee [main] Executing the salary details of the Employee
+2026-06-09 23:26:10,544 INFO c.c.b.Employee [main] Employee Age:25
+2026-06-09 23:26:10,550 INFO c.c.b.Employee [main] Employee Name:Shashank
+2026-06-09 23:26:10,551 INFO c.c.b.Employee [main] Employee Salary:30000.0
+2026-06-09 23:26:10,551 INFO c.c.b.Employee [main] Employee Address:Niladri Nagar
+2026-06-09 23:26:10,552 INFO c.c.b.Employee [main] Address:com.corejavaproject.basics.Address@548e6d58
+2026-06-09 23:26:10,552 INFO c.c.b.Employee [main] Executing the salary details of the Employee
+2026-06-09 23:26:55,813 INFO c.c.a.EmployeeRunner [main] Course Information :[Institute Course Id:101,Course Name:Python,Course Duration:Six Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu]
+2026-06-09 23:26:55,819 INFO c.c.a.EmployeeList [main] Execute the setEmployee in Employee List....
+2026-06-09 23:26:55,822 INFO c.c.a.EmployeeList [main] Employee [id=101, Name=Shashank, Address=Davanagere]
+2026-06-09 23:26:55,822 INFO c.c.a.EmployeeList [main] Employee [id=102, Name=Harshitha, Address=Arsikere]
+2026-06-09 23:26:55,823 INFO c.c.a.EmployeeList [main] Employee [id=103, Name=Shashi, Address=Chitradurga]
+2026-06-09 23:26:55,823 INFO c.c.a.EmployeeList [main] Employee [id=104, Name=Harshi, Address=Hasan]
+2026-06-09 23:26:55,824 INFO c.c.a.EmployeeList [main] Execute the empInfo in Employee List
+2026-06-09 23:26:55,824 INFO c.c.a.EmployeeList [main] Employee [id=101, Name=Shashank, Address=Davanagere]
+2026-06-09 23:26:55,824 INFO c.c.a.EmployeeList [main] Employee [id=102, Name=Harshitha, Address=Arsikere]
+2026-06-09 23:26:55,824 INFO c.c.a.EmployeeList [main] Employee [id=103, Name=Shashi, Address=Chitradurga]
+2026-06-09 23:26:55,825 INFO c.c.a.EmployeeList [main] Employee [id=104, Name=Harshi, Address=Hasan]
+2026-06-09 23:26:55,825 INFO c.c.a.EmployeeList [main] Execute the empDetailes in EmployeeList
+2026-06-09 23:26:55,825 INFO c.c.a.EmployeeList [main] Employee [id=101, Name=Shashank, Address=Davanagere]
+2026-06-09 23:26:55,826 INFO c.c.a.EmployeeList [main] Employee [id=102, Name=Harshitha, Address=Arsikere]
+2026-06-09 23:26:55,826 INFO c.c.a.EmployeeList [main] Employee [id=103, Name=Shashi, Address=Chitradurga]
+2026-06-09 23:26:55,826 INFO c.c.a.EmployeeList [main] Employee [id=104, Name=Harshi, Address=Hasan]
+2026-06-09 23:26:55,826 INFO c.c.a.EmployeeList [main] Execute the empInformation in Employee List
+2026-06-09 23:26:55,827 INFO c.c.a.EmployeeList [main] Employee [id=102, Name=Harshitha, Address=Arsikere]
+2026-06-09 23:26:55,827 INFO c.c.a.EmployeeList [main] Employee [id=104, Name=Harshi, Address=Hasan]
+2026-06-09 23:26:55,827 INFO c.c.a.EmployeeList [main] Employee [id=104, Name=Harshi, Address=Hasan]
+2026-06-09 23:26:55,827 INFO c.c.a.EmployeeList [main] Employee [id=103, Name=Shashi, Address=Chitradurga]
+2026-06-09 23:26:55,828 INFO c.c.a.EmployeeList [main] Employee [id=102, Name=Harshitha, Address=Arsikere]
+2026-06-09 23:26:55,828 INFO c.c.a.EmployeeList [main] Employee [id=101, Name=Shashank, Address=Davanagere]
+2026-06-09 23:34:19,479 INFO c.c.a.StoreElements [main] Storing ELements:[10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 110, 120]
+2026-06-09 23:37:34,385 INFO c.c.a.StoreElements [main] Storing ELements:[10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 110, 120]
+2026-06-09 23:44:19,560 INFO c.c.a.StoreElements [main] Storing ELements:[10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 110, 120]
+2026-06-09 23:44:19,567 INFO c.c.a.StoreElements [main] Reversing ELements:[120, 110, 100, 90, 80, 70, 60, 50, 40, 30, 20, 10]
+2026-06-09 23:48:39,049 INFO c.c.a.StoreElements [main] Storing ELements:[10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 110, 120]
+2026-06-09 23:48:39,054 INFO c.c.a.StoreElements [main] Reversing ELements:[120, 110, 100, 90, 80, 70, 60, 50, 40, 30, 20, 10]
+2026-06-09 23:48:57,283 INFO c.c.a.StoreElements [main] Storing ELements:[10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 110, 120]
+2026-06-09 23:50:02,713 INFO c.c.a.StoreElements [main] Storing ELements:[10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 110, 120]
+2026-06-09 23:50:10,391 INFO c.c.a.StoreElements [main] Storing ELements:[10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 110, 120]
+2026-06-09 23:51:00,260 INFO c.c.a.StoreElements [main] Storing ELements:[10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 110, 120]
+2026-06-09 23:51:00,265 INFO c.c.a.StoreElements [main] Reversing ELements:[120, 20, 30, 40, 50, 60, 70, 80, 90, 100, 110, 120]
+2026-06-09 23:52:13,622 INFO c.c.a.StoreElements [main] Storing ELements:[10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 110, 120]
+2026-06-09 23:52:13,627 INFO c.c.a.StoreElements [main] Reversing ELements:[120, 20, 30, 40, 50, 60, 70, 80, 90, 100, 110, 120]
+2026-06-09 23:52:50,803 INFO c.c.a.StoreElements [main] Storing ELements:[10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 110, 120]
+2026-06-09 23:52:50,808 INFO c.c.a.StoreElements [main] Reversing ELements:[120, 20, 30, 40, 50, 60, 70, 80, 90, 100, 110, 120]
+2026-06-09 23:52:50,809 INFO c.c.a.StoreElements [main] Reversing ELements:[120, 110, 30, 40, 50, 60, 70, 80, 90, 100, 110, 120]
+2026-06-09 23:52:50,810 INFO c.c.a.StoreElements [main] Reversing ELements:[120, 110, 100, 40, 50, 60, 70, 80, 90, 100, 110, 120]
+2026-06-09 23:52:50,810 INFO c.c.a.StoreElements [main] Reversing ELements:[120, 110, 100, 90, 50, 60, 70, 80, 90, 100, 110, 120]
+2026-06-09 23:52:50,811 INFO c.c.a.StoreElements [main] Reversing ELements:[120, 110, 100, 90, 80, 60, 70, 80, 90, 100, 110, 120]
+2026-06-09 23:52:50,811 INFO c.c.a.StoreElements [main] Reversing ELements:[120, 110, 100, 90, 80, 70, 70, 80, 90, 100, 110, 120]
+2026-06-09 23:53:35,300 INFO c.c.a.StoreElements [main] Storing ELements:[10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 110, 120]
+2026-06-09 23:53:35,306 INFO c.c.a.StoreElements [main] Reversing ELements:[120, 110, 100, 90, 80, 70, 60, 50, 40, 30, 20, 10]

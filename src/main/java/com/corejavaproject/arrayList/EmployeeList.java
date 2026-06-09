@@ -23,6 +23,8 @@ public class EmployeeList {
         return list;
 
 
+
+
     }
 
     public void setEmployee(List<Employee> list){
@@ -72,4 +74,12 @@ public class EmployeeList {
    }
 
 
+
+    public List<Institute> getCourseList() {
+        List<Institute> courseList = new ArrayList<>();
+
+        Institute institute = new Institute(101,"Python","Six Months",30000.0,"Reno","Reghu");
+        courseList.add(institute);
+        return courseList;
+    }
 }
