@@ -1,10 +1,8 @@
-2026-06-08 07:57:29,240 INFO c.c.a.Institute [main] Course Id:101
-2026-06-08 07:57:29,263 INFO c.c.a.Institute [main] Course Name:Java Development
-2026-06-08 07:57:29,264 INFO c.c.a.Institute [main] Course Duration:Six Months
-2026-06-08 07:57:29,269 INFO c.c.a.Institute [main] Course Fees:30000.0
-2026-06-08 07:57:29,270 INFO c.c.a.Institute [main] Course Manager Name:Reno
-2026-06-08 07:57:29,270 INFO c.c.a.Institute [main] Course Trainer Name:Reghu
-2026-06-08 08:19:37,618 INFO c.c.a.InstituteRunner [main] Course Informations in Institute:[com.corejavaproject.arrayList.Institute@707194ba, com.corejavaproject.arrayList.Institute@1190200a, com.corejavaproject.arrayList.Institute@6a2f6f80, com.corejavaproject.arrayList.Institute@45b4c3a9]
-2026-06-08 08:20:07,992 INFO c.c.a.InstituteRunner [main] Course Informations in Institute:com.corejavaproject.arrayList.CourseList@707194ba
-2026-06-08 08:20:31,543 INFO c.c.a.InstituteRunner [main] Course Informations in Institute:com.corejavaproject.arrayList.CourseList@75db5df9
-2026-06-08 22:33:08,738 INFO c.c.a.InstituteRunner [main] Course Informations in Institute:[Institute Course Id:101,Course Name:Java FullStack,Course Duration:SIx Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu, Institute Course Id:102,Course Name:Java core,Course Duration:Two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Raghu, Institute Course Id:103,Course Name:Java Advance,Course Duration:Two Months,Course Fees:13.5,Course Manager Name:Reno,Course Trainer:Reghu, Institute Course Id:104,Course Name:Spring Boot,Course Duration:two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Reghu]
+2026-06-09 21:44:57,795 INFO c.c.a.InstituteRunner [main] Course Informations in Institute:[Institute Course Id:101,Course Name:Java FullStack,Course Duration:SIx Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu, Institute Course Id:102,Course Name:Java core,Course Duration:Two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Raghu, Institute Course Id:103,Course Name:Java Advance,Course Duration:Two Months,Course Fees:13.5,Course Manager Name:Reno,Course Trainer:Reghu, Institute Course Id:104,Course Name:Spring Boot,Course Duration:two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Reghu]
+2026-06-09 21:57:55,579 INFO c.c.a.InstituteRunner [main] Course Informations in Institute:[Institute Course Id:101,Course Name:Java FullStack,Course Duration:SIx Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu, Institute Course Id:102,Course Name:Java core,Course Duration:Two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Raghu, Institute Course Id:103,Course Name:Java Advance,Course Duration:Two Months,Course Fees:13.5,Course Manager Name:Reno,Course Trainer:Reghu, Institute Course Id:104,Course Name:Spring Boot,Course Duration:two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Reghu]
+2026-06-09 21:59:21,278 INFO c.c.b.Employee [main] Employee Age:25
+2026-06-09 21:59:21,284 INFO c.c.b.Employee [main] Employee Name:Shashank
+2026-06-09 21:59:21,285 INFO c.c.b.Employee [main] Employee Salary:30000.0
+2026-06-09 21:59:21,287 INFO c.c.b.Employee [main] Employee Address:Niladri Nagar
+2026-06-09 21:59:21,287 INFO c.c.b.Employee [main] Address:com.corejavaproject.basics.Address@548e6d58
+2026-06-09 21:59:21,287 INFO c.c.b.Employee [main] Executing the salary details of the Employee
