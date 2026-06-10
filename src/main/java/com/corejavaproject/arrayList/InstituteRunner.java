@@ -11,6 +11,8 @@ public class InstituteRunner {
         List<Institute> list = courseList.getInstitute();
         courseList.courseList(list);
         courseList.course(list);
+        courseList.Info(list);
+        courseList.information(list);
 
 
 
