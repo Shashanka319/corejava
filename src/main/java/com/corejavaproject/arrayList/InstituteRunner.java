@@ -9,8 +9,11 @@ public class InstituteRunner {
     public static void main(String[] args) {
         CourseList courseList = new CourseList();
         List<Institute> list = courseList.getInstitute();
+        courseList.courseList(list);
+        courseList.course(list);
 
-        log.info("Course Informations in Institute:"+list);
+
+
     }
 
 }

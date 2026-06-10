@@ -1,7 +1,12 @@
 package com.corejavaproject.arrayList;
 
+import lombok.extern.log4j.Log4j2;
+import org.apache.commons.collections4.CollectionUtils;
+
 import java.util.ArrayList;
 import java.util.List;
+
+@Log4j2
 
 public class CourseList {
     public List<Institute> getInstitute(){
@@ -17,4 +22,22 @@ public class CourseList {
 
         return list;
     }
+
+    public void courseList(List<Institute> lists){
+        if(CollectionUtils.isNotEmpty(lists)){
+            log.info("Execute the courseList in Institute");
+            lists.forEach(log::info);
+
+        }
+    }
+    public void course(List<Institute>  list){
+        if(CollectionUtils.isNotEmpty(list)){
+            log.info("Execute the course Detailes in CourseList of Institute");
+            for(int i=0;i<list.size();i++){
+              log.info(list.get(i));
+
+            }
+        }
+    }
+
 }

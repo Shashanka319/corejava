@@ -1,59 +1,68 @@
-2026-06-09 21:44:57,795 INFO c.c.a.InstituteRunner [main] Course Informations in Institute:[Institute Course Id:101,Course Name:Java FullStack,Course Duration:SIx Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu, Institute Course Id:102,Course Name:Java core,Course Duration:Two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Raghu, Institute Course Id:103,Course Name:Java Advance,Course Duration:Two Months,Course Fees:13.5,Course Manager Name:Reno,Course Trainer:Reghu, Institute Course Id:104,Course Name:Spring Boot,Course Duration:two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Reghu]
-2026-06-09 21:57:55,579 INFO c.c.a.InstituteRunner [main] Course Informations in Institute:[Institute Course Id:101,Course Name:Java FullStack,Course Duration:SIx Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu, Institute Course Id:102,Course Name:Java core,Course Duration:Two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Raghu, Institute Course Id:103,Course Name:Java Advance,Course Duration:Two Months,Course Fees:13.5,Course Manager Name:Reno,Course Trainer:Reghu, Institute Course Id:104,Course Name:Spring Boot,Course Duration:two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Reghu]
-2026-06-09 21:59:21,278 INFO c.c.b.Employee [main] Employee Age:25
-2026-06-09 21:59:21,284 INFO c.c.b.Employee [main] Employee Name:Shashank
-2026-06-09 21:59:21,285 INFO c.c.b.Employee [main] Employee Salary:30000.0
-2026-06-09 21:59:21,287 INFO c.c.b.Employee [main] Employee Address:Niladri Nagar
-2026-06-09 21:59:21,287 INFO c.c.b.Employee [main] Address:com.corejavaproject.basics.Address@548e6d58
-2026-06-09 21:59:21,287 INFO c.c.b.Employee [main] Executing the salary details of the Employee
-2026-06-09 23:26:10,544 INFO c.c.b.Employee [main] Employee Age:25
-2026-06-09 23:26:10,550 INFO c.c.b.Employee [main] Employee Name:Shashank
-2026-06-09 23:26:10,551 INFO c.c.b.Employee [main] Employee Salary:30000.0
-2026-06-09 23:26:10,551 INFO c.c.b.Employee [main] Employee Address:Niladri Nagar
-2026-06-09 23:26:10,552 INFO c.c.b.Employee [main] Address:com.corejavaproject.basics.Address@548e6d58
-2026-06-09 23:26:10,552 INFO c.c.b.Employee [main] Executing the salary details of the Employee
-2026-06-09 23:26:55,813 INFO c.c.a.EmployeeRunner [main] Course Information :[Institute Course Id:101,Course Name:Python,Course Duration:Six Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu]
-2026-06-09 23:26:55,819 INFO c.c.a.EmployeeList [main] Execute the setEmployee in Employee List....
-2026-06-09 23:26:55,822 INFO c.c.a.EmployeeList [main] Employee [id=101, Name=Shashank, Address=Davanagere]
-2026-06-09 23:26:55,822 INFO c.c.a.EmployeeList [main] Employee [id=102, Name=Harshitha, Address=Arsikere]
-2026-06-09 23:26:55,823 INFO c.c.a.EmployeeList [main] Employee [id=103, Name=Shashi, Address=Chitradurga]
-2026-06-09 23:26:55,823 INFO c.c.a.EmployeeList [main] Employee [id=104, Name=Harshi, Address=Hasan]
-2026-06-09 23:26:55,824 INFO c.c.a.EmployeeList [main] Execute the empInfo in Employee List
-2026-06-09 23:26:55,824 INFO c.c.a.EmployeeList [main] Employee [id=101, Name=Shashank, Address=Davanagere]
-2026-06-09 23:26:55,824 INFO c.c.a.EmployeeList [main] Employee [id=102, Name=Harshitha, Address=Arsikere]
-2026-06-09 23:26:55,824 INFO c.c.a.EmployeeList [main] Employee [id=103, Name=Shashi, Address=Chitradurga]
-2026-06-09 23:26:55,825 INFO c.c.a.EmployeeList [main] Employee [id=104, Name=Harshi, Address=Hasan]
-2026-06-09 23:26:55,825 INFO c.c.a.EmployeeList [main] Execute the empDetailes in EmployeeList
-2026-06-09 23:26:55,825 INFO c.c.a.EmployeeList [main] Employee [id=101, Name=Shashank, Address=Davanagere]
-2026-06-09 23:26:55,826 INFO c.c.a.EmployeeList [main] Employee [id=102, Name=Harshitha, Address=Arsikere]
-2026-06-09 23:26:55,826 INFO c.c.a.EmployeeList [main] Employee [id=103, Name=Shashi, Address=Chitradurga]
-2026-06-09 23:26:55,826 INFO c.c.a.EmployeeList [main] Employee [id=104, Name=Harshi, Address=Hasan]
-2026-06-09 23:26:55,826 INFO c.c.a.EmployeeList [main] Execute the empInformation in Employee List
-2026-06-09 23:26:55,827 INFO c.c.a.EmployeeList [main] Employee [id=102, Name=Harshitha, Address=Arsikere]
-2026-06-09 23:26:55,827 INFO c.c.a.EmployeeList [main] Employee [id=104, Name=Harshi, Address=Hasan]
-2026-06-09 23:26:55,827 INFO c.c.a.EmployeeList [main] Employee [id=104, Name=Harshi, Address=Hasan]
-2026-06-09 23:26:55,827 INFO c.c.a.EmployeeList [main] Employee [id=103, Name=Shashi, Address=Chitradurga]
-2026-06-09 23:26:55,828 INFO c.c.a.EmployeeList [main] Employee [id=102, Name=Harshitha, Address=Arsikere]
-2026-06-09 23:26:55,828 INFO c.c.a.EmployeeList [main] Employee [id=101, Name=Shashank, Address=Davanagere]
-2026-06-09 23:34:19,479 INFO c.c.a.StoreElements [main] Storing ELements:[10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 110, 120]
-2026-06-09 23:37:34,385 INFO c.c.a.StoreElements [main] Storing ELements:[10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 110, 120]
-2026-06-09 23:44:19,560 INFO c.c.a.StoreElements [main] Storing ELements:[10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 110, 120]
-2026-06-09 23:44:19,567 INFO c.c.a.StoreElements [main] Reversing ELements:[120, 110, 100, 90, 80, 70, 60, 50, 40, 30, 20, 10]
-2026-06-09 23:48:39,049 INFO c.c.a.StoreElements [main] Storing ELements:[10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 110, 120]
-2026-06-09 23:48:39,054 INFO c.c.a.StoreElements [main] Reversing ELements:[120, 110, 100, 90, 80, 70, 60, 50, 40, 30, 20, 10]
-2026-06-09 23:48:57,283 INFO c.c.a.StoreElements [main] Storing ELements:[10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 110, 120]
-2026-06-09 23:50:02,713 INFO c.c.a.StoreElements [main] Storing ELements:[10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 110, 120]
-2026-06-09 23:50:10,391 INFO c.c.a.StoreElements [main] Storing ELements:[10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 110, 120]
-2026-06-09 23:51:00,260 INFO c.c.a.StoreElements [main] Storing ELements:[10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 110, 120]
-2026-06-09 23:51:00,265 INFO c.c.a.StoreElements [main] Reversing ELements:[120, 20, 30, 40, 50, 60, 70, 80, 90, 100, 110, 120]
-2026-06-09 23:52:13,622 INFO c.c.a.StoreElements [main] Storing ELements:[10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 110, 120]
-2026-06-09 23:52:13,627 INFO c.c.a.StoreElements [main] Reversing ELements:[120, 20, 30, 40, 50, 60, 70, 80, 90, 100, 110, 120]
-2026-06-09 23:52:50,803 INFO c.c.a.StoreElements [main] Storing ELements:[10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 110, 120]
-2026-06-09 23:52:50,808 INFO c.c.a.StoreElements [main] Reversing ELements:[120, 20, 30, 40, 50, 60, 70, 80, 90, 100, 110, 120]
-2026-06-09 23:52:50,809 INFO c.c.a.StoreElements [main] Reversing ELements:[120, 110, 30, 40, 50, 60, 70, 80, 90, 100, 110, 120]
-2026-06-09 23:52:50,810 INFO c.c.a.StoreElements [main] Reversing ELements:[120, 110, 100, 40, 50, 60, 70, 80, 90, 100, 110, 120]
-2026-06-09 23:52:50,810 INFO c.c.a.StoreElements [main] Reversing ELements:[120, 110, 100, 90, 50, 60, 70, 80, 90, 100, 110, 120]
-2026-06-09 23:52:50,811 INFO c.c.a.StoreElements [main] Reversing ELements:[120, 110, 100, 90, 80, 60, 70, 80, 90, 100, 110, 120]
-2026-06-09 23:52:50,811 INFO c.c.a.StoreElements [main] Reversing ELements:[120, 110, 100, 90, 80, 70, 70, 80, 90, 100, 110, 120]
-2026-06-09 23:53:35,300 INFO c.c.a.StoreElements [main] Storing ELements:[10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 110, 120]
-2026-06-09 23:53:35,306 INFO c.c.a.StoreElements [main] Reversing ELements:[120, 110, 100, 90, 80, 70, 60, 50, 40, 30, 20, 10]
+2026-06-10 11:43:10,375 INFO c.c.a.InstituteRunner [main] Course Informations in Institute:[Institute Course Id:101,Course Name:Java FullStack,Course Duration:SIx Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu, Institute Course Id:102,Course Name:Java core,Course Duration:Two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Raghu, Institute Course Id:103,Course Name:Java Advance,Course Duration:Two Months,Course Fees:13.5,Course Manager Name:Reno,Course Trainer:Reghu, Institute Course Id:104,Course Name:Spring Boot,Course Duration:two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Reghu]
+2026-06-10 11:43:51,693 INFO c.c.a.InstituteRunner [main] Course Informations in Institute:[Institute Course Id:101,Course Name:Java FullStack,Course Duration:SIx Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu, Institute Course Id:102,Course Name:Java core,Course Duration:Two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Raghu, Institute Course Id:103,Course Name:Java Advance,Course Duration:Two Months,Course Fees:13.5,Course Manager Name:Reno,Course Trainer:Reghu, Institute Course Id:104,Course Name:Spring Boot,Course Duration:two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Reghu]
+2026-06-10 11:48:25,848 INFO c.c.a.EmployeeList [main] Execute the setEmployee in Employee List....
+2026-06-10 11:48:25,858 INFO c.c.a.EmployeeList [main] Employee [id=101, Name=Shashank, Address=Davanagere]
+2026-06-10 11:48:25,859 INFO c.c.a.EmployeeList [main] Employee [id=102, Name=Harshitha, Address=Arsikere]
+2026-06-10 11:48:25,860 INFO c.c.a.EmployeeList [main] Employee [id=103, Name=Shashi, Address=Chitradurga]
+2026-06-10 11:48:25,861 INFO c.c.a.EmployeeList [main] Employee [id=104, Name=Harshi, Address=Hasan]
+2026-06-10 11:49:23,157 INFO c.c.a.EmployeeList [main] Execute the setEmployee in Employee List....
+2026-06-10 11:49:23,166 INFO c.c.a.EmployeeList [main] Employee [id=101, Name=Shashank, Address=Davanagere]
+2026-06-10 11:49:23,168 INFO c.c.a.EmployeeList [main] Employee [id=102, Name=Harshitha, Address=Arsikere]
+2026-06-10 11:49:23,168 INFO c.c.a.EmployeeList [main] Employee [id=103, Name=Shashi, Address=Chitradurga]
+2026-06-10 11:49:23,169 INFO c.c.a.EmployeeList [main] Employee [id=104, Name=Harshi, Address=Hasan]
+2026-06-10 11:49:23,170 INFO c.c.a.EmployeeList [main] Execute the empInfo in Employee List
+2026-06-10 11:49:23,171 INFO c.c.a.EmployeeList [main] Employee [id=101, Name=Shashank, Address=Davanagere]
+2026-06-10 11:49:23,171 INFO c.c.a.EmployeeList [main] Employee [id=102, Name=Harshitha, Address=Arsikere]
+2026-06-10 11:49:23,173 INFO c.c.a.EmployeeList [main] Employee [id=103, Name=Shashi, Address=Chitradurga]
+2026-06-10 11:49:23,173 INFO c.c.a.EmployeeList [main] Employee [id=104, Name=Harshi, Address=Hasan]
+2026-06-10 11:49:23,173 INFO c.c.a.EmployeeList [main] Execute the empDetailes in EmployeeList
+2026-06-10 11:49:23,174 INFO c.c.a.EmployeeList [main] Employee [id=101, Name=Shashank, Address=Davanagere]
+2026-06-10 11:49:23,174 INFO c.c.a.EmployeeList [main] Employee [id=102, Name=Harshitha, Address=Arsikere]
+2026-06-10 11:49:23,175 INFO c.c.a.EmployeeList [main] Employee [id=103, Name=Shashi, Address=Chitradurga]
+2026-06-10 11:49:23,176 INFO c.c.a.EmployeeList [main] Employee [id=104, Name=Harshi, Address=Hasan]
+2026-06-10 11:49:23,177 INFO c.c.a.EmployeeList [main] Execute the empInformation in Employee List
+2026-06-10 11:49:23,178 INFO c.c.a.EmployeeList [main] Employee [id=102, Name=Harshitha, Address=Arsikere]
+2026-06-10 11:49:23,179 INFO c.c.a.EmployeeList [main] Employee [id=104, Name=Harshi, Address=Hasan]
+2026-06-10 11:49:23,179 INFO c.c.a.EmployeeList [main] Employee [id=104, Name=Harshi, Address=Hasan]
+2026-06-10 11:49:23,179 INFO c.c.a.EmployeeList [main] Employee [id=103, Name=Shashi, Address=Chitradurga]
+2026-06-10 11:49:23,180 INFO c.c.a.EmployeeList [main] Employee [id=102, Name=Harshitha, Address=Arsikere]
+2026-06-10 11:49:23,180 INFO c.c.a.EmployeeList [main] Employee [id=101, Name=Shashank, Address=Davanagere]
+2026-06-10 11:52:28,131 INFO c.c.a.InstituteRunner [main] Course Information:com.corejavaproject.arrayList.CourseList@5b94b04d
+2026-06-10 11:53:11,086 INFO c.c.a.InstituteRunner [main] Course Information:com.corejavaproject.arrayList.CourseList@5b94b04d
+2026-06-10 11:56:19,031 INFO c.c.a.EmployeeList [main] Execute the setEmployee in Employee List....
+2026-06-10 11:56:19,038 INFO c.c.a.EmployeeList [main] Employee [id=101, Name=Shashank, Address=Davanagere]
+2026-06-10 11:56:19,039 INFO c.c.a.EmployeeList [main] Employee [id=102, Name=Harshitha, Address=Arsikere]
+2026-06-10 11:56:19,039 INFO c.c.a.EmployeeList [main] Employee [id=103, Name=Shashi, Address=Chitradurga]
+2026-06-10 11:56:19,039 INFO c.c.a.EmployeeList [main] Employee [id=104, Name=Harshi, Address=Hasan]
+2026-06-10 11:56:19,040 INFO c.c.a.EmployeeList [main] Execute the empInfo in Employee List
+2026-06-10 11:56:19,040 INFO c.c.a.EmployeeList [main] Employee [id=101, Name=Shashank, Address=Davanagere]
+2026-06-10 11:56:19,040 INFO c.c.a.EmployeeList [main] Employee [id=102, Name=Harshitha, Address=Arsikere]
+2026-06-10 11:56:19,041 INFO c.c.a.EmployeeList [main] Employee [id=103, Name=Shashi, Address=Chitradurga]
+2026-06-10 11:56:19,041 INFO c.c.a.EmployeeList [main] Employee [id=104, Name=Harshi, Address=Hasan]
+2026-06-10 11:56:19,041 INFO c.c.a.EmployeeList [main] Execute the empDetailes in EmployeeList
+2026-06-10 11:56:19,042 INFO c.c.a.EmployeeList [main] Employee [id=101, Name=Shashank, Address=Davanagere]
+2026-06-10 11:56:19,042 INFO c.c.a.EmployeeList [main] Employee [id=102, Name=Harshitha, Address=Arsikere]
+2026-06-10 11:56:19,042 INFO c.c.a.EmployeeList [main] Employee [id=103, Name=Shashi, Address=Chitradurga]
+2026-06-10 11:56:19,042 INFO c.c.a.EmployeeList [main] Employee [id=104, Name=Harshi, Address=Hasan]
+2026-06-10 11:56:19,043 INFO c.c.a.EmployeeList [main] Execute the empInformation in Employee List
+2026-06-10 11:56:19,043 INFO c.c.a.EmployeeList [main] Employee [id=102, Name=Harshitha, Address=Arsikere]
+2026-06-10 11:56:19,043 INFO c.c.a.EmployeeList [main] Employee [id=104, Name=Harshi, Address=Hasan]
+2026-06-10 11:56:19,044 INFO c.c.a.EmployeeList [main] Employee [id=104, Name=Harshi, Address=Hasan]
+2026-06-10 11:56:19,044 INFO c.c.a.EmployeeList [main] Employee [id=103, Name=Shashi, Address=Chitradurga]
+2026-06-10 11:56:19,044 INFO c.c.a.EmployeeList [main] Employee [id=102, Name=Harshitha, Address=Arsikere]
+2026-06-10 11:56:19,044 INFO c.c.a.EmployeeList [main] Employee [id=101, Name=Shashank, Address=Davanagere]
+2026-06-10 11:56:41,014 INFO c.c.a.CourseList [main] Execute the courseList in Institute
+2026-06-10 11:56:41,023 INFO j.u.ArrayList [main] Institute Course Id:101,Course Name:Java FullStack,Course Duration:SIx Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-10 11:56:41,024 INFO j.u.ArrayList [main] Institute Course Id:102,Course Name:Java core,Course Duration:Two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Raghu
+2026-06-10 11:56:41,024 INFO j.u.ArrayList [main] Institute Course Id:103,Course Name:Java Advance,Course Duration:Two Months,Course Fees:13.5,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-10 11:56:41,024 INFO j.u.ArrayList [main] Institute Course Id:104,Course Name:Spring Boot,Course Duration:two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-10 12:17:41,654 INFO c.c.a.CourseList [main] Execute the courseList in Institute
+2026-06-10 12:17:41,673 INFO j.u.ArrayList [main] Institute Course Id:101,Course Name:Java FullStack,Course Duration:SIx Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-10 12:17:41,676 INFO j.u.ArrayList [main] Institute Course Id:102,Course Name:Java core,Course Duration:Two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Raghu
+2026-06-10 12:17:41,678 INFO j.u.ArrayList [main] Institute Course Id:103,Course Name:Java Advance,Course Duration:Two Months,Course Fees:13.5,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-10 12:17:41,679 INFO j.u.ArrayList [main] Institute Course Id:104,Course Name:Spring Boot,Course Duration:two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-10 12:17:41,680 INFO c.c.a.CourseList [main] Execute the course Detailes in CourseList of Institute
+2026-06-10 12:17:41,680 INFO c.c.a.CourseList [main] Institute Course Id:101,Course Name:Java FullStack,Course Duration:SIx Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-10 12:17:41,681 INFO c.c.a.CourseList [main] Institute Course Id:102,Course Name:Java core,Course Duration:Two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Raghu
+2026-06-10 12:17:41,681 INFO c.c.a.CourseList [main] Institute Course Id:103,Course Name:Java Advance,Course Duration:Two Months,Course Fees:13.5,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-10 12:17:41,682 INFO c.c.a.CourseList [main] Institute Course Id:104,Course Name:Spring Boot,Course Duration:two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Reghu

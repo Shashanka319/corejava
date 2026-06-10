@@ -10,10 +10,6 @@ public class EmployeeRunner {
         EmployeeList employeeList = new EmployeeList();
         List<Employee> list =employeeList.getEmployee();
 
-        List<Institute> instituteList = employeeList.getCourseList();
-
-        log.info("Course Information :"+instituteList);
-
         employeeList.setEmployee(list);
         employeeList.empInfo(list);
         employeeList.empDetailes(list);
