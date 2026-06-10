@@ -11,7 +11,7 @@ public class Address {
         this.address=address;
 
     }
-    public void info(){
+    public void inforssss(){
         log.info("Name:"+this.name);
         log.info("Address:"+ this.address);
     }

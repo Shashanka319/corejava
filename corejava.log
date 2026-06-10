@@ -285,3 +285,218 @@
 2026-06-10 12:40:41,946 INFO c.c.a.CourseList [main] Institute Course Id:103,Course Name:Java Advance,Course Duration:Two Months,Course Fees:13.5,Course Manager Name:Reno,Course Trainer:Reghu
 2026-06-10 12:40:41,946 INFO c.c.a.CourseList [main] Institute Course Id:102,Course Name:Java core,Course Duration:Two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Raghu
 2026-06-10 12:40:41,946 INFO c.c.a.CourseList [main] Institute Course Id:101,Course Name:Java FullStack,Course Duration:SIx Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-10 14:17:27,451 INFO c.c.a.Branches [main] getBranches are Executing in Branches...
+2026-06-10 14:17:27,459 INFO c.c.a.Branches [main] College Name:Gpovernmenet Engineering College Challakere
+2026-06-10 14:17:27,459 INFO c.c.a.Branches [main] No of Branches:3
+2026-06-10 14:17:46,447 INFO c.c.a.Branches [main] getBranches are Executing in Branches...
+2026-06-10 14:17:46,456 INFO c.c.a.Branches [main] College Name:Gpovernmenet Engineering College Challakere
+2026-06-10 14:17:46,457 INFO c.c.a.Branches [main] No of Branches:3
+2026-06-10 14:19:10,069 INFO c.c.a.Branches [main] getBranches are Executing in Branches...
+2026-06-10 14:19:10,078 INFO c.c.a.Branches [main] College Name:Gpovernmenet Engineering College Challakere
+2026-06-10 14:19:10,079 INFO c.c.a.Branches [main] No of Branches:3
+2026-06-10 14:19:10,082 INFO c.c.a.EngineeringCollege [main] College Name:Govenment Engineering College Challakere
+2026-06-10 14:19:10,082 INFO c.c.a.EngineeringCollege [main] No of Staff:10
+2026-06-10 14:19:10,083 INFO c.c.a.EngineeringCollege [main] Principal Name:Mahagundappa
+2026-06-10 14:19:10,083 INFO c.c.a.EngineeringCollege [main] Branches:com.corejavaproject.arrayList.Branches@313b2ea6
+2026-06-10 14:19:43,854 INFO c.c.a.Branches [main] getBranches are Executing in Branches...
+2026-06-10 14:19:43,862 INFO c.c.a.Branches [main] College Name:Gpovernmenet Engineering College Challakere
+2026-06-10 14:19:43,863 INFO c.c.a.Branches [main] No of Branches:3
+2026-06-10 14:19:43,865 INFO c.c.a.EngineeringCollege [main] College Name:Govenment Engineering College Challakere
+2026-06-10 14:19:43,865 INFO c.c.a.EngineeringCollege [main] No of Staff:10
+2026-06-10 14:19:43,865 INFO c.c.a.EngineeringCollege [main] Principal Name:Mahagundappa
+2026-06-10 14:19:43,866 INFO c.c.a.EngineeringCollege [main] Branches:com.corejavaproject.arrayList.Branches@313b2ea6
+2026-06-10 14:26:32,178 INFO c.c.a.Branches [main] getBranches are Executing in Branches...
+2026-06-10 14:26:32,189 INFO c.c.a.Branches [main] No of Branches:3
+2026-06-10 14:26:32,191 INFO c.c.a.EngineeringCollege [main] College Name:Govenment Engineering College Challakere
+2026-06-10 14:26:32,193 INFO c.c.a.EngineeringCollege [main] No of Staff:10
+2026-06-10 14:26:32,193 INFO c.c.a.EngineeringCollege [main] Principal Name:Mahagundappa
+2026-06-10 14:26:32,194 INFO c.c.a.EngineeringCollege [main] Branches:com.corejavaproject.arrayList.Branches@313b2ea6
+2026-06-10 14:27:58,062 INFO c.c.a.EngineeringCollege [main] College Name:Govenment Engineering College Challakere
+2026-06-10 14:27:58,071 INFO c.c.a.EngineeringCollege [main] No of Staff:10
+2026-06-10 14:27:58,072 INFO c.c.a.EngineeringCollege [main] Principal Name:Mahagundappa
+2026-06-10 14:27:58,073 INFO c.c.a.EngineeringCollege [main] Branches:com.corejavaproject.arrayList.Branches@313b2ea6
+2026-06-10 14:29:19,798 INFO c.c.a.EngineeringCollege [main] College Name:Govenment Engineering College Challakere
+2026-06-10 14:29:19,806 INFO c.c.a.EngineeringCollege [main] No of Staff:10
+2026-06-10 14:29:19,807 INFO c.c.a.EngineeringCollege [main] Principal Name:Mahagundappa
+2026-06-10 14:29:19,809 INFO c.c.a.EngineeringCollege [main] Branches:Branches:3
+2026-06-10 14:30:36,198 INFO c.c.a.Branches [main] getBranches are Executing in Branches...
+2026-06-10 14:30:36,211 INFO c.c.a.Branches [main] No of Branches:3
+2026-06-10 14:30:36,213 INFO c.c.a.EngineeringCollege [main] College Name:Govenment Engineering College Challakere
+2026-06-10 14:30:36,215 INFO c.c.a.EngineeringCollege [main] No of Staff:10
+2026-06-10 14:30:36,217 INFO c.c.a.EngineeringCollege [main] Principal Name:Mahagundappa
+2026-06-10 14:30:36,218 INFO c.c.a.EngineeringCollege [main] Branches:Branches:3
+2026-06-10 14:31:04,444 INFO c.c.a.EngineeringCollege [main] College Name:Govenment Engineering College Challakere
+2026-06-10 14:31:04,454 INFO c.c.a.EngineeringCollege [main] No of Staff:10
+2026-06-10 14:31:04,455 INFO c.c.a.EngineeringCollege [main] Principal Name:Mahagundappa
+2026-06-10 14:31:04,457 INFO c.c.a.EngineeringCollege [main] Branches:Branches:3
+2026-06-10 14:31:04,458 INFO c.c.a.Branches [main] getBranches are Executing in Branches...
+2026-06-10 14:31:04,459 INFO c.c.a.Branches [main] No of Branches:3
+2026-06-10 14:33:33,718 INFO c.c.b.Employee [main] Employee Age:25
+2026-06-10 14:33:33,728 INFO c.c.b.Employee [main] Employee Name:Shashank
+2026-06-10 14:33:33,731 INFO c.c.b.Employee [main] Employee Salary:30000.0
+2026-06-10 14:33:33,734 INFO c.c.b.Employee [main] Employee Address:Niladri Nagar
+2026-06-10 14:33:33,735 INFO c.c.b.Employee [main] Address:com.corejavaproject.basics.Address@548e6d58
+2026-06-10 14:33:33,735 INFO c.c.b.Employee [main] Executing the salary details of the Employee
+2026-06-10 14:34:41,522 INFO c.c.b.Employee [main] Employee Age:25
+2026-06-10 14:34:41,531 INFO c.c.b.Employee [main] Employee Name:Shashank
+2026-06-10 14:34:41,532 INFO c.c.b.Employee [main] Employee Salary:30000.0
+2026-06-10 14:34:41,533 INFO c.c.b.Employee [main] Employee Address:Niladri Nagar
+2026-06-10 14:34:41,533 INFO c.c.b.Employee [main] Address:com.corejavaproject.basics.Address@548e6d58
+2026-06-10 14:34:41,534 INFO c.c.b.Employee [main] Executing the salary details of the Employee
+2026-06-10 14:40:21,287 INFO c.c.a.ArrayListExp [main] [Badminton, Cricket, Football, Volleyball]
+2026-06-10 14:40:21,301 INFO j.u.ArrayList [main] Badminton
+2026-06-10 14:40:21,302 INFO j.u.ArrayList [main] Cricket
+2026-06-10 14:40:21,303 INFO j.u.ArrayList [main] Football
+2026-06-10 14:40:21,304 INFO j.u.ArrayList [main] Volleyball
+2026-06-10 14:40:47,617 INFO c.c.a.ArrayListExp [main] [Badminton, Cricket, Football, Volleyball]
+2026-06-10 14:41:12,720 INFO c.c.a.ArrayListExp [main] [Badminton, Cricket, Football, Volleyball]
+2026-06-10 14:41:12,736 INFO j.u.ArrayList [main] Badminton
+2026-06-10 14:41:12,738 INFO j.u.ArrayList [main] Cricket
+2026-06-10 14:41:12,739 INFO j.u.ArrayList [main] Football
+2026-06-10 14:41:12,739 INFO j.u.ArrayList [main] Volleyball
+2026-06-10 14:42:10,646 INFO c.c.a.EngineeringCollege [main] College Name:Govenment Engineering College Challakere
+2026-06-10 14:42:10,654 INFO c.c.a.EngineeringCollege [main] No of Staff:10
+2026-06-10 14:42:10,655 INFO c.c.a.EngineeringCollege [main] Principal Name:Mahagundappa
+2026-06-10 14:42:10,656 INFO c.c.a.EngineeringCollege [main] Branches:Branches:3
+2026-06-10 14:42:25,091 INFO c.c.a.EngineeringCollege [main] College Name:Govenment Engineering College Challakere
+2026-06-10 14:42:25,100 INFO c.c.a.EngineeringCollege [main] No of Staff:10
+2026-06-10 14:42:25,101 INFO c.c.a.EngineeringCollege [main] Principal Name:Mahagundappa
+2026-06-10 14:42:25,102 INFO c.c.a.EngineeringCollege [main] Branches:Branches:3
+2026-06-10 14:44:34,148 INFO c.c.a.Branches [main] getBranches are Executing in Branches...
+2026-06-10 14:44:34,157 INFO c.c.a.Branches [main] No of Branches:3
+2026-06-10 14:44:34,160 INFO c.c.a.EngineeringCollege [main] College Name:Govenment Engineering College Challakere
+2026-06-10 14:44:34,161 INFO c.c.a.EngineeringCollege [main] No of Staff:10
+2026-06-10 14:44:34,161 INFO c.c.a.EngineeringCollege [main] Principal Name:Mahagundappa
+2026-06-10 14:44:34,162 INFO c.c.a.EngineeringCollege [main] Branches:Branches:3
+2026-06-10 14:45:33,083 INFO c.c.a.Branches [main] getBranches are Executing in Branches...
+2026-06-10 14:45:33,093 INFO c.c.a.Branches [main] No of Branches:3
+2026-06-10 14:46:10,491 INFO c.c.a.ArrayListExp [main] [Badminton, Cricket, Football, Volleyball]
+2026-06-10 14:48:02,236 INFO c.c.a.Branches [main] getBranches are Executing in Branches...
+2026-06-10 14:53:03,708 INFO c.c.a.ArrayListExp [main] [Badminton, Cricket, Football, Volleyball]
+2026-06-10 14:53:03,725 INFO j.u.ArrayList [main] Badminton
+2026-06-10 14:53:03,726 INFO j.u.ArrayList [main] Cricket
+2026-06-10 14:53:03,726 INFO j.u.ArrayList [main] Football
+2026-06-10 14:53:03,727 INFO j.u.ArrayList [main] Volleyball
+2026-06-10 14:54:35,856 INFO c.c.a.Branches [main] [Compute Science and Engineering, Artificial Intelligence and Engineering, Auto Mobile Engineering]
+2026-06-10 14:55:07,147 INFO c.c.a.ArrayListExp [main] [Badminton, Cricket, Football, Volleyball]
+2026-06-10 14:55:07,158 INFO j.u.ArrayList [main] Badminton
+2026-06-10 14:55:07,159 INFO j.u.ArrayList [main] Cricket
+2026-06-10 14:55:07,160 INFO j.u.ArrayList [main] Football
+2026-06-10 14:55:07,161 INFO j.u.ArrayList [main] Volleyball
+2026-06-10 14:55:21,780 INFO c.c.a.ArrayListExp [main] [Badminton, Cricket, Football, Volleyball]
+2026-06-10 14:55:21,792 INFO j.u.ArrayList [main] Badminton
+2026-06-10 14:55:21,793 INFO j.u.ArrayList [main] Cricket
+2026-06-10 14:55:21,794 INFO j.u.ArrayList [main] Football
+2026-06-10 14:55:21,795 INFO j.u.ArrayList [main] Volleyball
+2026-06-10 14:55:37,801 INFO c.c.a.ArrayListExp [main] [Badminton, Cricket, Football, Volleyball]
+2026-06-10 14:55:37,813 INFO j.u.ArrayList [main] Badminton
+2026-06-10 14:55:37,814 INFO j.u.ArrayList [main] Cricket
+2026-06-10 14:55:37,816 INFO j.u.ArrayList [main] Football
+2026-06-10 14:55:37,817 INFO j.u.ArrayList [main] Volleyball
+2026-06-10 14:55:46,351 INFO c.c.a.Branches [main] [Compute Science and Engineering, Artificial Intelligence and Engineering, Auto Mobile Engineering]
+2026-06-10 14:57:04,689 INFO c.c.a.Branches [main] [Compute Science and Engineering, Artificial Intelligence and Engineering, Auto Mobile Engineering]
+2026-06-10 14:57:51,774 INFO c.c.a.Branches [main] [Compute Science and Engineering, Artificial Intelligence and Engineering, Auto Mobile Engineering]
+2026-06-10 14:57:51,785 INFO c.c.a.EngineeringCollege [main] College Name:Government Engineering College Challakere
+2026-06-10 14:57:51,787 INFO c.c.a.EngineeringCollege [main] No of Staff:12
+2026-06-10 14:57:51,788 INFO c.c.a.EngineeringCollege [main] Principal Name:MahaGundappa
+2026-06-10 14:57:51,789 INFO c.c.a.EngineeringCollege [main] Branches:com.corejavaproject.arrayList.Branches@623a8092
+2026-06-10 14:58:21,636 INFO c.c.a.Branches [main] [Compute Science and Engineering, Artificial Intelligence and Engineering, Auto Mobile Engineering]
+2026-06-10 14:58:21,648 INFO c.c.a.EngineeringCollege [main] College Name:Government Engineering College Challakere
+2026-06-10 14:58:21,648 INFO c.c.a.EngineeringCollege [main] No of Staff:12
+2026-06-10 14:58:21,650 INFO c.c.a.EngineeringCollege [main] Principal Name:MahaGundappa
+2026-06-10 14:58:21,650 INFO c.c.a.EngineeringCollege [main] Branches:com.corejavaproject.arrayList.Branches@313b2ea6
+2026-06-10 14:58:34,023 INFO c.c.a.Branches [main] [Compute Science and Engineering, Artificial Intelligence and Engineering, Auto Mobile Engineering]
+2026-06-10 14:58:34,037 INFO c.c.a.EngineeringCollege [main] College Name:Government Engineering College Challakere
+2026-06-10 14:58:34,038 INFO c.c.a.EngineeringCollege [main] No of Staff:12
+2026-06-10 14:58:34,040 INFO c.c.a.EngineeringCollege [main] Principal Name:MahaGundappa
+2026-06-10 14:58:34,040 INFO c.c.a.EngineeringCollege [main] Branches:com.corejavaproject.arrayList.Branches@313b2ea6
+2026-06-10 14:59:39,064 INFO c.c.a.Branches [main] [Compute Science and Engineering, Artificial Intelligence and Engineering, Auto Mobile Engineering]
+2026-06-10 14:59:39,076 INFO c.c.a.EngineeringCollege [main] College Name:Government Engineering College Challakere
+2026-06-10 14:59:39,076 INFO c.c.a.EngineeringCollege [main] No of Staff:12
+2026-06-10 14:59:39,078 INFO c.c.a.EngineeringCollege [main] Principal Name:MahaGundappa
+2026-06-10 14:59:39,079 INFO c.c.a.EngineeringCollege [main] Branches:com.corejavaproject.arrayList.Branches@313b2ea6
+2026-06-10 15:00:24,956 INFO c.c.a.EngineeringCollege [main] College Name:Government Engineering College Challakere
+2026-06-10 15:00:24,966 INFO c.c.a.EngineeringCollege [main] No of Staff:12
+2026-06-10 15:00:24,966 INFO c.c.a.EngineeringCollege [main] Principal Name:MahaGundappa
+2026-06-10 15:00:24,968 INFO c.c.a.EngineeringCollege [main] Branches:com.corejavaproject.arrayList.Branches@313b2ea6
+2026-06-10 15:00:24,969 INFO c.c.a.Branches [main] [Compute Science and Engineering, Artificial Intelligence and Engineering, Auto Mobile Engineering]
+2026-06-10 15:01:26,580 INFO c.c.a.EngineeringCollege [main] College Name:Government Engineering College Challakere
+2026-06-10 15:01:26,593 INFO c.c.a.EngineeringCollege [main] No of Staff:12
+2026-06-10 15:01:26,595 INFO c.c.a.EngineeringCollege [main] Principal Name:MahaGundappa
+2026-06-10 15:01:26,596 INFO c.c.a.EngineeringCollege [main] Branches:com.corejavaproject.arrayList.Branches@313b2ea6
+2026-06-10 15:01:26,598 INFO c.c.a.Branches [main] [Compute Science and Engineering, Artificial Intelligence and Engineering, Auto Mobile Engineering]
+2026-06-10 15:04:06,925 INFO c.c.a.EngineeringCollege [main] College Name:Government Engineering College Challakere
+2026-06-10 15:04:06,934 INFO c.c.a.EngineeringCollege [main] No of Staff:12
+2026-06-10 15:04:06,934 INFO c.c.a.EngineeringCollege [main] Principal Name:MahaGundappa
+2026-06-10 15:04:06,935 INFO c.c.a.EngineeringCollege [main] Branches:com.corejavaproject.arrayList.Branches@313b2ea6
+2026-06-10 15:04:06,936 INFO c.c.a.Branches [main] [Compute Science and Engineering, Artificial Intelligence and Engineering, Auto Mobile Engineering]
+2026-06-10 15:07:15,675 INFO c.c.a.EngineeringCollege [main] College Name:Government Engineering College Challakere
+2026-06-10 15:07:15,684 INFO c.c.a.EngineeringCollege [main] No of Staff:12
+2026-06-10 15:07:15,685 INFO c.c.a.EngineeringCollege [main] Principal Name:MahaGundappa
+2026-06-10 15:07:15,686 INFO c.c.a.Branches [main] [Compute Science and Engineering, Artificial Intelligence and Engineering, Auto Mobile Engineering]
+2026-06-10 15:07:15,687 INFO c.c.a.EngineeringCollege [main] Branches:[Compute Science and Engineering, Artificial Intelligence and Engineering, Auto Mobile Engineering]
+2026-06-10 15:07:15,688 INFO c.c.a.Branches [main] [Compute Science and Engineering, Artificial Intelligence and Engineering, Auto Mobile Engineering]
+2026-06-10 15:07:54,500 INFO c.c.a.EngineeringCollege [main] College Name:Government Engineering College Challakere
+2026-06-10 15:07:54,510 INFO c.c.a.EngineeringCollege [main] No of Staff:12
+2026-06-10 15:07:54,510 INFO c.c.a.EngineeringCollege [main] Principal Name:MahaGundappa
+2026-06-10 15:07:54,511 INFO c.c.a.Branches [main] [Compute Science and Engineering, Artificial Intelligence and Engineering, Auto Mobile Engineering]
+2026-06-10 15:07:54,513 INFO c.c.a.EngineeringCollege [main] Branches:[Compute Science and Engineering, Artificial Intelligence and Engineering, Auto Mobile Engineering]
+2026-06-10 15:08:52,382 INFO c.c.a.EngineeringCollege [main] College Name:Government Engineering College Challakere
+2026-06-10 15:08:52,392 INFO c.c.a.EngineeringCollege [main] No of Staff:12
+2026-06-10 15:08:52,393 INFO c.c.a.EngineeringCollege [main] Principal Name:MahaGundappa
+2026-06-10 15:08:52,394 INFO c.c.a.Branches [main] [Compute Science and Engineering, Artificial Intelligence and Engineering, Auto Mobile Engineering]
+2026-06-10 15:08:52,395 INFO c.c.a.EngineeringCollege [main] Branches:[Compute Science and Engineering, Artificial Intelligence and Engineering, Auto Mobile Engineering]
+2026-06-10 15:09:34,156 INFO c.c.a.EngineeringCollege [main] College Name:Government Engineering College Challakere
+2026-06-10 15:09:34,166 INFO c.c.a.EngineeringCollege [main] No of Staff:12
+2026-06-10 15:09:34,166 INFO c.c.a.EngineeringCollege [main] Principal Name:MahaGundappa
+2026-06-10 15:09:34,168 INFO c.c.a.EngineeringCollege [main] Branches:com.corejavaproject.arrayList.Branches@313b2ea6
+2026-06-10 15:09:49,993 INFO c.c.a.EngineeringCollege [main] College Name:Government Engineering College Challakere
+2026-06-10 15:09:50,005 INFO c.c.a.EngineeringCollege [main] No of Staff:12
+2026-06-10 15:09:50,006 INFO c.c.a.EngineeringCollege [main] Principal Name:MahaGundappa
+2026-06-10 15:09:50,009 INFO c.c.a.Branches [main] [Compute Science and Engineering, Artificial Intelligence and Engineering, Auto Mobile Engineering]
+2026-06-10 15:09:50,011 INFO c.c.a.EngineeringCollege [main] Branches:[Compute Science and Engineering, Artificial Intelligence and Engineering, Auto Mobile Engineering]
+2026-06-10 15:10:06,266 INFO c.c.a.EngineeringCollege [main] College Name:Government Engineering College Challakere
+2026-06-10 15:10:06,279 INFO c.c.a.EngineeringCollege [main] No of Staff:12
+2026-06-10 15:10:06,280 INFO c.c.a.EngineeringCollege [main] Principal Name:MahaGundappa
+2026-06-10 15:10:37,886 INFO c.c.a.EngineeringCollege [main] College Name:Government Engineering College Challakere
+2026-06-10 15:10:37,894 INFO c.c.a.EngineeringCollege [main] No of Staff:12
+2026-06-10 15:10:37,895 INFO c.c.a.EngineeringCollege [main] Principal Name:MahaGundappa
+2026-06-10 15:10:37,895 INFO c.c.a.Branches [main] [Compute Science and Engineering, Artificial Intelligence and Engineering, Auto Mobile Engineering]
+2026-06-10 15:10:37,895 INFO c.c.a.EngineeringCollege [main] Branches:[Compute Science and Engineering, Artificial Intelligence and Engineering, Auto Mobile Engineering]
+2026-06-10 15:11:09,558 INFO c.c.a.EngineeringCollege [main] College Name:Government Engineering College Challakere
+2026-06-10 15:11:09,566 INFO c.c.a.EngineeringCollege [main] No of Staff:12
+2026-06-10 15:11:09,567 INFO c.c.a.EngineeringCollege [main] Principal Name:MahaGundappa
+2026-06-10 15:11:09,568 INFO c.c.a.Branches [main] [Compute Science and Engineering, Artificial Intelligence and Engineering, Auto Mobile Engineering]
+2026-06-10 15:11:09,569 INFO c.c.a.EngineeringCollege [main] Branches:[Compute Science and Engineering, Artificial Intelligence and Engineering, Auto Mobile Engineering]
+2026-06-10 15:11:09,570 INFO c.c.a.Branches [main] [Compute Science and Engineering, Artificial Intelligence and Engineering, Auto Mobile Engineering]
+2026-06-10 15:11:25,996 INFO c.c.a.EngineeringCollege [main] College Name:Government Engineering College Challakere
+2026-06-10 15:11:26,004 INFO c.c.a.EngineeringCollege [main] No of Staff:12
+2026-06-10 15:11:26,006 INFO c.c.a.EngineeringCollege [main] Principal Name:MahaGundappa
+2026-06-10 15:11:26,007 INFO c.c.a.Branches [main] [Compute Science and Engineering, Artificial Intelligence and Engineering, Auto Mobile Engineering]
+2026-06-10 15:11:26,008 INFO c.c.a.EngineeringCollege [main] Branches:[Compute Science and Engineering, Artificial Intelligence and Engineering, Auto Mobile Engineering]
+2026-06-10 15:12:23,289 INFO c.c.a.EngineeringCollege [main] College Name:Government Engineering College Challakere
+2026-06-10 15:12:23,298 INFO c.c.a.EngineeringCollege [main] No of Staff:12
+2026-06-10 15:12:23,298 INFO c.c.a.EngineeringCollege [main] Principal Name:MahaGundappa
+2026-06-10 15:12:23,299 INFO c.c.a.Branches [main] Executing the get Branches in Branchges of College
+2026-06-10 15:12:23,300 INFO c.c.a.Branches [main] [Compute Science and Engineering, Artificial Intelligence and Engineering, Auto Mobile Engineering]
+2026-06-10 15:12:23,300 INFO c.c.a.EngineeringCollege [main] Branches:[Compute Science and Engineering, Artificial Intelligence and Engineering, Auto Mobile Engineering]
+2026-06-10 15:14:30,931 INFO c.c.b.Employee [main] Employee Age:25
+2026-06-10 15:14:30,940 INFO c.c.b.Employee [main] Employee Name:Shashank
+2026-06-10 15:14:30,942 INFO c.c.b.Employee [main] Employee Salary:30000.0
+2026-06-10 15:14:30,943 INFO c.c.b.Employee [main] Employee Address:Niladri Nagar
+2026-06-10 15:14:30,944 INFO c.c.b.Employee [main] Address:com.corejavaproject.basics.Address@548e6d58
+2026-06-10 15:14:30,944 INFO c.c.b.Employee [main] Executing the salary details of the Employee
+2026-06-10 15:15:17,172 INFO c.c.b.Employee [main] Employee Age:25
+2026-06-10 15:15:17,181 INFO c.c.b.Employee [main] Employee Name:Shashank
+2026-06-10 15:15:17,183 INFO c.c.b.Employee [main] Employee Salary:30000.0
+2026-06-10 15:15:17,184 INFO c.c.b.Employee [main] Employee Address:Niladri Nagar
+2026-06-10 15:15:17,184 INFO c.c.b.Employee [main] Address:com.corejavaproject.basics.Address@548e6d58
+2026-06-10 15:15:17,185 INFO c.c.b.Employee [main] Executing the salary details of the Employee
+2026-06-10 15:15:32,353 INFO c.c.a.Branches [main] Executing the get Branches in Branchges of College
+2026-06-10 15:15:32,365 INFO c.c.a.Branches [main] [Compute Science and Engineering, Artificial Intelligence and Engineering, Auto Mobile Engineering]
+2026-06-10 15:15:32,367 INFO c.c.a.EngineeringCollege [main] College Name:Government Engineering College Challakere
+2026-06-10 15:15:32,369 INFO c.c.a.EngineeringCollege [main] No of Staff:12
+2026-06-10 15:15:32,369 INFO c.c.a.EngineeringCollege [main] Principal Name:MahaGundappa
+2026-06-10 15:15:32,370 INFO c.c.a.Branches [main] Executing the get Branches in Branchges of College
+2026-06-10 15:15:32,370 INFO c.c.a.Branches [main] [Compute Science and Engineering, Artificial Intelligence and Engineering, Auto Mobile Engineering]
+2026-06-10 15:15:32,372 INFO c.c.a.EngineeringCollege [main] Branches:[Compute Science and Engineering, Artificial Intelligence and Engineering, Auto Mobile Engineering]
