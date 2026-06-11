@@ -1,502 +1,971 @@
-2026-06-10 11:43:10,375 INFO c.c.a.InstituteRunner [main] Course Informations in Institute:[Institute Course Id:101,Course Name:Java FullStack,Course Duration:SIx Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu, Institute Course Id:102,Course Name:Java core,Course Duration:Two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Raghu, Institute Course Id:103,Course Name:Java Advance,Course Duration:Two Months,Course Fees:13.5,Course Manager Name:Reno,Course Trainer:Reghu, Institute Course Id:104,Course Name:Spring Boot,Course Duration:two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Reghu]
-2026-06-10 11:43:51,693 INFO c.c.a.InstituteRunner [main] Course Informations in Institute:[Institute Course Id:101,Course Name:Java FullStack,Course Duration:SIx Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu, Institute Course Id:102,Course Name:Java core,Course Duration:Two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Raghu, Institute Course Id:103,Course Name:Java Advance,Course Duration:Two Months,Course Fees:13.5,Course Manager Name:Reno,Course Trainer:Reghu, Institute Course Id:104,Course Name:Spring Boot,Course Duration:two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Reghu]
-2026-06-10 11:48:25,848 INFO c.c.a.EmployeeList [main] Execute the setEmployee in Employee List....
-2026-06-10 11:48:25,858 INFO c.c.a.EmployeeList [main] Employee [id=101, Name=Shashank, Address=Davanagere]
-2026-06-10 11:48:25,859 INFO c.c.a.EmployeeList [main] Employee [id=102, Name=Harshitha, Address=Arsikere]
-2026-06-10 11:48:25,860 INFO c.c.a.EmployeeList [main] Employee [id=103, Name=Shashi, Address=Chitradurga]
-2026-06-10 11:48:25,861 INFO c.c.a.EmployeeList [main] Employee [id=104, Name=Harshi, Address=Hasan]
-2026-06-10 11:49:23,157 INFO c.c.a.EmployeeList [main] Execute the setEmployee in Employee List....
-2026-06-10 11:49:23,166 INFO c.c.a.EmployeeList [main] Employee [id=101, Name=Shashank, Address=Davanagere]
-2026-06-10 11:49:23,168 INFO c.c.a.EmployeeList [main] Employee [id=102, Name=Harshitha, Address=Arsikere]
-2026-06-10 11:49:23,168 INFO c.c.a.EmployeeList [main] Employee [id=103, Name=Shashi, Address=Chitradurga]
-2026-06-10 11:49:23,169 INFO c.c.a.EmployeeList [main] Employee [id=104, Name=Harshi, Address=Hasan]
-2026-06-10 11:49:23,170 INFO c.c.a.EmployeeList [main] Execute the empInfo in Employee List
-2026-06-10 11:49:23,171 INFO c.c.a.EmployeeList [main] Employee [id=101, Name=Shashank, Address=Davanagere]
-2026-06-10 11:49:23,171 INFO c.c.a.EmployeeList [main] Employee [id=102, Name=Harshitha, Address=Arsikere]
-2026-06-10 11:49:23,173 INFO c.c.a.EmployeeList [main] Employee [id=103, Name=Shashi, Address=Chitradurga]
-2026-06-10 11:49:23,173 INFO c.c.a.EmployeeList [main] Employee [id=104, Name=Harshi, Address=Hasan]
-2026-06-10 11:49:23,173 INFO c.c.a.EmployeeList [main] Execute the empDetailes in EmployeeList
-2026-06-10 11:49:23,174 INFO c.c.a.EmployeeList [main] Employee [id=101, Name=Shashank, Address=Davanagere]
-2026-06-10 11:49:23,174 INFO c.c.a.EmployeeList [main] Employee [id=102, Name=Harshitha, Address=Arsikere]
-2026-06-10 11:49:23,175 INFO c.c.a.EmployeeList [main] Employee [id=103, Name=Shashi, Address=Chitradurga]
-2026-06-10 11:49:23,176 INFO c.c.a.EmployeeList [main] Employee [id=104, Name=Harshi, Address=Hasan]
-2026-06-10 11:49:23,177 INFO c.c.a.EmployeeList [main] Execute the empInformation in Employee List
-2026-06-10 11:49:23,178 INFO c.c.a.EmployeeList [main] Employee [id=102, Name=Harshitha, Address=Arsikere]
-2026-06-10 11:49:23,179 INFO c.c.a.EmployeeList [main] Employee [id=104, Name=Harshi, Address=Hasan]
-2026-06-10 11:49:23,179 INFO c.c.a.EmployeeList [main] Employee [id=104, Name=Harshi, Address=Hasan]
-2026-06-10 11:49:23,179 INFO c.c.a.EmployeeList [main] Employee [id=103, Name=Shashi, Address=Chitradurga]
-2026-06-10 11:49:23,180 INFO c.c.a.EmployeeList [main] Employee [id=102, Name=Harshitha, Address=Arsikere]
-2026-06-10 11:49:23,180 INFO c.c.a.EmployeeList [main] Employee [id=101, Name=Shashank, Address=Davanagere]
-2026-06-10 11:52:28,131 INFO c.c.a.InstituteRunner [main] Course Information:com.corejavaproject.arrayList.CourseList@5b94b04d
-2026-06-10 11:53:11,086 INFO c.c.a.InstituteRunner [main] Course Information:com.corejavaproject.arrayList.CourseList@5b94b04d
-2026-06-10 11:56:19,031 INFO c.c.a.EmployeeList [main] Execute the setEmployee in Employee List....
-2026-06-10 11:56:19,038 INFO c.c.a.EmployeeList [main] Employee [id=101, Name=Shashank, Address=Davanagere]
-2026-06-10 11:56:19,039 INFO c.c.a.EmployeeList [main] Employee [id=102, Name=Harshitha, Address=Arsikere]
-2026-06-10 11:56:19,039 INFO c.c.a.EmployeeList [main] Employee [id=103, Name=Shashi, Address=Chitradurga]
-2026-06-10 11:56:19,039 INFO c.c.a.EmployeeList [main] Employee [id=104, Name=Harshi, Address=Hasan]
-2026-06-10 11:56:19,040 INFO c.c.a.EmployeeList [main] Execute the empInfo in Employee List
-2026-06-10 11:56:19,040 INFO c.c.a.EmployeeList [main] Employee [id=101, Name=Shashank, Address=Davanagere]
-2026-06-10 11:56:19,040 INFO c.c.a.EmployeeList [main] Employee [id=102, Name=Harshitha, Address=Arsikere]
-2026-06-10 11:56:19,041 INFO c.c.a.EmployeeList [main] Employee [id=103, Name=Shashi, Address=Chitradurga]
-2026-06-10 11:56:19,041 INFO c.c.a.EmployeeList [main] Employee [id=104, Name=Harshi, Address=Hasan]
-2026-06-10 11:56:19,041 INFO c.c.a.EmployeeList [main] Execute the empDetailes in EmployeeList
-2026-06-10 11:56:19,042 INFO c.c.a.EmployeeList [main] Employee [id=101, Name=Shashank, Address=Davanagere]
-2026-06-10 11:56:19,042 INFO c.c.a.EmployeeList [main] Employee [id=102, Name=Harshitha, Address=Arsikere]
-2026-06-10 11:56:19,042 INFO c.c.a.EmployeeList [main] Employee [id=103, Name=Shashi, Address=Chitradurga]
-2026-06-10 11:56:19,042 INFO c.c.a.EmployeeList [main] Employee [id=104, Name=Harshi, Address=Hasan]
-2026-06-10 11:56:19,043 INFO c.c.a.EmployeeList [main] Execute the empInformation in Employee List
-2026-06-10 11:56:19,043 INFO c.c.a.EmployeeList [main] Employee [id=102, Name=Harshitha, Address=Arsikere]
-2026-06-10 11:56:19,043 INFO c.c.a.EmployeeList [main] Employee [id=104, Name=Harshi, Address=Hasan]
-2026-06-10 11:56:19,044 INFO c.c.a.EmployeeList [main] Employee [id=104, Name=Harshi, Address=Hasan]
-2026-06-10 11:56:19,044 INFO c.c.a.EmployeeList [main] Employee [id=103, Name=Shashi, Address=Chitradurga]
-2026-06-10 11:56:19,044 INFO c.c.a.EmployeeList [main] Employee [id=102, Name=Harshitha, Address=Arsikere]
-2026-06-10 11:56:19,044 INFO c.c.a.EmployeeList [main] Employee [id=101, Name=Shashank, Address=Davanagere]
-2026-06-10 11:56:41,014 INFO c.c.a.CourseList [main] Execute the courseList in Institute
-2026-06-10 11:56:41,023 INFO j.u.ArrayList [main] Institute Course Id:101,Course Name:Java FullStack,Course Duration:SIx Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 11:56:41,024 INFO j.u.ArrayList [main] Institute Course Id:102,Course Name:Java core,Course Duration:Two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Raghu
-2026-06-10 11:56:41,024 INFO j.u.ArrayList [main] Institute Course Id:103,Course Name:Java Advance,Course Duration:Two Months,Course Fees:13.5,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 11:56:41,024 INFO j.u.ArrayList [main] Institute Course Id:104,Course Name:Spring Boot,Course Duration:two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:17:41,654 INFO c.c.a.CourseList [main] Execute the courseList in Institute
-2026-06-10 12:17:41,673 INFO j.u.ArrayList [main] Institute Course Id:101,Course Name:Java FullStack,Course Duration:SIx Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:17:41,676 INFO j.u.ArrayList [main] Institute Course Id:102,Course Name:Java core,Course Duration:Two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Raghu
-2026-06-10 12:17:41,678 INFO j.u.ArrayList [main] Institute Course Id:103,Course Name:Java Advance,Course Duration:Two Months,Course Fees:13.5,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:17:41,679 INFO j.u.ArrayList [main] Institute Course Id:104,Course Name:Spring Boot,Course Duration:two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:17:41,680 INFO c.c.a.CourseList [main] Execute the course Detailes in CourseList of Institute
-2026-06-10 12:17:41,680 INFO c.c.a.CourseList [main] Institute Course Id:101,Course Name:Java FullStack,Course Duration:SIx Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:17:41,681 INFO c.c.a.CourseList [main] Institute Course Id:102,Course Name:Java core,Course Duration:Two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Raghu
-2026-06-10 12:17:41,681 INFO c.c.a.CourseList [main] Institute Course Id:103,Course Name:Java Advance,Course Duration:Two Months,Course Fees:13.5,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:17:41,682 INFO c.c.a.CourseList [main] Institute Course Id:104,Course Name:Spring Boot,Course Duration:two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:31:47,864 INFO c.c.a.CourseList [main] Execute the courseList in Institute
-2026-06-10 12:31:47,884 INFO j.u.ArrayList [main] Institute Course Id:101,Course Name:Java FullStack,Course Duration:SIx Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:31:47,885 INFO j.u.ArrayList [main] Institute Course Id:102,Course Name:Java core,Course Duration:Two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Raghu
-2026-06-10 12:31:47,887 INFO j.u.ArrayList [main] Institute Course Id:103,Course Name:Java Advance,Course Duration:Two Months,Course Fees:13.5,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:31:47,889 INFO j.u.ArrayList [main] Institute Course Id:104,Course Name:Spring Boot,Course Duration:two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:31:47,891 INFO c.c.a.CourseList [main] Execute the course Detailes in CourseList of Institute
-2026-06-10 12:31:47,892 INFO c.c.a.CourseList [main] Institute Course Id:101,Course Name:Java FullStack,Course Duration:SIx Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:31:47,893 INFO c.c.a.CourseList [main] Institute Course Id:102,Course Name:Java core,Course Duration:Two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Raghu
-2026-06-10 12:31:47,894 INFO c.c.a.CourseList [main] Institute Course Id:103,Course Name:Java Advance,Course Duration:Two Months,Course Fees:13.5,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:31:47,895 INFO c.c.a.CourseList [main] Institute Course Id:104,Course Name:Spring Boot,Course Duration:two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:31:47,896 INFO c.c.a.CourseList [main] Execute the info in Course List of Institute
-2026-06-10 12:31:47,897 INFO c.c.a.CourseList [main] Institute Course Id:101,Course Name:Java FullStack,Course Duration:SIx Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:31:47,898 INFO c.c.a.CourseList [main] Institute Course Id:102,Course Name:Java core,Course Duration:Two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Raghu
-2026-06-10 12:31:47,899 INFO c.c.a.CourseList [main] Institute Course Id:103,Course Name:Java Advance,Course Duration:Two Months,Course Fees:13.5,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:31:47,900 INFO c.c.a.CourseList [main] Institute Course Id:104,Course Name:Spring Boot,Course Duration:two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:31:47,901 INFO c.c.a.CourseList [main] Execute the Information in Course List of Institute
-2026-06-10 12:33:36,267 INFO c.c.a.CourseList [main] Execute the courseList in Institute
-2026-06-10 12:33:36,290 INFO j.u.ArrayList [main] Institute Course Id:101,Course Name:Java FullStack,Course Duration:SIx Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:33:36,292 INFO j.u.ArrayList [main] Institute Course Id:102,Course Name:Java core,Course Duration:Two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Raghu
-2026-06-10 12:33:36,294 INFO j.u.ArrayList [main] Institute Course Id:103,Course Name:Java Advance,Course Duration:Two Months,Course Fees:13.5,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:33:36,295 INFO j.u.ArrayList [main] Institute Course Id:104,Course Name:Spring Boot,Course Duration:two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:33:36,296 INFO c.c.a.CourseList [main] Execute the course Detailes in CourseList of Institute
-2026-06-10 12:33:36,297 INFO c.c.a.CourseList [main] Institute Course Id:101,Course Name:Java FullStack,Course Duration:SIx Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:33:36,298 INFO c.c.a.CourseList [main] Institute Course Id:102,Course Name:Java core,Course Duration:Two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Raghu
-2026-06-10 12:33:36,298 INFO c.c.a.CourseList [main] Institute Course Id:103,Course Name:Java Advance,Course Duration:Two Months,Course Fees:13.5,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:33:36,299 INFO c.c.a.CourseList [main] Institute Course Id:104,Course Name:Spring Boot,Course Duration:two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:33:36,300 INFO c.c.a.CourseList [main] Execute the info in Course List of Institute
-2026-06-10 12:33:36,300 INFO c.c.a.CourseList [main] Institute Course Id:101,Course Name:Java FullStack,Course Duration:SIx Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:33:36,300 INFO c.c.a.CourseList [main] Institute Course Id:102,Course Name:Java core,Course Duration:Two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Raghu
-2026-06-10 12:33:36,301 INFO c.c.a.CourseList [main] Institute Course Id:103,Course Name:Java Advance,Course Duration:Two Months,Course Fees:13.5,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:33:36,301 INFO c.c.a.CourseList [main] Institute Course Id:104,Course Name:Spring Boot,Course Duration:two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:33:36,302 INFO c.c.a.CourseList [main] Execute the Information in Course List of Institute
-2026-06-10 12:33:36,303 INFO c.c.a.CourseList [main] Institute Course Id:101,Course Name:Java FullStack,Course Duration:SIx Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:33:36,304 INFO c.c.a.CourseList [main] Institute Course Id:102,Course Name:Java core,Course Duration:Two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Raghu
-2026-06-10 12:33:36,305 INFO c.c.a.CourseList [main] Institute Course Id:103,Course Name:Java Advance,Course Duration:Two Months,Course Fees:13.5,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:33:36,306 INFO c.c.a.CourseList [main] Institute Course Id:104,Course Name:Spring Boot,Course Duration:two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:36:14,907 INFO c.c.a.CourseList [main] Execute the courseList in Institute
-2026-06-10 12:36:14,923 INFO j.u.ArrayList [main] Institute Course Id:101,Course Name:Java FullStack,Course Duration:SIx Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:36:14,924 INFO j.u.ArrayList [main] Institute Course Id:102,Course Name:Java core,Course Duration:Two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Raghu
-2026-06-10 12:36:14,925 INFO j.u.ArrayList [main] Institute Course Id:103,Course Name:Java Advance,Course Duration:Two Months,Course Fees:13.5,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:36:14,926 INFO j.u.ArrayList [main] Institute Course Id:104,Course Name:Spring Boot,Course Duration:two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:36:14,927 INFO c.c.a.CourseList [main] Execute the course Detailes in CourseList of Institute
-2026-06-10 12:36:14,927 INFO c.c.a.CourseList [main] Institute Course Id:101,Course Name:Java FullStack,Course Duration:SIx Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:36:14,928 INFO c.c.a.CourseList [main] Institute Course Id:102,Course Name:Java core,Course Duration:Two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Raghu
-2026-06-10 12:36:14,928 INFO c.c.a.CourseList [main] Institute Course Id:103,Course Name:Java Advance,Course Duration:Two Months,Course Fees:13.5,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:36:14,929 INFO c.c.a.CourseList [main] Institute Course Id:104,Course Name:Spring Boot,Course Duration:two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:36:14,929 INFO c.c.a.CourseList [main] Execute the info in Course List of Institute
-2026-06-10 12:36:14,929 INFO c.c.a.CourseList [main] Institute Course Id:101,Course Name:Java FullStack,Course Duration:SIx Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:36:14,930 INFO c.c.a.CourseList [main] Institute Course Id:102,Course Name:Java core,Course Duration:Two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Raghu
-2026-06-10 12:36:14,930 INFO c.c.a.CourseList [main] Institute Course Id:103,Course Name:Java Advance,Course Duration:Two Months,Course Fees:13.5,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:36:14,931 INFO c.c.a.CourseList [main] Institute Course Id:104,Course Name:Spring Boot,Course Duration:two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:36:14,931 INFO c.c.a.CourseList [main] Execute the Information in Course List of Institute
-2026-06-10 12:36:14,931 INFO c.c.a.CourseList [main] Institute Course Id:101,Course Name:Java FullStack,Course Duration:SIx Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:36:14,931 INFO c.c.a.CourseList [main] Institute Course Id:102,Course Name:Java core,Course Duration:Two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Raghu
-2026-06-10 12:36:14,932 INFO c.c.a.CourseList [main] Institute Course Id:103,Course Name:Java Advance,Course Duration:Two Months,Course Fees:13.5,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:36:14,932 INFO c.c.a.CourseList [main] Institute Course Id:104,Course Name:Spring Boot,Course Duration:two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:36:14,933 INFO c.c.a.CourseList [main] Institute Course Id:104,Course Name:Spring Boot,Course Duration:two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:36:14,933 INFO c.c.a.CourseList [main] Institute Course Id:103,Course Name:Java Advance,Course Duration:Two Months,Course Fees:13.5,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:36:14,934 INFO c.c.a.CourseList [main] Institute Course Id:102,Course Name:Java core,Course Duration:Two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Raghu
-2026-06-10 12:36:14,934 INFO c.c.a.CourseList [main] Institute Course Id:101,Course Name:Java FullStack,Course Duration:SIx Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:37:19,598 INFO c.c.a.CourseList [main] Execute the courseList in Institute
-2026-06-10 12:37:19,613 INFO j.u.ArrayList [main] Institute Course Id:101,Course Name:Java FullStack,Course Duration:SIx Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:37:19,615 INFO j.u.ArrayList [main] Institute Course Id:102,Course Name:Java core,Course Duration:Two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Raghu
-2026-06-10 12:37:19,616 INFO j.u.ArrayList [main] Institute Course Id:103,Course Name:Java Advance,Course Duration:Two Months,Course Fees:13.5,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:37:19,617 INFO j.u.ArrayList [main] Institute Course Id:104,Course Name:Spring Boot,Course Duration:two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:37:19,618 INFO c.c.a.CourseList [main] Execute the course Detailes in CourseList of Institute
-2026-06-10 12:37:19,618 INFO c.c.a.CourseList [main] Institute Course Id:101,Course Name:Java FullStack,Course Duration:SIx Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:37:19,619 INFO c.c.a.CourseList [main] Institute Course Id:102,Course Name:Java core,Course Duration:Two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Raghu
-2026-06-10 12:37:19,620 INFO c.c.a.CourseList [main] Institute Course Id:103,Course Name:Java Advance,Course Duration:Two Months,Course Fees:13.5,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:37:19,621 INFO c.c.a.CourseList [main] Institute Course Id:104,Course Name:Spring Boot,Course Duration:two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:37:19,622 INFO c.c.a.CourseList [main] Execute the info in Course List of Institute
-2026-06-10 12:37:19,622 INFO c.c.a.CourseList [main] Institute Course Id:101,Course Name:Java FullStack,Course Duration:SIx Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:37:19,623 INFO c.c.a.CourseList [main] Institute Course Id:102,Course Name:Java core,Course Duration:Two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Raghu
-2026-06-10 12:37:19,623 INFO c.c.a.CourseList [main] Institute Course Id:103,Course Name:Java Advance,Course Duration:Two Months,Course Fees:13.5,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:37:19,624 INFO c.c.a.CourseList [main] Institute Course Id:104,Course Name:Spring Boot,Course Duration:two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:37:19,624 INFO c.c.a.CourseList [main] Execute the Information in Course List of Institute
-2026-06-10 12:37:19,624 INFO c.c.a.CourseList [main] Institute Course Id:101,Course Name:Java FullStack,Course Duration:SIx Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:37:19,625 INFO c.c.a.CourseList [main] Institute Course Id:102,Course Name:Java core,Course Duration:Two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Raghu
-2026-06-10 12:37:19,625 INFO c.c.a.CourseList [main] Institute Course Id:103,Course Name:Java Advance,Course Duration:Two Months,Course Fees:13.5,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:37:19,626 INFO c.c.a.CourseList [main] Institute Course Id:104,Course Name:Spring Boot,Course Duration:two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:37:19,626 INFO c.c.a.CourseList [main] Execute the information in Course List of Institute in Reverse Order
-2026-06-10 12:37:19,627 INFO c.c.a.CourseList [main] Institute Course Id:104,Course Name:Spring Boot,Course Duration:two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:37:19,628 INFO c.c.a.CourseList [main] Institute Course Id:103,Course Name:Java Advance,Course Duration:Two Months,Course Fees:13.5,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:37:19,628 INFO c.c.a.CourseList [main] Institute Course Id:102,Course Name:Java core,Course Duration:Two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Raghu
-2026-06-10 12:37:19,628 INFO c.c.a.CourseList [main] Institute Course Id:101,Course Name:Java FullStack,Course Duration:SIx Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:38:55,188 INFO c.c.a.CourseList [main] Execute the courseList in Institute
-2026-06-10 12:38:55,218 INFO j.u.ArrayList [main] Institute Course Id:101,Course Name:Java FullStack,Course Duration:SIx Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:38:55,221 INFO j.u.ArrayList [main] Institute Course Id:102,Course Name:Java core,Course Duration:Two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Raghu
-2026-06-10 12:38:55,224 INFO j.u.ArrayList [main] Institute Course Id:103,Course Name:Java Advance,Course Duration:Two Months,Course Fees:13.5,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:38:55,226 INFO j.u.ArrayList [main] Institute Course Id:104,Course Name:Spring Boot,Course Duration:two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:38:55,227 INFO c.c.a.CourseList [main] 
-2026-06-10 12:38:55,228 INFO c.c.a.CourseList [main] Execute the course Detailes in CourseList of Institute
-2026-06-10 12:38:55,229 INFO c.c.a.CourseList [main] Institute Course Id:101,Course Name:Java FullStack,Course Duration:SIx Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:38:55,229 INFO c.c.a.CourseList [main] 
-2026-06-10 12:38:55,230 INFO c.c.a.CourseList [main] Institute Course Id:102,Course Name:Java core,Course Duration:Two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Raghu
-2026-06-10 12:38:55,230 INFO c.c.a.CourseList [main] 
-2026-06-10 12:38:55,231 INFO c.c.a.CourseList [main] Institute Course Id:103,Course Name:Java Advance,Course Duration:Two Months,Course Fees:13.5,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:38:55,232 INFO c.c.a.CourseList [main] 
-2026-06-10 12:38:55,233 INFO c.c.a.CourseList [main] Institute Course Id:104,Course Name:Spring Boot,Course Duration:two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:38:55,234 INFO c.c.a.CourseList [main] 
-2026-06-10 12:38:55,235 INFO c.c.a.CourseList [main] Execute the info in Course List of Institute
-2026-06-10 12:38:55,237 INFO c.c.a.CourseList [main] Institute Course Id:101,Course Name:Java FullStack,Course Duration:SIx Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:38:55,238 INFO c.c.a.CourseList [main] 
-2026-06-10 12:38:55,239 INFO c.c.a.CourseList [main] Institute Course Id:102,Course Name:Java core,Course Duration:Two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Raghu
-2026-06-10 12:38:55,240 INFO c.c.a.CourseList [main] 
-2026-06-10 12:38:55,241 INFO c.c.a.CourseList [main] Institute Course Id:103,Course Name:Java Advance,Course Duration:Two Months,Course Fees:13.5,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:38:55,242 INFO c.c.a.CourseList [main] 
-2026-06-10 12:38:55,242 INFO c.c.a.CourseList [main] Institute Course Id:104,Course Name:Spring Boot,Course Duration:two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:38:55,243 INFO c.c.a.CourseList [main] 
-2026-06-10 12:38:55,244 INFO c.c.a.CourseList [main] Execute the Information in Course List of Institute
-2026-06-10 12:38:55,245 INFO c.c.a.CourseList [main] Institute Course Id:101,Course Name:Java FullStack,Course Duration:SIx Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:38:55,246 INFO c.c.a.CourseList [main] 
-2026-06-10 12:38:55,247 INFO c.c.a.CourseList [main] Institute Course Id:102,Course Name:Java core,Course Duration:Two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Raghu
-2026-06-10 12:38:55,248 INFO c.c.a.CourseList [main] 
-2026-06-10 12:38:55,249 INFO c.c.a.CourseList [main] Institute Course Id:103,Course Name:Java Advance,Course Duration:Two Months,Course Fees:13.5,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:38:55,250 INFO c.c.a.CourseList [main] 
-2026-06-10 12:38:55,250 INFO c.c.a.CourseList [main] Institute Course Id:104,Course Name:Spring Boot,Course Duration:two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:38:55,251 INFO c.c.a.CourseList [main] 
-2026-06-10 12:38:55,252 INFO c.c.a.CourseList [main] Execute the information in Course List of Institute in Reverse Order
-2026-06-10 12:38:55,254 INFO c.c.a.CourseList [main] Institute Course Id:104,Course Name:Spring Boot,Course Duration:two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:38:55,255 INFO c.c.a.CourseList [main] Institute Course Id:103,Course Name:Java Advance,Course Duration:Two Months,Course Fees:13.5,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:38:55,255 INFO c.c.a.CourseList [main] Institute Course Id:102,Course Name:Java core,Course Duration:Two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Raghu
-2026-06-10 12:38:55,256 INFO c.c.a.CourseList [main] Institute Course Id:101,Course Name:Java FullStack,Course Duration:SIx Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:39:44,582 INFO c.c.a.CourseList [main] Execute the courseList in Institute
-2026-06-10 12:39:44,590 INFO j.u.ArrayList [main] Institute Course Id:101,Course Name:Java FullStack,Course Duration:SIx Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:39:44,591 INFO j.u.ArrayList [main] Institute Course Id:102,Course Name:Java core,Course Duration:Two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Raghu
-2026-06-10 12:39:44,591 INFO j.u.ArrayList [main] Institute Course Id:103,Course Name:Java Advance,Course Duration:Two Months,Course Fees:13.5,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:39:44,591 INFO j.u.ArrayList [main] Institute Course Id:104,Course Name:Spring Boot,Course Duration:two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:39:44,592 INFO c.c.a.CourseList [main] 
-2026-06-10 12:39:44,592 INFO c.c.a.CourseList [main] Execute the course Detailes in CourseList of Institute
-2026-06-10 12:39:44,592 INFO c.c.a.CourseList [main] Institute Course Id:101,Course Name:Java FullStack,Course Duration:SIx Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:39:44,593 INFO c.c.a.CourseList [main] 
-2026-06-10 12:39:44,593 INFO c.c.a.CourseList [main] Institute Course Id:102,Course Name:Java core,Course Duration:Two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Raghu
-2026-06-10 12:39:44,593 INFO c.c.a.CourseList [main] 
-2026-06-10 12:39:44,593 INFO c.c.a.CourseList [main] Institute Course Id:103,Course Name:Java Advance,Course Duration:Two Months,Course Fees:13.5,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:39:44,593 INFO c.c.a.CourseList [main] 
-2026-06-10 12:39:44,594 INFO c.c.a.CourseList [main] Institute Course Id:104,Course Name:Spring Boot,Course Duration:two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:39:44,594 INFO c.c.a.CourseList [main] 
-2026-06-10 12:39:44,595 INFO c.c.a.CourseList [main] Execute the info in Course List of Institute
-2026-06-10 12:39:44,595 INFO c.c.a.CourseList [main] Institute Course Id:101,Course Name:Java FullStack,Course Duration:SIx Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:39:44,596 INFO c.c.a.CourseList [main] 
-2026-06-10 12:39:44,596 INFO c.c.a.CourseList [main] Institute Course Id:102,Course Name:Java core,Course Duration:Two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Raghu
-2026-06-10 12:39:44,597 INFO c.c.a.CourseList [main] 
-2026-06-10 12:39:44,597 INFO c.c.a.CourseList [main] Institute Course Id:103,Course Name:Java Advance,Course Duration:Two Months,Course Fees:13.5,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:39:44,597 INFO c.c.a.CourseList [main] 
-2026-06-10 12:39:44,598 INFO c.c.a.CourseList [main] Institute Course Id:104,Course Name:Spring Boot,Course Duration:two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:39:44,598 INFO c.c.a.CourseList [main] 
-2026-06-10 12:39:44,598 INFO c.c.a.CourseList [main] Execute the Information in Course List of Institute
-2026-06-10 12:39:44,598 INFO c.c.a.CourseList [main] Institute Course Id:101,Course Name:Java FullStack,Course Duration:SIx Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:39:44,598 INFO c.c.a.CourseList [main] Institute Course Id:102,Course Name:Java core,Course Duration:Two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Raghu
-2026-06-10 12:39:44,598 INFO c.c.a.CourseList [main] Institute Course Id:103,Course Name:Java Advance,Course Duration:Two Months,Course Fees:13.5,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:39:44,599 INFO c.c.a.CourseList [main] Institute Course Id:104,Course Name:Spring Boot,Course Duration:two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:39:44,599 INFO c.c.a.CourseList [main] 
-2026-06-10 12:39:44,599 INFO c.c.a.CourseList [main] Execute the information in Course List of Institute in Reverse Order
-2026-06-10 12:39:44,599 INFO c.c.a.CourseList [main] Institute Course Id:104,Course Name:Spring Boot,Course Duration:two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:39:44,600 INFO c.c.a.CourseList [main] Institute Course Id:103,Course Name:Java Advance,Course Duration:Two Months,Course Fees:13.5,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:39:44,600 INFO c.c.a.CourseList [main] Institute Course Id:102,Course Name:Java core,Course Duration:Two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Raghu
-2026-06-10 12:39:44,600 INFO c.c.a.CourseList [main] Institute Course Id:101,Course Name:Java FullStack,Course Duration:SIx Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:40:06,767 INFO c.c.a.CourseList [main] Execute the courseList in Institute
-2026-06-10 12:40:06,776 INFO j.u.ArrayList [main] Institute Course Id:101,Course Name:Java FullStack,Course Duration:SIx Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:40:06,777 INFO j.u.ArrayList [main] Institute Course Id:102,Course Name:Java core,Course Duration:Two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Raghu
-2026-06-10 12:40:06,778 INFO j.u.ArrayList [main] Institute Course Id:103,Course Name:Java Advance,Course Duration:Two Months,Course Fees:13.5,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:40:06,778 INFO j.u.ArrayList [main] Institute Course Id:104,Course Name:Spring Boot,Course Duration:two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:40:06,778 INFO c.c.a.CourseList [main] 
-2026-06-10 12:40:06,778 INFO c.c.a.CourseList [main] Execute the course Detailes in CourseList of Institute
-2026-06-10 12:40:06,779 INFO c.c.a.CourseList [main] Institute Course Id:101,Course Name:Java FullStack,Course Duration:SIx Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:40:06,779 INFO c.c.a.CourseList [main] 
-2026-06-10 12:40:06,780 INFO c.c.a.CourseList [main] Institute Course Id:102,Course Name:Java core,Course Duration:Two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Raghu
-2026-06-10 12:40:06,780 INFO c.c.a.CourseList [main] 
-2026-06-10 12:40:06,780 INFO c.c.a.CourseList [main] Institute Course Id:103,Course Name:Java Advance,Course Duration:Two Months,Course Fees:13.5,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:40:06,781 INFO c.c.a.CourseList [main] 
-2026-06-10 12:40:06,781 INFO c.c.a.CourseList [main] Institute Course Id:104,Course Name:Spring Boot,Course Duration:two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:40:06,781 INFO c.c.a.CourseList [main] 
-2026-06-10 12:40:06,781 INFO c.c.a.CourseList [main] Execute the info in Course List of Institute
-2026-06-10 12:40:06,781 INFO c.c.a.CourseList [main] Institute Course Id:101,Course Name:Java FullStack,Course Duration:SIx Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:40:06,781 INFO c.c.a.CourseList [main] Institute Course Id:102,Course Name:Java core,Course Duration:Two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Raghu
-2026-06-10 12:40:06,782 INFO c.c.a.CourseList [main] Institute Course Id:103,Course Name:Java Advance,Course Duration:Two Months,Course Fees:13.5,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:40:06,782 INFO c.c.a.CourseList [main] Institute Course Id:104,Course Name:Spring Boot,Course Duration:two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:40:06,782 INFO c.c.a.CourseList [main] 
-2026-06-10 12:40:06,782 INFO c.c.a.CourseList [main] Execute the Information in Course List of Institute
-2026-06-10 12:40:06,782 INFO c.c.a.CourseList [main] Institute Course Id:101,Course Name:Java FullStack,Course Duration:SIx Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:40:06,782 INFO c.c.a.CourseList [main] Institute Course Id:102,Course Name:Java core,Course Duration:Two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Raghu
-2026-06-10 12:40:06,782 INFO c.c.a.CourseList [main] Institute Course Id:103,Course Name:Java Advance,Course Duration:Two Months,Course Fees:13.5,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:40:06,783 INFO c.c.a.CourseList [main] Institute Course Id:104,Course Name:Spring Boot,Course Duration:two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:40:06,783 INFO c.c.a.CourseList [main] 
-2026-06-10 12:40:06,783 INFO c.c.a.CourseList [main] Execute the information in Course List of Institute in Reverse Order
-2026-06-10 12:40:06,785 INFO c.c.a.CourseList [main] Institute Course Id:104,Course Name:Spring Boot,Course Duration:two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:40:06,785 INFO c.c.a.CourseList [main] Institute Course Id:103,Course Name:Java Advance,Course Duration:Two Months,Course Fees:13.5,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:40:06,785 INFO c.c.a.CourseList [main] Institute Course Id:102,Course Name:Java core,Course Duration:Two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Raghu
-2026-06-10 12:40:06,786 INFO c.c.a.CourseList [main] Institute Course Id:101,Course Name:Java FullStack,Course Duration:SIx Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:40:41,930 INFO c.c.a.CourseList [main] Execute the courseList in Institute
-2026-06-10 12:40:41,939 INFO j.u.ArrayList [main] Institute Course Id:101,Course Name:Java FullStack,Course Duration:SIx Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:40:41,939 INFO j.u.ArrayList [main] Institute Course Id:102,Course Name:Java core,Course Duration:Two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Raghu
-2026-06-10 12:40:41,940 INFO j.u.ArrayList [main] Institute Course Id:103,Course Name:Java Advance,Course Duration:Two Months,Course Fees:13.5,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:40:41,940 INFO j.u.ArrayList [main] Institute Course Id:104,Course Name:Spring Boot,Course Duration:two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:40:41,940 INFO c.c.a.CourseList [main] 
-2026-06-10 12:40:41,940 INFO c.c.a.CourseList [main] Execute the course Detailes in CourseList of Institute
-2026-06-10 12:40:41,941 INFO c.c.a.CourseList [main] Institute Course Id:101,Course Name:Java FullStack,Course Duration:SIx Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:40:41,941 INFO c.c.a.CourseList [main] Institute Course Id:102,Course Name:Java core,Course Duration:Two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Raghu
-2026-06-10 12:40:41,941 INFO c.c.a.CourseList [main] Institute Course Id:103,Course Name:Java Advance,Course Duration:Two Months,Course Fees:13.5,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:40:41,941 INFO c.c.a.CourseList [main] Institute Course Id:104,Course Name:Spring Boot,Course Duration:two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:40:41,941 INFO c.c.a.CourseList [main] 
-2026-06-10 12:40:41,942 INFO c.c.a.CourseList [main] Execute the info in Course List of Institute
-2026-06-10 12:40:41,942 INFO c.c.a.CourseList [main] Institute Course Id:101,Course Name:Java FullStack,Course Duration:SIx Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:40:41,942 INFO c.c.a.CourseList [main] Institute Course Id:102,Course Name:Java core,Course Duration:Two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Raghu
-2026-06-10 12:40:41,942 INFO c.c.a.CourseList [main] Institute Course Id:103,Course Name:Java Advance,Course Duration:Two Months,Course Fees:13.5,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:40:41,943 INFO c.c.a.CourseList [main] Institute Course Id:104,Course Name:Spring Boot,Course Duration:two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:40:41,943 INFO c.c.a.CourseList [main] 
-2026-06-10 12:40:41,943 INFO c.c.a.CourseList [main] Execute the Information in Course List of Institute
-2026-06-10 12:40:41,943 INFO c.c.a.CourseList [main] Institute Course Id:101,Course Name:Java FullStack,Course Duration:SIx Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:40:41,943 INFO c.c.a.CourseList [main] Institute Course Id:102,Course Name:Java core,Course Duration:Two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Raghu
-2026-06-10 12:40:41,944 INFO c.c.a.CourseList [main] Institute Course Id:103,Course Name:Java Advance,Course Duration:Two Months,Course Fees:13.5,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:40:41,944 INFO c.c.a.CourseList [main] Institute Course Id:104,Course Name:Spring Boot,Course Duration:two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:40:41,944 INFO c.c.a.CourseList [main] 
-2026-06-10 12:40:41,944 INFO c.c.a.CourseList [main] Execute the information in Course List of Institute in Reverse Order
-2026-06-10 12:40:41,945 INFO c.c.a.CourseList [main] Institute Course Id:104,Course Name:Spring Boot,Course Duration:two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:40:41,946 INFO c.c.a.CourseList [main] Institute Course Id:103,Course Name:Java Advance,Course Duration:Two Months,Course Fees:13.5,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 12:40:41,946 INFO c.c.a.CourseList [main] Institute Course Id:102,Course Name:Java core,Course Duration:Two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Raghu
-2026-06-10 12:40:41,946 INFO c.c.a.CourseList [main] Institute Course Id:101,Course Name:Java FullStack,Course Duration:SIx Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu
-2026-06-10 14:17:27,451 INFO c.c.a.Branches [main] getBranches are Executing in Branches...
-2026-06-10 14:17:27,459 INFO c.c.a.Branches [main] College Name:Gpovernmenet Engineering College Challakere
-2026-06-10 14:17:27,459 INFO c.c.a.Branches [main] No of Branches:3
-2026-06-10 14:17:46,447 INFO c.c.a.Branches [main] getBranches are Executing in Branches...
-2026-06-10 14:17:46,456 INFO c.c.a.Branches [main] College Name:Gpovernmenet Engineering College Challakere
-2026-06-10 14:17:46,457 INFO c.c.a.Branches [main] No of Branches:3
-2026-06-10 14:19:10,069 INFO c.c.a.Branches [main] getBranches are Executing in Branches...
-2026-06-10 14:19:10,078 INFO c.c.a.Branches [main] College Name:Gpovernmenet Engineering College Challakere
-2026-06-10 14:19:10,079 INFO c.c.a.Branches [main] No of Branches:3
-2026-06-10 14:19:10,082 INFO c.c.a.EngineeringCollege [main] College Name:Govenment Engineering College Challakere
-2026-06-10 14:19:10,082 INFO c.c.a.EngineeringCollege [main] No of Staff:10
-2026-06-10 14:19:10,083 INFO c.c.a.EngineeringCollege [main] Principal Name:Mahagundappa
-2026-06-10 14:19:10,083 INFO c.c.a.EngineeringCollege [main] Branches:com.corejavaproject.arrayList.Branches@313b2ea6
-2026-06-10 14:19:43,854 INFO c.c.a.Branches [main] getBranches are Executing in Branches...
-2026-06-10 14:19:43,862 INFO c.c.a.Branches [main] College Name:Gpovernmenet Engineering College Challakere
-2026-06-10 14:19:43,863 INFO c.c.a.Branches [main] No of Branches:3
-2026-06-10 14:19:43,865 INFO c.c.a.EngineeringCollege [main] College Name:Govenment Engineering College Challakere
-2026-06-10 14:19:43,865 INFO c.c.a.EngineeringCollege [main] No of Staff:10
-2026-06-10 14:19:43,865 INFO c.c.a.EngineeringCollege [main] Principal Name:Mahagundappa
-2026-06-10 14:19:43,866 INFO c.c.a.EngineeringCollege [main] Branches:com.corejavaproject.arrayList.Branches@313b2ea6
-2026-06-10 14:26:32,178 INFO c.c.a.Branches [main] getBranches are Executing in Branches...
-2026-06-10 14:26:32,189 INFO c.c.a.Branches [main] No of Branches:3
-2026-06-10 14:26:32,191 INFO c.c.a.EngineeringCollege [main] College Name:Govenment Engineering College Challakere
-2026-06-10 14:26:32,193 INFO c.c.a.EngineeringCollege [main] No of Staff:10
-2026-06-10 14:26:32,193 INFO c.c.a.EngineeringCollege [main] Principal Name:Mahagundappa
-2026-06-10 14:26:32,194 INFO c.c.a.EngineeringCollege [main] Branches:com.corejavaproject.arrayList.Branches@313b2ea6
-2026-06-10 14:27:58,062 INFO c.c.a.EngineeringCollege [main] College Name:Govenment Engineering College Challakere
-2026-06-10 14:27:58,071 INFO c.c.a.EngineeringCollege [main] No of Staff:10
-2026-06-10 14:27:58,072 INFO c.c.a.EngineeringCollege [main] Principal Name:Mahagundappa
-2026-06-10 14:27:58,073 INFO c.c.a.EngineeringCollege [main] Branches:com.corejavaproject.arrayList.Branches@313b2ea6
-2026-06-10 14:29:19,798 INFO c.c.a.EngineeringCollege [main] College Name:Govenment Engineering College Challakere
-2026-06-10 14:29:19,806 INFO c.c.a.EngineeringCollege [main] No of Staff:10
-2026-06-10 14:29:19,807 INFO c.c.a.EngineeringCollege [main] Principal Name:Mahagundappa
-2026-06-10 14:29:19,809 INFO c.c.a.EngineeringCollege [main] Branches:Branches:3
-2026-06-10 14:30:36,198 INFO c.c.a.Branches [main] getBranches are Executing in Branches...
-2026-06-10 14:30:36,211 INFO c.c.a.Branches [main] No of Branches:3
-2026-06-10 14:30:36,213 INFO c.c.a.EngineeringCollege [main] College Name:Govenment Engineering College Challakere
-2026-06-10 14:30:36,215 INFO c.c.a.EngineeringCollege [main] No of Staff:10
-2026-06-10 14:30:36,217 INFO c.c.a.EngineeringCollege [main] Principal Name:Mahagundappa
-2026-06-10 14:30:36,218 INFO c.c.a.EngineeringCollege [main] Branches:Branches:3
-2026-06-10 14:31:04,444 INFO c.c.a.EngineeringCollege [main] College Name:Govenment Engineering College Challakere
-2026-06-10 14:31:04,454 INFO c.c.a.EngineeringCollege [main] No of Staff:10
-2026-06-10 14:31:04,455 INFO c.c.a.EngineeringCollege [main] Principal Name:Mahagundappa
-2026-06-10 14:31:04,457 INFO c.c.a.EngineeringCollege [main] Branches:Branches:3
-2026-06-10 14:31:04,458 INFO c.c.a.Branches [main] getBranches are Executing in Branches...
-2026-06-10 14:31:04,459 INFO c.c.a.Branches [main] No of Branches:3
-2026-06-10 14:33:33,718 INFO c.c.b.Employee [main] Employee Age:25
-2026-06-10 14:33:33,728 INFO c.c.b.Employee [main] Employee Name:Shashank
-2026-06-10 14:33:33,731 INFO c.c.b.Employee [main] Employee Salary:30000.0
-2026-06-10 14:33:33,734 INFO c.c.b.Employee [main] Employee Address:Niladri Nagar
-2026-06-10 14:33:33,735 INFO c.c.b.Employee [main] Address:com.corejavaproject.basics.Address@548e6d58
-2026-06-10 14:33:33,735 INFO c.c.b.Employee [main] Executing the salary details of the Employee
-2026-06-10 14:34:41,522 INFO c.c.b.Employee [main] Employee Age:25
-2026-06-10 14:34:41,531 INFO c.c.b.Employee [main] Employee Name:Shashank
-2026-06-10 14:34:41,532 INFO c.c.b.Employee [main] Employee Salary:30000.0
-2026-06-10 14:34:41,533 INFO c.c.b.Employee [main] Employee Address:Niladri Nagar
-2026-06-10 14:34:41,533 INFO c.c.b.Employee [main] Address:com.corejavaproject.basics.Address@548e6d58
-2026-06-10 14:34:41,534 INFO c.c.b.Employee [main] Executing the salary details of the Employee
-2026-06-10 14:40:21,287 INFO c.c.a.ArrayListExp [main] [Badminton, Cricket, Football, Volleyball]
-2026-06-10 14:40:21,301 INFO j.u.ArrayList [main] Badminton
-2026-06-10 14:40:21,302 INFO j.u.ArrayList [main] Cricket
-2026-06-10 14:40:21,303 INFO j.u.ArrayList [main] Football
-2026-06-10 14:40:21,304 INFO j.u.ArrayList [main] Volleyball
-2026-06-10 14:40:47,617 INFO c.c.a.ArrayListExp [main] [Badminton, Cricket, Football, Volleyball]
-2026-06-10 14:41:12,720 INFO c.c.a.ArrayListExp [main] [Badminton, Cricket, Football, Volleyball]
-2026-06-10 14:41:12,736 INFO j.u.ArrayList [main] Badminton
-2026-06-10 14:41:12,738 INFO j.u.ArrayList [main] Cricket
-2026-06-10 14:41:12,739 INFO j.u.ArrayList [main] Football
-2026-06-10 14:41:12,739 INFO j.u.ArrayList [main] Volleyball
-2026-06-10 14:42:10,646 INFO c.c.a.EngineeringCollege [main] College Name:Govenment Engineering College Challakere
-2026-06-10 14:42:10,654 INFO c.c.a.EngineeringCollege [main] No of Staff:10
-2026-06-10 14:42:10,655 INFO c.c.a.EngineeringCollege [main] Principal Name:Mahagundappa
-2026-06-10 14:42:10,656 INFO c.c.a.EngineeringCollege [main] Branches:Branches:3
-2026-06-10 14:42:25,091 INFO c.c.a.EngineeringCollege [main] College Name:Govenment Engineering College Challakere
-2026-06-10 14:42:25,100 INFO c.c.a.EngineeringCollege [main] No of Staff:10
-2026-06-10 14:42:25,101 INFO c.c.a.EngineeringCollege [main] Principal Name:Mahagundappa
-2026-06-10 14:42:25,102 INFO c.c.a.EngineeringCollege [main] Branches:Branches:3
-2026-06-10 14:44:34,148 INFO c.c.a.Branches [main] getBranches are Executing in Branches...
-2026-06-10 14:44:34,157 INFO c.c.a.Branches [main] No of Branches:3
-2026-06-10 14:44:34,160 INFO c.c.a.EngineeringCollege [main] College Name:Govenment Engineering College Challakere
-2026-06-10 14:44:34,161 INFO c.c.a.EngineeringCollege [main] No of Staff:10
-2026-06-10 14:44:34,161 INFO c.c.a.EngineeringCollege [main] Principal Name:Mahagundappa
-2026-06-10 14:44:34,162 INFO c.c.a.EngineeringCollege [main] Branches:Branches:3
-2026-06-10 14:45:33,083 INFO c.c.a.Branches [main] getBranches are Executing in Branches...
-2026-06-10 14:45:33,093 INFO c.c.a.Branches [main] No of Branches:3
-2026-06-10 14:46:10,491 INFO c.c.a.ArrayListExp [main] [Badminton, Cricket, Football, Volleyball]
-2026-06-10 14:48:02,236 INFO c.c.a.Branches [main] getBranches are Executing in Branches...
-2026-06-10 14:53:03,708 INFO c.c.a.ArrayListExp [main] [Badminton, Cricket, Football, Volleyball]
-2026-06-10 14:53:03,725 INFO j.u.ArrayList [main] Badminton
-2026-06-10 14:53:03,726 INFO j.u.ArrayList [main] Cricket
-2026-06-10 14:53:03,726 INFO j.u.ArrayList [main] Football
-2026-06-10 14:53:03,727 INFO j.u.ArrayList [main] Volleyball
-2026-06-10 14:54:35,856 INFO c.c.a.Branches [main] [Compute Science and Engineering, Artificial Intelligence and Engineering, Auto Mobile Engineering]
-2026-06-10 14:55:07,147 INFO c.c.a.ArrayListExp [main] [Badminton, Cricket, Football, Volleyball]
-2026-06-10 14:55:07,158 INFO j.u.ArrayList [main] Badminton
-2026-06-10 14:55:07,159 INFO j.u.ArrayList [main] Cricket
-2026-06-10 14:55:07,160 INFO j.u.ArrayList [main] Football
-2026-06-10 14:55:07,161 INFO j.u.ArrayList [main] Volleyball
-2026-06-10 14:55:21,780 INFO c.c.a.ArrayListExp [main] [Badminton, Cricket, Football, Volleyball]
-2026-06-10 14:55:21,792 INFO j.u.ArrayList [main] Badminton
-2026-06-10 14:55:21,793 INFO j.u.ArrayList [main] Cricket
-2026-06-10 14:55:21,794 INFO j.u.ArrayList [main] Football
-2026-06-10 14:55:21,795 INFO j.u.ArrayList [main] Volleyball
-2026-06-10 14:55:37,801 INFO c.c.a.ArrayListExp [main] [Badminton, Cricket, Football, Volleyball]
-2026-06-10 14:55:37,813 INFO j.u.ArrayList [main] Badminton
-2026-06-10 14:55:37,814 INFO j.u.ArrayList [main] Cricket
-2026-06-10 14:55:37,816 INFO j.u.ArrayList [main] Football
-2026-06-10 14:55:37,817 INFO j.u.ArrayList [main] Volleyball
-2026-06-10 14:55:46,351 INFO c.c.a.Branches [main] [Compute Science and Engineering, Artificial Intelligence and Engineering, Auto Mobile Engineering]
-2026-06-10 14:57:04,689 INFO c.c.a.Branches [main] [Compute Science and Engineering, Artificial Intelligence and Engineering, Auto Mobile Engineering]
-2026-06-10 14:57:51,774 INFO c.c.a.Branches [main] [Compute Science and Engineering, Artificial Intelligence and Engineering, Auto Mobile Engineering]
-2026-06-10 14:57:51,785 INFO c.c.a.EngineeringCollege [main] College Name:Government Engineering College Challakere
-2026-06-10 14:57:51,787 INFO c.c.a.EngineeringCollege [main] No of Staff:12
-2026-06-10 14:57:51,788 INFO c.c.a.EngineeringCollege [main] Principal Name:MahaGundappa
-2026-06-10 14:57:51,789 INFO c.c.a.EngineeringCollege [main] Branches:com.corejavaproject.arrayList.Branches@623a8092
-2026-06-10 14:58:21,636 INFO c.c.a.Branches [main] [Compute Science and Engineering, Artificial Intelligence and Engineering, Auto Mobile Engineering]
-2026-06-10 14:58:21,648 INFO c.c.a.EngineeringCollege [main] College Name:Government Engineering College Challakere
-2026-06-10 14:58:21,648 INFO c.c.a.EngineeringCollege [main] No of Staff:12
-2026-06-10 14:58:21,650 INFO c.c.a.EngineeringCollege [main] Principal Name:MahaGundappa
-2026-06-10 14:58:21,650 INFO c.c.a.EngineeringCollege [main] Branches:com.corejavaproject.arrayList.Branches@313b2ea6
-2026-06-10 14:58:34,023 INFO c.c.a.Branches [main] [Compute Science and Engineering, Artificial Intelligence and Engineering, Auto Mobile Engineering]
-2026-06-10 14:58:34,037 INFO c.c.a.EngineeringCollege [main] College Name:Government Engineering College Challakere
-2026-06-10 14:58:34,038 INFO c.c.a.EngineeringCollege [main] No of Staff:12
-2026-06-10 14:58:34,040 INFO c.c.a.EngineeringCollege [main] Principal Name:MahaGundappa
-2026-06-10 14:58:34,040 INFO c.c.a.EngineeringCollege [main] Branches:com.corejavaproject.arrayList.Branches@313b2ea6
-2026-06-10 14:59:39,064 INFO c.c.a.Branches [main] [Compute Science and Engineering, Artificial Intelligence and Engineering, Auto Mobile Engineering]
-2026-06-10 14:59:39,076 INFO c.c.a.EngineeringCollege [main] College Name:Government Engineering College Challakere
-2026-06-10 14:59:39,076 INFO c.c.a.EngineeringCollege [main] No of Staff:12
-2026-06-10 14:59:39,078 INFO c.c.a.EngineeringCollege [main] Principal Name:MahaGundappa
-2026-06-10 14:59:39,079 INFO c.c.a.EngineeringCollege [main] Branches:com.corejavaproject.arrayList.Branches@313b2ea6
-2026-06-10 15:00:24,956 INFO c.c.a.EngineeringCollege [main] College Name:Government Engineering College Challakere
-2026-06-10 15:00:24,966 INFO c.c.a.EngineeringCollege [main] No of Staff:12
-2026-06-10 15:00:24,966 INFO c.c.a.EngineeringCollege [main] Principal Name:MahaGundappa
-2026-06-10 15:00:24,968 INFO c.c.a.EngineeringCollege [main] Branches:com.corejavaproject.arrayList.Branches@313b2ea6
-2026-06-10 15:00:24,969 INFO c.c.a.Branches [main] [Compute Science and Engineering, Artificial Intelligence and Engineering, Auto Mobile Engineering]
-2026-06-10 15:01:26,580 INFO c.c.a.EngineeringCollege [main] College Name:Government Engineering College Challakere
-2026-06-10 15:01:26,593 INFO c.c.a.EngineeringCollege [main] No of Staff:12
-2026-06-10 15:01:26,595 INFO c.c.a.EngineeringCollege [main] Principal Name:MahaGundappa
-2026-06-10 15:01:26,596 INFO c.c.a.EngineeringCollege [main] Branches:com.corejavaproject.arrayList.Branches@313b2ea6
-2026-06-10 15:01:26,598 INFO c.c.a.Branches [main] [Compute Science and Engineering, Artificial Intelligence and Engineering, Auto Mobile Engineering]
-2026-06-10 15:04:06,925 INFO c.c.a.EngineeringCollege [main] College Name:Government Engineering College Challakere
-2026-06-10 15:04:06,934 INFO c.c.a.EngineeringCollege [main] No of Staff:12
-2026-06-10 15:04:06,934 INFO c.c.a.EngineeringCollege [main] Principal Name:MahaGundappa
-2026-06-10 15:04:06,935 INFO c.c.a.EngineeringCollege [main] Branches:com.corejavaproject.arrayList.Branches@313b2ea6
-2026-06-10 15:04:06,936 INFO c.c.a.Branches [main] [Compute Science and Engineering, Artificial Intelligence and Engineering, Auto Mobile Engineering]
-2026-06-10 15:07:15,675 INFO c.c.a.EngineeringCollege [main] College Name:Government Engineering College Challakere
-2026-06-10 15:07:15,684 INFO c.c.a.EngineeringCollege [main] No of Staff:12
-2026-06-10 15:07:15,685 INFO c.c.a.EngineeringCollege [main] Principal Name:MahaGundappa
-2026-06-10 15:07:15,686 INFO c.c.a.Branches [main] [Compute Science and Engineering, Artificial Intelligence and Engineering, Auto Mobile Engineering]
-2026-06-10 15:07:15,687 INFO c.c.a.EngineeringCollege [main] Branches:[Compute Science and Engineering, Artificial Intelligence and Engineering, Auto Mobile Engineering]
-2026-06-10 15:07:15,688 INFO c.c.a.Branches [main] [Compute Science and Engineering, Artificial Intelligence and Engineering, Auto Mobile Engineering]
-2026-06-10 15:07:54,500 INFO c.c.a.EngineeringCollege [main] College Name:Government Engineering College Challakere
-2026-06-10 15:07:54,510 INFO c.c.a.EngineeringCollege [main] No of Staff:12
-2026-06-10 15:07:54,510 INFO c.c.a.EngineeringCollege [main] Principal Name:MahaGundappa
-2026-06-10 15:07:54,511 INFO c.c.a.Branches [main] [Compute Science and Engineering, Artificial Intelligence and Engineering, Auto Mobile Engineering]
-2026-06-10 15:07:54,513 INFO c.c.a.EngineeringCollege [main] Branches:[Compute Science and Engineering, Artificial Intelligence and Engineering, Auto Mobile Engineering]
-2026-06-10 15:08:52,382 INFO c.c.a.EngineeringCollege [main] College Name:Government Engineering College Challakere
-2026-06-10 15:08:52,392 INFO c.c.a.EngineeringCollege [main] No of Staff:12
-2026-06-10 15:08:52,393 INFO c.c.a.EngineeringCollege [main] Principal Name:MahaGundappa
-2026-06-10 15:08:52,394 INFO c.c.a.Branches [main] [Compute Science and Engineering, Artificial Intelligence and Engineering, Auto Mobile Engineering]
-2026-06-10 15:08:52,395 INFO c.c.a.EngineeringCollege [main] Branches:[Compute Science and Engineering, Artificial Intelligence and Engineering, Auto Mobile Engineering]
-2026-06-10 15:09:34,156 INFO c.c.a.EngineeringCollege [main] College Name:Government Engineering College Challakere
-2026-06-10 15:09:34,166 INFO c.c.a.EngineeringCollege [main] No of Staff:12
-2026-06-10 15:09:34,166 INFO c.c.a.EngineeringCollege [main] Principal Name:MahaGundappa
-2026-06-10 15:09:34,168 INFO c.c.a.EngineeringCollege [main] Branches:com.corejavaproject.arrayList.Branches@313b2ea6
-2026-06-10 15:09:49,993 INFO c.c.a.EngineeringCollege [main] College Name:Government Engineering College Challakere
-2026-06-10 15:09:50,005 INFO c.c.a.EngineeringCollege [main] No of Staff:12
-2026-06-10 15:09:50,006 INFO c.c.a.EngineeringCollege [main] Principal Name:MahaGundappa
-2026-06-10 15:09:50,009 INFO c.c.a.Branches [main] [Compute Science and Engineering, Artificial Intelligence and Engineering, Auto Mobile Engineering]
-2026-06-10 15:09:50,011 INFO c.c.a.EngineeringCollege [main] Branches:[Compute Science and Engineering, Artificial Intelligence and Engineering, Auto Mobile Engineering]
-2026-06-10 15:10:06,266 INFO c.c.a.EngineeringCollege [main] College Name:Government Engineering College Challakere
-2026-06-10 15:10:06,279 INFO c.c.a.EngineeringCollege [main] No of Staff:12
-2026-06-10 15:10:06,280 INFO c.c.a.EngineeringCollege [main] Principal Name:MahaGundappa
-2026-06-10 15:10:37,886 INFO c.c.a.EngineeringCollege [main] College Name:Government Engineering College Challakere
-2026-06-10 15:10:37,894 INFO c.c.a.EngineeringCollege [main] No of Staff:12
-2026-06-10 15:10:37,895 INFO c.c.a.EngineeringCollege [main] Principal Name:MahaGundappa
-2026-06-10 15:10:37,895 INFO c.c.a.Branches [main] [Compute Science and Engineering, Artificial Intelligence and Engineering, Auto Mobile Engineering]
-2026-06-10 15:10:37,895 INFO c.c.a.EngineeringCollege [main] Branches:[Compute Science and Engineering, Artificial Intelligence and Engineering, Auto Mobile Engineering]
-2026-06-10 15:11:09,558 INFO c.c.a.EngineeringCollege [main] College Name:Government Engineering College Challakere
-2026-06-10 15:11:09,566 INFO c.c.a.EngineeringCollege [main] No of Staff:12
-2026-06-10 15:11:09,567 INFO c.c.a.EngineeringCollege [main] Principal Name:MahaGundappa
-2026-06-10 15:11:09,568 INFO c.c.a.Branches [main] [Compute Science and Engineering, Artificial Intelligence and Engineering, Auto Mobile Engineering]
-2026-06-10 15:11:09,569 INFO c.c.a.EngineeringCollege [main] Branches:[Compute Science and Engineering, Artificial Intelligence and Engineering, Auto Mobile Engineering]
-2026-06-10 15:11:09,570 INFO c.c.a.Branches [main] [Compute Science and Engineering, Artificial Intelligence and Engineering, Auto Mobile Engineering]
-2026-06-10 15:11:25,996 INFO c.c.a.EngineeringCollege [main] College Name:Government Engineering College Challakere
-2026-06-10 15:11:26,004 INFO c.c.a.EngineeringCollege [main] No of Staff:12
-2026-06-10 15:11:26,006 INFO c.c.a.EngineeringCollege [main] Principal Name:MahaGundappa
-2026-06-10 15:11:26,007 INFO c.c.a.Branches [main] [Compute Science and Engineering, Artificial Intelligence and Engineering, Auto Mobile Engineering]
-2026-06-10 15:11:26,008 INFO c.c.a.EngineeringCollege [main] Branches:[Compute Science and Engineering, Artificial Intelligence and Engineering, Auto Mobile Engineering]
-2026-06-10 15:12:23,289 INFO c.c.a.EngineeringCollege [main] College Name:Government Engineering College Challakere
-2026-06-10 15:12:23,298 INFO c.c.a.EngineeringCollege [main] No of Staff:12
-2026-06-10 15:12:23,298 INFO c.c.a.EngineeringCollege [main] Principal Name:MahaGundappa
-2026-06-10 15:12:23,299 INFO c.c.a.Branches [main] Executing the get Branches in Branchges of College
-2026-06-10 15:12:23,300 INFO c.c.a.Branches [main] [Compute Science and Engineering, Artificial Intelligence and Engineering, Auto Mobile Engineering]
-2026-06-10 15:12:23,300 INFO c.c.a.EngineeringCollege [main] Branches:[Compute Science and Engineering, Artificial Intelligence and Engineering, Auto Mobile Engineering]
-2026-06-10 15:14:30,931 INFO c.c.b.Employee [main] Employee Age:25
-2026-06-10 15:14:30,940 INFO c.c.b.Employee [main] Employee Name:Shashank
-2026-06-10 15:14:30,942 INFO c.c.b.Employee [main] Employee Salary:30000.0
-2026-06-10 15:14:30,943 INFO c.c.b.Employee [main] Employee Address:Niladri Nagar
-2026-06-10 15:14:30,944 INFO c.c.b.Employee [main] Address:com.corejavaproject.basics.Address@548e6d58
-2026-06-10 15:14:30,944 INFO c.c.b.Employee [main] Executing the salary details of the Employee
-2026-06-10 15:15:17,172 INFO c.c.b.Employee [main] Employee Age:25
-2026-06-10 15:15:17,181 INFO c.c.b.Employee [main] Employee Name:Shashank
-2026-06-10 15:15:17,183 INFO c.c.b.Employee [main] Employee Salary:30000.0
-2026-06-10 15:15:17,184 INFO c.c.b.Employee [main] Employee Address:Niladri Nagar
-2026-06-10 15:15:17,184 INFO c.c.b.Employee [main] Address:com.corejavaproject.basics.Address@548e6d58
-2026-06-10 15:15:17,185 INFO c.c.b.Employee [main] Executing the salary details of the Employee
-2026-06-10 15:15:32,353 INFO c.c.a.Branches [main] Executing the get Branches in Branchges of College
-2026-06-10 15:15:32,365 INFO c.c.a.Branches [main] [Compute Science and Engineering, Artificial Intelligence and Engineering, Auto Mobile Engineering]
-2026-06-10 15:15:32,367 INFO c.c.a.EngineeringCollege [main] College Name:Government Engineering College Challakere
-2026-06-10 15:15:32,369 INFO c.c.a.EngineeringCollege [main] No of Staff:12
-2026-06-10 15:15:32,369 INFO c.c.a.EngineeringCollege [main] Principal Name:MahaGundappa
-2026-06-10 15:15:32,370 INFO c.c.a.Branches [main] Executing the get Branches in Branchges of College
-2026-06-10 15:15:32,370 INFO c.c.a.Branches [main] [Compute Science and Engineering, Artificial Intelligence and Engineering, Auto Mobile Engineering]
-2026-06-10 15:15:32,372 INFO c.c.a.EngineeringCollege [main] Branches:[Compute Science and Engineering, Artificial Intelligence and Engineering, Auto Mobile Engineering]
+2026-06-11 08:09:37,309 INFO c.c.a.Arrays [main] [I@445b295b
+2026-06-11 08:09:58,652 INFO c.c.a.Arrays [main] [I@445b295b
+2026-06-11 08:15:11,296 INFO c.c.a.Arrays [main] Elements:[I@33c911a1
+2026-06-11 08:15:11,301 INFO c.c.a.Arrays [main] [1, 2, 3, 4, 5]
+2026-06-11 08:15:38,513 INFO c.c.a.Arrays [main] Elements:[1, 2, 3, 4, 5]
+2026-06-11 11:30:55,839 INFO c.c.a.CourseList [main] Execute the courseList in Institute
+2026-06-11 11:30:55,859 INFO j.u.ArrayList [main] Institute Course Id:101,Course Name:Java FullStack,Course Duration:SIx Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 11:30:55,861 INFO j.u.ArrayList [main] Institute Course Id:102,Course Name:Java core,Course Duration:Two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Raghu
+2026-06-11 11:30:55,863 INFO j.u.ArrayList [main] Institute Course Id:103,Course Name:Java Advance,Course Duration:Two Months,Course Fees:13.5,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 11:30:55,864 INFO j.u.ArrayList [main] Institute Course Id:104,Course Name:Spring Boot,Course Duration:two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 11:30:55,865 INFO c.c.a.CourseList [main] 
+2026-06-11 11:30:55,865 INFO c.c.a.CourseList [main] Execute the course Detailes in CourseList of Institute
+2026-06-11 11:30:55,866 INFO c.c.a.CourseList [main] Institute Course Id:101,Course Name:Java FullStack,Course Duration:SIx Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 11:30:55,867 INFO c.c.a.CourseList [main] Institute Course Id:102,Course Name:Java core,Course Duration:Two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Raghu
+2026-06-11 11:30:55,868 INFO c.c.a.CourseList [main] Institute Course Id:103,Course Name:Java Advance,Course Duration:Two Months,Course Fees:13.5,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 11:30:55,869 INFO c.c.a.CourseList [main] Institute Course Id:104,Course Name:Spring Boot,Course Duration:two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 11:30:55,870 INFO c.c.a.CourseList [main] 
+2026-06-11 11:30:55,871 INFO c.c.a.CourseList [main] Execute the info in Course List of Institute
+2026-06-11 11:30:55,872 INFO c.c.a.CourseList [main] Institute Course Id:101,Course Name:Java FullStack,Course Duration:SIx Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 11:30:55,872 INFO c.c.a.CourseList [main] Institute Course Id:102,Course Name:Java core,Course Duration:Two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Raghu
+2026-06-11 11:30:55,873 INFO c.c.a.CourseList [main] Institute Course Id:103,Course Name:Java Advance,Course Duration:Two Months,Course Fees:13.5,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 11:30:55,874 INFO c.c.a.CourseList [main] Institute Course Id:104,Course Name:Spring Boot,Course Duration:two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 11:30:55,874 INFO c.c.a.CourseList [main] 
+2026-06-11 11:30:55,875 INFO c.c.a.CourseList [main] Execute the Information in Course List of Institute
+2026-06-11 11:30:55,875 INFO c.c.a.CourseList [main] Institute Course Id:101,Course Name:Java FullStack,Course Duration:SIx Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 11:30:55,876 INFO c.c.a.CourseList [main] Institute Course Id:102,Course Name:Java core,Course Duration:Two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Raghu
+2026-06-11 11:30:55,877 INFO c.c.a.CourseList [main] Institute Course Id:103,Course Name:Java Advance,Course Duration:Two Months,Course Fees:13.5,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 11:30:55,877 INFO c.c.a.CourseList [main] Institute Course Id:104,Course Name:Spring Boot,Course Duration:two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 11:30:55,878 INFO c.c.a.CourseList [main] 
+2026-06-11 11:30:55,879 INFO c.c.a.CourseList [main] Execute the information in Course List of Institute in Reverse Order
+2026-06-11 11:30:55,881 INFO c.c.a.CourseList [main] Institute Course Id:104,Course Name:Spring Boot,Course Duration:two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 11:30:55,882 INFO c.c.a.CourseList [main] Institute Course Id:103,Course Name:Java Advance,Course Duration:Two Months,Course Fees:13.5,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 11:30:55,882 INFO c.c.a.CourseList [main] Institute Course Id:102,Course Name:Java core,Course Duration:Two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Raghu
+2026-06-11 11:30:55,883 INFO c.c.a.CourseList [main] Institute Course Id:101,Course Name:Java FullStack,Course Duration:SIx Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 11:46:12,774 INFO c.c.a.ArrayListExp [main] Assending Order:[Badminton, Cricket, Football, Volleyball]
+2026-06-11 11:46:12,780 INFO c.c.a.ArrayListExp [main] Desending Order:[Volleyball, Football, Cricket, Badminton]
+2026-06-11 11:46:12,784 INFO j.u.ArrayList [main] Volleyball
+2026-06-11 11:46:12,785 INFO j.u.ArrayList [main] Football
+2026-06-11 11:46:12,786 INFO j.u.ArrayList [main] Cricket
+2026-06-11 11:46:12,786 INFO j.u.ArrayList [main] Badminton
+2026-06-11 11:46:40,936 INFO c.c.a.ArrayListExp [main] Assending Order:[Volleyball, Football, Cricket, Badminton]
+2026-06-11 11:46:40,942 INFO c.c.a.ArrayListExp [main] Desending Order:[Volleyball, Football, Cricket, Badminton]
+2026-06-11 11:46:40,945 INFO j.u.ArrayList [main] Volleyball
+2026-06-11 11:46:40,946 INFO j.u.ArrayList [main] Football
+2026-06-11 11:46:40,947 INFO j.u.ArrayList [main] Cricket
+2026-06-11 11:46:40,947 INFO j.u.ArrayList [main] Badminton
+2026-06-11 12:01:30,577 INFO c.c.a.CourseList [main] Execute the courseList in Institute
+2026-06-11 12:01:30,588 INFO c.c.a.CourseList [main] Institute Course Id:101
+ Course Name:Java FullStack,Course Duration:SIx Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 12:01:30,589 INFO c.c.a.CourseList [main] Institute Course Id:102
+ Course Name:Java core,Course Duration:Two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Raghu
+2026-06-11 12:01:30,590 INFO c.c.a.CourseList [main] Institute Course Id:103
+ Course Name:Java Advance,Course Duration:Two Months,Course Fees:13.5,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 12:01:30,590 INFO c.c.a.CourseList [main] Institute Course Id:104
+ Course Name:Spring Boot,Course Duration:two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 12:01:30,593 INFO j.u.ArrayList [main] Institute Course Id:101
+ Course Name:Java FullStack,Course Duration:SIx Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 12:01:30,593 INFO j.u.ArrayList [main] Institute Course Id:102
+ Course Name:Java core,Course Duration:Two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Raghu
+2026-06-11 12:01:30,594 INFO j.u.ArrayList [main] Institute Course Id:103
+ Course Name:Java Advance,Course Duration:Two Months,Course Fees:13.5,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 12:01:30,595 INFO j.u.ArrayList [main] Institute Course Id:104
+ Course Name:Spring Boot,Course Duration:two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 12:01:30,596 INFO c.c.a.CourseList [main] 
+2026-06-11 12:01:30,597 INFO c.c.a.CourseList [main] Execute the course Detailes in CourseList of Institute
+2026-06-11 12:01:30,598 INFO c.c.a.CourseList [main] Institute Course Id:101
+ Course Name:Java FullStack,Course Duration:SIx Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 12:01:30,598 INFO c.c.a.CourseList [main] Institute Course Id:102
+ Course Name:Java core,Course Duration:Two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Raghu
+2026-06-11 12:01:30,598 INFO c.c.a.CourseList [main] Institute Course Id:103
+ Course Name:Java Advance,Course Duration:Two Months,Course Fees:13.5,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 12:01:30,599 INFO c.c.a.CourseList [main] Institute Course Id:104
+ Course Name:Spring Boot,Course Duration:two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 12:01:30,599 INFO c.c.a.CourseList [main] 
+2026-06-11 12:01:30,599 INFO c.c.a.CourseList [main] Execute the info in Course List of Institute
+2026-06-11 12:01:30,600 INFO c.c.a.CourseList [main] Institute Course Id:101
+ Course Name:Java FullStack,Course Duration:SIx Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 12:01:30,600 INFO c.c.a.CourseList [main] Institute Course Id:102
+ Course Name:Java core,Course Duration:Two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Raghu
+2026-06-11 12:01:30,601 INFO c.c.a.CourseList [main] Institute Course Id:103
+ Course Name:Java Advance,Course Duration:Two Months,Course Fees:13.5,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 12:01:30,601 INFO c.c.a.CourseList [main] Institute Course Id:104
+ Course Name:Spring Boot,Course Duration:two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 12:01:30,602 INFO c.c.a.CourseList [main] 
+2026-06-11 12:01:30,602 INFO c.c.a.CourseList [main] Execute the Information in Course List of Institute in Order
+2026-06-11 12:01:30,604 INFO c.c.a.CourseList [main] Institute Course Id:101
+ Course Name:Java FullStack,Course Duration:SIx Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 12:01:30,604 INFO c.c.a.CourseList [main] Institute Course Id:102
+ Course Name:Java core,Course Duration:Two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Raghu
+2026-06-11 12:01:30,604 INFO c.c.a.CourseList [main] Institute Course Id:103
+ Course Name:Java Advance,Course Duration:Two Months,Course Fees:13.5,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 12:01:30,605 INFO c.c.a.CourseList [main] Institute Course Id:104
+ Course Name:Spring Boot,Course Duration:two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 12:01:30,605 INFO c.c.a.CourseList [main] 
+2026-06-11 12:01:30,605 INFO c.c.a.CourseList [main] Execute the information in Course List of Institute in Reverse Order
+2026-06-11 12:01:30,606 INFO c.c.a.CourseList [main] Institute Course Id:104
+ Course Name:Spring Boot,Course Duration:two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 12:01:30,606 INFO c.c.a.CourseList [main] Institute Course Id:103
+ Course Name:Java Advance,Course Duration:Two Months,Course Fees:13.5,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 12:01:30,606 INFO c.c.a.CourseList [main] Institute Course Id:102
+ Course Name:Java core,Course Duration:Two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Raghu
+2026-06-11 12:01:30,606 INFO c.c.a.CourseList [main] Institute Course Id:101
+ Course Name:Java FullStack,Course Duration:SIx Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 12:02:49,539 INFO c.c.a.CourseList [main] Execute the courseList in Institute
+2026-06-11 12:02:49,549 INFO c.c.a.CourseList [main] Institute Course Id:101
+ Course Name:Java FullStack,Course Duration:SIx Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 12:02:49,550 INFO c.c.a.CourseList [main] Institute Course Id:102
+ Course Name:Java core,Course Duration:Two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Raghu
+2026-06-11 12:02:49,551 INFO c.c.a.CourseList [main] Institute Course Id:103
+ Course Name:Java Advance,Course Duration:Two Months,Course Fees:13.5,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 12:02:49,551 INFO c.c.a.CourseList [main] Institute Course Id:104
+ Course Name:Spring Boot,Course Duration:two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 12:02:49,555 INFO j.u.ArrayList [main] Institute Course Id:101
+ Course Name:Java FullStack,Course Duration:SIx Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 12:02:49,556 INFO j.u.ArrayList [main] Institute Course Id:102
+ Course Name:Java core,Course Duration:Two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Raghu
+2026-06-11 12:02:49,556 INFO j.u.ArrayList [main] Institute Course Id:103
+ Course Name:Java Advance,Course Duration:Two Months,Course Fees:13.5,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 12:02:49,556 INFO j.u.ArrayList [main] Institute Course Id:104
+ Course Name:Spring Boot,Course Duration:two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 12:02:49,557 INFO c.c.a.CourseList [main] 
+2026-06-11 12:02:49,558 INFO c.c.a.CourseList [main] Execute the course Detailes in CourseList of Institute
+2026-06-11 12:02:49,558 INFO c.c.a.CourseList [main] Institute Course Id:101
+ Course Name:Java FullStack,Course Duration:SIx Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 12:02:49,559 INFO c.c.a.CourseList [main] Institute Course Id:102
+ Course Name:Java core,Course Duration:Two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Raghu
+2026-06-11 12:02:49,560 INFO c.c.a.CourseList [main] Institute Course Id:103
+ Course Name:Java Advance,Course Duration:Two Months,Course Fees:13.5,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 12:02:49,560 INFO c.c.a.CourseList [main] Institute Course Id:104
+ Course Name:Spring Boot,Course Duration:two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 12:02:49,561 INFO c.c.a.CourseList [main] 
+2026-06-11 12:02:49,561 INFO c.c.a.CourseList [main] Execute the info in Course List of Institute
+2026-06-11 12:02:49,562 INFO c.c.a.CourseList [main] Institute Course Id:101
+ Course Name:Java FullStack,Course Duration:SIx Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 12:02:49,562 INFO c.c.a.CourseList [main] Institute Course Id:102
+ Course Name:Java core,Course Duration:Two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Raghu
+2026-06-11 12:02:49,562 INFO c.c.a.CourseList [main] Institute Course Id:103
+ Course Name:Java Advance,Course Duration:Two Months,Course Fees:13.5,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 12:02:49,563 INFO c.c.a.CourseList [main] Institute Course Id:104
+ Course Name:Spring Boot,Course Duration:two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 12:02:49,563 INFO c.c.a.CourseList [main] 
+2026-06-11 12:02:49,563 INFO c.c.a.CourseList [main] Execute the Information in Course List of Institute in Order
+2026-06-11 12:02:49,564 INFO c.c.a.CourseList [main] Institute Course Id:101
+ Course Name:Java FullStack,Course Duration:SIx Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 12:02:49,565 INFO c.c.a.CourseList [main] Institute Course Id:102
+ Course Name:Java core,Course Duration:Two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Raghu
+2026-06-11 12:02:49,565 INFO c.c.a.CourseList [main] Institute Course Id:103
+ Course Name:Java Advance,Course Duration:Two Months,Course Fees:13.5,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 12:02:49,565 INFO c.c.a.CourseList [main] Institute Course Id:104
+ Course Name:Spring Boot,Course Duration:two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 12:02:49,566 INFO c.c.a.CourseList [main] 
+2026-06-11 12:02:49,566 INFO c.c.a.CourseList [main] Execute the information in Course List of Institute in Reverse Order
+2026-06-11 12:02:49,566 INFO c.c.a.CourseList [main] Institute Course Id:104
+ Course Name:Spring Boot,Course Duration:two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 12:02:49,566 INFO c.c.a.CourseList [main] Institute Course Id:103
+ Course Name:Java Advance,Course Duration:Two Months,Course Fees:13.5,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 12:02:49,567 INFO c.c.a.CourseList [main] Institute Course Id:102
+ Course Name:Java core,Course Duration:Two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Raghu
+2026-06-11 12:02:49,567 INFO c.c.a.CourseList [main] Institute Course Id:101
+ Course Name:Java FullStack,Course Duration:SIx Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 12:04:05,980 INFO c.c.a.EmployeeList [main] Execute the setEmployee in Employee List....
+2026-06-11 12:04:05,992 INFO c.c.a.EmployeeList [main] Employee [id=101, Name=Shashank, Address=Davanagere]
+2026-06-11 12:04:05,993 INFO c.c.a.EmployeeList [main] Employee [id=102, Name=Harshitha, Address=Arsikere]
+2026-06-11 12:04:05,994 INFO c.c.a.EmployeeList [main] Employee [id=103, Name=Shashi, Address=Chitradurga]
+2026-06-11 12:04:05,994 INFO c.c.a.EmployeeList [main] Employee [id=104, Name=Harshi, Address=Hasan]
+2026-06-11 12:04:05,995 INFO c.c.a.EmployeeList [main] Execute the empInfo in Employee List
+2026-06-11 12:04:05,995 INFO c.c.a.EmployeeList [main] Employee [id=101, Name=Shashank, Address=Davanagere]
+2026-06-11 12:04:05,996 INFO c.c.a.EmployeeList [main] Employee [id=102, Name=Harshitha, Address=Arsikere]
+2026-06-11 12:04:05,996 INFO c.c.a.EmployeeList [main] Employee [id=103, Name=Shashi, Address=Chitradurga]
+2026-06-11 12:04:05,997 INFO c.c.a.EmployeeList [main] Employee [id=104, Name=Harshi, Address=Hasan]
+2026-06-11 12:04:05,998 INFO c.c.a.EmployeeList [main] Execute the empDetailes in EmployeeList
+2026-06-11 12:04:05,998 INFO c.c.a.EmployeeList [main] Employee [id=101, Name=Shashank, Address=Davanagere]
+2026-06-11 12:04:05,998 INFO c.c.a.EmployeeList [main] Employee [id=102, Name=Harshitha, Address=Arsikere]
+2026-06-11 12:04:05,999 INFO c.c.a.EmployeeList [main] Employee [id=103, Name=Shashi, Address=Chitradurga]
+2026-06-11 12:04:05,999 INFO c.c.a.EmployeeList [main] Employee [id=104, Name=Harshi, Address=Hasan]
+2026-06-11 12:04:05,999 INFO c.c.a.EmployeeList [main] Execute the empInformation in Employee List
+2026-06-11 12:04:06,000 INFO c.c.a.EmployeeList [main] Employee [id=102, Name=Harshitha, Address=Arsikere]
+2026-06-11 12:04:06,001 INFO c.c.a.EmployeeList [main] Employee [id=104, Name=Harshi, Address=Hasan]
+2026-06-11 12:04:06,001 INFO c.c.a.EmployeeList [main] Employee [id=104, Name=Harshi, Address=Hasan]
+2026-06-11 12:04:06,001 INFO c.c.a.EmployeeList [main] Employee [id=103, Name=Shashi, Address=Chitradurga]
+2026-06-11 12:04:06,001 INFO c.c.a.EmployeeList [main] Employee [id=102, Name=Harshitha, Address=Arsikere]
+2026-06-11 12:04:06,002 INFO c.c.a.EmployeeList [main] Employee [id=101, Name=Shashank, Address=Davanagere]
+2026-06-11 12:07:37,972 INFO c.c.a.EngineeringCollege [main] College Name:Government Engineering College Challakere
+2026-06-11 12:07:37,981 INFO c.c.a.EngineeringCollege [main] No of Staff:12
+2026-06-11 12:07:37,982 INFO c.c.a.EngineeringCollege [main] Principal Name:MahaGundappa
+2026-06-11 12:07:37,982 INFO c.c.a.Branches [main] Executing the get Branches in Branchges of College
+2026-06-11 12:07:37,983 INFO c.c.a.Branches [main] [Compute Science and Engineering, Artificial Intelligence and Engineering, Auto Mobile Engineering]
+2026-06-11 12:07:37,983 INFO c.c.a.EngineeringCollege [main] Branches:[Compute Science and Engineering, Artificial Intelligence and Engineering, Auto Mobile Engineering]
+2026-06-11 12:17:41,012 INFO c.c.a.CourseList [main] Execute the courseList in Institute
+2026-06-11 12:17:41,020 INFO c.c.a.CourseList [main] Institute Course Id:101
+ Course Name:Java FullStack,Course Duration:SIx Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 12:17:41,021 INFO c.c.a.CourseList [main] Institute Course Id:102
+ Course Name:Java core,Course Duration:Two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Raghu
+2026-06-11 12:17:41,022 INFO c.c.a.CourseList [main] Institute Course Id:103
+ Course Name:Java Advance,Course Duration:Two Months,Course Fees:13.5,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 12:17:41,022 INFO c.c.a.CourseList [main] Institute Course Id:104
+ Course Name:Spring Boot,Course Duration:two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 12:17:41,023 INFO j.u.ArrayList [main] Institute Course Id:101
+ Course Name:Java FullStack,Course Duration:SIx Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 12:17:41,024 INFO j.u.ArrayList [main] Institute Course Id:102
+ Course Name:Java core,Course Duration:Two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Raghu
+2026-06-11 12:17:41,024 INFO j.u.ArrayList [main] Institute Course Id:103
+ Course Name:Java Advance,Course Duration:Two Months,Course Fees:13.5,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 12:17:41,024 INFO j.u.ArrayList [main] Institute Course Id:104
+ Course Name:Spring Boot,Course Duration:two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 12:17:41,024 INFO c.c.a.CourseList [main] 
+2026-06-11 12:17:41,025 INFO c.c.a.CourseList [main] Execute the course Detailes in CourseList of Institute
+2026-06-11 12:17:41,025 INFO c.c.a.CourseList [main] Institute Course Id:101
+ Course Name:Java FullStack,Course Duration:SIx Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 12:17:41,025 INFO c.c.a.CourseList [main] Institute Course Id:102
+ Course Name:Java core,Course Duration:Two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Raghu
+2026-06-11 12:17:41,025 INFO c.c.a.CourseList [main] Institute Course Id:103
+ Course Name:Java Advance,Course Duration:Two Months,Course Fees:13.5,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 12:17:41,025 INFO c.c.a.CourseList [main] Institute Course Id:104
+ Course Name:Spring Boot,Course Duration:two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 12:17:41,026 INFO c.c.a.CourseList [main] 
+2026-06-11 12:17:41,026 INFO c.c.a.CourseList [main] Execute the info in Course List of Institute
+2026-06-11 12:17:41,026 INFO c.c.a.CourseList [main] Institute Course Id:101
+ Course Name:Java FullStack,Course Duration:SIx Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 12:17:41,026 INFO c.c.a.CourseList [main] Institute Course Id:102
+ Course Name:Java core,Course Duration:Two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Raghu
+2026-06-11 12:17:41,026 INFO c.c.a.CourseList [main] Institute Course Id:103
+ Course Name:Java Advance,Course Duration:Two Months,Course Fees:13.5,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 12:17:41,026 INFO c.c.a.CourseList [main] Institute Course Id:104
+ Course Name:Spring Boot,Course Duration:two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 12:17:41,027 INFO c.c.a.CourseList [main] 
+2026-06-11 12:17:41,027 INFO c.c.a.CourseList [main] Execute the Information in Course List of Institute in Order
+2026-06-11 12:17:41,028 INFO c.c.a.CourseList [main] Institute Course Id:101
+ Course Name:Java FullStack,Course Duration:SIx Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 12:17:41,029 INFO c.c.a.CourseList [main] Institute Course Id:102
+ Course Name:Java core,Course Duration:Two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Raghu
+2026-06-11 12:17:41,029 INFO c.c.a.CourseList [main] Institute Course Id:103
+ Course Name:Java Advance,Course Duration:Two Months,Course Fees:13.5,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 12:17:41,029 INFO c.c.a.CourseList [main] Institute Course Id:104
+ Course Name:Spring Boot,Course Duration:two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 12:17:41,029 INFO c.c.a.CourseList [main] 
+2026-06-11 12:17:41,029 INFO c.c.a.CourseList [main] Execute the information in Course List of Institute in Reverse Order
+2026-06-11 12:17:41,030 INFO c.c.a.CourseList [main] Institute Course Id:104
+ Course Name:Spring Boot,Course Duration:two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 12:17:41,030 INFO c.c.a.CourseList [main] Institute Course Id:103
+ Course Name:Java Advance,Course Duration:Two Months,Course Fees:13.5,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 12:17:41,030 INFO c.c.a.CourseList [main] Institute Course Id:102
+ Course Name:Java core,Course Duration:Two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Raghu
+2026-06-11 12:17:41,030 INFO c.c.a.CourseList [main] Institute Course Id:101
+ Course Name:Java FullStack,Course Duration:SIx Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 12:22:34,740 INFO c.c.a.CourseList [main] Execute the courseList in Institute in For Each Formate
+2026-06-11 12:22:34,748 INFO c.c.a.CourseList [main] Institute Course Id:101
+ Course Name:Java FullStack,Course Duration:SIx Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 12:22:34,748 INFO c.c.a.CourseList [main] Institute Course Id:102
+ Course Name:Java core,Course Duration:Two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Raghu
+2026-06-11 12:22:34,749 INFO c.c.a.CourseList [main] Institute Course Id:103
+ Course Name:Java Advance,Course Duration:Two Months,Course Fees:13.5,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 12:22:34,749 INFO c.c.a.CourseList [main] Institute Course Id:104
+ Course Name:Spring Boot,Course Duration:two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 12:22:34,750 INFO j.u.ArrayList [main] Institute Course Id:101
+ Course Name:Java FullStack,Course Duration:SIx Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 12:22:34,751 INFO j.u.ArrayList [main] Institute Course Id:102
+ Course Name:Java core,Course Duration:Two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Raghu
+2026-06-11 12:22:34,751 INFO j.u.ArrayList [main] Institute Course Id:103
+ Course Name:Java Advance,Course Duration:Two Months,Course Fees:13.5,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 12:22:34,751 INFO j.u.ArrayList [main] Institute Course Id:104
+ Course Name:Spring Boot,Course Duration:two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 12:22:34,752 INFO c.c.a.CourseList [main] 
+2026-06-11 12:22:34,752 INFO c.c.a.CourseList [main] Execute the course Detailes in CourseList of Institute in For looping Formate
+2026-06-11 12:22:34,752 INFO c.c.a.CourseList [main] Institute Course Id:101
+ Course Name:Java FullStack,Course Duration:SIx Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 12:22:34,753 INFO c.c.a.CourseList [main] Institute Course Id:102
+ Course Name:Java core,Course Duration:Two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Raghu
+2026-06-11 12:22:34,753 INFO c.c.a.CourseList [main] Institute Course Id:103
+ Course Name:Java Advance,Course Duration:Two Months,Course Fees:13.5,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 12:22:34,754 INFO c.c.a.CourseList [main] Institute Course Id:104
+ Course Name:Spring Boot,Course Duration:two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 12:22:34,754 INFO c.c.a.CourseList [main] 
+2026-06-11 12:22:34,754 INFO c.c.a.CourseList [main] Execute the info in Course List of Institute in Iterator Formate
+2026-06-11 12:22:34,754 INFO c.c.a.CourseList [main] Institute Course Id:101
+ Course Name:Java FullStack,Course Duration:SIx Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 12:22:34,755 INFO c.c.a.CourseList [main] Institute Course Id:102
+ Course Name:Java core,Course Duration:Two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Raghu
+2026-06-11 12:22:34,755 INFO c.c.a.CourseList [main] Institute Course Id:103
+ Course Name:Java Advance,Course Duration:Two Months,Course Fees:13.5,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 12:22:34,755 INFO c.c.a.CourseList [main] Institute Course Id:104
+ Course Name:Spring Boot,Course Duration:two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 12:22:34,755 INFO c.c.a.CourseList [main] 
+2026-06-11 12:22:34,755 INFO c.c.a.CourseList [main] Execute the Information in Course List of Institute in Order in List Iterator Formate
+2026-06-11 12:22:34,756 INFO c.c.a.CourseList [main] Institute Course Id:101
+ Course Name:Java FullStack,Course Duration:SIx Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 12:22:34,756 INFO c.c.a.CourseList [main] Institute Course Id:102
+ Course Name:Java core,Course Duration:Two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Raghu
+2026-06-11 12:22:34,756 INFO c.c.a.CourseList [main] Institute Course Id:103
+ Course Name:Java Advance,Course Duration:Two Months,Course Fees:13.5,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 12:22:34,756 INFO c.c.a.CourseList [main] Institute Course Id:104
+ Course Name:Spring Boot,Course Duration:two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 12:22:34,756 INFO c.c.a.CourseList [main] 
+2026-06-11 12:22:34,756 INFO c.c.a.CourseList [main] Execute the information in Course List of Institute in Reverse Order
+2026-06-11 12:22:34,757 INFO c.c.a.CourseList [main] Institute Course Id:104
+ Course Name:Spring Boot,Course Duration:two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 12:22:34,757 INFO c.c.a.CourseList [main] Institute Course Id:103
+ Course Name:Java Advance,Course Duration:Two Months,Course Fees:13.5,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 12:22:34,757 INFO c.c.a.CourseList [main] Institute Course Id:102
+ Course Name:Java core,Course Duration:Two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Raghu
+2026-06-11 12:22:34,757 INFO c.c.a.CourseList [main] Institute Course Id:101
+ Course Name:Java FullStack,Course Duration:SIx Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 12:23:39,993 INFO c.c.a.CourseList [main] Execute the courseList in Institute in For Each Formate
+2026-06-11 12:23:40,001 INFO c.c.a.CourseList [main] Institute Course Id:101
+ Course Name:Java FullStack,Course Duration:SIx Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 12:23:40,001 INFO c.c.a.CourseList [main] Institute Course Id:102
+ Course Name:Java core,Course Duration:Two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Raghu
+2026-06-11 12:23:40,002 INFO c.c.a.CourseList [main] Institute Course Id:103
+ Course Name:Java Advance,Course Duration:Two Months,Course Fees:13.5,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 12:23:40,002 INFO c.c.a.CourseList [main] Institute Course Id:104
+ Course Name:Spring Boot,Course Duration:two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 12:23:40,004 INFO j.u.ArrayList [main] Institute Course Id:101
+ Course Name:Java FullStack,Course Duration:SIx Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 12:23:40,004 INFO j.u.ArrayList [main] Institute Course Id:102
+ Course Name:Java core,Course Duration:Two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Raghu
+2026-06-11 12:23:40,005 INFO j.u.ArrayList [main] Institute Course Id:103
+ Course Name:Java Advance,Course Duration:Two Months,Course Fees:13.5,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 12:23:40,005 INFO j.u.ArrayList [main] Institute Course Id:104
+ Course Name:Spring Boot,Course Duration:two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 12:23:40,005 INFO c.c.a.CourseList [main] 
+2026-06-11 12:23:40,005 INFO c.c.a.CourseList [main] Execute the course Detailes in CourseList of Institute in For looping Formate
+2026-06-11 12:23:40,005 INFO c.c.a.CourseList [main] Institute Course Id:101
+ Course Name:Java FullStack,Course Duration:SIx Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 12:23:40,006 INFO c.c.a.CourseList [main] Institute Course Id:102
+ Course Name:Java core,Course Duration:Two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Raghu
+2026-06-11 12:23:40,006 INFO c.c.a.CourseList [main] Institute Course Id:103
+ Course Name:Java Advance,Course Duration:Two Months,Course Fees:13.5,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 12:23:40,006 INFO c.c.a.CourseList [main] Institute Course Id:104
+ Course Name:Spring Boot,Course Duration:two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 12:23:40,006 INFO c.c.a.CourseList [main] 
+2026-06-11 12:23:40,006 INFO c.c.a.CourseList [main] Execute the info in Course List of Institute in Iterator Formate
+2026-06-11 12:23:40,007 INFO c.c.a.CourseList [main] Institute Course Id:101
+ Course Name:Java FullStack,Course Duration:SIx Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 12:23:40,007 INFO c.c.a.CourseList [main] Institute Course Id:102
+ Course Name:Java core,Course Duration:Two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Raghu
+2026-06-11 12:23:40,007 INFO c.c.a.CourseList [main] Institute Course Id:103
+ Course Name:Java Advance,Course Duration:Two Months,Course Fees:13.5,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 12:23:40,007 INFO c.c.a.CourseList [main] Institute Course Id:104
+ Course Name:Spring Boot,Course Duration:two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 12:23:40,007 INFO c.c.a.CourseList [main] Execute the Information in Course List of Institute in Order in List Iterator Formate
+2026-06-11 12:23:40,008 INFO c.c.a.CourseList [main] Institute Course Id:101
+ Course Name:Java FullStack,Course Duration:SIx Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 12:23:40,008 INFO c.c.a.CourseList [main] Institute Course Id:102
+ Course Name:Java core,Course Duration:Two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Raghu
+2026-06-11 12:23:40,009 INFO c.c.a.CourseList [main] Institute Course Id:103
+ Course Name:Java Advance,Course Duration:Two Months,Course Fees:13.5,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 12:23:40,009 INFO c.c.a.CourseList [main] Institute Course Id:104
+ Course Name:Spring Boot,Course Duration:two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 12:23:40,009 INFO c.c.a.CourseList [main] Execute the information in Course List of Institute in Reverse Order
+2026-06-11 12:23:40,010 INFO c.c.a.CourseList [main] Institute Course Id:104
+ Course Name:Spring Boot,Course Duration:two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 12:23:40,010 INFO c.c.a.CourseList [main] Institute Course Id:103
+ Course Name:Java Advance,Course Duration:Two Months,Course Fees:13.5,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 12:23:40,010 INFO c.c.a.CourseList [main] Institute Course Id:102
+ Course Name:Java core,Course Duration:Two Months,Course Fees:15000.0,Course Manager Name:Reno,Course Trainer:Raghu
+2026-06-11 12:23:40,010 INFO c.c.a.CourseList [main] Institute Course Id:101
+ Course Name:Java FullStack,Course Duration:SIx Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu
+2026-06-11 12:27:42,639 INFO c.c.a.CourseList [main] Execute the courseList in Institute in For Each Formate
+2026-06-11 12:27:42,647 INFO c.c.a.CourseList [main] Institute Course Id:101
+ Course Name:Java FullStack,Course Duration:Six Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu sir
+2026-06-11 12:27:42,647 INFO c.c.a.CourseList [main] Institute Course Id:102
+ Course Name:Java core,Course Duration:Three Months,Course Fees:19000.0,Course Manager Name:Reno sir,Course Trainer:Raghu
+2026-06-11 12:27:42,648 INFO c.c.a.CourseList [main] Institute Course Id:103
+ Course Name:Java Advance,Course Duration:Four Months,Course Fees:17.5,Course Manager Name:Reno manager,Course Trainer:Reghu Trainer
+2026-06-11 12:27:42,648 INFO c.c.a.CourseList [main] Institute Course Id:104
+ Course Name:Spring Boot,Course Duration:Five Months,Course Fees:13000.0,Course Manager Name:Reno coordinator,Course Trainer:Reghu Guider
+2026-06-11 12:27:42,650 INFO j.u.ArrayList [main] Institute Course Id:101
+ Course Name:Java FullStack,Course Duration:Six Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu sir
+2026-06-11 12:27:42,650 INFO j.u.ArrayList [main] Institute Course Id:102
+ Course Name:Java core,Course Duration:Three Months,Course Fees:19000.0,Course Manager Name:Reno sir,Course Trainer:Raghu
+2026-06-11 12:27:42,650 INFO j.u.ArrayList [main] Institute Course Id:103
+ Course Name:Java Advance,Course Duration:Four Months,Course Fees:17.5,Course Manager Name:Reno manager,Course Trainer:Reghu Trainer
+2026-06-11 12:27:42,651 INFO j.u.ArrayList [main] Institute Course Id:104
+ Course Name:Spring Boot,Course Duration:Five Months,Course Fees:13000.0,Course Manager Name:Reno coordinator,Course Trainer:Reghu Guider
+2026-06-11 12:27:42,651 INFO c.c.a.CourseList [main] 
+2026-06-11 12:27:42,651 INFO c.c.a.CourseList [main] Execute the course Detailes in CourseList of Institute in For looping Formate
+2026-06-11 12:27:42,652 INFO c.c.a.CourseList [main] Institute Course Id:101
+ Course Name:Java FullStack,Course Duration:Six Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu sir
+2026-06-11 12:27:42,652 INFO c.c.a.CourseList [main] Institute Course Id:102
+ Course Name:Java core,Course Duration:Three Months,Course Fees:19000.0,Course Manager Name:Reno sir,Course Trainer:Raghu
+2026-06-11 12:27:42,652 INFO c.c.a.CourseList [main] Institute Course Id:103
+ Course Name:Java Advance,Course Duration:Four Months,Course Fees:17.5,Course Manager Name:Reno manager,Course Trainer:Reghu Trainer
+2026-06-11 12:27:42,652 INFO c.c.a.CourseList [main] Institute Course Id:104
+ Course Name:Spring Boot,Course Duration:Five Months,Course Fees:13000.0,Course Manager Name:Reno coordinator,Course Trainer:Reghu Guider
+2026-06-11 12:27:42,652 INFO c.c.a.CourseList [main] 
+2026-06-11 12:27:42,653 INFO c.c.a.CourseList [main] Execute the info in Course List of Institute in Iterator Formate
+2026-06-11 12:27:42,653 INFO c.c.a.CourseList [main] Institute Course Id:101
+ Course Name:Java FullStack,Course Duration:Six Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu sir
+2026-06-11 12:27:42,653 INFO c.c.a.CourseList [main] Institute Course Id:102
+ Course Name:Java core,Course Duration:Three Months,Course Fees:19000.0,Course Manager Name:Reno sir,Course Trainer:Raghu
+2026-06-11 12:27:42,653 INFO c.c.a.CourseList [main] Institute Course Id:103
+ Course Name:Java Advance,Course Duration:Four Months,Course Fees:17.5,Course Manager Name:Reno manager,Course Trainer:Reghu Trainer
+2026-06-11 12:27:42,654 INFO c.c.a.CourseList [main] Institute Course Id:104
+ Course Name:Spring Boot,Course Duration:Five Months,Course Fees:13000.0,Course Manager Name:Reno coordinator,Course Trainer:Reghu Guider
+2026-06-11 12:27:42,654 INFO c.c.a.CourseList [main] Execute the Information in Course List of Institute in Order in List Iterator Formate
+2026-06-11 12:27:42,655 INFO c.c.a.CourseList [main] Institute Course Id:101
+ Course Name:Java FullStack,Course Duration:Six Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu sir
+2026-06-11 12:27:42,655 INFO c.c.a.CourseList [main] Institute Course Id:102
+ Course Name:Java core,Course Duration:Three Months,Course Fees:19000.0,Course Manager Name:Reno sir,Course Trainer:Raghu
+2026-06-11 12:27:42,656 INFO c.c.a.CourseList [main] Institute Course Id:103
+ Course Name:Java Advance,Course Duration:Four Months,Course Fees:17.5,Course Manager Name:Reno manager,Course Trainer:Reghu Trainer
+2026-06-11 12:27:42,656 INFO c.c.a.CourseList [main] Institute Course Id:104
+ Course Name:Spring Boot,Course Duration:Five Months,Course Fees:13000.0,Course Manager Name:Reno coordinator,Course Trainer:Reghu Guider
+2026-06-11 12:27:42,656 INFO c.c.a.CourseList [main] Execute the information in Course List of Institute in Reverse Order
+2026-06-11 12:27:42,657 INFO c.c.a.CourseList [main] Institute Course Id:104
+ Course Name:Spring Boot,Course Duration:Five Months,Course Fees:13000.0,Course Manager Name:Reno coordinator,Course Trainer:Reghu Guider
+2026-06-11 12:27:42,657 INFO c.c.a.CourseList [main] Institute Course Id:103
+ Course Name:Java Advance,Course Duration:Four Months,Course Fees:17.5,Course Manager Name:Reno manager,Course Trainer:Reghu Trainer
+2026-06-11 12:27:42,657 INFO c.c.a.CourseList [main] Institute Course Id:102
+ Course Name:Java core,Course Duration:Three Months,Course Fees:19000.0,Course Manager Name:Reno sir,Course Trainer:Raghu
+2026-06-11 12:27:42,657 INFO c.c.a.CourseList [main] Institute Course Id:101
+ Course Name:Java FullStack,Course Duration:Six Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu sir
+2026-06-11 12:31:30,295 INFO c.c.a.CourseList [main] Execute the courseList in Institute in For Each Formate
+2026-06-11 12:31:30,303 INFO j.u.ArrayList [main] Institute Course Id:101
+ Course Name:Java FullStack,Course Duration:Six Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu sir
+2026-06-11 12:31:30,303 INFO j.u.ArrayList [main] Institute Course Id:102
+ Course Name:Java core,Course Duration:Three Months,Course Fees:19000.0,Course Manager Name:Reno sir,Course Trainer:Raghu
+2026-06-11 12:31:30,304 INFO j.u.ArrayList [main] Institute Course Id:103
+ Course Name:Java Advance,Course Duration:Four Months,Course Fees:17000.5,Course Manager Name:Reno manager,Course Trainer:Reghu Trainer
+2026-06-11 12:31:30,304 INFO j.u.ArrayList [main] Institute Course Id:104
+ Course Name:Spring Boot,Course Duration:Five Months,Course Fees:13000.0,Course Manager Name:Reno coordinator,Course Trainer:Reghu Guider
+2026-06-11 12:31:30,304 INFO c.c.a.CourseList [main] 
+2026-06-11 12:31:30,304 INFO c.c.a.CourseList [main] Execute the course Detailes in CourseList of Institute in For looping Formate
+2026-06-11 12:31:30,305 INFO c.c.a.CourseList [main] Institute Course Id:101
+ Course Name:Java FullStack,Course Duration:Six Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu sir
+2026-06-11 12:31:30,305 INFO c.c.a.CourseList [main] Institute Course Id:102
+ Course Name:Java core,Course Duration:Three Months,Course Fees:19000.0,Course Manager Name:Reno sir,Course Trainer:Raghu
+2026-06-11 12:31:30,305 INFO c.c.a.CourseList [main] Institute Course Id:103
+ Course Name:Java Advance,Course Duration:Four Months,Course Fees:17000.5,Course Manager Name:Reno manager,Course Trainer:Reghu Trainer
+2026-06-11 12:31:30,305 INFO c.c.a.CourseList [main] Institute Course Id:104
+ Course Name:Spring Boot,Course Duration:Five Months,Course Fees:13000.0,Course Manager Name:Reno coordinator,Course Trainer:Reghu Guider
+2026-06-11 12:31:30,305 INFO c.c.a.CourseList [main] 
+2026-06-11 12:31:30,306 INFO c.c.a.CourseList [main] Execute the info in Course List of Institute in Iterator Formate
+2026-06-11 12:31:30,306 INFO c.c.a.CourseList [main] Institute Course Id:101
+ Course Name:Java FullStack,Course Duration:Six Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu sir
+2026-06-11 12:31:30,306 INFO c.c.a.CourseList [main] Institute Course Id:102
+ Course Name:Java core,Course Duration:Three Months,Course Fees:19000.0,Course Manager Name:Reno sir,Course Trainer:Raghu
+2026-06-11 12:31:30,306 INFO c.c.a.CourseList [main] Institute Course Id:103
+ Course Name:Java Advance,Course Duration:Four Months,Course Fees:17000.5,Course Manager Name:Reno manager,Course Trainer:Reghu Trainer
+2026-06-11 12:31:30,306 INFO c.c.a.CourseList [main] Institute Course Id:104
+ Course Name:Spring Boot,Course Duration:Five Months,Course Fees:13000.0,Course Manager Name:Reno coordinator,Course Trainer:Reghu Guider
+2026-06-11 12:31:30,306 INFO c.c.a.CourseList [main] Execute the Information in Course List of Institute in Order in List Iterator Formate
+2026-06-11 12:31:30,307 INFO c.c.a.CourseList [main] Institute Course Id:101
+ Course Name:Java FullStack,Course Duration:Six Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu sir
+2026-06-11 12:31:30,307 INFO c.c.a.CourseList [main] Institute Course Id:102
+ Course Name:Java core,Course Duration:Three Months,Course Fees:19000.0,Course Manager Name:Reno sir,Course Trainer:Raghu
+2026-06-11 12:31:30,308 INFO c.c.a.CourseList [main] Institute Course Id:103
+ Course Name:Java Advance,Course Duration:Four Months,Course Fees:17000.5,Course Manager Name:Reno manager,Course Trainer:Reghu Trainer
+2026-06-11 12:31:30,308 INFO c.c.a.CourseList [main] Institute Course Id:104
+ Course Name:Spring Boot,Course Duration:Five Months,Course Fees:13000.0,Course Manager Name:Reno coordinator,Course Trainer:Reghu Guider
+2026-06-11 12:31:30,308 INFO c.c.a.CourseList [main] Execute the information in Course List of Institute in Reverse Order
+2026-06-11 12:31:30,308 INFO c.c.a.CourseList [main] Institute Course Id:104
+ Course Name:Spring Boot,Course Duration:Five Months,Course Fees:13000.0,Course Manager Name:Reno coordinator,Course Trainer:Reghu Guider
+2026-06-11 12:31:30,308 INFO c.c.a.CourseList [main] Institute Course Id:103
+ Course Name:Java Advance,Course Duration:Four Months,Course Fees:17000.5,Course Manager Name:Reno manager,Course Trainer:Reghu Trainer
+2026-06-11 12:31:30,308 INFO c.c.a.CourseList [main] Institute Course Id:102
+ Course Name:Java core,Course Duration:Three Months,Course Fees:19000.0,Course Manager Name:Reno sir,Course Trainer:Raghu
+2026-06-11 12:31:30,308 INFO c.c.a.CourseList [main] Institute Course Id:101
+ Course Name:Java FullStack,Course Duration:Six Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu sir
+2026-06-11 12:32:31,643 INFO c.c.a.CourseList [main] Execute the courseList in Institute in For Each Formate
+2026-06-11 12:32:31,651 INFO j.u.ArrayList [main] Institute Course Id:101
+ Course Name:Java FullStack,Course Duration:Six Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu sir
+2026-06-11 12:32:31,651 INFO j.u.ArrayList [main] Institute Course Id:102
+ Course Name:Java core,Course Duration:Three Months,Course Fees:19000.0,Course Manager Name:Reno sir,Course Trainer:Raghu
+2026-06-11 12:32:31,652 INFO j.u.ArrayList [main] Institute Course Id:103
+ Course Name:Java Advance,Course Duration:Four Months,Course Fees:17000.5,Course Manager Name:Reno manager,Course Trainer:Reghu Trainer
+2026-06-11 12:32:31,652 INFO j.u.ArrayList [main] Institute Course Id:104
+ Course Name:Spring Boot,Course Duration:Five Months,Course Fees:13000.0,Course Manager Name:Reno coordinator,Course Trainer:Reghu Guider
+2026-06-11 12:32:31,652 INFO c.c.a.CourseList [main] 
+2026-06-11 12:32:31,653 INFO c.c.a.CourseList [main] Execute the course Detailes in CourseList of Institute in For looping Formate
+2026-06-11 12:32:31,653 INFO c.c.a.CourseList [main] Institute Course Id:101
+ Course Name:Java FullStack,Course Duration:Six Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu sir
+2026-06-11 12:32:31,653 INFO c.c.a.CourseList [main] Institute Course Id:102
+ Course Name:Java core,Course Duration:Three Months,Course Fees:19000.0,Course Manager Name:Reno sir,Course Trainer:Raghu
+2026-06-11 12:32:31,653 INFO c.c.a.CourseList [main] Institute Course Id:103
+ Course Name:Java Advance,Course Duration:Four Months,Course Fees:17000.5,Course Manager Name:Reno manager,Course Trainer:Reghu Trainer
+2026-06-11 12:32:31,654 INFO c.c.a.CourseList [main] Institute Course Id:104
+ Course Name:Spring Boot,Course Duration:Five Months,Course Fees:13000.0,Course Manager Name:Reno coordinator,Course Trainer:Reghu Guider
+2026-06-11 12:32:31,654 INFO c.c.a.CourseList [main] 
+2026-06-11 12:32:31,654 INFO c.c.a.CourseList [main] Execute the info in Course List of Institute in Iterator Formate
+2026-06-11 12:32:31,655 INFO c.c.a.CourseList [main] Institute Course Id:101
+ Course Name:Java FullStack,Course Duration:Six Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu sir
+2026-06-11 12:32:31,655 INFO c.c.a.CourseList [main] Institute Course Id:102
+ Course Name:Java core,Course Duration:Three Months,Course Fees:19000.0,Course Manager Name:Reno sir,Course Trainer:Raghu
+2026-06-11 12:32:31,655 INFO c.c.a.CourseList [main] Institute Course Id:103
+ Course Name:Java Advance,Course Duration:Four Months,Course Fees:17000.5,Course Manager Name:Reno manager,Course Trainer:Reghu Trainer
+2026-06-11 12:32:31,656 INFO c.c.a.CourseList [main] Institute Course Id:104
+ Course Name:Spring Boot,Course Duration:Five Months,Course Fees:13000.0,Course Manager Name:Reno coordinator,Course Trainer:Reghu Guider
+2026-06-11 12:32:31,656 INFO c.c.a.CourseList [main] Execute the Information in Course List of Institute in Order in List Iterator Formate
+2026-06-11 12:32:31,657 INFO c.c.a.CourseList [main] Institute Course Id:101
+ Course Name:Java FullStack,Course Duration:Six Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu sir
+2026-06-11 12:32:31,657 INFO c.c.a.CourseList [main] Institute Course Id:102
+ Course Name:Java core,Course Duration:Three Months,Course Fees:19000.0,Course Manager Name:Reno sir,Course Trainer:Raghu
+2026-06-11 12:32:31,657 INFO c.c.a.CourseList [main] Institute Course Id:103
+ Course Name:Java Advance,Course Duration:Four Months,Course Fees:17000.5,Course Manager Name:Reno manager,Course Trainer:Reghu Trainer
+2026-06-11 12:32:31,657 INFO c.c.a.CourseList [main] Institute Course Id:104
+ Course Name:Spring Boot,Course Duration:Five Months,Course Fees:13000.0,Course Manager Name:Reno coordinator,Course Trainer:Reghu Guider
+2026-06-11 12:32:31,657 INFO c.c.a.CourseList [main] Execute the information in Course List of Institute in Reverse Order
+2026-06-11 12:32:31,657 INFO c.c.a.CourseList [main] Institute Course Id:104
+ Course Name:Spring Boot,Course Duration:Five Months,Course Fees:13000.0,Course Manager Name:Reno coordinator,Course Trainer:Reghu Guider
+2026-06-11 12:32:31,658 INFO c.c.a.CourseList [main] Institute Course Id:103
+ Course Name:Java Advance,Course Duration:Four Months,Course Fees:17000.5,Course Manager Name:Reno manager,Course Trainer:Reghu Trainer
+2026-06-11 12:32:31,658 INFO c.c.a.CourseList [main] Institute Course Id:102
+ Course Name:Java core,Course Duration:Three Months,Course Fees:19000.0,Course Manager Name:Reno sir,Course Trainer:Raghu
+2026-06-11 12:32:31,658 INFO c.c.a.CourseList [main] Institute Course Id:101
+ Course Name:Java FullStack,Course Duration:Six Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu sir
+2026-06-11 12:32:35,604 INFO c.c.a.EngineeringCollege [main] College Name:Government Engineering College Challakere
+2026-06-11 12:32:35,610 INFO c.c.a.EngineeringCollege [main] No of Staff:12
+2026-06-11 12:32:35,611 INFO c.c.a.EngineeringCollege [main] Principal Name:MahaGundappa
+2026-06-11 12:32:35,611 INFO c.c.a.Branches [main] Executing the get Branches in Branchges of College
+2026-06-11 12:32:35,611 INFO c.c.a.Branches [main] [Compute Science and Engineering, Artificial Intelligence and Engineering, Auto Mobile Engineering]
+2026-06-11 12:32:35,612 INFO c.c.a.EngineeringCollege [main] Branches:[Compute Science and Engineering, Artificial Intelligence and Engineering, Auto Mobile Engineering]
+2026-06-11 12:35:43,550 INFO c.c.a.CourseList [main] Execute the courseList in Institute in For Each Formate
+2026-06-11 12:35:43,558 INFO j.u.ArrayList [main] Institute Course Id:101
+ Course Name:Java FullStack,Course Duration:Six Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu sir
+2026-06-11 12:35:43,558 INFO j.u.ArrayList [main] Institute Course Id:102
+ Course Name:Java core,Course Duration:Three Months,Course Fees:19000.0,Course Manager Name:Reno sir,Course Trainer:Raghu
+2026-06-11 12:35:43,559 INFO j.u.ArrayList [main] Institute Course Id:103
+ Course Name:Java Advance,Course Duration:Four Months,Course Fees:17000.5,Course Manager Name:Reno manager,Course Trainer:Reghu Trainer
+2026-06-11 12:35:43,559 INFO j.u.ArrayList [main] Institute Course Id:104
+ Course Name:Spring Boot,Course Duration:Five Months,Course Fees:13000.0,Course Manager Name:Reno coordinator,Course Trainer:Reghu Guider
+2026-06-11 12:35:43,560 INFO c.c.a.CourseList [main] 
+2026-06-11 12:35:43,560 INFO c.c.a.CourseList [main] Execute the course Detailes in CourseList of Institute in For looping Formate
+2026-06-11 12:35:43,560 INFO c.c.a.CourseList [main] Institute Course Id:101
+ Course Name:Java FullStack,Course Duration:Six Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu sir
+2026-06-11 12:35:43,560 INFO c.c.a.CourseList [main] Institute Course Id:102
+ Course Name:Java core,Course Duration:Three Months,Course Fees:19000.0,Course Manager Name:Reno sir,Course Trainer:Raghu
+2026-06-11 12:35:43,561 INFO c.c.a.CourseList [main] Institute Course Id:103
+ Course Name:Java Advance,Course Duration:Four Months,Course Fees:17000.5,Course Manager Name:Reno manager,Course Trainer:Reghu Trainer
+2026-06-11 12:35:43,561 INFO c.c.a.CourseList [main] Institute Course Id:104
+ Course Name:Spring Boot,Course Duration:Five Months,Course Fees:13000.0,Course Manager Name:Reno coordinator,Course Trainer:Reghu Guider
+2026-06-11 12:35:43,562 INFO c.c.a.CourseList [main] 
+2026-06-11 12:35:43,562 INFO c.c.a.CourseList [main] Execute the info in Course List of Institute in Iterator Formate
+2026-06-11 12:35:43,562 INFO c.c.a.CourseList [main] Institute Course Id:101
+ Course Name:Java FullStack,Course Duration:Six Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu sir
+2026-06-11 12:35:43,562 INFO c.c.a.CourseList [main] Institute Course Id:102
+ Course Name:Java core,Course Duration:Three Months,Course Fees:19000.0,Course Manager Name:Reno sir,Course Trainer:Raghu
+2026-06-11 12:35:43,563 INFO c.c.a.CourseList [main] Institute Course Id:103
+ Course Name:Java Advance,Course Duration:Four Months,Course Fees:17000.5,Course Manager Name:Reno manager,Course Trainer:Reghu Trainer
+2026-06-11 12:35:43,563 INFO c.c.a.CourseList [main] Institute Course Id:104
+ Course Name:Spring Boot,Course Duration:Five Months,Course Fees:13000.0,Course Manager Name:Reno coordinator,Course Trainer:Reghu Guider
+2026-06-11 12:35:43,563 INFO c.c.a.CourseList [main] Execute the Information in Course List of Institute in Order in List Iterator Formate
+2026-06-11 12:35:43,564 INFO c.c.a.CourseList [main] Institute Course Id:101
+ Course Name:Java FullStack,Course Duration:Six Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu sir
+2026-06-11 12:35:43,564 INFO c.c.a.CourseList [main] Institute Course Id:102
+ Course Name:Java core,Course Duration:Three Months,Course Fees:19000.0,Course Manager Name:Reno sir,Course Trainer:Raghu
+2026-06-11 12:35:43,565 INFO c.c.a.CourseList [main] Institute Course Id:103
+ Course Name:Java Advance,Course Duration:Four Months,Course Fees:17000.5,Course Manager Name:Reno manager,Course Trainer:Reghu Trainer
+2026-06-11 12:35:43,565 INFO c.c.a.CourseList [main] Institute Course Id:104
+ Course Name:Spring Boot,Course Duration:Five Months,Course Fees:13000.0,Course Manager Name:Reno coordinator,Course Trainer:Reghu Guider
+2026-06-11 12:35:43,566 INFO c.c.a.CourseList [main] Execute the information in Course List of Institute in Reverse Order
+2026-06-11 12:35:43,566 INFO c.c.a.CourseList [main] Institute Course Id:104
+ Course Name:Spring Boot,Course Duration:Five Months,Course Fees:13000.0,Course Manager Name:Reno coordinator,Course Trainer:Reghu Guider
+2026-06-11 12:35:43,567 INFO c.c.a.CourseList [main] Institute Course Id:103
+ Course Name:Java Advance,Course Duration:Four Months,Course Fees:17000.5,Course Manager Name:Reno manager,Course Trainer:Reghu Trainer
+2026-06-11 12:35:43,567 INFO c.c.a.CourseList [main] Institute Course Id:102
+ Course Name:Java core,Course Duration:Three Months,Course Fees:19000.0,Course Manager Name:Reno sir,Course Trainer:Raghu
+2026-06-11 12:35:43,568 INFO c.c.a.CourseList [main] Institute Course Id:101
+ Course Name:Java FullStack,Course Duration:Six Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu sir
+2026-06-11 12:35:48,944 INFO c.c.a.CourseList [main] Execute the courseList in Institute in For Each Formate
+2026-06-11 12:35:48,952 INFO j.u.ArrayList [main] Institute Course Id:101
+ Course Name:Java FullStack,Course Duration:Six Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu sir
+2026-06-11 12:35:48,952 INFO j.u.ArrayList [main] Institute Course Id:102
+ Course Name:Java core,Course Duration:Three Months,Course Fees:19000.0,Course Manager Name:Reno sir,Course Trainer:Raghu
+2026-06-11 12:35:48,953 INFO j.u.ArrayList [main] Institute Course Id:103
+ Course Name:Java Advance,Course Duration:Four Months,Course Fees:17000.5,Course Manager Name:Reno manager,Course Trainer:Reghu Trainer
+2026-06-11 12:35:48,953 INFO j.u.ArrayList [main] Institute Course Id:104
+ Course Name:Spring Boot,Course Duration:Five Months,Course Fees:13000.0,Course Manager Name:Reno coordinator,Course Trainer:Reghu Guider
+2026-06-11 12:35:48,954 INFO c.c.a.CourseList [main] 
+2026-06-11 12:35:48,954 INFO c.c.a.CourseList [main] Execute the course Detailes in CourseList of Institute in For looping Formate
+2026-06-11 12:35:48,954 INFO c.c.a.CourseList [main] Institute Course Id:101
+ Course Name:Java FullStack,Course Duration:Six Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu sir
+2026-06-11 12:35:48,954 INFO c.c.a.CourseList [main] Institute Course Id:102
+ Course Name:Java core,Course Duration:Three Months,Course Fees:19000.0,Course Manager Name:Reno sir,Course Trainer:Raghu
+2026-06-11 12:35:48,955 INFO c.c.a.CourseList [main] Institute Course Id:103
+ Course Name:Java Advance,Course Duration:Four Months,Course Fees:17000.5,Course Manager Name:Reno manager,Course Trainer:Reghu Trainer
+2026-06-11 12:35:48,955 INFO c.c.a.CourseList [main] Institute Course Id:104
+ Course Name:Spring Boot,Course Duration:Five Months,Course Fees:13000.0,Course Manager Name:Reno coordinator,Course Trainer:Reghu Guider
+2026-06-11 12:35:48,955 INFO c.c.a.CourseList [main] 
+2026-06-11 12:35:48,955 INFO c.c.a.CourseList [main] Execute the info in Course List of Institute in Iterator Formate
+2026-06-11 12:35:48,955 INFO c.c.a.CourseList [main] Institute Course Id:101
+ Course Name:Java FullStack,Course Duration:Six Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu sir
+2026-06-11 12:35:48,956 INFO c.c.a.CourseList [main] Institute Course Id:102
+ Course Name:Java core,Course Duration:Three Months,Course Fees:19000.0,Course Manager Name:Reno sir,Course Trainer:Raghu
+2026-06-11 12:35:48,956 INFO c.c.a.CourseList [main] Institute Course Id:103
+ Course Name:Java Advance,Course Duration:Four Months,Course Fees:17000.5,Course Manager Name:Reno manager,Course Trainer:Reghu Trainer
+2026-06-11 12:35:48,956 INFO c.c.a.CourseList [main] Institute Course Id:104
+ Course Name:Spring Boot,Course Duration:Five Months,Course Fees:13000.0,Course Manager Name:Reno coordinator,Course Trainer:Reghu Guider
+2026-06-11 12:35:48,956 INFO c.c.a.CourseList [main] Execute the Information in Course List of Institute in Order in List Iterator Formate
+2026-06-11 12:35:48,957 INFO c.c.a.CourseList [main] Institute Course Id:101
+ Course Name:Java FullStack,Course Duration:Six Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu sir
+2026-06-11 12:35:48,957 INFO c.c.a.CourseList [main] Institute Course Id:102
+ Course Name:Java core,Course Duration:Three Months,Course Fees:19000.0,Course Manager Name:Reno sir,Course Trainer:Raghu
+2026-06-11 12:35:48,957 INFO c.c.a.CourseList [main] Institute Course Id:103
+ Course Name:Java Advance,Course Duration:Four Months,Course Fees:17000.5,Course Manager Name:Reno manager,Course Trainer:Reghu Trainer
+2026-06-11 12:35:48,957 INFO c.c.a.CourseList [main] Institute Course Id:104
+ Course Name:Spring Boot,Course Duration:Five Months,Course Fees:13000.0,Course Manager Name:Reno coordinator,Course Trainer:Reghu Guider
+2026-06-11 12:35:48,958 INFO c.c.a.CourseList [main] Execute the information in Course List of Institute in Reverse Order
+2026-06-11 12:35:48,958 INFO c.c.a.CourseList [main] Institute Course Id:104
+ Course Name:Spring Boot,Course Duration:Five Months,Course Fees:13000.0,Course Manager Name:Reno coordinator,Course Trainer:Reghu Guider
+2026-06-11 12:35:48,958 INFO c.c.a.CourseList [main] Institute Course Id:103
+ Course Name:Java Advance,Course Duration:Four Months,Course Fees:17000.5,Course Manager Name:Reno manager,Course Trainer:Reghu Trainer
+2026-06-11 12:35:48,958 INFO c.c.a.CourseList [main] Institute Course Id:102
+ Course Name:Java core,Course Duration:Three Months,Course Fees:19000.0,Course Manager Name:Reno sir,Course Trainer:Raghu
+2026-06-11 12:35:48,958 INFO c.c.a.CourseList [main] Institute Course Id:101
+ Course Name:Java FullStack,Course Duration:Six Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu sir
+2026-06-11 12:37:44,911 INFO c.c.a.CourseList [main] Execute the courseList in Institute in For Each Formate
+2026-06-11 12:37:44,919 INFO j.u.ArrayList [main] Institute Course Id:101
+ Course Name:Java FullStack,Course Duration:Six Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu sir
+2026-06-11 12:37:44,919 INFO j.u.ArrayList [main] Institute Course Id:102
+ Course Name:Java core,Course Duration:Three Months,Course Fees:19000.0,Course Manager Name:Reno sir,Course Trainer:Raghu
+2026-06-11 12:37:44,920 INFO j.u.ArrayList [main] Institute Course Id:103
+ Course Name:Java Advance,Course Duration:Four Months,Course Fees:17000.5,Course Manager Name:Reno manager,Course Trainer:Reghu Trainer
+2026-06-11 12:37:44,920 INFO j.u.ArrayList [main] Institute Course Id:104
+ Course Name:Spring Boot,Course Duration:Five Months,Course Fees:13000.0,Course Manager Name:Reno coordinator,Course Trainer:Reghu Guider
+2026-06-11 12:37:44,920 INFO c.c.a.CourseList [main] 
+2026-06-11 12:37:44,920 INFO c.c.a.CourseList [main] Execute the course Detailes in CourseList of Institute in For looping Formate
+2026-06-11 12:37:44,921 INFO c.c.a.CourseList [main] Institute Course Id:101
+ Course Name:Java FullStack,Course Duration:Six Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu sir
+2026-06-11 12:37:44,921 INFO c.c.a.CourseList [main] Institute Course Id:102
+ Course Name:Java core,Course Duration:Three Months,Course Fees:19000.0,Course Manager Name:Reno sir,Course Trainer:Raghu
+2026-06-11 12:37:44,922 INFO c.c.a.CourseList [main] Institute Course Id:103
+ Course Name:Java Advance,Course Duration:Four Months,Course Fees:17000.5,Course Manager Name:Reno manager,Course Trainer:Reghu Trainer
+2026-06-11 12:37:44,922 INFO c.c.a.CourseList [main] Institute Course Id:104
+ Course Name:Spring Boot,Course Duration:Five Months,Course Fees:13000.0,Course Manager Name:Reno coordinator,Course Trainer:Reghu Guider
+2026-06-11 12:37:44,922 INFO c.c.a.CourseList [main] 
+2026-06-11 12:37:44,922 INFO c.c.a.CourseList [main] Execute the info in Course List of Institute in Iterator Formate
+2026-06-11 12:37:44,923 INFO c.c.a.CourseList [main] Institute Course Id:101
+ Course Name:Java FullStack,Course Duration:Six Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu sir
+2026-06-11 12:37:44,923 INFO c.c.a.CourseList [main] Institute Course Id:102
+ Course Name:Java core,Course Duration:Three Months,Course Fees:19000.0,Course Manager Name:Reno sir,Course Trainer:Raghu
+2026-06-11 12:37:44,923 INFO c.c.a.CourseList [main] Institute Course Id:103
+ Course Name:Java Advance,Course Duration:Four Months,Course Fees:17000.5,Course Manager Name:Reno manager,Course Trainer:Reghu Trainer
+2026-06-11 12:37:44,923 INFO c.c.a.CourseList [main] Institute Course Id:104
+ Course Name:Spring Boot,Course Duration:Five Months,Course Fees:13000.0,Course Manager Name:Reno coordinator,Course Trainer:Reghu Guider
+2026-06-11 12:37:44,924 INFO c.c.a.CourseList [main] Execute the Information in Course List of Institute in Order in List Iterator Formate
+2026-06-11 12:37:44,924 INFO c.c.a.CourseList [main] Institute Course Id:101
+ Course Name:Java FullStack,Course Duration:Six Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu sir
+2026-06-11 12:37:44,925 INFO c.c.a.CourseList [main] Institute Course Id:102
+ Course Name:Java core,Course Duration:Three Months,Course Fees:19000.0,Course Manager Name:Reno sir,Course Trainer:Raghu
+2026-06-11 12:37:44,925 INFO c.c.a.CourseList [main] Institute Course Id:103
+ Course Name:Java Advance,Course Duration:Four Months,Course Fees:17000.5,Course Manager Name:Reno manager,Course Trainer:Reghu Trainer
+2026-06-11 12:37:44,925 INFO c.c.a.CourseList [main] Institute Course Id:104
+ Course Name:Spring Boot,Course Duration:Five Months,Course Fees:13000.0,Course Manager Name:Reno coordinator,Course Trainer:Reghu Guider
+2026-06-11 12:37:44,925 INFO c.c.a.CourseList [main] Execute the information in Course List of Institute in Reverse Order
+2026-06-11 12:37:44,926 INFO c.c.a.CourseList [main] Institute Course Id:104
+ Course Name:Spring Boot,Course Duration:Five Months,Course Fees:13000.0,Course Manager Name:Reno coordinator,Course Trainer:Reghu Guider
+2026-06-11 12:37:44,926 INFO c.c.a.CourseList [main] Institute Course Id:103
+ Course Name:Java Advance,Course Duration:Four Months,Course Fees:17000.5,Course Manager Name:Reno manager,Course Trainer:Reghu Trainer
+2026-06-11 12:37:44,926 INFO c.c.a.CourseList [main] Institute Course Id:102
+ Course Name:Java core,Course Duration:Three Months,Course Fees:19000.0,Course Manager Name:Reno sir,Course Trainer:Raghu
+2026-06-11 12:37:44,926 INFO c.c.a.CourseList [main] Institute Course Id:101
+ Course Name:Java FullStack,Course Duration:Six Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu sir
+2026-06-11 12:38:24,657 INFO c.c.a.CourseList [main] Execute the courseList in Institute in For Each Formate
+2026-06-11 12:38:24,664 INFO j.u.ArrayList [main] com.corejavaproject.arrayList.Institute@5609159b
+2026-06-11 12:38:24,664 INFO j.u.ArrayList [main] com.corejavaproject.arrayList.Institute@17a7f733
+2026-06-11 12:38:24,665 INFO j.u.ArrayList [main] com.corejavaproject.arrayList.Institute@76ed1b7c
+2026-06-11 12:38:24,665 INFO j.u.ArrayList [main] com.corejavaproject.arrayList.Institute@11fc564b
+2026-06-11 12:38:24,665 INFO c.c.a.CourseList [main] 
+2026-06-11 12:38:24,666 INFO c.c.a.CourseList [main] Execute the course Detailes in CourseList of Institute in For looping Formate
+2026-06-11 12:38:24,666 INFO c.c.a.CourseList [main] com.corejavaproject.arrayList.Institute@5609159b
+2026-06-11 12:38:24,666 INFO c.c.a.CourseList [main] com.corejavaproject.arrayList.Institute@17a7f733
+2026-06-11 12:38:24,666 INFO c.c.a.CourseList [main] com.corejavaproject.arrayList.Institute@76ed1b7c
+2026-06-11 12:38:24,666 INFO c.c.a.CourseList [main] com.corejavaproject.arrayList.Institute@11fc564b
+2026-06-11 12:38:24,666 INFO c.c.a.CourseList [main] 
+2026-06-11 12:38:24,667 INFO c.c.a.CourseList [main] Execute the info in Course List of Institute in Iterator Formate
+2026-06-11 12:38:24,667 INFO c.c.a.CourseList [main] com.corejavaproject.arrayList.Institute@5609159b
+2026-06-11 12:38:24,667 INFO c.c.a.CourseList [main] com.corejavaproject.arrayList.Institute@17a7f733
+2026-06-11 12:38:24,667 INFO c.c.a.CourseList [main] com.corejavaproject.arrayList.Institute@76ed1b7c
+2026-06-11 12:38:24,667 INFO c.c.a.CourseList [main] com.corejavaproject.arrayList.Institute@11fc564b
+2026-06-11 12:38:24,668 INFO c.c.a.CourseList [main] Execute the Information in Course List of Institute in Order in List Iterator Formate
+2026-06-11 12:38:24,669 INFO c.c.a.CourseList [main] com.corejavaproject.arrayList.Institute@5609159b
+2026-06-11 12:38:24,669 INFO c.c.a.CourseList [main] com.corejavaproject.arrayList.Institute@17a7f733
+2026-06-11 12:38:24,669 INFO c.c.a.CourseList [main] com.corejavaproject.arrayList.Institute@76ed1b7c
+2026-06-11 12:38:24,669 INFO c.c.a.CourseList [main] com.corejavaproject.arrayList.Institute@11fc564b
+2026-06-11 12:38:24,670 INFO c.c.a.CourseList [main] Execute the information in Course List of Institute in Reverse Order
+2026-06-11 12:38:24,670 INFO c.c.a.CourseList [main] com.corejavaproject.arrayList.Institute@11fc564b
+2026-06-11 12:38:24,670 INFO c.c.a.CourseList [main] com.corejavaproject.arrayList.Institute@76ed1b7c
+2026-06-11 12:38:24,670 INFO c.c.a.CourseList [main] com.corejavaproject.arrayList.Institute@17a7f733
+2026-06-11 12:38:24,670 INFO c.c.a.CourseList [main] com.corejavaproject.arrayList.Institute@5609159b
+2026-06-11 12:38:45,800 INFO c.c.a.CourseList [main] Execute the courseList in Institute in For Each Formate
+2026-06-11 12:38:45,810 INFO j.u.ArrayList [main] Institute Course Id:101
+ Course Name:Java FullStack,Course Duration:Six Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu sir
+2026-06-11 12:38:45,810 INFO j.u.ArrayList [main] Institute Course Id:102
+ Course Name:Java core,Course Duration:Three Months,Course Fees:19000.0,Course Manager Name:Reno sir,Course Trainer:Raghu
+2026-06-11 12:38:45,811 INFO j.u.ArrayList [main] Institute Course Id:103
+ Course Name:Java Advance,Course Duration:Four Months,Course Fees:17000.5,Course Manager Name:Reno manager,Course Trainer:Reghu Trainer
+2026-06-11 12:38:45,811 INFO j.u.ArrayList [main] Institute Course Id:104
+ Course Name:Spring Boot,Course Duration:Five Months,Course Fees:13000.0,Course Manager Name:Reno coordinator,Course Trainer:Reghu Guider
+2026-06-11 12:38:45,812 INFO c.c.a.CourseList [main] 
+2026-06-11 12:38:45,812 INFO c.c.a.CourseList [main] Execute the course Detailes in CourseList of Institute in For looping Formate
+2026-06-11 12:38:45,812 INFO c.c.a.CourseList [main] Institute Course Id:101
+ Course Name:Java FullStack,Course Duration:Six Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu sir
+2026-06-11 12:38:45,812 INFO c.c.a.CourseList [main] Institute Course Id:102
+ Course Name:Java core,Course Duration:Three Months,Course Fees:19000.0,Course Manager Name:Reno sir,Course Trainer:Raghu
+2026-06-11 12:38:45,812 INFO c.c.a.CourseList [main] Institute Course Id:103
+ Course Name:Java Advance,Course Duration:Four Months,Course Fees:17000.5,Course Manager Name:Reno manager,Course Trainer:Reghu Trainer
+2026-06-11 12:38:45,813 INFO c.c.a.CourseList [main] Institute Course Id:104
+ Course Name:Spring Boot,Course Duration:Five Months,Course Fees:13000.0,Course Manager Name:Reno coordinator,Course Trainer:Reghu Guider
+2026-06-11 12:38:45,813 INFO c.c.a.CourseList [main] 
+2026-06-11 12:38:45,813 INFO c.c.a.CourseList [main] Execute the info in Course List of Institute in Iterator Formate
+2026-06-11 12:38:45,813 INFO c.c.a.CourseList [main] Institute Course Id:101
+ Course Name:Java FullStack,Course Duration:Six Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu sir
+2026-06-11 12:38:45,813 INFO c.c.a.CourseList [main] Institute Course Id:102
+ Course Name:Java core,Course Duration:Three Months,Course Fees:19000.0,Course Manager Name:Reno sir,Course Trainer:Raghu
+2026-06-11 12:38:45,814 INFO c.c.a.CourseList [main] Institute Course Id:103
+ Course Name:Java Advance,Course Duration:Four Months,Course Fees:17000.5,Course Manager Name:Reno manager,Course Trainer:Reghu Trainer
+2026-06-11 12:38:45,814 INFO c.c.a.CourseList [main] Institute Course Id:104
+ Course Name:Spring Boot,Course Duration:Five Months,Course Fees:13000.0,Course Manager Name:Reno coordinator,Course Trainer:Reghu Guider
+2026-06-11 12:38:45,814 INFO c.c.a.CourseList [main] Execute the Information in Course List of Institute in Order in List Iterator Formate
+2026-06-11 12:38:45,814 INFO c.c.a.CourseList [main] Institute Course Id:101
+ Course Name:Java FullStack,Course Duration:Six Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu sir
+2026-06-11 12:38:45,815 INFO c.c.a.CourseList [main] Institute Course Id:102
+ Course Name:Java core,Course Duration:Three Months,Course Fees:19000.0,Course Manager Name:Reno sir,Course Trainer:Raghu
+2026-06-11 12:38:45,815 INFO c.c.a.CourseList [main] Institute Course Id:103
+ Course Name:Java Advance,Course Duration:Four Months,Course Fees:17000.5,Course Manager Name:Reno manager,Course Trainer:Reghu Trainer
+2026-06-11 12:38:45,815 INFO c.c.a.CourseList [main] Institute Course Id:104
+ Course Name:Spring Boot,Course Duration:Five Months,Course Fees:13000.0,Course Manager Name:Reno coordinator,Course Trainer:Reghu Guider
+2026-06-11 12:38:45,815 INFO c.c.a.CourseList [main] Execute the information in Course List of Institute in Reverse Order
+2026-06-11 12:38:45,816 INFO c.c.a.CourseList [main] Institute Course Id:104
+ Course Name:Spring Boot,Course Duration:Five Months,Course Fees:13000.0,Course Manager Name:Reno coordinator,Course Trainer:Reghu Guider
+2026-06-11 12:38:45,816 INFO c.c.a.CourseList [main] Institute Course Id:103
+ Course Name:Java Advance,Course Duration:Four Months,Course Fees:17000.5,Course Manager Name:Reno manager,Course Trainer:Reghu Trainer
+2026-06-11 12:38:45,816 INFO c.c.a.CourseList [main] Institute Course Id:102
+ Course Name:Java core,Course Duration:Three Months,Course Fees:19000.0,Course Manager Name:Reno sir,Course Trainer:Raghu
+2026-06-11 12:38:45,816 INFO c.c.a.CourseList [main] Institute Course Id:101
+ Course Name:Java FullStack,Course Duration:Six Months,Course Fees:30000.0,Course Manager Name:Reno,Course Trainer:Reghu sir
+2026-06-11 12:50:35,299 INFO c.c.a.CourseList [main] Execute the courseList in Institute in For Each Formate
+2026-06-11 12:50:35,306 INFO j.u.ArrayList [main] {Id=101, Name=Java FullStack, Duration=Six Months, Fees=30000.0}
+2026-06-11 12:50:35,306 INFO j.u.ArrayList [main] {Id=102, Name=Java core, Duration=Three Months, Fees=19000.0}
+2026-06-11 12:50:35,307 INFO j.u.ArrayList [main] {Id=103, Name=Java Advance, Duration=Four Months, Fees=17000.5}
+2026-06-11 12:50:35,307 INFO j.u.ArrayList [main] {Id=104, Name=Spring Boot, Duration=Five Months, Fees=13000.0}
+2026-06-11 12:50:35,307 INFO c.c.a.CourseList [main] 
+2026-06-11 12:50:35,308 INFO c.c.a.CourseList [main] Execute the course Detailes in CourseList of Institute in For looping Formate
+2026-06-11 12:50:35,308 INFO c.c.a.CourseList [main] {Id=101, Name=Java FullStack, Duration=Six Months, Fees=30000.0}
+2026-06-11 12:50:35,308 INFO c.c.a.CourseList [main] {Id=102, Name=Java core, Duration=Three Months, Fees=19000.0}
+2026-06-11 12:50:35,308 INFO c.c.a.CourseList [main] {Id=103, Name=Java Advance, Duration=Four Months, Fees=17000.5}
+2026-06-11 12:50:35,308 INFO c.c.a.CourseList [main] {Id=104, Name=Spring Boot, Duration=Five Months, Fees=13000.0}
+2026-06-11 12:50:35,309 INFO c.c.a.CourseList [main] 
+2026-06-11 12:50:35,309 INFO c.c.a.CourseList [main] Execute the info in Course List of Institute in Iterator Formate
+2026-06-11 12:50:35,309 INFO c.c.a.CourseList [main] {Id=101, Name=Java FullStack, Duration=Six Months, Fees=30000.0}
+2026-06-11 12:50:35,309 INFO c.c.a.CourseList [main] {Id=102, Name=Java core, Duration=Three Months, Fees=19000.0}
+2026-06-11 12:50:35,310 INFO c.c.a.CourseList [main] {Id=103, Name=Java Advance, Duration=Four Months, Fees=17000.5}
+2026-06-11 12:50:35,310 INFO c.c.a.CourseList [main] {Id=104, Name=Spring Boot, Duration=Five Months, Fees=13000.0}
+2026-06-11 12:50:35,311 INFO c.c.a.CourseList [main] Execute the Information in Course List of Institute in Order in List Iterator Formate
+2026-06-11 12:50:35,311 INFO c.c.a.CourseList [main] {Id=101, Name=Java FullStack, Duration=Six Months, Fees=30000.0}
+2026-06-11 12:50:35,311 INFO c.c.a.CourseList [main] {Id=102, Name=Java core, Duration=Three Months, Fees=19000.0}
+2026-06-11 12:50:35,311 INFO c.c.a.CourseList [main] {Id=103, Name=Java Advance, Duration=Four Months, Fees=17000.5}
+2026-06-11 12:50:35,312 INFO c.c.a.CourseList [main] {Id=104, Name=Spring Boot, Duration=Five Months, Fees=13000.0}
+2026-06-11 12:50:35,312 INFO c.c.a.CourseList [main] Execute the information in Course List of Institute in Reverse Order
+2026-06-11 12:50:35,312 INFO c.c.a.CourseList [main] {Id=104, Name=Spring Boot, Duration=Five Months, Fees=13000.0}
+2026-06-11 12:50:35,312 INFO c.c.a.CourseList [main] {Id=103, Name=Java Advance, Duration=Four Months, Fees=17000.5}
+2026-06-11 12:50:35,312 INFO c.c.a.CourseList [main] {Id=102, Name=Java core, Duration=Three Months, Fees=19000.0}
+2026-06-11 12:50:35,312 INFO c.c.a.CourseList [main] {Id=101, Name=Java FullStack, Duration=Six Months, Fees=30000.0}
+2026-06-11 12:51:06,155 INFO c.c.a.CourseList [main] Execute the courseList in Institute in For Each Formate
+2026-06-11 12:51:06,164 INFO j.u.ArrayList [main] [Id=101, Name=Java FullStack, Duration=Six Months, Fees=30000.0]
+2026-06-11 12:51:06,164 INFO j.u.ArrayList [main] [Id=102, Name=Java core, Duration=Three Months, Fees=19000.0]
+2026-06-11 12:51:06,165 INFO j.u.ArrayList [main] [Id=103, Name=Java Advance, Duration=Four Months, Fees=17000.5]
+2026-06-11 12:51:06,166 INFO j.u.ArrayList [main] [Id=104, Name=Spring Boot, Duration=Five Months, Fees=13000.0]
+2026-06-11 12:51:06,166 INFO c.c.a.CourseList [main] 
+2026-06-11 12:51:06,166 INFO c.c.a.CourseList [main] Execute the course Detailes in CourseList of Institute in For looping Formate
+2026-06-11 12:51:06,166 INFO c.c.a.CourseList [main] [Id=101, Name=Java FullStack, Duration=Six Months, Fees=30000.0]
+2026-06-11 12:51:06,166 INFO c.c.a.CourseList [main] [Id=102, Name=Java core, Duration=Three Months, Fees=19000.0]
+2026-06-11 12:51:06,167 INFO c.c.a.CourseList [main] [Id=103, Name=Java Advance, Duration=Four Months, Fees=17000.5]
+2026-06-11 12:51:06,167 INFO c.c.a.CourseList [main] [Id=104, Name=Spring Boot, Duration=Five Months, Fees=13000.0]
+2026-06-11 12:51:06,167 INFO c.c.a.CourseList [main] 
+2026-06-11 12:51:06,167 INFO c.c.a.CourseList [main] Execute the info in Course List of Institute in Iterator Formate
+2026-06-11 12:51:06,167 INFO c.c.a.CourseList [main] [Id=101, Name=Java FullStack, Duration=Six Months, Fees=30000.0]
+2026-06-11 12:51:06,167 INFO c.c.a.CourseList [main] [Id=102, Name=Java core, Duration=Three Months, Fees=19000.0]
+2026-06-11 12:51:06,168 INFO c.c.a.CourseList [main] [Id=103, Name=Java Advance, Duration=Four Months, Fees=17000.5]
+2026-06-11 12:51:06,168 INFO c.c.a.CourseList [main] [Id=104, Name=Spring Boot, Duration=Five Months, Fees=13000.0]
+2026-06-11 12:51:06,168 INFO c.c.a.CourseList [main] Execute the Information in Course List of Institute in Order in List Iterator Formate
+2026-06-11 12:51:06,168 INFO c.c.a.CourseList [main] [Id=101, Name=Java FullStack, Duration=Six Months, Fees=30000.0]
+2026-06-11 12:51:06,169 INFO c.c.a.CourseList [main] [Id=102, Name=Java core, Duration=Three Months, Fees=19000.0]
+2026-06-11 12:51:06,169 INFO c.c.a.CourseList [main] [Id=103, Name=Java Advance, Duration=Four Months, Fees=17000.5]
+2026-06-11 12:51:06,169 INFO c.c.a.CourseList [main] [Id=104, Name=Spring Boot, Duration=Five Months, Fees=13000.0]
+2026-06-11 12:51:06,169 INFO c.c.a.CourseList [main] Execute the information in Course List of Institute in Reverse Order
+2026-06-11 12:51:06,169 INFO c.c.a.CourseList [main] [Id=104, Name=Spring Boot, Duration=Five Months, Fees=13000.0]
+2026-06-11 12:51:06,170 INFO c.c.a.CourseList [main] [Id=103, Name=Java Advance, Duration=Four Months, Fees=17000.5]
+2026-06-11 12:51:06,170 INFO c.c.a.CourseList [main] [Id=102, Name=Java core, Duration=Three Months, Fees=19000.0]
+2026-06-11 12:51:06,170 INFO c.c.a.CourseList [main] [Id=101, Name=Java FullStack, Duration=Six Months, Fees=30000.0]
+2026-06-11 12:52:23,635 INFO c.c.a.CourseList [main] Execute the courseList in Institute in For Each Formate
+2026-06-11 12:52:23,643 INFO j.u.ArrayList [main] [Id=101, Name=Java FullStack, Duration=Six Months, Fees=30000.0]
+2026-06-11 12:52:23,644 INFO j.u.ArrayList [main] [Id=102, Name=Java core, Duration=Three Months, Fees=19000.0]
+2026-06-11 12:52:23,644 INFO j.u.ArrayList [main] [Id=103, Name=Java Advance, Duration=Four Months, Fees=17000.5]
+2026-06-11 12:52:23,644 INFO j.u.ArrayList [main] [Id=104, Name=Spring Boot, Duration=Five Months, Fees=13000.0]
+2026-06-11 12:52:23,645 INFO c.c.a.CourseList [main] 
+2026-06-11 12:52:23,645 INFO c.c.a.CourseList [main] Execute the course Detailes in CourseList of Institute in For looping Formate
+2026-06-11 12:52:23,645 INFO c.c.a.CourseList [main] [Id=101, Name=Java FullStack, Duration=Six Months, Fees=30000.0]
+2026-06-11 12:52:23,645 INFO c.c.a.CourseList [main] [Id=102, Name=Java core, Duration=Three Months, Fees=19000.0]
+2026-06-11 12:52:23,645 INFO c.c.a.CourseList [main] [Id=103, Name=Java Advance, Duration=Four Months, Fees=17000.5]
+2026-06-11 12:52:23,646 INFO c.c.a.CourseList [main] [Id=104, Name=Spring Boot, Duration=Five Months, Fees=13000.0]
+2026-06-11 12:52:23,646 INFO c.c.a.CourseList [main] 
+2026-06-11 12:52:23,646 INFO c.c.a.CourseList [main] Execute the info in Course List of Institute in Iterator Formate
+2026-06-11 12:52:23,646 INFO c.c.a.CourseList [main] [Id=101, Name=Java FullStack, Duration=Six Months, Fees=30000.0]
+2026-06-11 12:52:23,647 INFO c.c.a.CourseList [main] [Id=102, Name=Java core, Duration=Three Months, Fees=19000.0]
+2026-06-11 12:52:23,647 INFO c.c.a.CourseList [main] [Id=103, Name=Java Advance, Duration=Four Months, Fees=17000.5]
+2026-06-11 12:52:23,647 INFO c.c.a.CourseList [main] [Id=104, Name=Spring Boot, Duration=Five Months, Fees=13000.0]
+2026-06-11 12:52:23,647 INFO c.c.a.CourseList [main] Execute the Information in Course List of Institute in Order in List Iterator Formate
+2026-06-11 12:52:23,648 INFO c.c.a.CourseList [main] [Id=101, Name=Java FullStack, Duration=Six Months, Fees=30000.0]
+2026-06-11 12:52:23,648 INFO c.c.a.CourseList [main] [Id=102, Name=Java core, Duration=Three Months, Fees=19000.0]
+2026-06-11 12:52:23,649 INFO c.c.a.CourseList [main] [Id=103, Name=Java Advance, Duration=Four Months, Fees=17000.5]
+2026-06-11 12:52:23,649 INFO c.c.a.CourseList [main] [Id=104, Name=Spring Boot, Duration=Five Months, Fees=13000.0]
+2026-06-11 12:52:23,649 INFO c.c.a.CourseList [main] Execute the information in Course List of Institute in Reverse Order
+2026-06-11 12:52:23,649 INFO c.c.a.CourseList [main] [Id=104, Name=Spring Boot, Duration=Five Months, Fees=13000.0]
+2026-06-11 12:52:23,649 INFO c.c.a.CourseList [main] [Id=103, Name=Java Advance, Duration=Four Months, Fees=17000.5]
+2026-06-11 12:52:23,650 INFO c.c.a.CourseList [main] [Id=102, Name=Java core, Duration=Three Months, Fees=19000.0]
+2026-06-11 12:52:23,650 INFO c.c.a.CourseList [main] [Id=101, Name=Java FullStack, Duration=Six Months, Fees=30000.0]
+2026-06-11 12:57:56,364 INFO c.c.a.CourseList [main] Execute the courseList in Institute in For Each Formate
+2026-06-11 12:57:56,376 INFO j.u.ArrayList [main] [Id=101, Name=Java FullStack, Duration=Six Months, Fees=30000.0]
+2026-06-11 12:57:56,377 INFO j.u.ArrayList [main] [Id=102, Name=Java core, Duration=Three Months, Fees=19000.0]
+2026-06-11 12:57:56,378 INFO j.u.ArrayList [main] [Id=103, Name=Java Advance, Duration=Four Months, Fees=17000.5]
+2026-06-11 12:57:56,379 INFO j.u.ArrayList [main] [Id=104, Name=Spring Boot, Duration=Five Months, Fees=13000.0]
+2026-06-11 12:57:56,379 INFO c.c.a.CourseList [main] 
+2026-06-11 12:57:56,380 INFO c.c.a.CourseList [main] Execute the course Detailes in CourseList of Institute in For looping Formate
+2026-06-11 12:57:56,380 INFO c.c.a.CourseList [main] [Id=101, Name=Java FullStack, Duration=Six Months, Fees=30000.0]
+2026-06-11 12:57:56,381 INFO c.c.a.CourseList [main] [Id=102, Name=Java core, Duration=Three Months, Fees=19000.0]
+2026-06-11 12:57:56,381 INFO c.c.a.CourseList [main] [Id=103, Name=Java Advance, Duration=Four Months, Fees=17000.5]
+2026-06-11 12:57:56,382 INFO c.c.a.CourseList [main] [Id=104, Name=Spring Boot, Duration=Five Months, Fees=13000.0]
+2026-06-11 12:57:56,382 INFO c.c.a.CourseList [main] 
+2026-06-11 12:57:56,384 INFO c.c.a.CourseList [main] Execute the info in Course List of Institute in Iterator Formate
+2026-06-11 12:57:56,384 INFO c.c.a.CourseList [main] [Id=101, Name=Java FullStack, Duration=Six Months, Fees=30000.0]
+2026-06-11 12:57:56,384 INFO c.c.a.CourseList [main] [Id=102, Name=Java core, Duration=Three Months, Fees=19000.0]
+2026-06-11 12:57:56,385 INFO c.c.a.CourseList [main] [Id=103, Name=Java Advance, Duration=Four Months, Fees=17000.5]
+2026-06-11 12:57:56,385 INFO c.c.a.CourseList [main] [Id=104, Name=Spring Boot, Duration=Five Months, Fees=13000.0]
+2026-06-11 12:57:56,385 INFO c.c.a.CourseList [main] Execute the Information in Course List of Institute in Order in List Iterator Formate
+2026-06-11 12:57:56,386 INFO c.c.a.CourseList [main] [Id=101, Name=Java FullStack, Duration=Six Months, Fees=30000.0]
+2026-06-11 12:57:56,386 INFO c.c.a.CourseList [main] [Id=102, Name=Java core, Duration=Three Months, Fees=19000.0]
+2026-06-11 12:57:56,387 INFO c.c.a.CourseList [main] [Id=103, Name=Java Advance, Duration=Four Months, Fees=17000.5]
+2026-06-11 12:57:56,387 INFO c.c.a.CourseList [main] [Id=104, Name=Spring Boot, Duration=Five Months, Fees=13000.0]
+2026-06-11 12:57:56,387 INFO c.c.a.CourseList [main] Execute the information in Course List of Institute in Reverse Order
+2026-06-11 12:57:56,388 INFO c.c.a.CourseList [main] [Id=104, Name=Spring Boot, Duration=Five Months, Fees=13000.0]
+2026-06-11 12:57:56,388 INFO c.c.a.CourseList [main] [Id=103, Name=Java Advance, Duration=Four Months, Fees=17000.5]
+2026-06-11 12:57:56,388 INFO c.c.a.CourseList [main] [Id=102, Name=Java core, Duration=Three Months, Fees=19000.0]
+2026-06-11 12:57:56,388 INFO c.c.a.CourseList [main] [Id=101, Name=Java FullStack, Duration=Six Months, Fees=30000.0]
+2026-06-11 12:59:01,032 INFO c.c.a.CourseList [main] Execute the courseList in Institute in For Each Formate
+2026-06-11 12:59:01,045 INFO j.u.ArrayList [main] [Id=101, Name=Java FullStack, Duration=Six Months, Fees=30000.0]
+2026-06-11 12:59:01,046 INFO j.u.ArrayList [main] [Id=103, Name=Java core, Duration=Three Months, Fees=19000.0]
+2026-06-11 12:59:01,047 INFO j.u.ArrayList [main] [Id=102, Name=Java Advance, Duration=Four Months, Fees=17000.5]
+2026-06-11 12:59:01,048 INFO j.u.ArrayList [main] [Id=106, Name=Spring Boot, Duration=Five Months, Fees=13000.0]
+2026-06-11 12:59:01,048 INFO c.c.a.CourseList [main] 
+2026-06-11 12:59:01,049 INFO c.c.a.CourseList [main] Execute the course Detailes in CourseList of Institute in For looping Formate
+2026-06-11 12:59:01,050 INFO c.c.a.CourseList [main] [Id=101, Name=Java FullStack, Duration=Six Months, Fees=30000.0]
+2026-06-11 12:59:01,050 INFO c.c.a.CourseList [main] [Id=103, Name=Java core, Duration=Three Months, Fees=19000.0]
+2026-06-11 12:59:01,051 INFO c.c.a.CourseList [main] [Id=102, Name=Java Advance, Duration=Four Months, Fees=17000.5]
+2026-06-11 12:59:01,051 INFO c.c.a.CourseList [main] [Id=106, Name=Spring Boot, Duration=Five Months, Fees=13000.0]
+2026-06-11 12:59:01,051 INFO c.c.a.CourseList [main] 
+2026-06-11 12:59:01,052 INFO c.c.a.CourseList [main] Execute the info in Course List of Institute in Iterator Formate
+2026-06-11 12:59:01,052 INFO c.c.a.CourseList [main] [Id=101, Name=Java FullStack, Duration=Six Months, Fees=30000.0]
+2026-06-11 12:59:01,052 INFO c.c.a.CourseList [main] [Id=103, Name=Java core, Duration=Three Months, Fees=19000.0]
+2026-06-11 12:59:01,053 INFO c.c.a.CourseList [main] [Id=102, Name=Java Advance, Duration=Four Months, Fees=17000.5]
+2026-06-11 12:59:01,053 INFO c.c.a.CourseList [main] [Id=106, Name=Spring Boot, Duration=Five Months, Fees=13000.0]
+2026-06-11 12:59:01,053 INFO c.c.a.CourseList [main] Execute the Information in Course List of Institute in Order in List Iterator Formate
+2026-06-11 12:59:01,054 INFO c.c.a.CourseList [main] [Id=101, Name=Java FullStack, Duration=Six Months, Fees=30000.0]
+2026-06-11 12:59:01,054 INFO c.c.a.CourseList [main] [Id=103, Name=Java core, Duration=Three Months, Fees=19000.0]
+2026-06-11 12:59:01,055 INFO c.c.a.CourseList [main] [Id=102, Name=Java Advance, Duration=Four Months, Fees=17000.5]
+2026-06-11 12:59:01,055 INFO c.c.a.CourseList [main] [Id=106, Name=Spring Boot, Duration=Five Months, Fees=13000.0]
+2026-06-11 12:59:01,055 INFO c.c.a.CourseList [main] Execute the information in Course List of Institute in Reverse Order
+2026-06-11 12:59:01,056 INFO c.c.a.CourseList [main] [Id=106, Name=Spring Boot, Duration=Five Months, Fees=13000.0]
+2026-06-11 12:59:01,056 INFO c.c.a.CourseList [main] [Id=102, Name=Java Advance, Duration=Four Months, Fees=17000.5]
+2026-06-11 12:59:01,056 INFO c.c.a.CourseList [main] [Id=103, Name=Java core, Duration=Three Months, Fees=19000.0]
+2026-06-11 12:59:01,057 INFO c.c.a.CourseList [main] [Id=101, Name=Java FullStack, Duration=Six Months, Fees=30000.0]
+2026-06-11 12:59:58,897 INFO c.c.a.Institute [main] According to Compareto
+2026-06-11 12:59:58,905 INFO c.c.a.Institute [main] According to Compareto
+2026-06-11 12:59:58,906 INFO c.c.a.Institute [main] According to Compareto
+2026-06-11 12:59:58,907 INFO c.c.a.Institute [main] According to Compareto
+2026-06-11 12:59:58,907 INFO c.c.a.Institute [main] According to Compareto
+2026-06-11 12:59:58,907 INFO c.c.a.Institute [main] According to Compareto
+2026-06-11 12:59:58,910 INFO c.c.a.CourseList [main] Execute the courseList in Institute in For Each Formate
+2026-06-11 12:59:58,916 INFO j.u.ArrayList [main] [Id=101, Name=Java FullStack, Duration=Six Months, Fees=30000.0]
+2026-06-11 12:59:58,916 INFO j.u.ArrayList [main] [Id=102, Name=Java Advance, Duration=Four Months, Fees=17000.5]
+2026-06-11 12:59:58,917 INFO j.u.ArrayList [main] [Id=103, Name=Java core, Duration=Three Months, Fees=19000.0]
+2026-06-11 12:59:58,918 INFO j.u.ArrayList [main] [Id=106, Name=Spring Boot, Duration=Five Months, Fees=13000.0]
+2026-06-11 12:59:58,918 INFO c.c.a.CourseList [main] 
+2026-06-11 12:59:58,918 INFO c.c.a.CourseList [main] Execute the course Detailes in CourseList of Institute in For looping Formate
+2026-06-11 12:59:58,919 INFO c.c.a.CourseList [main] [Id=101, Name=Java FullStack, Duration=Six Months, Fees=30000.0]
+2026-06-11 12:59:58,919 INFO c.c.a.CourseList [main] [Id=102, Name=Java Advance, Duration=Four Months, Fees=17000.5]
+2026-06-11 12:59:58,919 INFO c.c.a.CourseList [main] [Id=103, Name=Java core, Duration=Three Months, Fees=19000.0]
+2026-06-11 12:59:58,920 INFO c.c.a.CourseList [main] [Id=106, Name=Spring Boot, Duration=Five Months, Fees=13000.0]
+2026-06-11 12:59:58,920 INFO c.c.a.CourseList [main] 
+2026-06-11 12:59:58,920 INFO c.c.a.CourseList [main] Execute the info in Course List of Institute in Iterator Formate
+2026-06-11 12:59:58,920 INFO c.c.a.CourseList [main] [Id=101, Name=Java FullStack, Duration=Six Months, Fees=30000.0]
+2026-06-11 12:59:58,921 INFO c.c.a.CourseList [main] [Id=102, Name=Java Advance, Duration=Four Months, Fees=17000.5]
+2026-06-11 12:59:58,921 INFO c.c.a.CourseList [main] [Id=103, Name=Java core, Duration=Three Months, Fees=19000.0]
+2026-06-11 12:59:58,921 INFO c.c.a.CourseList [main] [Id=106, Name=Spring Boot, Duration=Five Months, Fees=13000.0]
+2026-06-11 12:59:58,921 INFO c.c.a.CourseList [main] Execute the Information in Course List of Institute in Order in List Iterator Formate
+2026-06-11 12:59:58,922 INFO c.c.a.CourseList [main] [Id=101, Name=Java FullStack, Duration=Six Months, Fees=30000.0]
+2026-06-11 12:59:58,923 INFO c.c.a.CourseList [main] [Id=102, Name=Java Advance, Duration=Four Months, Fees=17000.5]
+2026-06-11 12:59:58,923 INFO c.c.a.CourseList [main] [Id=103, Name=Java core, Duration=Three Months, Fees=19000.0]
+2026-06-11 12:59:58,924 INFO c.c.a.CourseList [main] [Id=106, Name=Spring Boot, Duration=Five Months, Fees=13000.0]
+2026-06-11 12:59:58,924 INFO c.c.a.CourseList [main] Execute the information in Course List of Institute in Reverse Order
+2026-06-11 12:59:58,925 INFO c.c.a.CourseList [main] [Id=106, Name=Spring Boot, Duration=Five Months, Fees=13000.0]
+2026-06-11 12:59:58,925 INFO c.c.a.CourseList [main] [Id=103, Name=Java core, Duration=Three Months, Fees=19000.0]
+2026-06-11 12:59:58,925 INFO c.c.a.CourseList [main] [Id=102, Name=Java Advance, Duration=Four Months, Fees=17000.5]
+2026-06-11 12:59:58,926 INFO c.c.a.CourseList [main] [Id=101, Name=Java FullStack, Duration=Six Months, Fees=30000.0]
+2026-06-11 13:45:59,220 INFO c.c.a.Institute [main] According to Compareto
+2026-06-11 13:45:59,225 INFO c.c.a.Institute [main] According to Compareto
+2026-06-11 13:45:59,226 INFO c.c.a.Institute [main] According to Compareto
+2026-06-11 13:45:59,226 INFO c.c.a.Institute [main] According to Compareto
+2026-06-11 13:45:59,227 INFO c.c.a.Institute [main] According to Compareto
+2026-06-11 13:45:59,227 INFO c.c.a.Institute [main] According to Compareto
+2026-06-11 13:45:59,228 INFO c.c.a.CourseList [main] Customized List using comparator
+2026-06-11 13:45:59,231 INFO j.u.ArrayList [main] [Id=106, Name=Spring Boot, Duration=Five Months, Fees=13000.0]
+2026-06-11 13:45:59,232 INFO j.u.ArrayList [main] [Id=102, Name=Java Advance, Duration=Four Months, Fees=17000.5]
+2026-06-11 13:45:59,232 INFO j.u.ArrayList [main] [Id=103, Name=Java core, Duration=Three Months, Fees=19000.0]
+2026-06-11 13:45:59,232 INFO j.u.ArrayList [main] [Id=101, Name=Java FullStack, Duration=Six Months, Fees=30000.0]
+2026-06-11 13:45:59,234 INFO c.c.a.CourseList [main] Execute the courseList in Institute in For Each Formate
+2026-06-11 13:45:59,234 INFO j.u.ArrayList [main] [Id=106, Name=Spring Boot, Duration=Five Months, Fees=13000.0]
+2026-06-11 13:45:59,234 INFO j.u.ArrayList [main] [Id=102, Name=Java Advance, Duration=Four Months, Fees=17000.5]
+2026-06-11 13:45:59,234 INFO j.u.ArrayList [main] [Id=103, Name=Java core, Duration=Three Months, Fees=19000.0]
+2026-06-11 13:45:59,235 INFO j.u.ArrayList [main] [Id=101, Name=Java FullStack, Duration=Six Months, Fees=30000.0]
+2026-06-11 13:45:59,235 INFO c.c.a.CourseList [main] 
+2026-06-11 13:45:59,235 INFO c.c.a.CourseList [main] Execute the course Detailes in CourseList of Institute in For looping Formate
+2026-06-11 13:45:59,235 INFO c.c.a.CourseList [main] [Id=106, Name=Spring Boot, Duration=Five Months, Fees=13000.0]
+2026-06-11 13:45:59,235 INFO c.c.a.CourseList [main] [Id=102, Name=Java Advance, Duration=Four Months, Fees=17000.5]
+2026-06-11 13:45:59,235 INFO c.c.a.CourseList [main] [Id=103, Name=Java core, Duration=Three Months, Fees=19000.0]
+2026-06-11 13:45:59,235 INFO c.c.a.CourseList [main] [Id=101, Name=Java FullStack, Duration=Six Months, Fees=30000.0]
+2026-06-11 13:45:59,236 INFO c.c.a.CourseList [main] 
+2026-06-11 13:45:59,236 INFO c.c.a.CourseList [main] Execute the info in Course List of Institute in Iterator Formate
+2026-06-11 13:45:59,236 INFO c.c.a.CourseList [main] [Id=106, Name=Spring Boot, Duration=Five Months, Fees=13000.0]
+2026-06-11 13:45:59,236 INFO c.c.a.CourseList [main] [Id=102, Name=Java Advance, Duration=Four Months, Fees=17000.5]
+2026-06-11 13:45:59,236 INFO c.c.a.CourseList [main] [Id=103, Name=Java core, Duration=Three Months, Fees=19000.0]
+2026-06-11 13:45:59,236 INFO c.c.a.CourseList [main] [Id=101, Name=Java FullStack, Duration=Six Months, Fees=30000.0]
+2026-06-11 13:45:59,236 INFO c.c.a.CourseList [main] Execute the Information in Course List of Institute in Order in List Iterator Formate
+2026-06-11 13:45:59,237 INFO c.c.a.CourseList [main] [Id=106, Name=Spring Boot, Duration=Five Months, Fees=13000.0]
+2026-06-11 13:45:59,237 INFO c.c.a.CourseList [main] [Id=102, Name=Java Advance, Duration=Four Months, Fees=17000.5]
+2026-06-11 13:45:59,237 INFO c.c.a.CourseList [main] [Id=103, Name=Java core, Duration=Three Months, Fees=19000.0]
+2026-06-11 13:45:59,237 INFO c.c.a.CourseList [main] [Id=101, Name=Java FullStack, Duration=Six Months, Fees=30000.0]
+2026-06-11 13:45:59,237 INFO c.c.a.CourseList [main] Execute the information in Course List of Institute in Reverse Order
+2026-06-11 13:45:59,238 INFO c.c.a.CourseList [main] [Id=101, Name=Java FullStack, Duration=Six Months, Fees=30000.0]
+2026-06-11 13:45:59,238 INFO c.c.a.CourseList [main] [Id=103, Name=Java core, Duration=Three Months, Fees=19000.0]
+2026-06-11 13:45:59,238 INFO c.c.a.CourseList [main] [Id=102, Name=Java Advance, Duration=Four Months, Fees=17000.5]
+2026-06-11 13:45:59,238 INFO c.c.a.CourseList [main] [Id=106, Name=Spring Boot, Duration=Five Months, Fees=13000.0]
+2026-06-11 13:47:45,797 INFO c.c.a.Institute [main] According to Compareto
+2026-06-11 13:47:45,805 INFO c.c.a.Institute [main] According to Compareto
+2026-06-11 13:47:45,806 INFO c.c.a.Institute [main] According to Compareto
+2026-06-11 13:47:45,807 INFO c.c.a.Institute [main] According to Compareto
+2026-06-11 13:47:45,808 INFO c.c.a.Institute [main] According to Compareto
+2026-06-11 13:47:45,808 INFO c.c.a.Institute [main] According to Compareto
+2026-06-11 13:47:45,808 INFO c.c.a.CourseList [main] Customized List using comparator
+2026-06-11 13:47:45,813 INFO j.u.ArrayList [main] [Id=106, Name=Spring Boot, Duration=Five Months, Fees=13000.0]
+2026-06-11 13:47:45,814 INFO j.u.ArrayList [main] [Id=102, Name=Java Advance, Duration=Four Months, Fees=17000.5]
+2026-06-11 13:47:45,815 INFO j.u.ArrayList [main] [Id=103, Name=Java core, Duration=Three Months, Fees=19000.0]
+2026-06-11 13:47:45,815 INFO j.u.ArrayList [main] [Id=101, Name=Java FullStack, Duration=Six Months, Fees=30000.0]
+2026-06-11 13:47:45,817 INFO c.c.a.CourseList [main] Execute the courseList in Institute in For Each Formate
+2026-06-11 13:47:45,818 INFO j.u.ArrayList [main] [Id=106, Name=Spring Boot, Duration=Five Months, Fees=13000.0]
+2026-06-11 13:47:45,818 INFO j.u.ArrayList [main] [Id=102, Name=Java Advance, Duration=Four Months, Fees=17000.5]
+2026-06-11 13:47:45,818 INFO j.u.ArrayList [main] [Id=103, Name=Java core, Duration=Three Months, Fees=19000.0]
+2026-06-11 13:47:45,819 INFO j.u.ArrayList [main] [Id=101, Name=Java FullStack, Duration=Six Months, Fees=30000.0]
+2026-06-11 13:47:45,819 INFO c.c.a.CourseList [main] 
+2026-06-11 13:47:45,819 INFO c.c.a.CourseList [main] Execute the course Detailes in CourseList of Institute in For looping Formate
+2026-06-11 13:47:45,819 INFO c.c.a.CourseList [main] [Id=106, Name=Spring Boot, Duration=Five Months, Fees=13000.0]
+2026-06-11 13:47:45,819 INFO c.c.a.CourseList [main] [Id=102, Name=Java Advance, Duration=Four Months, Fees=17000.5]
+2026-06-11 13:47:45,819 INFO c.c.a.CourseList [main] [Id=103, Name=Java core, Duration=Three Months, Fees=19000.0]
+2026-06-11 13:47:45,820 INFO c.c.a.CourseList [main] [Id=101, Name=Java FullStack, Duration=Six Months, Fees=30000.0]
+2026-06-11 13:47:45,820 INFO c.c.a.CourseList [main] 
+2026-06-11 13:47:45,820 INFO c.c.a.CourseList [main] Execute the info in Course List of Institute in Iterator Formate
+2026-06-11 13:47:45,820 INFO c.c.a.CourseList [main] [Id=106, Name=Spring Boot, Duration=Five Months, Fees=13000.0]
+2026-06-11 13:47:45,821 INFO c.c.a.CourseList [main] [Id=102, Name=Java Advance, Duration=Four Months, Fees=17000.5]
+2026-06-11 13:47:45,821 INFO c.c.a.CourseList [main] [Id=103, Name=Java core, Duration=Three Months, Fees=19000.0]
+2026-06-11 13:47:45,821 INFO c.c.a.CourseList [main] [Id=101, Name=Java FullStack, Duration=Six Months, Fees=30000.0]
+2026-06-11 13:47:45,822 INFO c.c.a.CourseList [main] Execute the Information in Course List of Institute in Order in List Iterator Formate
+2026-06-11 13:47:45,822 INFO c.c.a.CourseList [main] [Id=106, Name=Spring Boot, Duration=Five Months, Fees=13000.0]
+2026-06-11 13:47:45,823 INFO c.c.a.CourseList [main] [Id=102, Name=Java Advance, Duration=Four Months, Fees=17000.5]
+2026-06-11 13:47:45,823 INFO c.c.a.CourseList [main] [Id=103, Name=Java core, Duration=Three Months, Fees=19000.0]
+2026-06-11 13:47:45,823 INFO c.c.a.CourseList [main] [Id=101, Name=Java FullStack, Duration=Six Months, Fees=30000.0]
+2026-06-11 13:47:45,823 INFO c.c.a.CourseList [main] Execute the information in Course List of Institute in Reverse Order
+2026-06-11 13:47:45,823 INFO c.c.a.CourseList [main] [Id=101, Name=Java FullStack, Duration=Six Months, Fees=30000.0]
+2026-06-11 13:47:45,823 INFO c.c.a.CourseList [main] [Id=103, Name=Java core, Duration=Three Months, Fees=19000.0]
+2026-06-11 13:47:45,824 INFO c.c.a.CourseList [main] [Id=102, Name=Java Advance, Duration=Four Months, Fees=17000.5]
+2026-06-11 13:47:45,824 INFO c.c.a.CourseList [main] [Id=106, Name=Spring Boot, Duration=Five Months, Fees=13000.0]

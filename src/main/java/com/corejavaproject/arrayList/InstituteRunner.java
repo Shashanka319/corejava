@@ -9,10 +9,10 @@ public class InstituteRunner {
     public static void main(String[] args) {
         CourseList courseList = new CourseList();
         List<Institute> list = courseList.getInstitute();
-        courseList.courseList(list);
-        courseList.course(list);
-        courseList.Info(list);
-        courseList.information(list);
+        courseList.setlamdaExpression(list);
+        courseList.setForLoop(list);
+        courseList.setIterator(list);
+        courseList.setListIterator(list);
 
 
 

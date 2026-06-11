@@ -2,15 +2,22 @@ package com.corejavaproject.arrayList;
 
 import lombok.extern.log4j.Log4j2;
 
+import java.util.Comparator;
+
 @Log4j2
 
-public class Institute {
+public class Institute implements Comparable<Institute> , Comparator<Institute> {
     int courseId;
     String courseName;
     String duration;
     double courseFees;
     String managerName;
     String trainer;
+
+    Institute(){
+
+    }
+
 
     Institute(int courseId, String courseName, String duration, double courseFees, String managerName, String trainer){
         this.courseId=courseId;
@@ -20,18 +27,23 @@ public class Institute {
         this.managerName=managerName;
         this.trainer=trainer;
     }
-    public  void institueInfo(){
-        log.info("Course Id:"+this.courseId);
-        log.info("Course Name:"+this.courseName);
-        log.info("Course Duration:"+this.duration);
-        log.info("Course Fees:"+this.courseFees);
-        log.info("Course Manager Name:"+this.managerName);
-        log.info("Course Trainer Name:"+this.trainer);
+
+    public int compareTo(Institute institute){
+        log.info("According to Compareto");
+        return this.courseId-institute.courseId;
     }
+
+
 
     @Override
     public String toString() {
-
-        return "Institute Course Id:"+this.courseId +",Course Name:"+this.courseName + ",Course Duration:"+this.duration +",Course Fees:"+this.courseFees +",Course Manager Name:"+this.managerName +",Course Trainer:"+this.trainer;
+        // Keeps everything on one line for a clean array presentation
+        return "[Id=" + this.courseId + ", Name=" + this.courseName + ", Duration=" + this.duration + ", Fees=" + this.courseFees + "]";
     }
+
+    @Override
+    public int compare(Institute i1, Institute i2) {
+        return Double.compare(i1.courseFees, i2.courseFees);
+    }
+
 }

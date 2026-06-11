@@ -18,8 +18,12 @@ public class ArrayListExp {
         list.add("Cricket");
         list.add("Volleyball");
 
+
+
         Collections.sort(list);
-        log.info(list);
+        Collections.sort(list, Collections.reverseOrder());
+        log.info("Assending Order:"+list);
+        log.info("Desending Order:"+list);
         return list;
     }
     public List<String> desendingOrder(){
