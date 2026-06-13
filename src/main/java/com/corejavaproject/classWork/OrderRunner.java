@@ -13,7 +13,6 @@ public class OrderRunner {
         order.setId(101);
         order.setProductName("Shampoo");
         order.setPrice(120.0);
-
         set.add(order);
 
         Order order1 = new Order();
@@ -28,7 +27,6 @@ public class OrderRunner {
         order2.setProductName("T-shirt");
         order2.setPrice(500.0);
         set.add(order2);
-
 
         log.info("Order Information");
         set.forEach(data -> log.info(data.toString()));

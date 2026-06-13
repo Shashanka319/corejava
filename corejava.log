@@ -159,3 +159,16 @@
 2026-06-13 14:33:21,177 INFO c.c.c.OrderRunner [main] Order Information
 2026-06-13 14:33:21,185 INFO c.c.c.OrderRunner [main] Order(id=101, productName=Shampoo, price=120.0)
 2026-06-13 14:33:21,186 INFO c.c.c.OrderRunner [main] Order(id=103, productName=T-shirt, price=500.0)
+2026-06-13 19:03:04,589 INFO c.c.c.OrderRunner [main] Order Information
+2026-06-13 19:03:04,598 INFO c.c.c.OrderRunner [main] Order(id=101, productName=Shampoo, price=120.0)
+2026-06-13 19:03:04,599 INFO c.c.c.OrderRunner [main] Order(id=103, productName=T-shirt, price=500.0)
+2026-06-13 19:21:25,131 INFO c.c.c.ZomotoRunner [main] Zomoto(id=101, name=Pizza, price=150.0, available=true)
+2026-06-13 19:21:25,137 INFO c.c.c.ZomotoRunner [main] Zomoto(id=102, name=Burger, price=120.0, available=true)
+2026-06-13 19:22:23,638 INFO c.c.c.ZomotoRunner [main] Zomoto(id=101, name=Pizza, price=150.0, available=true)
+2026-06-13 19:22:23,643 INFO c.c.c.ZomotoRunner [main] Zomoto(id=102, name=null, price=120.0, available=true)
+2026-06-13 19:22:41,375 INFO c.c.c.ZomotoRunner [main] Zomoto(id=101, name=null, price=150.0, available=true)
+2026-06-13 19:22:41,381 INFO c.c.c.ZomotoRunner [main] Zomoto(id=102, name=null, price=120.0, available=true)
+2026-06-13 19:23:30,629 INFO c.c.c.ZomotoRunner [main] Zomoto(id=101, name=null, price=150.0, available=true)
+2026-06-13 19:23:30,633 INFO c.c.c.ZomotoRunner [main] Zomoto(id=0, name=null, price=0.0, available=false)
+2026-06-13 19:26:38,261 INFO c.c.c.ZomotoRunner [main] Zomoto(id=101, name=null, price=150.0, available=true)
+2026-06-13 19:26:38,265 INFO c.c.c.ZomotoRunner [main] Zomoto(id=0, name=null, price=0.0, available=false)
