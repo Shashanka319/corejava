@@ -19,6 +19,8 @@ public class CourseList {
         list.add(institute2);
         list.add(institute3);
 
+        log.info("Index Zero:"+list.get(0));
+
         Collections.sort(list);
         log.info("Customized List using comparator");
         Collections.sort(list, new Institute());

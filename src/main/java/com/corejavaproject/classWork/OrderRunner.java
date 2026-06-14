@@ -22,11 +22,13 @@ public class OrderRunner {
         set.add(order1);
         set.add(order1);
 
+
         Order order2 = new Order();
         order2.setId(103);
         order2.setProductName("T-shirt");
         order2.setPrice(500.0);
         set.add(order2);
+
 
         log.info("Order Information");
         set.forEach(data -> log.info(data.toString()));

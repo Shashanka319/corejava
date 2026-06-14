@@ -17,6 +17,7 @@ public class ArrayListExp {
         list.add("Badminton");
         list.add("Cricket");
         list.add("Volleyball");
+        log.info("index Zero Information:"+list.get(0));
 
 
 

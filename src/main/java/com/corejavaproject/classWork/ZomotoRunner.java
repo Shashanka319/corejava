@@ -7,7 +7,7 @@ import java.util.LinkedHashSet;
 import java.util.Set;
 @Log4j2
 
-public class ZomotoRunner {
+public class 6ZomotoRunner {
     public static void main(String[] args) {
         Set<Zomoto> set = new LinkedHashSet<Zomoto>();
         Zomoto zomoto = new Zomoto();
