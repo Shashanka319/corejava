@@ -1,31 +1,32 @@
-package com.corejavaproject.collectionPractice.list.arrayList;
-
+package com.corejavaproject.collectionPractice.set.hashSet;
 import lombok.extern.log4j.Log4j2;
 
-import java.util.ArrayList;
-import java.util.List;
+
+import java.util.HashSet;
+import java.util.Set;
+
 @Log4j2
 
 public class MallRunner {
     public static void main(String[] args) {
-        List<Mall> list = new ArrayList<>();
-        log.info("Execute the Arraylist Collection(Ordered Collection):");
+        Set<Mall> set = new HashSet<>();
+        log.info("Execute the HashSet Collection(Ordered Collection):");
         log.info("Mall Informations in Bangalore:");
-        Mall mall = new Mall();
+       Mall mall = new Mall();
         mall.setName("KPN Mall");
         mall.setLocation("ShikariPalya Niladri Nagar Bangalore");
         mall.setStoreManager("Dushanth");
         mall.setNoOFEmployees(21);
         mall.setJobVacancy(true);
-        list.add(mall);
+        set.add(mall);
 
-        Mall mall1 = new Mall();
+       Mall mall1 = new Mall();
         mall1.setName("Vishal Mart");
         mall1.setLocation("Niladri Nagar Bangalore");
         mall.setStoreManager("Nagaraj");
         mall.setNoOFEmployees(20);
         mall.setJobVacancy(false);
-        list.add(mall1);
+        set.add(mall1);
 
         Mall mall2 = new Mall();
         mall2.setName("Dmart");
@@ -33,7 +34,7 @@ public class MallRunner {
         mall2.setStoreManager("Sharath");
         mall2.setNoOFEmployees(200);
         mall2.setJobVacancy(true);
-        list.add(mall2);
+        set.add(mall2);
 
         Mall mall3 = new Mall();
         mall3.setName("KPN Mall");
@@ -41,9 +42,9 @@ public class MallRunner {
         mall3.setStoreManager("Prakash");
         mall3.setNoOFEmployees(21);
         mall3.setJobVacancy(true);
-        list.add(mall3);
+        set.add(mall3);
 
-        list.forEach(log::info);
+        set.forEach(log::info);
 
     }
 }

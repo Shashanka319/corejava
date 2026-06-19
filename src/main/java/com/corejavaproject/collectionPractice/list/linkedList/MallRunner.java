@@ -1,15 +1,14 @@
-package com.corejavaproject.collectionPractice.list.arrayList;
-
+import com.corejavaproject.collectionPractice.list.arrayList.Mall;
 import lombok.extern.log4j.Log4j2;
 
-import java.util.ArrayList;
+import java.util.LinkedList;
 import java.util.List;
 @Log4j2
 
 public class MallRunner {
     public static void main(String[] args) {
-        List<Mall> list = new ArrayList<>();
-        log.info("Execute the Arraylist Collection(Ordered Collection):");
+        List<Mall> list = new LinkedList<>();
+        log.info("Execute the Linkedlist Collection(Ordered Collection):");
         log.info("Mall Informations in Bangalore:");
         Mall mall = new Mall();
         mall.setName("KPN Mall");

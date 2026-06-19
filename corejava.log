@@ -27,3 +27,33 @@
 2026-06-19 19:21:32,055 INFO j.u.ArrayList [main] Mall(name=Vishal Mart, location=Niladri Nagar Bangalore, storeManager=null, noOFEmployees=0, jobVacancy=false)
 2026-06-19 19:21:32,056 INFO j.u.ArrayList [main] Mall(name=Dmart, location=Bommasandra Electranic City, storeManager=Sharath, noOFEmployees=200, jobVacancy=true)
 2026-06-19 19:21:32,056 INFO j.u.ArrayList [main] Mall(name=KPN Mall, location=Basapura Bangalore, storeManager=Prakash, noOFEmployees=21, jobVacancy=true)
+2026-06-19 20:19:49,651 INFO c.c.c.l.a.MallRunner [main] Execute the Arralist Collection(Ordered Collection):
+2026-06-19 20:19:49,655 INFO c.c.c.l.a.MallRunner [main] Mall Informations in Bangalore:
+2026-06-19 20:19:49,658 INFO j.u.ArrayList [main] Mall(name=KPN Mall, location=ShikariPalya Niladri Nagar Bangalore, storeManager=Nagaraj, noOFEmployees=20, jobVacancy=false)
+2026-06-19 20:19:49,659 INFO j.u.ArrayList [main] Mall(name=Vishal Mart, location=Niladri Nagar Bangalore, storeManager=null, noOFEmployees=0, jobVacancy=false)
+2026-06-19 20:19:49,660 INFO j.u.ArrayList [main] Mall(name=Dmart, location=Bommasandra Electranic City, storeManager=Sharath, noOFEmployees=200, jobVacancy=true)
+2026-06-19 20:19:49,660 INFO j.u.ArrayList [main] Mall(name=KPN Mall, location=Basapura Bangalore, storeManager=Prakash, noOFEmployees=21, jobVacancy=true)
+2026-06-19 20:21:02,616 INFO MallRunner [main] Execute the Arralist Collection(Ordered Collection):
+2026-06-19 20:21:02,621 INFO MallRunner [main] Mall Informations in Bangalore:
+2026-06-19 20:21:02,624 INFO j.l.Iterable [main] Mall(name=KPN Mall, location=ShikariPalya Niladri Nagar Bangalore, storeManager=Nagaraj, noOFEmployees=20, jobVacancy=false)
+2026-06-19 20:21:02,625 INFO j.l.Iterable [main] Mall(name=Vishal Mart, location=Niladri Nagar Bangalore, storeManager=null, noOFEmployees=0, jobVacancy=false)
+2026-06-19 20:21:02,625 INFO j.l.Iterable [main] Mall(name=Dmart, location=Bommasandra Electranic City, storeManager=Sharath, noOFEmployees=200, jobVacancy=true)
+2026-06-19 20:21:02,626 INFO j.l.Iterable [main] Mall(name=KPN Mall, location=Basapura Bangalore, storeManager=Prakash, noOFEmployees=21, jobVacancy=true)
+2026-06-19 20:21:28,047 INFO MallRunner [main] Execute the Linkedlist Collection(Ordered Collection):
+2026-06-19 20:21:28,052 INFO MallRunner [main] Mall Informations in Bangalore:
+2026-06-19 20:21:28,055 INFO j.l.Iterable [main] Mall(name=KPN Mall, location=ShikariPalya Niladri Nagar Bangalore, storeManager=Nagaraj, noOFEmployees=20, jobVacancy=false)
+2026-06-19 20:21:28,057 INFO j.l.Iterable [main] Mall(name=Vishal Mart, location=Niladri Nagar Bangalore, storeManager=null, noOFEmployees=0, jobVacancy=false)
+2026-06-19 20:21:28,057 INFO j.l.Iterable [main] Mall(name=Dmart, location=Bommasandra Electranic City, storeManager=Sharath, noOFEmployees=200, jobVacancy=true)
+2026-06-19 20:21:28,057 INFO j.l.Iterable [main] Mall(name=KPN Mall, location=Basapura Bangalore, storeManager=Prakash, noOFEmployees=21, jobVacancy=true)
+2026-06-19 20:21:52,176 INFO MallRunner [main] Execute the Linkedlist Collection(Ordered Collection):
+2026-06-19 20:21:52,182 INFO MallRunner [main] Mall Informations in Bangalore:
+2026-06-19 20:21:52,185 INFO j.l.Iterable [main] Mall(name=KPN Mall, location=ShikariPalya Niladri Nagar Bangalore, storeManager=Nagaraj, noOFEmployees=20, jobVacancy=false)
+2026-06-19 20:21:52,186 INFO j.l.Iterable [main] Mall(name=Vishal Mart, location=Niladri Nagar Bangalore, storeManager=null, noOFEmployees=0, jobVacancy=false)
+2026-06-19 20:21:52,186 INFO j.l.Iterable [main] Mall(name=Dmart, location=Bommasandra Electranic City, storeManager=Sharath, noOFEmployees=200, jobVacancy=true)
+2026-06-19 20:21:52,186 INFO j.l.Iterable [main] Mall(name=KPN Mall, location=Basapura Bangalore, storeManager=Prakash, noOFEmployees=21, jobVacancy=true)
+2026-06-19 20:27:28,631 INFO c.c.c.s.h.MallRunner [main] Execute the HashSet Collection(Ordered Collection):
+2026-06-19 20:27:28,636 INFO c.c.c.s.h.MallRunner [main] Mall Informations in Bangalore:
+2026-06-19 20:27:28,639 INFO j.l.Iterable [main] Mall(name=KPN Mall, location=ShikariPalya Niladri Nagar Bangalore, storeManager=Nagaraj, noOFEmployees=20, jobVacancy=false)
+2026-06-19 20:27:28,640 INFO j.l.Iterable [main] Mall(name=Vishal Mart, location=Niladri Nagar Bangalore, storeManager=null, noOFEmployees=0, jobVacancy=false)
+2026-06-19 20:27:28,640 INFO j.l.Iterable [main] Mall(name=Dmart, location=Bommasandra Electranic City, storeManager=Sharath, noOFEmployees=200, jobVacancy=true)
+2026-06-19 20:27:28,640 INFO j.l.Iterable [main] Mall(name=KPN Mall, location=Basapura Bangalore, storeManager=Prakash, noOFEmployees=21, jobVacancy=true)
