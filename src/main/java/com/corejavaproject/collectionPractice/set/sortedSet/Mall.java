@@ -1,4 +1,4 @@
-package com.corejavaproject.collectionPractice.set.sortedSet.treeset;
+package com.corejavaproject.collectionPractice.set.sortedSet;
 
 import lombok.Getter;
 import lombok.Setter;

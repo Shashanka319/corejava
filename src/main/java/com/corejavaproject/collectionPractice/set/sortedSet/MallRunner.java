@@ -1,13 +1,11 @@
-package com.corejavaproject.collectionPractice.set.sortedSet.treeset;
+package com.corejavaproject.collectionPractice.set.sortedSet;
 import lombok.extern.log4j.Log4j2;
-import java.util.SortedSet;
 import java.util.TreeSet;
-
 @Log4j2
 
 public class MallRunner {
     public static void main(String[] args) {
-        SortedSet<Mall> set = new TreeSet<>();
+        TreeSet<Mall> set = new TreeSet<>();
         log.info("Execute the TreeSet Collection(Ordered Collection):");
         log.info("Mall Informations in Bangalore:");
         Mall mall = new Mall();
