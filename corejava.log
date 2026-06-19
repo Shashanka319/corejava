@@ -101,3 +101,9 @@
 2026-06-19 21:32:46,715 INFO c.c.c.s.s.MallRunner [main] Mall Informations in Bangalore:
 2026-06-19 21:34:23,604 INFO c.c.c.s.s.MallRunner [main] Execute the TreeSet Collection(Ordered Collection):
 2026-06-19 21:34:23,617 INFO c.c.c.s.s.MallRunner [main] Mall Informations in Bangalore:
+2026-06-19 21:48:36,189 INFO c.c.c.m.h.MallRunner [main] Execute the LinkedHashSet Collection(Ordered Collection):
+2026-06-19 21:48:36,194 INFO c.c.c.m.h.MallRunner [main] Mall Informations in Bangalore:
+2026-06-19 21:48:36,197 INFO j.l.Iterable [main] Mall(name=KPN Mall, location=ShikariPalya Niladri Nagar Bangalore, storeManager=Nagaraj, noOFEmployees=20, jobVacancy=false)
+2026-06-19 21:48:36,198 INFO j.l.Iterable [main] Mall(name=Vishal Mart, location=Niladri Nagar Bangalore, storeManager=null, noOFEmployees=0, jobVacancy=false)
+2026-06-19 21:48:36,198 INFO j.l.Iterable [main] Mall(name=Dmart, location=Bommasandra Electranic City, storeManager=Sharath, noOFEmployees=200, jobVacancy=true)
+2026-06-19 21:48:36,199 INFO j.l.Iterable [main] Mall(name=KPN Mall, location=Basapura Bangalore, storeManager=Prakash, noOFEmployees=21, jobVacancy=true)
