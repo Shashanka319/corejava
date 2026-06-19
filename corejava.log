@@ -1,26 +1,29 @@
-2026-06-14 10:57:53,354 INFO c.c.m.AccountRunner [main] Account Information Using Map
-2026-06-14 10:57:53,376 INFO c.c.m.AccountRunner [main] key:Customer(name=Shashank, age=22, mobileNo=9743873982, address=Hodigere),value:Account(adharNo=508031391784, email=sharathshashank1986@gmail.com, password=shar1986, accNo=12564343176543)
-2026-06-14 11:04:07,732 INFO c.c.m.AccountRunner [main] Account Information Using Map
-2026-06-14 11:04:07,743 INFO c.c.m.AccountRunner [main] key:Customer(name=Shashank, age=22, mobileNo=9743873982, address=Hodigere),value:Account(adharNo=508031391784, email=sharathshashank1986@gmail.com, password=shar1986, accNo=12564343176543)
-2026-06-14 11:04:36,222 INFO c.c.m.AccountRunner [main] Account Information Using Map
-2026-06-14 11:04:36,233 INFO c.c.m.AccountRunner [main] key:Customer(name=Shashank, age=22, mobileNo=9743873982, address=Hodigere),value:Account(adharNo=508031391784, email=sharathshashank1986@gmail.com, password=shar1986, accNo=12564343176543)
-2026-06-14 11:06:41,139 INFO c.c.m.AccountRunner [main] Account Information Using Map
-2026-06-14 11:06:41,163 INFO c.c.m.AccountRunner [main] key:Customer(name=Shashank, age=22, mobileNo=9743873982, address=Hodigere),value:Account(adharNo=508031391784, email=sharathshashank1986@gmail.com, password=shar1986, accNo=12564343176543)
-2026-06-14 11:07:02,326 INFO c.c.m.AccountRunner [main] Account Information Using Map
-2026-06-14 11:07:02,344 INFO c.c.m.AccountRunner [main] key:Customer(name=Shashank, age=22, mobileNo=9743873982, address=Hodigere),value:Account(adharNo=508031391784, email=sharathshashank1986@gmail.com, password=shar1986, accNo=12564343176543)
-2026-06-14 11:09:33,068 INFO c.c.m.AccountRunner [main] Account Information Using Map
-2026-06-14 11:09:33,083 INFO c.c.m.AccountRunner [main] key:Customer(name=Shashank, age=22, mobileNo=9743873982, address=Hodigere),value:Account(adharNo=508031391784, email=sharathshashank1986@gmail.com, password=shar1986, accNo=12564343176543)
-2026-06-14 11:12:07,956 INFO c.c.m.AccountRunner [main] Account Information Using Map
-2026-06-14 11:12:07,968 INFO c.c.m.AccountRunner [main] key:Customer(name=Shashank, age=22, mobileNo=9743873982, address=Hodigere),value:Account(adharNo=508031391784, email=sharathshashank1986@gmail.com, password=shar1986, accNo=12564343176543)
-2026-06-14 11:13:13,630 INFO c.c.m.CustomerRunner [main] key:Customer(name=Sharath, age=22, mobileNo=9743873982, address=Hodigere),value:Account(adharNo=508031391784, email=sharathshashank1986@gmail.com, password=shar1986, accNo=12564343176543)
-2026-06-14 11:13:13,636 INFO c.c.m.CustomerRunner [main] key:Customer(name=Shashank, age=23, mobileNo=97438733482, address=Hodige),value:Account(adharNo=508031391784, email=sharathshashank1986@gmail.com, password=shar1986, accNo=12564343176543)
-2026-06-14 11:13:33,590 INFO c.c.m.CustomerRunner [main] key:Customer(name=Sharath, age=22, mobileNo=9743873982, address=Hodigere),value:Account(adharNo=508031391784, email=sharathshashank1986@gmail.com, password=shar1986, accNo=12564343176543)
-2026-06-14 11:13:33,597 INFO c.c.m.CustomerRunner [main] key:Customer(name=Shashank, age=23, mobileNo=97438733482, address=Hodige),value:Account(adharNo=508031391784, email=sharathshashank1986@gmail.com, password=shar1986, accNo=12564343176543)
-2026-06-14 11:14:32,973 INFO c.c.c.ZomotoRunner [main] Zomoto(id=101, name=null, price=150.0, available=true)
-2026-06-14 11:14:32,979 INFO c.c.c.ZomotoRunner [main] Zomoto(id=0, name=null, price=0.0, available=false)
-2026-06-14 14:31:32,622 INFO c.c.c.ZomotoRunner [main] Zomoto(id=101, name=null, price=150.0, available=true)
-2026-06-14 14:31:32,636 INFO c.c.c.ZomotoRunner [main] Zomoto(id=0, name=null, price=0.0, available=false)
-2026-06-14 14:32:53,473 INFO c.c.c.ZomotoRunner [main] Zomoto(id=101, name=null, price=150.0, available=true)
-2026-06-14 14:32:53,478 INFO c.c.c.ZomotoRunner [main] Zomoto(id=0, name=null, price=0.0, available=false)
-2026-06-14 14:32:53,479 INFO c.c.c.ZomotoRunner [main] Zomoto(id=101, name=null, price=150.0, available=true)
-2026-06-14 14:32:53,479 INFO c.c.c.ZomotoRunner [main] Zomoto(id=0, name=null, price=0.0, available=false)
+2026-06-19 19:09:38,436 INFO j.u.ArrayList [main] Mall(name=KPN Mall, location=ShikariPalya Niladri Nagar Bangalore, storeManager=Dushanth, noOFEmployees=21, jobVacancy=true)
+2026-06-19 19:15:27,845 INFO j.u.ArrayList [main] Mall(name=KPN Mall, location=ShikariPalya Niladri Nagar Bangalore, storeManager=Nagaraj, noOFEmployees=20, jobVacancy=false)
+2026-06-19 19:15:27,850 INFO j.u.ArrayList [main] Mall(name=Vishal Mart, location=Niladri Nagar Bangalore, storeManager=null, noOFEmployees=0, jobVacancy=false)
+2026-06-19 19:15:27,851 INFO j.u.ArrayList [main] Mall(name=Dmart, location=Bommasandra Electranic City, storeManager=Sharath, noOFEmployees=200, jobVacancy=true)
+2026-06-19 19:16:33,858 INFO c.c.c.l.a.MallRunner [main] Mall Informations in Bangalore
+2026-06-19 19:16:33,866 INFO j.u.ArrayList [main] Mall(name=KPN Mall, location=ShikariPalya Niladri Nagar Bangalore, storeManager=Nagaraj, noOFEmployees=20, jobVacancy=false)
+2026-06-19 19:16:33,867 INFO j.u.ArrayList [main] Mall(name=Vishal Mart, location=Niladri Nagar Bangalore, storeManager=null, noOFEmployees=0, jobVacancy=false)
+2026-06-19 19:16:33,868 INFO j.u.ArrayList [main] Mall(name=Dmart, location=Bommasandra Electranic City, storeManager=Sharath, noOFEmployees=200, jobVacancy=true)
+2026-06-19 19:18:29,769 INFO c.c.c.l.a.MallRunner [main] Mall Informations in Bangalore
+2026-06-19 19:18:29,775 INFO c.c.c.l.a.MallRunner [main] Execute the Arralist Collection(Ordered Collection)
+2026-06-19 19:18:29,779 INFO j.u.ArrayList [main] Mall(name=KPN Mall, location=ShikariPalya Niladri Nagar Bangalore, storeManager=Nagaraj, noOFEmployees=20, jobVacancy=false)
+2026-06-19 19:18:29,780 INFO j.u.ArrayList [main] Mall(name=Vishal Mart, location=Niladri Nagar Bangalore, storeManager=null, noOFEmployees=0, jobVacancy=false)
+2026-06-19 19:18:29,780 INFO j.u.ArrayList [main] Mall(name=Dmart, location=Bommasandra Electranic City, storeManager=Sharath, noOFEmployees=200, jobVacancy=true)
+2026-06-19 19:18:55,682 INFO c.c.c.l.a.MallRunner [main] Execute the Arralist Collection(Ordered Collection):
+2026-06-19 19:18:55,695 INFO c.c.c.l.a.MallRunner [main] Mall Informations in Bangalore
+2026-06-19 19:18:55,709 INFO j.u.ArrayList [main] Mall(name=KPN Mall, location=ShikariPalya Niladri Nagar Bangalore, storeManager=Nagaraj, noOFEmployees=20, jobVacancy=false)
+2026-06-19 19:18:55,712 INFO j.u.ArrayList [main] Mall(name=Vishal Mart, location=Niladri Nagar Bangalore, storeManager=null, noOFEmployees=0, jobVacancy=false)
+2026-06-19 19:18:55,713 INFO j.u.ArrayList [main] Mall(name=Dmart, location=Bommasandra Electranic City, storeManager=Sharath, noOFEmployees=200, jobVacancy=true)
+2026-06-19 19:21:15,277 INFO c.c.c.l.a.MallRunner [main] Execute the Arralist Collection(Ordered Collection):
+2026-06-19 19:21:15,285 INFO c.c.c.l.a.MallRunner [main] Mall Informations in Bangalore:
+2026-06-19 19:21:15,292 INFO j.u.ArrayList [main] Mall(name=KPN Mall, location=ShikariPalya Niladri Nagar Bangalore, storeManager=Nagaraj, noOFEmployees=20, jobVacancy=false)
+2026-06-19 19:21:15,293 INFO j.u.ArrayList [main] Mall(name=Vishal Mart, location=Niladri Nagar Bangalore, storeManager=null, noOFEmployees=0, jobVacancy=false)
+2026-06-19 19:21:15,293 INFO j.u.ArrayList [main] Mall(name=Dmart, location=Bommasandra Electranic City, storeManager=Sharath, noOFEmployees=200, jobVacancy=true)
+2026-06-19 19:21:32,036 INFO c.c.c.l.a.MallRunner [main] Execute the Arralist Collection(Ordered Collection):
+2026-06-19 19:21:32,044 INFO c.c.c.l.a.MallRunner [main] Mall Informations in Bangalore:
+2026-06-19 19:21:32,053 INFO j.u.ArrayList [main] Mall(name=KPN Mall, location=ShikariPalya Niladri Nagar Bangalore, storeManager=Nagaraj, noOFEmployees=20, jobVacancy=false)
+2026-06-19 19:21:32,055 INFO j.u.ArrayList [main] Mall(name=Vishal Mart, location=Niladri Nagar Bangalore, storeManager=null, noOFEmployees=0, jobVacancy=false)
+2026-06-19 19:21:32,056 INFO j.u.ArrayList [main] Mall(name=Dmart, location=Bommasandra Electranic City, storeManager=Sharath, noOFEmployees=200, jobVacancy=true)
+2026-06-19 19:21:32,056 INFO j.u.ArrayList [main] Mall(name=KPN Mall, location=Basapura Bangalore, storeManager=Prakash, noOFEmployees=21, jobVacancy=true)
