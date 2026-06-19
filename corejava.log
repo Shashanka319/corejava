@@ -69,3 +69,19 @@
 2026-06-19 20:34:48,383 INFO j.l.Iterable [main] Mall(name=Vishal Mart, location=Niladri Nagar Bangalore, storeManager=null, noOFEmployees=0, jobVacancy=false)
 2026-06-19 20:34:48,383 INFO j.l.Iterable [main] Mall(name=Dmart, location=Bommasandra Electranic City, storeManager=Sharath, noOFEmployees=200, jobVacancy=true)
 2026-06-19 20:34:48,384 INFO j.l.Iterable [main] Mall(name=KPN Mall, location=Basapura Bangalore, storeManager=Prakash, noOFEmployees=21, jobVacancy=true)
+2026-06-19 20:41:53,896 INFO c.c.c.s.s.t.MallRunner [main] Execute the TreeSet Collection(Ordered Collection):
+2026-06-19 20:41:53,902 INFO c.c.c.s.s.t.MallRunner [main] Mall Informations in Bangalore:
+2026-06-19 20:42:02,392 INFO c.c.c.s.s.t.MallRunner [main] Execute the TreeSet Collection(Ordered Collection):
+2026-06-19 20:42:02,397 INFO c.c.c.s.s.t.MallRunner [main] Mall Informations in Bangalore:
+2026-06-19 20:43:22,809 INFO c.c.c.s.s.t.MallRunner [main] Execute the TreeSet Collection(Ordered Collection):
+2026-06-19 20:43:22,815 INFO c.c.c.s.s.t.MallRunner [main] Mall Informations in Bangalore:
+2026-06-19 20:43:38,680 INFO c.c.c.s.s.t.MallRunner [main] Execute the TreeSet Collection(Ordered Collection):
+2026-06-19 20:43:38,686 INFO c.c.c.s.s.t.MallRunner [main] Mall Informations in Bangalore:
+2026-06-19 20:44:39,357 INFO c.c.c.s.s.t.MallRunner [main] Execute the TreeSet Collection(Ordered Collection):
+2026-06-19 20:44:39,362 INFO c.c.c.s.s.t.MallRunner [main] Mall Informations in Bangalore:
+2026-06-19 20:44:44,953 INFO c.c.c.s.s.t.MallRunner [main] Execute the TreeSet Collection(Ordered Collection):
+2026-06-19 20:44:44,958 INFO c.c.c.s.s.t.MallRunner [main] Mall Informations in Bangalore:
+2026-06-19 20:44:59,510 INFO c.c.c.s.s.t.MallRunner [main] Execute the TreeSet Collection(Ordered Collection):
+2026-06-19 20:44:59,515 INFO c.c.c.s.s.t.MallRunner [main] Mall Informations in Bangalore:
+2026-06-19 20:46:45,649 INFO c.c.c.s.s.t.MallRunner [main] Execute the TreeSet Collection(Ordered Collection):
+2026-06-19 20:46:45,654 INFO c.c.c.s.s.t.MallRunner [main] Mall Informations in Bangalore:
