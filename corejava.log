@@ -6,3 +6,9 @@
 2026-06-21 10:27:46,998 INFO c.c.r.BankRunner [main] Bank IFSC Code:5008
 2026-06-21 10:27:46,999 INFO c.c.r.BankRunner [main] Name:Shashak
 2026-06-21 10:27:46,999 INFO c.c.r.BankRunner [main] Account Number:10000
+2026-06-21 10:40:13,966 INFO c.c.r.ProductRunner [main] Product Category:Cothes
+2026-06-21 10:40:13,974 INFO c.c.r.ProductRunner [main] Product ID:101
+2026-06-21 10:40:13,975 INFO c.c.r.ProductRunner [main] Colth Name:T-Shirt
+2026-06-21 10:40:13,976 INFO c.c.r.ProductRunner [main] Colth quantity:2
+2026-06-21 10:40:13,978 INFO c.c.r.ProductRunner [main] Colth price:1000.0
+2026-06-21 10:40:13,978 INFO c.c.r.ProductRunner [main] Colthe Quality is:true
