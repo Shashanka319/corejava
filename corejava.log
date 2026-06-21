@@ -23,3 +23,169 @@
 2026-06-21 11:34:58,726 INFO c.c.e.ExceptionExample1 [main] Final Result:5
 2026-06-21 11:35:10,819 INFO c.c.e.ExceptionExample1 [main] Enter the values for division:
 2026-06-21 11:35:21,048 INFO c.c.e.ExceptionExample1 [main] Division Method:input1=40,input2=0
+2026-06-21 12:17:30,323 INFO c.c.e.Exception2 [main] Enter the values for division:
+2026-06-21 12:17:39,836 INFO c.c.e.ExceptionExample1 [main] Division Method:input1=10,input2=0
+2026-06-21 12:18:08,731 INFO c.c.e.Exception2 [main] Enter the values for division:
+2026-06-21 12:18:17,075 INFO c.c.e.ExceptionExample1 [main] Division Method:input1=10,input2=0
+2026-06-21 12:20:27,043 INFO c.c.e.Exception2 [main] Enter the values for division:
+2026-06-21 12:20:36,929 INFO c.c.e.ExceptionExample1 [main] Division Method:input1=10,input2=0
+2026-06-21 12:23:20,465 INFO c.c.e.Exception2 [main] Enter the values for division:
+2026-06-21 12:23:28,854 INFO c.c.e.Exception2 [main] Division Method:input1=10,input2=0
+2026-06-21 12:23:28,854 ERROR c.c.e.Exception2 [main] Arithmetic Exception:{}
+java.lang.ArithmeticException: / by zero
+	at com.corejavaproject.exceptionHanling.Exception2.divide(Exception2.java:26) [main/:?]
+	at com.corejavaproject.exceptionHanling.Exception2.main(Exception2.java:18) [main/:?]
+2026-06-21 12:23:28,862 INFO c.c.e.Exception2 [main] Result of Division Method:0
+2026-06-21 12:23:28,862 INFO c.c.e.Exception2 [main] Final Result:0
+2026-06-21 12:31:35,757 INFO c.c.e.Exception2 [main] Enter the values for division:
+2026-06-21 12:33:34,027 INFO c.c.e.Exception2 [main] Enter the values for division:
+2026-06-21 12:33:40,718 INFO c.c.e.Exception2 [main] Enter the values for division:
+2026-06-21 12:33:47,938 INFO c.c.e.Exception2 [main] Enter the values for division:
+2026-06-21 12:33:49,330 INFO c.c.e.Exception2 [main] Enter the values for division:
+2026-06-21 12:33:56,125 INFO c.c.e.Exception2 [main] Division Method:input1=10,input2=0
+2026-06-21 12:33:56,126 ERROR c.c.e.Exception2 [main] Arithmetic Exception:{}
+java.lang.ArithmeticException: / by zero
+	at com.corejavaproject.exceptionHanling.Exception2.divide(Exception2.java:29) [main/:?]
+	at com.corejavaproject.exceptionHanling.Exception2.main(Exception2.java:18) [main/:?]
+2026-06-21 12:33:56,131 INFO c.c.e.Exception2 [main] Result of Division Method:0
+2026-06-21 12:33:56,131 INFO c.c.e.Exception2 [main] Final Result:0
+2026-06-21 12:33:56,132 INFO c.c.e.Exception2 [main] Division Method:number1=10,number2=0
+2026-06-21 12:33:56,132 ERROR c.c.e.Exception2 [main] Arithmetic Exception:{}
+java.lang.ArithmeticException: / by zero
+	at com.corejavaproject.exceptionHanling.Exception2.division(Exception2.java:41) [main/:?]
+	at com.corejavaproject.exceptionHanling.Exception2.main(Exception2.java:21) [main/:?]
+2026-06-21 12:33:56,132 INFO c.c.e.Exception2 [main] Result of Division Method:0
+2026-06-21 12:33:56,132 INFO c.c.e.Exception2 [main] Final Result of Division:0
+2026-06-21 12:34:06,916 INFO c.c.e.Exception2 [main] Enter the values for division:
+2026-06-21 12:35:55,361 INFO c.c.e.Exception2 [main] Enter the values for division:
+2026-06-21 12:37:34,687 INFO c.c.e.Exception2 [main] Enter the values for division:
+2026-06-21 12:37:49,390 INFO c.c.e.Exception2 [main] Enter the values for division:
+2026-06-21 12:37:57,182 INFO c.c.e.Exception2 [main] Division Method:input1=10,input2=0
+2026-06-21 12:37:57,182 ERROR c.c.e.Exception2 [main] Arithmetic Exception:{}
+java.lang.ArithmeticException: / by zero
+	at com.corejavaproject.exceptionHanling.Exception2.divide(Exception2.java:34) [main/:?]
+	at com.corejavaproject.exceptionHanling.Exception2.main(Exception2.java:18) [main/:?]
+2026-06-21 12:37:57,188 INFO c.c.e.Exception2 [main] Result of Division Method:0
+2026-06-21 12:37:57,188 INFO c.c.e.Exception2 [main] Final Result:0
+2026-06-21 12:37:57,188 INFO c.c.e.Exception2 [main] Enter the values for division:
+2026-06-21 12:38:17,739 INFO c.c.e.Exception2 [main] Enter the values for division:
+2026-06-21 12:38:23,924 INFO c.c.e.Exception2 [main] Division Method:input1=10,input2=0
+2026-06-21 12:38:23,925 ERROR c.c.e.Exception2 [main] Arithmetic Exception:{}
+java.lang.ArithmeticException: / by zero
+	at com.corejavaproject.exceptionHanling.Exception2.divide(Exception2.java:34) [main/:?]
+	at com.corejavaproject.exceptionHanling.Exception2.main(Exception2.java:18) [main/:?]
+2026-06-21 12:38:23,930 INFO c.c.e.Exception2 [main] Result of Division Method:0
+2026-06-21 12:38:23,931 INFO c.c.e.Exception2 [main] Final Result:0
+2026-06-21 12:38:23,931 INFO c.c.e.Exception2 [main] Enter the values for divisionsssss:
+2026-06-21 12:38:28,490 INFO c.c.e.Exception2 [main] Division Method:number1=10,number2=0
+2026-06-21 12:38:28,491 ERROR c.c.e.Exception2 [main] Arithmetic Exception:{}
+java.lang.ArithmeticException: / by zero
+	at com.corejavaproject.exceptionHanling.Exception2.division(Exception2.java:46) [main/:?]
+	at com.corejavaproject.exceptionHanling.Exception2.main(Exception2.java:26) [main/:?]
+2026-06-21 12:38:28,491 INFO c.c.e.Exception2 [main] Result of Division Method:0
+2026-06-21 12:38:28,492 INFO c.c.e.Exception2 [main] Final Result of Division:0
+2026-06-21 12:45:41,013 INFO c.c.e.Exception2 [main] Enter the values for division:
+2026-06-21 12:45:46,053 INFO c.c.e.Exception2 [main] Division Method:input1=10,input2=0
+2026-06-21 12:45:46,054 ERROR c.c.e.Exception2 [main] Arithmetic Exception:{}
+java.lang.ArithmeticException: / by zero
+	at com.corejavaproject.exceptionHanling.Exception2.divide(Exception2.java:38) [main/:?]
+	at com.corejavaproject.exceptionHanling.Exception2.main(Exception2.java:18) [main/:?]
+2026-06-21 12:45:46,059 INFO c.c.e.Exception2 [main] Result of Division Method:0
+2026-06-21 12:45:46,060 INFO c.c.e.Exception2 [main] Final Result:0
+2026-06-21 12:45:46,060 INFO c.c.e.Exception2 [main] Enter the values for divisionsssss:
+2026-06-21 12:45:49,416 INFO c.c.e.Exception2 [main] Division Method:number1=10,number2=0
+2026-06-21 12:45:49,417 ERROR c.c.e.Exception2 [main] Arithmetic Exception:{}
+java.lang.ArithmeticException: / by zero
+	at com.corejavaproject.exceptionHanling.Exception2.division(Exception2.java:50) [main/:?]
+	at com.corejavaproject.exceptionHanling.Exception2.main(Exception2.java:26) [main/:?]
+2026-06-21 12:45:49,418 INFO c.c.e.Exception2 [main] Result of Division Method:0
+2026-06-21 12:45:49,419 INFO c.c.e.Exception2 [main] Final Result of Division:0
+2026-06-21 12:45:49,419 INFO c.c.e.Exception2 [main] Division MethodL:number1=10,number2=0
+2026-06-21 12:45:49,419 ERROR c.c.e.Exception2 [main] Arithmetic Exception:{}
+java.lang.ArithmeticException: / by zero
+	at com.corejavaproject.exceptionHanling.Exception2.division2(Exception2.java:65) [main/:?]
+	at com.corejavaproject.exceptionHanling.Exception2.main(Exception2.java:29) [main/:?]
+2026-06-21 12:45:49,420 INFO c.c.e.Exception2 [main] Result of Division MethodL:0
+2026-06-21 12:46:32,657 INFO c.c.e.Exception2 [main] Enter the values for division:
+2026-06-21 12:46:37,564 INFO c.c.e.Exception2 [main] Division Method:input1=10,input2=0
+2026-06-21 12:46:37,565 ERROR c.c.e.Exception2 [main] Arithmetic Exception:{}
+java.lang.ArithmeticException: / by zero
+	at com.corejavaproject.exceptionHanling.Exception2.divide(Exception2.java:39) [main/:?]
+	at com.corejavaproject.exceptionHanling.Exception2.main(Exception2.java:18) [main/:?]
+2026-06-21 12:46:37,570 INFO c.c.e.Exception2 [main] Result of Division Method:0
+2026-06-21 12:46:37,571 INFO c.c.e.Exception2 [main] Final Result:0
+2026-06-21 12:46:37,571 INFO c.c.e.Exception2 [main] Enter the values for divisionsssss:
+2026-06-21 12:46:40,698 INFO c.c.e.Exception2 [main] Division Method:number1=10,number2=0
+2026-06-21 12:46:40,699 ERROR c.c.e.Exception2 [main] Arithmetic Exception:{}
+java.lang.ArithmeticException: / by zero
+	at com.corejavaproject.exceptionHanling.Exception2.division(Exception2.java:51) [main/:?]
+	at com.corejavaproject.exceptionHanling.Exception2.main(Exception2.java:26) [main/:?]
+2026-06-21 12:46:40,700 INFO c.c.e.Exception2 [main] Result of Division Method:0
+2026-06-21 12:46:40,701 INFO c.c.e.Exception2 [main] Final Result of Division:0
+2026-06-21 12:46:40,702 INFO c.c.e.Exception2 [main] Give Values for Divisions:
+2026-06-21 12:46:40,703 INFO c.c.e.Exception2 [main] Division MethodL:number1=10,number2=0
+2026-06-21 12:46:40,703 ERROR c.c.e.Exception2 [main] Arithmetic Exception:{}
+java.lang.ArithmeticException: / by zero
+	at com.corejavaproject.exceptionHanling.Exception2.division2(Exception2.java:66) [main/:?]
+	at com.corejavaproject.exceptionHanling.Exception2.main(Exception2.java:30) [main/:?]
+2026-06-21 12:46:40,704 INFO c.c.e.Exception2 [main] Result of Division MethodL:0
+2026-06-21 12:55:38,776 INFO c.c.e.Exception2 [main] Enter the values for division:
+2026-06-21 12:55:45,135 INFO c.c.e.Exception2 [main] Division Method:input1=10,input2=0
+2026-06-21 12:55:45,136 ERROR c.c.e.Exception2 [main] Arithmetic Exception:{}
+java.lang.ArithmeticException: / by zero
+	at com.corejavaproject.exceptionHanling.Exception2.divide(Exception2.java:39) [main/:?]
+	at com.corejavaproject.exceptionHanling.Exception2.main(Exception2.java:18) [main/:?]
+2026-06-21 12:55:45,144 INFO c.c.e.Exception2 [main] Result of Division Method:0
+2026-06-21 12:55:45,145 INFO c.c.e.Exception2 [main] Final Result:0
+2026-06-21 12:55:45,145 INFO c.c.e.Exception2 [main] Enter the values for divisionsssss:
+2026-06-21 12:55:48,693 INFO c.c.e.Exception2 [main] Division Method:number1=10,number2=0
+2026-06-21 12:55:48,694 ERROR c.c.e.Exception2 [main] Arithmetic Exception:{}
+java.lang.ArithmeticException: / by zero
+	at com.corejavaproject.exceptionHanling.Exception2.division(Exception2.java:51) [main/:?]
+	at com.corejavaproject.exceptionHanling.Exception2.main(Exception2.java:26) [main/:?]
+2026-06-21 12:55:48,694 INFO c.c.e.Exception2 [main] Result of Division Method:0
+2026-06-21 12:55:48,695 INFO c.c.e.Exception2 [main] Final Result of Division:0
+2026-06-21 12:55:48,695 INFO c.c.e.Exception2 [main] Give Values for Divisions:
+2026-06-21 12:55:48,695 INFO c.c.e.Exception2 [main] Division MethodL:number1=10,number2=0
+2026-06-21 12:55:48,695 ERROR c.c.e.Exception2 [main] Arithmetic Exception:{}
+java.lang.ArithmeticException: / by zero
+	at com.corejavaproject.exceptionHanling.Exception2.division2(Exception2.java:66) [main/:?]
+	at com.corejavaproject.exceptionHanling.Exception2.main(Exception2.java:30) [main/:?]
+2026-06-21 12:55:48,696 INFO c.c.e.Exception2 [main] Result of Division MethodL:0
+2026-06-21 12:56:55,272 INFO c.c.e.Exception2 [main] Enter the values for division:
+2026-06-21 12:57:00,188 INFO c.c.e.Exception2 [main] Division Method:input1=10,input2=0
+2026-06-21 12:57:00,189 ERROR c.c.e.Exception2 [main] Arithmetic Exception:{}
+java.lang.ArithmeticException: / by zero
+	at com.corejavaproject.exceptionHanling.Exception2.divide(Exception2.java:41) [main/:?]
+	at com.corejavaproject.exceptionHanling.Exception2.main(Exception2.java:18) [main/:?]
+2026-06-21 12:57:00,194 INFO c.c.e.Exception2 [main] Result of Division Method:0
+2026-06-21 12:57:00,194 INFO c.c.e.Exception2 [main] Final Result:0
+2026-06-21 12:57:00,195 INFO c.c.e.Exception2 [main] Enter the values for divisionsssss:
+2026-06-21 12:57:04,087 INFO c.c.e.Exception2 [main] Division Method:number1=10,number2=0
+2026-06-21 12:57:04,088 ERROR c.c.e.Exception2 [main] Arithmetic Exception:{}
+java.lang.ArithmeticException: / by zero
+	at com.corejavaproject.exceptionHanling.Exception2.division(Exception2.java:53) [main/:?]
+	at com.corejavaproject.exceptionHanling.Exception2.main(Exception2.java:26) [main/:?]
+2026-06-21 12:57:04,089 INFO c.c.e.Exception2 [main] Result of Division Method:0
+2026-06-21 12:57:04,089 INFO c.c.e.Exception2 [main] Final Result of Division:0
+2026-06-21 12:57:04,089 INFO c.c.e.Exception2 [main] Give Values for Divisions:
+2026-06-21 12:57:04,090 INFO c.c.e.Exception2 [main] Division MethodL:number1=10,number2=0
+2026-06-21 12:57:04,090 ERROR c.c.e.Exception2 [main] Arithmetic Exception:{}
+java.lang.ArithmeticException: / by zero
+	at com.corejavaproject.exceptionHanling.Exception2.division2(Exception2.java:68) [main/:?]
+	at com.corejavaproject.exceptionHanling.Exception2.main(Exception2.java:30) [main/:?]
+2026-06-21 12:57:04,090 INFO c.c.e.Exception2 [main] Result of Division MethodL:0
+2026-06-21 12:58:12,346 INFO c.c.e.Exception2 [main] Enter the values for division:
+2026-06-21 13:04:03,690 INFO c.c.e.Exception2 [main] Enter the values for division:
+2026-06-21 13:04:12,049 INFO c.c.e.Exception2 [main] Division Method:input1=10,input2=0
+2026-06-21 13:04:12,050 ERROR c.c.e.Exception2 [main] Arithmetic Exception:{}
+java.lang.ArithmeticException: / by zero
+	at com.corejavaproject.exceptionHanling.Exception2.divide(Exception2.java:29) [main/:?]
+	at com.corejavaproject.exceptionHanling.Exception2.main(Exception2.java:18) [main/:?]
+2026-06-21 13:04:12,057 INFO c.c.e.Exception2 [main] Result of Division Method:0
+2026-06-21 13:04:12,057 INFO c.c.e.Exception2 [main] Final Result:0
+2026-06-21 13:04:12,058 ERROR c.c.e.Exception2 [main]  Exception Block:{}
+java.lang.ArithmeticException: / by zero
+	at com.corejavaproject.exceptionHanling.Exception2.readInt(Exception2.java:70) [main/:?]
+	at com.corejavaproject.exceptionHanling.Exception2.main(Exception2.java:21) [main/:?]
+2026-06-21 13:04:12,058 INFO c.c.e.Exception2 [main] Finally bolck Executed:{}
