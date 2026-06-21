@@ -2,3 +2,7 @@
 2026-06-21 10:10:32,405 INFO c.c.r.AccountRunner [main] Bank IFSC Code:5008
 2026-06-21 10:13:58,911 INFO c.c.r.EmployeeRunner [main] Organization Nmae:Infosis
 2026-06-21 10:13:58,926 INFO c.c.r.EmployeeRunner [main] ETABLISHED_YEAR:1990
+2026-06-21 10:27:46,993 INFO c.c.r.BankRunner [main] Bank Name:Canara Bank
+2026-06-21 10:27:46,998 INFO c.c.r.BankRunner [main] Bank IFSC Code:5008
+2026-06-21 10:27:46,999 INFO c.c.r.BankRunner [main] Name:Shashak
+2026-06-21 10:27:46,999 INFO c.c.r.BankRunner [main] Account Number:10000
