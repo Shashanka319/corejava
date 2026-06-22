@@ -189,3 +189,8 @@ java.lang.ArithmeticException: / by zero
 	at com.corejavaproject.exceptionHanling.Exception2.readInt(Exception2.java:70) [main/:?]
 	at com.corejavaproject.exceptionHanling.Exception2.main(Exception2.java:21) [main/:?]
 2026-06-21 13:04:12,058 INFO c.c.e.Exception2 [main] Finally bolck Executed:{}
+2026-06-21 15:42:06,716 INFO c.c.e.Exception2 [main] Enter the values for division:
+2026-06-21 15:42:18,795 INFO c.c.e.Exception2 [main] Division Method:input1=25,input2=40
+2026-06-21 15:42:18,797 INFO c.c.e.Exception2 [main] Result of Division Method:0
+2026-06-21 15:42:18,798 INFO c.c.e.Exception2 [main] Final Result:0
+2026-06-21 15:42:18,799 INFO c.c.e.Exception2 [main] Finally bolck Executed:{}
