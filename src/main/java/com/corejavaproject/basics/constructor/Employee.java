@@ -12,6 +12,7 @@ public class Employee {
     public Employee(String name, int age){
         this.name=name;
         this.age=age;
+
     }
     public void getEmployee(){
         System.out.println("Employee Name : "+this.name);
