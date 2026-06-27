@@ -17,8 +17,9 @@ public class Employee {
     public void getEmployee(){
         System.out.println("Employee Name : "+this.name);
         System.out.println("Employee Age : "+this.age);
+        System.out.println("Company Name : "+COMPANY_NAME);
     }
-    public static void main(String[] age){
+    public  static void main(String[] args){
         Employee employee = new Employee("Shashanka",22);
         employee.getEmployee();
     }
