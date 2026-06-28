@@ -1,22 +1,18 @@
-2026-06-27 10:14:04,756 INFO c.c.e.ExceptionHandling [main] ######Finally#########
-2026-06-27 10:14:04,776 INFO c.c.e.ExceptionHandling [main] output:5
-2026-06-27 10:14:04,777 INFO c.c.e.ExceptionHandling [main] Response:0
-2026-06-27 10:15:31,753 INFO c.c.e.ExceptionHandling [main] Response:0
-2026-06-27 10:28:30,527 INFO c.c.e.ExceptionHandling [main] ######Finally#########
-2026-06-27 10:28:30,536 INFO c.c.e.ExceptionHandling [main] output:5
-2026-06-27 10:28:30,536 INFO c.c.e.ExceptionHandling [main] Response:0
-2026-06-27 10:28:30,537 INFO c.c.e.ExceptionHandling [main] ######Finally#########
-2026-06-27 10:28:30,538 INFO c.c.e.ExceptionHandling [main] output:5
-2026-06-27 10:28:30,538 INFO c.c.e.ExceptionHandling [main] Response:0
-2026-06-27 10:28:31,983 INFO c.c.e.ExceptionHandling [main] ######Finally#########
-2026-06-27 10:28:31,998 INFO c.c.e.ExceptionHandling [main] output:5
-2026-06-27 10:28:31,999 INFO c.c.e.ExceptionHandling [main] Response:0
-2026-06-27 10:28:32,001 INFO c.c.e.ExceptionHandling [main] ######Finally#########
-2026-06-27 10:28:32,001 INFO c.c.e.ExceptionHandling [main] output:5
-2026-06-27 10:28:32,002 INFO c.c.e.ExceptionHandling [main] Response:0
-2026-06-27 10:28:34,745 INFO c.c.e.ExceptionHandling [main] ######Finally#########
-2026-06-27 10:28:34,760 INFO c.c.e.ExceptionHandling [main] output:5
-2026-06-27 10:28:34,761 INFO c.c.e.ExceptionHandling [main] Response:0
-2026-06-27 10:28:34,764 INFO c.c.e.ExceptionHandling [main] ######Finally#########
-2026-06-27 10:28:34,764 INFO c.c.e.ExceptionHandling [main] output:5
-2026-06-27 10:28:34,766 INFO c.c.e.ExceptionHandling [main] Response:0
+2026-06-28 13:13:03,899 ERROR c.c.j.UserDAOImpl [main] Exception while saving the user details
+2026-06-28 13:13:03,925 INFO c.c.j.UserDAOImpl [main] Inserted the user details, no of rows inserted:0
+2026-06-28 13:13:03,927 INFO c.c.j.Main [main] Result of saving user: 0
+2026-06-28 13:16:34,156 ERROR c.c.j.UserDAOImpl [main] Exception while saving the user details
+2026-06-28 13:16:34,166 INFO c.c.j.UserDAOImpl [main] Inserted the user details, no of rows inserted:0
+2026-06-28 13:16:34,166 INFO c.c.j.Main [main] Result of saving user: 0
+2026-06-28 13:21:12,772 ERROR c.c.j.UserDAOImpl [main] Exception while saving the user details
+2026-06-28 13:21:12,787 INFO c.c.j.UserDAOImpl [main] Inserted the user details, no of rows inserted:0
+2026-06-28 13:21:12,788 INFO c.c.j.Main [main] Result of saving user: 0
+2026-06-28 13:23:05,661 ERROR c.c.j.UserDAOImpl [main] Exception while saving the user details
+2026-06-28 13:23:05,677 INFO c.c.j.UserDAOImpl [main] Inserted the user details, no of rows inserted:0
+2026-06-28 13:23:05,678 INFO c.c.j.Main [main] Result of saving user: 0
+2026-06-28 13:23:17,951 ERROR c.c.j.UserDAOImpl [main] Exception while saving the user details
+2026-06-28 13:23:17,963 INFO c.c.j.UserDAOImpl [main] Inserted the user details, no of rows inserted:0
+2026-06-28 13:23:17,964 INFO c.c.j.Main [main] Result of saving user: 0
+2026-06-28 13:40:48,910 INFO c.c.j.UserDAOImpl [main] Inserted the user details, no of rows inserted:1
+2026-06-28 13:40:48,917 INFO c.c.j.Main [main] Result of saving user: 1
+2026-06-28 13:40:48,970 INFO c.c.j.Main [main] Current users in database: [User[firstName=John, lastName=Doe, email=john.doe@email.com, hireDate=2026-01-15], User[firstName=Jane, lastName=Smith, email=jane.smith@email.com, hireDate=2026-02-20], User[firstName=Michael, lastName=Johnson, email=michael.j@email.com, hireDate=2026-03-10], User[firstName=Emily, lastName=Davis, email=emily.davis@email.com, hireDate=2026-04-05], User[firstName=David, lastName=Brown, email=david.brown@email.com, hireDate=2026-05-12], User[firstName=Sarah, lastName=Wilson, email=sarah.wilson@email.com, hireDate=2026-06-01], User[firstName=Shashank, lastName=Kumar, email=natalia@gmail.com, hireDate=2026-09-27]]
