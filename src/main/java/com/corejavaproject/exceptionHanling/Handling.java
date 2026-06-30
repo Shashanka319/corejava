@@ -39,12 +39,12 @@ public class Handling {
         int result=0;
         try{
             result=number1 / number2;
-        }catch (ArithmeticException e){
-            log.error("Arithmetic Exception:{}",e);
+        }catch (ArithmeticException exp){
+            log.error("Arithmetic Exception:{}",exp);
         }catch (NullPointerException  exp){
             log.error("Null Pointer Exception:{}",exp);
-        }catch (Exception e){
-            log.error("Exception:{}",e);
+        }catch (Exception exp){
+            log.error("Exception:{}",exp);
         }
         log.info("Result of Division Method:{}",result);
         return result;
