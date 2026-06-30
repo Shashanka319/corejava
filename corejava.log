@@ -1,14 +1,1 @@
-2026-06-29 23:17:15,641 ERROR c.c.j.UserDAOImpl [main] Exception while saving the user details
-java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'natalia@gmail.com' for key 'employees.email'
-	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:118) ~[mysql-connector-j-8.0.33.jar:8.0.33]
-	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122) ~[mysql-connector-j-8.0.33.jar:8.0.33]
-	at com.mysql.cj.jdbc.ClientPreparedStatement.executeInternal(ClientPreparedStatement.java:916) ~[mysql-connector-j-8.0.33.jar:8.0.33]
-	at com.mysql.cj.jdbc.ClientPreparedStatement.executeUpdateInternal(ClientPreparedStatement.java:1061) ~[mysql-connector-j-8.0.33.jar:8.0.33]
-	at com.mysql.cj.jdbc.ClientPreparedStatement.executeUpdateInternal(ClientPreparedStatement.java:1009) ~[mysql-connector-j-8.0.33.jar:8.0.33]
-	at com.mysql.cj.jdbc.ClientPreparedStatement.executeLargeUpdate(ClientPreparedStatement.java:1320) ~[mysql-connector-j-8.0.33.jar:8.0.33]
-	at com.mysql.cj.jdbc.ClientPreparedStatement.executeUpdate(ClientPreparedStatement.java:994) ~[mysql-connector-j-8.0.33.jar:8.0.33]
-	at com.corejavaproject.jdbc.UserDAOImpl.save(UserDAOImpl.java:30) [main/:?]
-	at com.corejavaproject.jdbc.Main.main(Main.java:14) [main/:?]
-2026-06-29 23:17:15,677 INFO c.c.j.UserDAOImpl [main] Inserted the user details, no of rows inserted:0
-2026-06-29 23:17:15,678 INFO c.c.j.Main [main] Result of saving user: 0
-2026-06-29 23:17:15,761 INFO c.c.j.Main [main] Current users in database: [User[firstName=John, lastName=Doe, email=john.doe@email.com, hireDate=2026-01-15], User[firstName=Jane, lastName=Smith, email=jane.smith@email.com, hireDate=2026-02-20], User[firstName=Michael, lastName=Johnson, email=michael.j@email.com, hireDate=2026-03-10], User[firstName=Emily, lastName=Davis, email=emily.davis@email.com, hireDate=2026-04-05], User[firstName=David, lastName=Brown, email=david.brown@email.com, hireDate=2026-05-12], User[firstName=Sarah, lastName=Wilson, email=sarah.wilson@email.com, hireDate=2026-06-01], User[firstName=Shashank, lastName=Kumar, email=natalia@gmail.com, hireDate=2026-09-27]]
+2026-06-30 23:35:16,028 INFO c.c.e.Handling [main] Enter the values for division:

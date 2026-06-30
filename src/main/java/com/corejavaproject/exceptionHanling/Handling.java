@@ -1,7 +1,9 @@
 package com.corejavaproject.exceptionHanling;
 
-import java.util.Scanner;
+import lombok.extern.log4j.Log4j2;
 
+import java.util.Scanner;
+@Log4j2
 
 public class Handling {
     public static void main(String[] args) {
@@ -15,7 +17,8 @@ public class Handling {
         int result =exception2.divide(input1, input2);
         log.info("Final Result:{}",result);
 
-        exception2.readInt(input1,input2);
+        int exeption=exception2.readInt(input1,input2);
+        log.info("Exeption:{}",exeption);
 
 
     }
