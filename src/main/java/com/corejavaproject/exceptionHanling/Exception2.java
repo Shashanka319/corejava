@@ -20,7 +20,12 @@ public class Exception2{
 
         exception2.readInt(input1,input2);
 
-
+log.info("Enter the values for division:");
+scanner = new Scanner(System.in);
+        int input3 = scanner.nextInt();
+        int input4 = scanner.nextInt();
+        log.info("Enter the values for division:");
+        log,info(scanner);
     }
     public int divide(int input1,int input2){
         log.info("Division Method:input1={},input2={}",input1,input2);
