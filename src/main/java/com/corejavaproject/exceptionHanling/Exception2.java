@@ -23,6 +23,8 @@ public class Exception2{
 log.info("Enter the values for division:");
 scanner = new Scanner(System.in);
         int input3 = scanner.nextInt();
+        int input4 = scanner.nextInt();
+
         log.info("Enter the values for division:");
 
     }
@@ -35,6 +37,7 @@ scanner = new Scanner(System.in);
             log.error("Arithmetic Exception:{}",e);
         }
         log.info("Result of Division Method:{}",result);
+        log.info("Enter the values for division:");
         return result;
     }
 
@@ -51,6 +54,7 @@ scanner = new Scanner(System.in);
             log.error("Exception:{}",e);
         }
         log.info("Result of Division Method:{}",result);
+        log.info("Enter the values for division:");
         return result;
     }
     public int division2(int number1,int number2){
