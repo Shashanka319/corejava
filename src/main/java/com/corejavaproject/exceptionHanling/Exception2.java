@@ -18,10 +18,6 @@ public class Exception2{
         int result =exception2.divide(input1, input2);
         log.info("Final Result:{}",result);
 
-        log.info("Enter the values for division:");
-        int input3 = scanner.nextInt();
-        
-
         exception2.readInt(input1,input2);
 
 
