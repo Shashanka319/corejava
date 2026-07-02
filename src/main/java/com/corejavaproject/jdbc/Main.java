@@ -12,8 +12,9 @@ public class Main {
 
         UserDAO userDAO = new UserDAOImpl();
         int result = userDAO.save(user);
-
+        log.info("Result of user saving");
         log.info("Result of saving user: {}", result);
+
 
 
         log.info("Current users in database: {}", userDAO.getAllUsers());
