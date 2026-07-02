@@ -6,11 +6,13 @@ public class JvmLoading {
         static{
 
             System.out.println("GFG class is loaded by the JVM!");
+
         }
 
         public void display(){
 
             System.out.println("Method of GFG class is executed.");
+            System.out.println("Method of GFG class has been called.");
         }
     }
 
