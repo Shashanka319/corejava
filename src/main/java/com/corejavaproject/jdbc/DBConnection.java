@@ -6,6 +6,7 @@ import java.io.FileInputStream;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.util.Properties;
+@Log4j2
 
 @Log4j2
 
@@ -16,7 +17,7 @@ public class DBConnection {
         try(FileInputStream fileInputStream = new FileInputStream(
                 "C:\\Xworkz Internship\\oops\\src\\main\\resources\\application.properties")){
             Properties properties = new Properties();
-            properties.load(fileInputStream);
+            log.info("properties loaded"+properties.load(fileInputStream));
 
             // create a connection
             connection = DriverManager.getConnection(properties.getProperty("db.url"), properties.getProperty("db.username"),
