@@ -1,3 +1,14 @@
-2026-06-30 23:35:16,028 INFO c.c.e.Handling [main] Enter the values for division:
-2026-06-30 23:35:55,046 INFO c.c.e.Handling [main] Enter the values for division:
-2026-06-30 23:40:06,227 INFO c.c.e.Handling [main] Enter the values for division:
+2026-07-02 06:03:23,552 INFO c.c.e.Exception2 [main] Enter the values for division:
+2026-07-02 06:03:41,552 INFO c.c.e.Exception2 [main] Division Method:input1=10,input2=2
+2026-07-02 06:03:41,553 INFO c.c.e.Exception2 [main] Result of Division Method:5
+2026-07-02 06:03:41,555 INFO c.c.e.Exception2 [main] Enter the values for division:
+2026-07-02 06:03:41,556 INFO c.c.e.Exception2 [main] Final Result:5
+2026-07-02 06:03:41,557 INFO c.c.e.Exception2 [main] Finally bolck Executed:{}
+2026-07-02 06:03:41,557 INFO c.c.e.Exception2 [main] Enter the values for division:
+2026-07-02 06:03:53,416 INFO c.c.e.Exception2 [main] Enter the values for division:
+2026-07-02 06:06:22,490 INFO c.c.e.ExceptionHandling [main] ######Finally#########
+2026-07-02 06:06:22,523 INFO c.c.e.ExceptionHandling [main] output:5
+2026-07-02 06:06:22,525 INFO c.c.e.ExceptionHandling [main] Response:0
+2026-07-02 06:06:22,529 INFO c.c.e.ExceptionHandling [main] ######Finally#########
+2026-07-02 06:06:22,531 INFO c.c.e.ExceptionHandling [main] output:5
+2026-07-02 06:06:22,533 INFO c.c.e.ExceptionHandling [main] Response:0
