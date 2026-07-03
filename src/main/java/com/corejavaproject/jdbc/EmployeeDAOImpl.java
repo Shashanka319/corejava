@@ -28,7 +28,7 @@ public class EmployeeDAOImpl implements EmployeeDAO {
        }catch (Exception exp){
            log.error("Exception While Executing User Detailes");
        }
-       log.info("Inserted the user detailes,index values:{}",response);
+       log.info("Inserted the employee detailes,index values:{}",response);
        return response;
 
     }
