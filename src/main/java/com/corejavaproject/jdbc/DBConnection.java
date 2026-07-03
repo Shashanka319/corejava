@@ -25,20 +25,3 @@ public class DBConnection
         return connection;
     }
 }
-
-public class DBConnection {
-    public static Connection getConnection(){
-        Connection connection = null;
-        try(FileInputStream fileInputStream = new FileInputStream("C:\\Xworkz Internship\\oops\\src\\main\\resources\\application.properties")){
-            Properties properties = new Properties();
-            properties.load(FileInputStream);
-
-            connection =DriverManager.getConnection(
-                    properties.getProperty("db.url"),
-                    properties.getProperty("db.username"),
-                    properties.get("db.password")
-            );
-        }catch (Exception exp){}
-        return connection;
-    }
-}
