@@ -2,6 +2,7 @@ package com.corejavaproject.jdbc;
 
 import lombok.extern.log4j.Log4j2;
 import java.sql.Connection;
+import java.sql.DriverManager;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.time.LocalDate;
@@ -17,6 +18,7 @@ public class UserDAOImpl implements UserDAO {
         String sql = "insert into employees(first_name, last_name, email, hire_date) values (?, ?, ?, ?)";
 
         // Both the connection and the statement will close automatically now
+        DriverManager ddDBConnection;
         try (Connection connection = ddDBConnection.getConnection();
              PreparedStatement statement = connection.prepareStatement(sql)) {
 

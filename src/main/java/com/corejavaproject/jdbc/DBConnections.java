@@ -8,7 +8,7 @@ import java.sql.DriverManager;
 import java.util.Properties;
 @Log4j2
 
-public class DBConnection {
+public class DBConnections {
     public static Connection getEmployeeConnection(){
         Connection connection = null;
         try(FileInputStream fileInputStream = new FileInputStream("C:\\Xworkz Internship\\oops\\src\\main\\resources\\application.properties")){
