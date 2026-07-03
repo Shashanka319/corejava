@@ -17,7 +17,7 @@ public class UserDAOImpl implements UserDAO {
         String sql = "insert into employees(first_name, last_name, email, hire_date) values (?, ?, ?, ?)";
 
         // Both the connection and the statement will close automatically now
-        try (Connection connection = DBConnection.getConnection();
+        try (Connection connection = ddDBConnection.getConnection();
              PreparedStatement statement = connection.prepareStatement(sql)) {
 
             statement.setString(1, user.firstName());
@@ -41,7 +41,7 @@ public class UserDAOImpl implements UserDAO {
         List<User> users = new ArrayList<>();
         String sql = "select first_name, last_name, email, hire_date from employees";
 
-        try (Connection connection = DBConnection.getConnection();
+        try (Connection connection = ddDBConnection.getConnection();
              PreparedStatement statement = connection.prepareStatement(sql);
              ResultSet resultSet = statement.executeQuery()) {
 

@@ -8,20 +8,20 @@ import java.sql.DriverManager;
 import java.util.Properties;
 @Log4j2
 
-public class DBConnection
-{
-    public static Connection getConnection(){
+public class DBConnection {
+    public static Connection getEmployeeConnection(){
         Connection connection = null;
-        try(FileInputStream fileInputStream=new FileInputStream("C:\\Xworkz Internship\\oops\\src\\main\\resources\\application.properties")){
-            Properties properties=new Properties();
+        try(FileInputStream fileInputStream = new FileInputStream("C:\\Xworkz Internship\\oops\\src\\main\\resources\\application.properties")){
+            Properties properties = new Properties();
             properties.load(fileInputStream);
-
-            connection=(Connection) DriverManager.getConnection(
+            connection = (Connection) DriverManager.getConnection(
                     properties.getProperty("db.url"),
                     properties.getProperty("db.username"),
                     properties.getProperty("db.password")
             );
-        }catch (Exception ex){log.info(ex);}
+        }catch(Exception exp){
+            log.error("Error The program check once:{}",exp);
+        }
         return connection;
     }
 }
