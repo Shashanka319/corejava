@@ -1,14 +1,15 @@
-2026-07-02 06:03:23,552 INFO c.c.e.Exception2 [main] Enter the values for division:
-2026-07-02 06:03:41,552 INFO c.c.e.Exception2 [main] Division Method:input1=10,input2=2
-2026-07-02 06:03:41,553 INFO c.c.e.Exception2 [main] Result of Division Method:5
-2026-07-02 06:03:41,555 INFO c.c.e.Exception2 [main] Enter the values for division:
-2026-07-02 06:03:41,556 INFO c.c.e.Exception2 [main] Final Result:5
-2026-07-02 06:03:41,557 INFO c.c.e.Exception2 [main] Finally bolck Executed:{}
-2026-07-02 06:03:41,557 INFO c.c.e.Exception2 [main] Enter the values for division:
-2026-07-02 06:03:53,416 INFO c.c.e.Exception2 [main] Enter the values for division:
-2026-07-02 06:06:22,490 INFO c.c.e.ExceptionHandling [main] ######Finally#########
-2026-07-02 06:06:22,523 INFO c.c.e.ExceptionHandling [main] output:5
-2026-07-02 06:06:22,525 INFO c.c.e.ExceptionHandling [main] Response:0
-2026-07-02 06:06:22,529 INFO c.c.e.ExceptionHandling [main] ######Finally#########
-2026-07-02 06:06:22,531 INFO c.c.e.ExceptionHandling [main] output:5
-2026-07-02 06:06:22,533 INFO c.c.e.ExceptionHandling [main] Response:0
+2026-07-03 10:15:21,973 ERROR c.c.j.UserDAOImpl [main] Exception while saving the user details
+java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'natalia@gmail.com' for key 'employees.email'
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:118) ~[mysql-connector-j-8.0.33.jar:8.0.33]
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122) ~[mysql-connector-j-8.0.33.jar:8.0.33]
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeInternal(ClientPreparedStatement.java:916) ~[mysql-connector-j-8.0.33.jar:8.0.33]
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeUpdateInternal(ClientPreparedStatement.java:1061) ~[mysql-connector-j-8.0.33.jar:8.0.33]
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeUpdateInternal(ClientPreparedStatement.java:1009) ~[mysql-connector-j-8.0.33.jar:8.0.33]
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeLargeUpdate(ClientPreparedStatement.java:1320) ~[mysql-connector-j-8.0.33.jar:8.0.33]
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeUpdate(ClientPreparedStatement.java:994) ~[mysql-connector-j-8.0.33.jar:8.0.33]
+	at com.corejavaproject.jdbc.UserDAOImpl.save(UserDAOImpl.java:30) [main/:?]
+	at com.corejavaproject.jdbc.Main.main(Main.java:14) [main/:?]
+2026-07-03 10:15:22,006 INFO c.c.j.UserDAOImpl [main] Inserted the user details, no of rows inserted:0
+2026-07-03 10:15:22,006 INFO c.c.j.Main [main] Result of user saving:0
+2026-07-03 10:15:22,007 INFO c.c.j.Main [main] Result of saving user: 0
+2026-07-03 10:15:22,058 INFO c.c.j.Main [main] Current users in database: [User[firstName=John, lastName=Doe, email=john.doe@email.com, hireDate=2026-01-15], User[firstName=Jane, lastName=Smith, email=jane.smith@email.com, hireDate=2026-02-20], User[firstName=Michael, lastName=Johnson, email=michael.j@email.com, hireDate=2026-03-10], User[firstName=Emily, lastName=Davis, email=emily.davis@email.com, hireDate=2026-04-05], User[firstName=David, lastName=Brown, email=david.brown@email.com, hireDate=2026-05-12], User[firstName=Sarah, lastName=Wilson, email=sarah.wilson@email.com, hireDate=2026-06-01], User[firstName=Shashank, lastName=Kumar, email=natalia@gmail.com, hireDate=2026-09-27]]

@@ -25,3 +25,9 @@ public class DBConnection
         return connection;
     }
 }
+public class DBCOnnection{
+    public static Connection getConnection(){
+        Connection connection = null;
+        
+    }
+}
