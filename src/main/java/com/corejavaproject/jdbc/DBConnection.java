@@ -28,6 +28,17 @@ public class DBConnection
 public class DBCOnnection{
     public static Connection getConnection(){
         Connection connection = null;
-        
+        try(FileInputStream fileInputStream= new FileInputStream("C:\\Xworkz Internship\\oops\\src\\main\\resources\\application.properties")){
+            Properties properties= new Properties();
+            properties.load(fileInputStream);
+
+            connection=DriverManager.getConnection(
+                    properties.getProperty("db.url"),
+                    properties.getProperty("db.username"),
+                    properties.getProperty("db.password")
+            );
+        }catch (Exception exp){
+
+        }return connection;
     }
 }
