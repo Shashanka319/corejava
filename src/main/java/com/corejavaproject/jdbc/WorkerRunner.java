@@ -11,5 +11,8 @@ public class WorkerRunner {
       ;
         log.info("Save the worker Detailes:{}",  workerDAO.saveWorker(worker));
         log.info("Worker detailes in current Database:{}",workerDAO.getAllWorkers());
+
+        log.info("Updates Info:{}",workerDAO.updateWorkerNameByEmail("shashank1727@gmail.com","Shankar","Kumbar"));
+        log.info("Workers Detailes After Update:{}",workerDAO.getAllWorkers());
     }
 }

@@ -46,4 +46,23 @@ public class WorkerDAOImpl implements WorkerDAO {
         }
         return list;
     }
+
+    public int updateWorkerNameByEmail(String email, String newFirstName, String newLastName) {
+        int response = 0;
+        String sql = "UPDATE employees SET first_name = ?, last_name = ? WHERE email = ?";
+
+        try (Connection connection = DBConnections.getEmployeeConnection();
+             PreparedStatement statement = connection.prepareStatement(sql)) {
+
+            statement.setString(1, newFirstName);
+            statement.setString(2, newLastName);
+            statement.setString(3, email);
+
+            response = statement.executeUpdate();
+            log.info("Worker updated successfully. Rows affected: {}", response);
+        } catch (Exception e) {
+            log.error("Exception while updating the worker details: {}", e.getMessage(), e);
+        }
+        return response;
+    }
 }
