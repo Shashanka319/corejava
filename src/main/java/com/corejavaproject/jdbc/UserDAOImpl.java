@@ -2,7 +2,6 @@ package com.corejavaproject.jdbc;
 
 import lombok.extern.log4j.Log4j2;
 import java.sql.Connection;
-import java.sql.DriverManager;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.time.LocalDate;
@@ -15,44 +14,49 @@ public class UserDAOImpl implements UserDAO {
     @Override
     public int save(User user) {
         int response = 0;
-        String sql = "insert into employees(first_name, last_name, email, hire_date) values (?, ?, ?, ?)";
+        String sql = "INSERT INTO employees(first_name, last_name, email, hire_date) VALUES (?, ?, ?, ?)";
 
-        // Both the connection and the statement will close automatically now
-        DriverManager ddDBConnection;
-        try (Connection connection = ddDBConnection.getConnection();
+        // FIX: Call your custom DBConnections helper here
+        try (Connection connection = DBConnections.getEmployeeConnection();
              PreparedStatement statement = connection.prepareStatement(sql)) {
+
+            if (connection == null) {
+                log.error("Could not establish a database connection.");
+                return 0;
+            }
 
             statement.setString(1, user.firstName());
             statement.setString(2, user.lastName());
             statement.setString(3, user.email());
-
-            // FIXED: Using setObject and your record's camelCase method hireDate()
             statement.setObject(4, user.hireDate());
 
             response = statement.executeUpdate();
         } catch (Exception ex) {
-            // FIXED: Added 'ex' here so you can actually read the error details in your console
             log.error("Exception while saving the user details", ex);
         }
-        log.info("Inserted the user details, no of rows inserted:{}", response);
+        log.info("Inserted the user details, no of rows inserted: {}", response);
         return response;
     }
 
     @Override
     public List<User> getAllUsers() {
         List<User> users = new ArrayList<>();
-        String sql = "select first_name, last_name, email, hire_date from employees";
+        String sql = "SELECT first_name, last_name, email, hire_date FROM employees";
 
-        try (Connection connection = ddDBConnection.getConnection();
+        // FIX: Call your custom DBConnections helper here
+        try (Connection connection = DBConnections.getEmployeeConnection();
              PreparedStatement statement = connection.prepareStatement(sql);
              ResultSet resultSet = statement.executeQuery()) {
+
+            if (connection == null) {
+                log.error("Could not establish a database connection.");
+                return users;
+            }
 
             while (resultSet.next()) {
                 String firstName = resultSet.getString("first_name");
                 String lastName = resultSet.getString("last_name");
                 String email = resultSet.getString("email");
-
-                // Reading SQL DATE back out as a Java LocalDate cleanly
                 LocalDate hireDate = resultSet.getObject("hire_date", LocalDate.class);
 
                 User user = new User(firstName, lastName, email, hireDate);
