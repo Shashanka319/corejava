@@ -65,4 +65,20 @@ public class WorkerDAOImpl implements WorkerDAO {
         }
         return response;
     }
+    public int deleteWorkerByEmail(String email) {
+        int response = 0;
+        String sql = "DELETE FROM employees WHERE email = ?";
+
+        try (Connection connection = DBConnections.getEmployeeConnection();
+             PreparedStatement statement = connection.prepareStatement(sql)) {
+
+            statement.setString(1, email);
+
+            response = statement.executeUpdate();
+            log.info("Worker deleted successfully. Rows affected: {}", response);
+        } catch (Exception e) {
+            log.error("Exception while deleting the worker: {}", e.getMessage(), e);
+        }
+        return response;
+    }
 }

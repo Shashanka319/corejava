@@ -14,5 +14,8 @@ public class WorkerRunner {
 
         log.info("Updates Info:{}",workerDAO.updateWorkerNameByEmail("shashank1727@gmail.com","Shankar","Kumbar"));
         log.info("Workers Detailes After Update:{}",workerDAO.getAllWorkers());
+
+        log.info("Delete the Email from Worker Table:{}",workerDAO.deleteWorkerByEmail("shashank1727@gmail.com"));
+        log.info("Delete the Email from Worker Table:{}",workerDAO.getAllWorkers());
     }
 }
