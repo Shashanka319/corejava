@@ -15,7 +15,7 @@ public class EmployeeDAOImpl implements EmployeeDAO {
     @Override
     public int saveEmployee(Employee employee) {
         int response=0;
-       String sql ="insert into employees(first_name,last_name,email,hire_date) values(?,?,?,?))";
+       String sql ="insert into employees(first_name,last_name,email,hire_date) values(?,?,?,?)";
        try(Connection connection= DBConnection.getEmployeeConnection();
            PreparedStatement statement=connection.prepareStatement(sql)
        ){

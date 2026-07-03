@@ -13,7 +13,7 @@ public class Main {
         UserDAO userDAO = new UserDAOImpl();
         int result = userDAO.save(user);
         log.info("Result of user saving:{}", result);
-        log.info("Result of saving user: {}", result);
+
 
 
 
