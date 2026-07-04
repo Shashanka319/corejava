@@ -15,9 +15,11 @@ public class Employee {
 
     }
     public void getEmployee(){
+        System.out.println("Executing getEmployee in Employee class");
         System.out.println("Employee Name : "+this.name);
         System.out.println("Employee Age : "+this.age);
-        System.out.println("Company77 Name : "+COMPANY_NAME);
+        System.out.println("Company Name : "+COMPANY_NAME);
+
     }
     public  static void main(String[] args){
         Employee employee = new Employee("Shashanka",22);

@@ -15,6 +15,4 @@ public class Address {
         log.info("Name:"+this.name);
         log.info("Address:"+ this.address);
     }
-
-
 }
