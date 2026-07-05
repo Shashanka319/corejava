@@ -6,5 +6,6 @@ public class StringRunner {
         String str1 = new String("Shashank");
         StringComparision stringComparision=new StringComparision();
         stringComparision.stringCompare(str,str1);
+        stringComparision.stringCompare1(str,str1);
     }
 }
