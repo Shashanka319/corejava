@@ -26,7 +26,7 @@ public class StringComparision {
             log.info("String Are Not Equal");
         }
     }
-    public void eualIgnore(String str1,String str2){
+    public void caseIgnore(String str1,String str2){
         if(str1.equalsIgnoreCase(str2)){
             log.info("String Are Equal");
         }
