@@ -7,5 +7,6 @@ public class StringRunner {
         StringComparision stringComparision=new StringComparision();
         stringComparision.stringCompare(str,str1);
         stringComparision.stringCompare1(str,str1);
+        stringComparision.stringCompare2(str,str1);
     }
 }
