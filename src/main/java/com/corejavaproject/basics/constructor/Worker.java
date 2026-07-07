@@ -61,16 +61,7 @@ public static void getWorkers(){
         this.productName=productName;
         this.price=price;
     }
-    public void getDetails(){
-        System.out.println("Market Name:"+MARKET_NAME);
-        System.out.println(" Customer Name : "+this.name);
-        System.out.println("Customer Age : "+this.age);
-        System.out.println("Customer Mobile No : "+this.mobileNo);
-        System.out.println("Customer Address : "+this.address);
-        System.out.println("Product Name : "+this.productName);
-        System.out.println(" Product Price : "+this.price);
-
-    }
+   
 }
 
 }
