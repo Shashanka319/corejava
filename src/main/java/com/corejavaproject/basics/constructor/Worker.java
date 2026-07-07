@@ -37,31 +37,6 @@ public void getDetails(){
 
 }
 public static void getWorkers(){
-    static String MARKET_NAME="D-Mart";
-    String name;
-    int age;
-    long mobileNo;
-    String address;
-    String productName;
-    double price;
-
-    Customer(){
-        this.name="unkown";
-        this.age=0;
-        this.mobileNo=0;
-        this.address="unkown";
-        this.productName="unkown";
-        this.price=0;
-    }
-    Customer(String name,int age,long mobileNo,String address,String productName,double price){
-        this.name=name;
-        this.age=age;
-        this.mobileNo=mobileNo;
-        this.address=address;
-        this.productName=productName;
-        this.price=price;
-    }
-   
-}
-
+    Worker w=new Worker();
+    w.getDetails();
 }
