@@ -36,7 +36,3 @@ public void getDetails(){
     System.out.println(" Product Price : "+this.price);
 
 }
-public static void getWorkers(){
-    Worker w=new Worker();
-    w.getDetails();
-}
