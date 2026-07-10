@@ -5,9 +5,9 @@ public class StringRunner {
         String str="Shashank";
         String str1 = new String("Shashank");
         String str2 = "Shashank Kumbar";
-        String str3 = "Shashank kumbar";
-        String str4 = "Shashank";
-        String str5 = "Shashank Kumbar";
+        String str3 = "Shank kambar";
+        String str4 = "Shank";
+        String str5 = "Shank Kumar";
         StringComparision stringComparision=new StringComparision();
         stringComparision.stringCompare(str,str1);
         stringComparision.stringCompare1(str,str1);
