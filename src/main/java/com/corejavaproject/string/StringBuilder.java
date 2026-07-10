@@ -6,19 +6,13 @@ import lombok.extern.log4j.Log4j2;
 public class StringBuilder {
 
     public void display(String word1, String word2, String word3) {
+        java.lang.StringBuilder builder = new java.lang.StringBuilder();
 
-
-        StringBuilder builder = new StringBuilder();
         builder.append(word1);
-        builder.append(" " + word2);
-        builder.append(" " + word3);
-        builder.toString();
-        log.info(builder);
+        builder.append(" ").append(word2);
+        builder.append(" ").append(word3);
+
+        String result = builder.toString();
+        log.info(result);
     }
-
-    private void append(String str) {
-        System.out.println(str);
-    }
-
-
 }
