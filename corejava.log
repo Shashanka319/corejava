@@ -6,3 +6,5 @@
 2026-07-10 20:22:35,085 INFO c.c.s.StringComparision [main] String Are Not Equal
 2026-07-10 20:22:35,093 INFO c.c.s.StringComparision [main] String Are Equal
 2026-07-10 20:22:35,094 INFO c.c.s.StringComparision [main] String Are Equal
+2026-07-10 20:53:18,771 INFO c.c.s.StringBuilder [main] hi hello harshitha
+2026-07-10 20:53:38,031 INFO c.c.s.StringBuilder [main] hi hello Shashank

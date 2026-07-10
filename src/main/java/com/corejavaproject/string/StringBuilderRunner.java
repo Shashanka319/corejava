@@ -1,10 +1,11 @@
 package com.corejavaproject.string;
 
-public class Main {
+public class StringBuilderRunner {
+        public static void main(String[] args) {
 
-    public static void main(String[] args) {
+            StringBuilder stringBuilderExample = new StringBuilder();
+            stringBuilderExample.display("hi","hello","Shashank");
+        }
 
-        StringBuilderExample stringBuilderExample = new StringBuilderExample();
-        stringBuilderExample.display("hi","hello","harshitha");
-    }
+
 }
