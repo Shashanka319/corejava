@@ -6,10 +6,14 @@ public class StringRunner {
         String str1 = new String("Shashank");
         String str2 = "Shashank Kumbar";
         String str3 = "Shashank kumbar";
+        String str4 = "Shashank";
+        String str5 = "Shashank Kumbar";
         StringComparision stringComparision=new StringComparision();
         stringComparision.stringCompare(str,str1);
         stringComparision.stringCompare1(str,str1);
         stringComparision.stringCompare2(str,str1);
         stringComparision.caseIgnore(str2,str3);
+        stringComparision.caseIgnore(str3,str4);
+        stringComparision.caseIgnore(str4,str5);
     }
 }
