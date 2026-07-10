@@ -29,6 +29,7 @@ public class StringComparision {
     public void caseIgnore(String str1,String str2){
         if(str1.equalsIgnoreCase(str2)){
             log.info("String Are Equal");
+            log.info("String are Equal from Str1 to Str2");
         }
     }
 }
