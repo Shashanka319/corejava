@@ -22,4 +22,42 @@ public class SwitchCase {
                 break;
         }
     }
+    public int caluclateInterestRate(String loanType){
+        log.info("Calculating interest rate for loanType: ");
+        int interestRate;
+        switch (loanType) {
+            case "Home Loan":
+                interestRate = 12;
+                break;
+            case "Business Loan":
+                interestRate = 22;
+                break;
+            case "Car Loan":
+                interestRate = 10;
+                break;
+            default:
+                interestRate = 12;
+                break;
+        }
+        return interestRate;
+    }
+
+    public int caluclateInterestRateWithLamda(String loanType){
+        log.info("Calculating interest rate for loanType: ");
+        return switch (loanType){
+            case "Home Loan" -> 12;
+            case "Business Loan" -> 22;
+            case "Car Loan" -> 10;
+            case "Personal Loan" -> {
+                log.info("Execute the Personla Loan ");
+                print();
+                yield 12;
+            }
+            default -> 12;
+        };
+    }
+    public void print(){
+        log.info("Execute the Print method in Switchcase ");
+    }
+
 }

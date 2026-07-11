@@ -9,3 +9,9 @@
 2026-07-11 09:27:31,208 INFO c.c.b.s.c.SwitchCase [main] Generating regulatory report for region: NA
 2026-07-11 09:31:31,944 INFO c.c.b.s.c.SwitchCase [main] Generating regulatory report According to region: 
 2026-07-11 09:31:31,956 INFO c.c.b.s.c.SwitchCase [main] Generating regulatory report for region: NA
+2026-07-11 09:45:15,358 INFO c.c.b.s.c.SwitchCase [main] Generating regulatory report According to region: 
+2026-07-11 09:45:15,364 INFO c.c.b.s.c.SwitchCase [main] Generating regulatory report for region: NA
+2026-07-11 09:45:15,366 INFO c.c.b.s.c.SwitchCase [main] Calculating interest rate for loanType: 
+2026-07-11 09:45:15,367 INFO c.c.b.s.c.SwitchCase [main] Calculating interest rate for loanType: 
+2026-07-11 09:45:15,367 INFO c.c.b.s.c.SwitchCase [main] Execute the Personla Loan 
+2026-07-11 09:45:15,368 INFO c.c.b.s.c.SwitchCase [main] Execute the Print method in Switchcase 
