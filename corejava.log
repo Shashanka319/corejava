@@ -5,3 +5,5 @@
 2026-07-11 08:48:49,580 INFO c.c.b.s.c.Restorent [main] Restorent is Open go and order the required food
 2026-07-11 08:50:34,030 INFO c.c.b.s.c.Restorent [main] Order full meals
 2026-07-11 08:51:09,579 INFO c.c.b.s.c.Restorent [main] Order full meals
+2026-07-11 09:27:31,194 INFO c.c.b.s.c.SwitchCase [main] Generating regulatory report According to region: 
+2026-07-11 09:27:31,208 INFO c.c.b.s.c.SwitchCase [main] Generating regulatory report for region: NA
