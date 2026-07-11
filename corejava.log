@@ -15,3 +15,192 @@
 2026-07-11 09:45:15,367 INFO c.c.b.s.c.SwitchCase [main] Calculating interest rate for loanType: 
 2026-07-11 09:45:15,367 INFO c.c.b.s.c.SwitchCase [main] Execute the Personla Loan 
 2026-07-11 09:45:15,368 INFO c.c.b.s.c.SwitchCase [main] Execute the Print method in Switchcase 
+2026-07-11 10:21:10,915 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop0
+2026-07-11 10:21:10,929 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop1
+2026-07-11 10:21:10,931 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop2
+2026-07-11 10:21:10,931 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop3
+2026-07-11 10:21:10,931 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop4
+2026-07-11 10:21:10,932 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop5
+2026-07-11 10:21:10,932 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop6
+2026-07-11 10:21:10,935 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop7
+2026-07-11 10:21:10,935 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop8
+2026-07-11 10:21:10,937 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop9
+2026-07-11 10:21:10,938 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop10
+2026-07-11 10:21:10,939 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop0
+2026-07-11 10:21:10,939 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop1
+2026-07-11 10:21:10,940 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop2
+2026-07-11 10:21:10,940 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop3
+2026-07-11 10:21:10,941 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop4
+2026-07-11 10:21:10,941 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop5
+2026-07-11 10:21:10,942 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop6
+2026-07-11 10:21:10,942 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop7
+2026-07-11 10:21:10,944 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop8
+2026-07-11 10:21:10,944 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop9
+2026-07-11 10:21:10,945 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop10
+2026-07-11 10:21:10,945 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop11
+2026-07-11 10:21:10,945 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop12
+2026-07-11 10:21:10,946 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop13
+2026-07-11 10:21:10,947 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop14
+2026-07-11 10:21:10,947 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop15
+2026-07-11 10:21:10,947 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop16
+2026-07-11 10:21:10,950 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop17
+2026-07-11 10:21:10,950 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop18
+2026-07-11 10:21:10,951 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop19
+2026-07-11 10:21:10,952 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop20
+2026-07-11 10:21:10,952 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop0
+2026-07-11 10:21:10,952 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop1
+2026-07-11 10:21:10,953 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop2
+2026-07-11 10:21:10,953 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop3
+2026-07-11 10:21:10,953 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop4
+2026-07-11 10:21:10,953 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop5
+2026-07-11 10:21:10,954 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop6
+2026-07-11 10:21:10,954 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop7
+2026-07-11 10:21:10,955 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop8
+2026-07-11 10:21:10,956 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop9
+2026-07-11 10:21:10,957 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop10
+2026-07-11 10:21:10,958 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop11
+2026-07-11 10:21:10,958 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop12
+2026-07-11 10:21:10,959 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop13
+2026-07-11 10:21:10,960 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop14
+2026-07-11 10:21:10,960 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop15
+2026-07-11 10:21:10,961 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop16
+2026-07-11 10:21:10,961 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop17
+2026-07-11 10:21:10,962 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop18
+2026-07-11 10:21:10,962 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop19
+2026-07-11 10:21:10,963 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop20
+2026-07-11 10:21:10,964 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop21
+2026-07-11 10:21:10,964 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop22
+2026-07-11 10:21:10,965 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop23
+2026-07-11 10:21:10,965 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop24
+2026-07-11 10:21:10,966 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop25
+2026-07-11 10:21:10,967 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop26
+2026-07-11 10:21:10,967 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop27
+2026-07-11 10:21:10,967 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop28
+2026-07-11 10:21:10,967 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop29
+2026-07-11 10:21:10,969 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop30
+2026-07-11 10:22:12,717 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop
+2026-07-11 10:22:12,726 INFO c.c.b.s.l.LoopingStatement [main] 0
+2026-07-11 10:22:12,726 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop
+2026-07-11 10:22:12,727 INFO c.c.b.s.l.LoopingStatement [main] 1
+2026-07-11 10:22:12,728 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop
+2026-07-11 10:22:12,729 INFO c.c.b.s.l.LoopingStatement [main] 2
+2026-07-11 10:22:12,729 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop
+2026-07-11 10:22:12,730 INFO c.c.b.s.l.LoopingStatement [main] 3
+2026-07-11 10:22:12,730 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop
+2026-07-11 10:22:12,731 INFO c.c.b.s.l.LoopingStatement [main] 4
+2026-07-11 10:22:12,733 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop
+2026-07-11 10:22:12,735 INFO c.c.b.s.l.LoopingStatement [main] 5
+2026-07-11 10:22:12,736 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop
+2026-07-11 10:22:12,737 INFO c.c.b.s.l.LoopingStatement [main] 6
+2026-07-11 10:22:12,737 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop
+2026-07-11 10:22:12,738 INFO c.c.b.s.l.LoopingStatement [main] 7
+2026-07-11 10:22:12,738 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop
+2026-07-11 10:22:12,739 INFO c.c.b.s.l.LoopingStatement [main] 8
+2026-07-11 10:22:12,739 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop
+2026-07-11 10:22:12,740 INFO c.c.b.s.l.LoopingStatement [main] 9
+2026-07-11 10:22:12,740 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop
+2026-07-11 10:22:12,741 INFO c.c.b.s.l.LoopingStatement [main] 10
+2026-07-11 10:22:12,741 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop
+2026-07-11 10:22:12,741 INFO c.c.b.s.l.LoopingStatement [main] 0
+2026-07-11 10:22:12,741 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop
+2026-07-11 10:22:12,741 INFO c.c.b.s.l.LoopingStatement [main] 1
+2026-07-11 10:22:12,743 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop
+2026-07-11 10:22:12,743 INFO c.c.b.s.l.LoopingStatement [main] 2
+2026-07-11 10:22:12,743 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop
+2026-07-11 10:22:12,743 INFO c.c.b.s.l.LoopingStatement [main] 3
+2026-07-11 10:22:12,743 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop
+2026-07-11 10:22:12,744 INFO c.c.b.s.l.LoopingStatement [main] 4
+2026-07-11 10:22:12,744 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop
+2026-07-11 10:22:12,745 INFO c.c.b.s.l.LoopingStatement [main] 5
+2026-07-11 10:22:12,746 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop
+2026-07-11 10:22:12,746 INFO c.c.b.s.l.LoopingStatement [main] 6
+2026-07-11 10:22:12,746 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop
+2026-07-11 10:22:12,746 INFO c.c.b.s.l.LoopingStatement [main] 7
+2026-07-11 10:22:12,746 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop
+2026-07-11 10:22:12,747 INFO c.c.b.s.l.LoopingStatement [main] 8
+2026-07-11 10:22:12,747 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop
+2026-07-11 10:22:12,747 INFO c.c.b.s.l.LoopingStatement [main] 9
+2026-07-11 10:22:12,748 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop
+2026-07-11 10:22:12,748 INFO c.c.b.s.l.LoopingStatement [main] 10
+2026-07-11 10:22:12,749 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop
+2026-07-11 10:22:12,749 INFO c.c.b.s.l.LoopingStatement [main] 11
+2026-07-11 10:22:12,750 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop
+2026-07-11 10:22:12,750 INFO c.c.b.s.l.LoopingStatement [main] 12
+2026-07-11 10:22:12,751 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop
+2026-07-11 10:22:12,752 INFO c.c.b.s.l.LoopingStatement [main] 13
+2026-07-11 10:22:12,752 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop
+2026-07-11 10:22:12,752 INFO c.c.b.s.l.LoopingStatement [main] 14
+2026-07-11 10:22:12,753 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop
+2026-07-11 10:22:12,753 INFO c.c.b.s.l.LoopingStatement [main] 15
+2026-07-11 10:22:12,753 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop
+2026-07-11 10:22:12,754 INFO c.c.b.s.l.LoopingStatement [main] 16
+2026-07-11 10:22:12,754 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop
+2026-07-11 10:22:12,754 INFO c.c.b.s.l.LoopingStatement [main] 17
+2026-07-11 10:22:12,754 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop
+2026-07-11 10:22:12,755 INFO c.c.b.s.l.LoopingStatement [main] 18
+2026-07-11 10:22:12,755 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop
+2026-07-11 10:22:12,756 INFO c.c.b.s.l.LoopingStatement [main] 19
+2026-07-11 10:22:12,756 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop
+2026-07-11 10:22:12,756 INFO c.c.b.s.l.LoopingStatement [main] 20
+2026-07-11 10:22:12,757 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop
+2026-07-11 10:22:12,757 INFO c.c.b.s.l.LoopingStatement [main] 0
+2026-07-11 10:22:12,758 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop
+2026-07-11 10:22:12,758 INFO c.c.b.s.l.LoopingStatement [main] 1
+2026-07-11 10:22:12,758 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop
+2026-07-11 10:22:12,758 INFO c.c.b.s.l.LoopingStatement [main] 2
+2026-07-11 10:22:12,758 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop
+2026-07-11 10:22:12,758 INFO c.c.b.s.l.LoopingStatement [main] 3
+2026-07-11 10:22:12,759 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop
+2026-07-11 10:22:12,759 INFO c.c.b.s.l.LoopingStatement [main] 4
+2026-07-11 10:22:12,759 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop
+2026-07-11 10:22:12,759 INFO c.c.b.s.l.LoopingStatement [main] 5
+2026-07-11 10:22:12,759 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop
+2026-07-11 10:22:12,760 INFO c.c.b.s.l.LoopingStatement [main] 6
+2026-07-11 10:22:12,761 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop
+2026-07-11 10:22:12,761 INFO c.c.b.s.l.LoopingStatement [main] 7
+2026-07-11 10:22:12,761 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop
+2026-07-11 10:22:12,762 INFO c.c.b.s.l.LoopingStatement [main] 8
+2026-07-11 10:22:12,762 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop
+2026-07-11 10:22:12,762 INFO c.c.b.s.l.LoopingStatement [main] 9
+2026-07-11 10:22:12,762 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop
+2026-07-11 10:22:12,762 INFO c.c.b.s.l.LoopingStatement [main] 10
+2026-07-11 10:22:12,763 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop
+2026-07-11 10:22:12,763 INFO c.c.b.s.l.LoopingStatement [main] 11
+2026-07-11 10:22:12,763 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop
+2026-07-11 10:22:12,763 INFO c.c.b.s.l.LoopingStatement [main] 12
+2026-07-11 10:22:12,763 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop
+2026-07-11 10:22:12,763 INFO c.c.b.s.l.LoopingStatement [main] 13
+2026-07-11 10:22:12,764 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop
+2026-07-11 10:22:12,764 INFO c.c.b.s.l.LoopingStatement [main] 14
+2026-07-11 10:22:12,764 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop
+2026-07-11 10:22:12,764 INFO c.c.b.s.l.LoopingStatement [main] 15
+2026-07-11 10:22:12,764 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop
+2026-07-11 10:22:12,764 INFO c.c.b.s.l.LoopingStatement [main] 16
+2026-07-11 10:22:12,764 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop
+2026-07-11 10:22:12,764 INFO c.c.b.s.l.LoopingStatement [main] 17
+2026-07-11 10:22:12,765 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop
+2026-07-11 10:22:12,765 INFO c.c.b.s.l.LoopingStatement [main] 18
+2026-07-11 10:22:12,765 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop
+2026-07-11 10:22:12,765 INFO c.c.b.s.l.LoopingStatement [main] 19
+2026-07-11 10:22:12,765 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop
+2026-07-11 10:22:12,765 INFO c.c.b.s.l.LoopingStatement [main] 20
+2026-07-11 10:22:12,766 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop
+2026-07-11 10:22:12,766 INFO c.c.b.s.l.LoopingStatement [main] 21
+2026-07-11 10:22:12,766 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop
+2026-07-11 10:22:12,766 INFO c.c.b.s.l.LoopingStatement [main] 22
+2026-07-11 10:22:12,766 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop
+2026-07-11 10:22:12,767 INFO c.c.b.s.l.LoopingStatement [main] 23
+2026-07-11 10:22:12,767 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop
+2026-07-11 10:22:12,768 INFO c.c.b.s.l.LoopingStatement [main] 24
+2026-07-11 10:22:12,768 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop
+2026-07-11 10:22:12,768 INFO c.c.b.s.l.LoopingStatement [main] 25
+2026-07-11 10:22:12,768 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop
+2026-07-11 10:22:12,768 INFO c.c.b.s.l.LoopingStatement [main] 26
+2026-07-11 10:22:12,768 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop
+2026-07-11 10:22:12,769 INFO c.c.b.s.l.LoopingStatement [main] 27
+2026-07-11 10:22:12,769 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop
+2026-07-11 10:22:12,769 INFO c.c.b.s.l.LoopingStatement [main] 28
+2026-07-11 10:22:12,769 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop
+2026-07-11 10:22:12,769 INFO c.c.b.s.l.LoopingStatement [main] 29
+2026-07-11 10:22:12,769 INFO c.c.b.s.l.LoopingStatement [main] Execute the Number using for Loop
+2026-07-11 10:22:12,770 INFO c.c.b.s.l.LoopingStatement [main] 30
