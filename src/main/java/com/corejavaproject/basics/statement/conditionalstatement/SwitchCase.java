@@ -5,11 +5,6 @@ import lombok.extern.log4j.Log4j2;
 @Log4j2
 
 public class SwitchCase {
-    public static void main(String[] args) {
-        SwitchCase switchCase = new SwitchCase();
-        switchCase.generateRegulatoryReport("NA");
-
-    }
     public void generateRegulatoryReport(String region){
         log.info("Generating regulatory report According to region: ");
         switch (region) {
