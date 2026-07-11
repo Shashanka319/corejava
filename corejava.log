@@ -1,10 +1,7 @@
-2026-07-10 20:14:45,780 INFO c.c.s.StringComparision [main] String Are Not Equal
-2026-07-10 20:14:45,799 INFO c.c.s.StringComparision [main] String Are Equal
-2026-07-10 20:14:45,800 INFO c.c.s.StringComparision [main] String Are Equal
-2026-07-10 20:14:45,801 INFO c.c.s.StringComparision [main] String Are Equal
-2026-07-10 20:14:45,801 INFO c.c.s.StringComparision [main] String are Equal from Str1 to Str2
-2026-07-10 20:22:35,085 INFO c.c.s.StringComparision [main] String Are Not Equal
-2026-07-10 20:22:35,093 INFO c.c.s.StringComparision [main] String Are Equal
-2026-07-10 20:22:35,094 INFO c.c.s.StringComparision [main] String Are Equal
-2026-07-10 20:53:18,771 INFO c.c.s.StringBuilder [main] hi hello harshitha
-2026-07-10 20:53:38,031 INFO c.c.s.StringBuilder [main] hi hello Shashank
+2026-07-11 08:30:14,324 INFO c.c.b.s.c.Transaction [main] Transaction is achive from1560108012106 to 1560108012206
+2026-07-11 08:31:25,080 INFO c.c.b.s.c.Transaction [main]  Available Balance is 5000.0
+2026-07-11 08:31:25,090 INFO c.c.b.s.c.Transaction [main] Transaction Amount is 4000.0
+2026-07-11 08:31:25,093 INFO c.c.b.s.c.Transaction [main] Transaction is achive from1560108012106 to 1560108012206
+2026-07-11 08:48:49,580 INFO c.c.b.s.c.Restorent [main] Restorent is Open go and order the required food
+2026-07-11 08:50:34,030 INFO c.c.b.s.c.Restorent [main] Order full meals
+2026-07-11 08:51:09,579 INFO c.c.b.s.c.Restorent [main] Order full meals
