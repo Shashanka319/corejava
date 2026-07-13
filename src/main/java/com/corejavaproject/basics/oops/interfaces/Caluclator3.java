@@ -9,7 +9,9 @@ public class Caluclator3 implements Calucalator{
     @Override
     public void sum() {
         Scanner scanner=new Scanner(System.in);
+        log.info("Enter the First Number:");
         int a = scanner.nextInt();
+        log.info("Enter the Second Number:");
         int b = scanner.nextInt();
         if(a==0 && b==0){
            log.info("The Value is Zero so Add some value");
@@ -20,11 +22,12 @@ public class Caluclator3 implements Calucalator{
         }
 
     }
-
     @Override
     public void sub() {
         Scanner scanner=new Scanner(System.in);
+        log.info("Enter the First Number:");
         int a = scanner.nextInt();
+        log.info("Enter the Second Number:");
         int b = scanner.nextInt();
         if(a==0 && b==0){
             log.info("The Value is Zero so Add some value");

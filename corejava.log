@@ -1,10 +1,59 @@
-2026-07-12 09:18:33,985 INFO c.c.b.o.i.Dog [main] Dog is Running
-2026-07-12 09:19:47,478 INFO c.c.b.o.i.Dog [main] Dog is Running
-2026-07-12 09:19:47,489 INFO c.c.b.o.i.Main [main] Animal TypeAnimal
-2026-07-12 09:22:46,410 INFO c.c.b.o.i.Dog [main] Dog is Running
-2026-07-12 09:24:23,347 INFO c.c.b.o.i.Main [main] Animal Type:
-2026-07-12 09:24:23,365 INFO c.c.b.o.i.Dog [main] Dog is Running
-2026-07-12 09:24:45,455 INFO c.c.b.o.i.Main [main] Animal Type:Dog
-2026-07-12 09:24:45,470 INFO c.c.b.o.i.Dog [main] Dog is Running
-2026-07-12 09:26:04,907 INFO c.c.b.o.i.Main [main] Animal Name:Dog
-2026-07-12 09:26:04,917 INFO c.c.b.o.i.Dog [main] Dog is Running
+2026-07-13 19:14:42,594 INFO c.c.b.o.i.Caluclator1 [main] Total Sum is :30
+2026-07-13 19:14:42,615 INFO c.c.b.o.i.Caluclator1 [main] The Answer of Substraction is:-1
+2026-07-13 19:15:06,318 INFO c.c.b.o.i.CaluClator2 [main] Enter the First Number:23
+2026-07-13 19:15:06,320 INFO c.c.b.o.i.CaluClator2 [main] Enter the Second Number:23
+2026-07-13 19:15:06,320 INFO c.c.b.o.i.CaluClator2 [main] Result of Total Sum :46
+2026-07-13 19:15:18,979 INFO c.c.b.o.i.CaluClator2 [main] Enter the First Number:56
+2026-07-13 19:15:18,979 INFO c.c.b.o.i.CaluClator2 [main] Enter the Second Number:4
+2026-07-13 19:15:18,980 INFO c.c.b.o.i.CaluClator2 [main] Result of Total Substraction :52
+2026-07-13 19:16:37,126 INFO c.c.b.o.i.Caluclator1 [main] Total Sum is :30
+2026-07-13 19:16:37,134 INFO c.c.b.o.i.Caluclator1 [main] The Answer of Substraction is:-1
+2026-07-13 19:16:54,623 INFO c.c.b.o.i.Caluclator1 [main] Total Sum is :30
+2026-07-13 19:16:54,629 INFO c.c.b.o.i.Caluclator1 [main] The Answer of Substraction is:-1
+2026-07-13 19:17:19,919 INFO c.c.b.o.i.Caluclator1 [main] Total Sum is :30
+2026-07-13 19:17:19,924 INFO c.c.b.o.i.Caluclator1 [main] The Answer of Substraction is:-1
+2026-07-13 19:17:33,074 INFO c.c.b.o.i.CaluClator2 [main] Enter the First Number:83
+2026-07-13 19:17:46,891 INFO c.c.b.o.i.CaluClator2 [main] Enter the Second Number:32
+2026-07-13 19:17:46,892 INFO c.c.b.o.i.CaluClator2 [main] Result of Total Sum :115
+2026-07-13 19:17:57,260 INFO c.c.b.o.i.CaluClator2 [main] Enter the First Number:{}
+2026-07-13 19:17:57,261 INFO c.c.b.o.i.CaluClator2 [main] Enter the Second Number:{}
+2026-07-13 19:17:57,261 INFO c.c.b.o.i.CaluClator2 [main] Result of Total Substraction :79
+2026-07-13 19:20:16,867 INFO c.c.b.o.i.Caluclator1 [main] Total Sum is :30
+2026-07-13 19:20:16,871 INFO c.c.b.o.i.Caluclator1 [main] The Answer of Substraction is:-1
+2026-07-13 19:20:16,874 INFO c.c.b.o.i.CaluClator2 [main] Enter the First Number:{}
+2026-07-13 19:20:35,380 INFO c.c.b.o.i.Caluclator1 [main] Total Sum is :30
+2026-07-13 19:20:35,385 INFO c.c.b.o.i.Caluclator1 [main] The Answer of Substraction is:-1
+2026-07-13 19:20:35,387 INFO c.c.b.o.i.CaluClator2 [main] Enter the First Number:
+2026-07-13 19:20:40,240 INFO c.c.b.o.i.CaluClator2 [main] Enter the Second Number:
+2026-07-13 19:20:42,776 INFO c.c.b.o.i.CaluClator2 [main] Result of Total Sum :
+2026-07-13 19:20:53,393 INFO c.c.b.o.i.CaluClator2 [main] Enter the First Number:2
+2026-07-13 19:20:53,394 INFO c.c.b.o.i.CaluClator2 [main] Enter the Second Number:2
+2026-07-13 19:20:53,394 INFO c.c.b.o.i.CaluClator2 [main] Result of Total Substraction :0
+2026-07-13 19:21:25,766 INFO c.c.b.o.i.Caluclator1 [main] Total Sum is :30
+2026-07-13 19:21:25,771 INFO c.c.b.o.i.Caluclator1 [main] The Answer of Substraction is:-1
+2026-07-13 19:21:25,773 INFO c.c.b.o.i.CaluClator2 [main] Enter the First Number:
+2026-07-13 19:21:31,928 INFO c.c.b.o.i.CaluClator2 [main] Enter the Second Number:
+2026-07-13 19:21:33,083 INFO c.c.b.o.i.CaluClator2 [main] Result of Total Sum :13
+2026-07-13 19:22:10,016 INFO c.c.b.o.i.Caluclator1 [main] Total Sum is :30
+2026-07-13 19:22:10,020 INFO c.c.b.o.i.Caluclator1 [main] The Answer of Substraction is:-1
+2026-07-13 19:22:10,023 INFO c.c.b.o.i.CaluClator2 [main] Enter the First Number:
+2026-07-13 19:22:16,579 INFO c.c.b.o.i.CaluClator2 [main] Enter the Second Number:
+2026-07-13 19:22:17,423 INFO c.c.b.o.i.CaluClator2 [main] Result of Total Sum :82
+2026-07-13 19:22:17,424 INFO c.c.b.o.i.CaluClator2 [main] Enter the First Number:
+2026-07-13 19:22:19,559 INFO c.c.b.o.i.CaluClator2 [main] Enter the Second Number:
+2026-07-13 19:22:20,470 INFO c.c.b.o.i.CaluClator2 [main] Result of Total Substraction :1
+2026-07-13 19:22:26,149 INFO c.c.b.o.i.Caluclator3 [main] The Sum is:8
+2026-07-13 19:23:20,030 INFO c.c.b.o.i.Caluclator1 [main] Total Sum is :30
+2026-07-13 19:23:20,035 INFO c.c.b.o.i.Caluclator1 [main] The Answer of Substraction is:-1
+2026-07-13 19:23:20,038 INFO c.c.b.o.i.CaluClator2 [main] Enter the First Number:
+2026-07-13 19:23:28,438 INFO c.c.b.o.i.CaluClator2 [main] Enter the Second Number:
+2026-07-13 19:23:29,984 INFO c.c.b.o.i.CaluClator2 [main] Result of Total Sum :5
+2026-07-13 19:23:29,984 INFO c.c.b.o.i.CaluClator2 [main] Enter the First Number:
+2026-07-13 19:23:31,490 INFO c.c.b.o.i.CaluClator2 [main] Enter the Second Number:
+2026-07-13 19:23:32,227 INFO c.c.b.o.i.CaluClator2 [main] Result of Total Substraction :-1
+2026-07-13 19:23:32,229 INFO c.c.b.o.i.Caluclator3 [main] Enter the First Number:
+2026-07-13 19:23:33,659 INFO c.c.b.o.i.Caluclator3 [main] Enter the Second Number:
+2026-07-13 19:23:34,456 INFO c.c.b.o.i.Caluclator3 [main] The Sum is:10
+2026-07-13 19:23:34,457 INFO c.c.b.o.i.Caluclator3 [main] Enter the First Number:
+2026-07-13 19:23:36,483 INFO c.c.b.o.i.Caluclator3 [main] Enter the Second Number:
+2026-07-13 19:23:39,212 INFO c.c.b.o.i.Caluclator3 [main] The Result is:-31

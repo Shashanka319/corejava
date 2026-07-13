@@ -9,22 +9,23 @@ public class CaluClator2 implements Calucalator {
     @Override
     public void sum() {
         Scanner scanner = new Scanner(System.in);
+        log.info("Enter the First Number:");
         int a = scanner.nextInt();
+        log.info("Enter the Second Number:");
         int b=scanner.nextInt();
         int c = a+b;
-        log.info("Enter the First Number:{}",a);
-        log.info("Enter the Second Number:{}",b);
         log.info("Result of Total Sum :{}",c);
+
     }
 
     @Override
     public void sub() {
         Scanner scanner = new Scanner(System.in);
+        log.info("Enter the First Number:");
         int a = scanner.nextInt();
+        log.info("Enter the Second Number:");
         int b = scanner.nextInt();
         int c = a-b;
-        log.info("Enter the First Number:{}",a);
-        log.info("Enter the Second Number:{}",b);
         log.info("Result of Total Substraction :{}",c);
 
     }
