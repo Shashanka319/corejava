@@ -13,6 +13,6 @@ public class MetroStation implements Station {
 
     @Override
     public void getOfficerInfo() {
-        log.info("");
+        log.info("get the Metro Officer Informations");
     }
 }
