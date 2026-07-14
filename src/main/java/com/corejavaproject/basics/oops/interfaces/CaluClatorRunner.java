@@ -4,12 +4,12 @@ public class CaluClatorRunner {
     public static void main(String[] args) {
         Caluclator1 caluclator1 = new Caluclator1();
         CaluClator2 caluClator2 = new CaluClator2();
-        Caluclator3 caluclator3 = new Caluclator3();
+        Calucalator calculator3 = new Caluclator3();
         caluclator1.sum();
         caluclator1.sub();
         caluClator2.sum();
         caluClator2.sub();
-        caluclator3.sum();
-        caluclator3.sub();
+        calculator3.sum();
+        calculator3.sub();
     }
 }

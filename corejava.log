@@ -30,3 +30,23 @@
 2026-07-14 08:42:48,553 INFO c.c.b.o.a.SavingAcc [main] Withdrawing Amount:300.0
 2026-07-14 08:42:48,555 INFO c.c.b.o.a.SavingAcc [main] Totatl Balance:300.0
 2026-07-14 08:42:48,555 INFO c.c.b.o.a.SavingAcc [main] Execute the Saving Acc Information
+2026-07-14 09:39:00,481 INFO c.c.b.o.i.Caluclator1 [main] Total Sum is :30
+2026-07-14 09:39:00,492 INFO c.c.b.o.i.Caluclator1 [main] The Answer of Substraction is:-1
+2026-07-14 09:39:00,499 INFO c.c.b.o.i.CaluClator2 [main] Enter the First Number:
+2026-07-14 09:52:35,485 INFO c.c.b.o.i.PoliceStation [main] Get the Case Information in Police Station
+2026-07-14 09:52:35,498 INFO c.c.b.o.i.RailwayStation [main] Get the Railway Station Inforamtion
+2026-07-14 09:52:35,500 INFO c.c.b.o.i.RailwayStation [main] Get the Reilway Officers Information
+2026-07-14 09:52:35,502 INFO c.c.b.o.i.MetroStation [main] Get the Metro Station Information
+2026-07-14 09:52:35,503 INFO c.c.b.o.i.MetroStation [main] get the Metro Officer Informations
+2026-07-14 09:52:35,503 INFO c.c.b.o.i.PoliceStation [main] get the PolicStation Informations
+2026-07-14 09:52:35,504 INFO c.c.b.o.i.PoliceStation [main] Get the Police Officers Informations
+2026-07-14 09:53:02,333 INFO c.c.b.o.i.RailwayStation [main] Get the Railway Station Inforamtion
+2026-07-14 09:53:02,340 INFO c.c.b.o.i.RailwayStation [main] Get the Reilway Officers Information
+2026-07-14 09:53:02,340 INFO c.c.b.o.i.MetroStation [main] Get the Metro Station Information
+2026-07-14 09:53:02,341 INFO c.c.b.o.i.MetroStation [main] get the Metro Officer Informations
+2026-07-14 09:53:02,342 INFO c.c.b.o.i.PoliceStation [main] get the PolicStation Informations
+2026-07-14 09:53:02,342 INFO c.c.b.o.i.PoliceStation [main] Get the Police Officers Informations
+2026-07-14 09:53:02,343 INFO c.c.b.o.i.PoliceStation [main] Get the Case Information in Police Station
+2026-07-14 10:20:36,362 INFO c.c.b.o.i.PerformCalsi [main] Execute the SUm Using Problem
+2026-07-14 10:20:36,373 INFO c.c.b.o.i.PerformCalsi [main] Execute the Subtraction using Problem1
+2026-07-14 10:20:36,373 INFO c.c.b.o.i.PerformCalsi [main] Execute the Multiplication using Calsi
