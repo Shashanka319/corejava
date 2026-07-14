@@ -8,7 +8,5 @@ public class PersonRunner {
         person.getCurrentAcc();
         person.engine();
         person.getType();
-
-
     }
 }
