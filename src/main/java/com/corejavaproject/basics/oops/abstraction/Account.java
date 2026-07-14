@@ -16,7 +16,8 @@ public abstract class Account {
         return balance;
     }
     public String getAccNo() {
-        return accNo;
+        System.out.println("Enter Account No:"+accNo);
+        return null;
     }
 
 }

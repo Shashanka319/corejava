@@ -26,8 +26,9 @@ public class SavingAcc extends Account{
             log.info("Not enough balance");
         }
     }
-    public void getSavingAcc(){
+    public void getSavingAcc(Account account){
         log.info("Execute the Saving Acc Information");
+        account.getAccNo();
     }
 
 }

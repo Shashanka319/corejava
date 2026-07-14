@@ -5,7 +5,7 @@ public class Runner {
         SavingAcc savingAcc =new SavingAcc("656557",1000.0);
         savingAcc.deposit(500.0);
         savingAcc.withdraw(300.0);
-        savingAcc.getSavingAcc();
+        savingAcc.getSavingAcc(savingAcc);
 
     }
 }
