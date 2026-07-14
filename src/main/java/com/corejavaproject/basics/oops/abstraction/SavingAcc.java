@@ -13,9 +13,7 @@ public class SavingAcc extends Account{
         log.info("Depositing Amount:{}",amount);
         balance += amount;
         log.info("Totatl Balance:{}",amount);
-
     }
-
     @Override
     public void withdraw(double amount) {
         log.info("Withdrawing Amount:{}",amount);
