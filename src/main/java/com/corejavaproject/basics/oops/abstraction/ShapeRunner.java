@@ -19,7 +19,7 @@ public class ShapeRunner {
 
 
 
-// reducing the code through create extra class with parameteraized method (ParentType ref)
+// reducing the code through create extra class with parameteraized method (Parent ref)
         GeoMetry geoMetry = new GeoMetry();
         geoMetry.getGeometry(square);
         geoMetry.getGeometry(rectangle);
