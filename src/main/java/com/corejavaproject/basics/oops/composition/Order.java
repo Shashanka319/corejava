@@ -25,7 +25,7 @@ public class Order {
         log.info("Shop Address : " + shopAddress);
         log.info("User Name : " + UserName);
         log.info("Mobile No : " + mobileNo);
-        Payment payment = new Payment(true,"T-Shirt",1000.0);
+        Payment payment = new Payment(true,"Formal Shirt",1000.0);
         payment.getPayment();
 
     }
