@@ -7,22 +7,21 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.util.Properties;
 @Log4j2
-public class DBConnections
-{
-    public static Connection getEmployeeConnection(){
-        Connection coneection= null;
+
+public class DBConnections{
+    public static Connection getConnection(){
+        Connection connection =null;
         try(FileInputStream fileInputStream = new FileInputStream("C:\\Xworkz Internship\\oops\\src\\main\\resources\\application.properties")){
             Properties properties = new Properties();
             properties.load(fileInputStream);
-            coneection =DriverManager.getConnection(
+            connection=DriverManager.getConnection(
                     properties.getProperty("db.url"),
                     properties.getProperty("db.username"),
                     properties.getProperty("password")
             );
         }catch (Exception exp){
-            log.error("The somthing wen Wrong please try Again, Check the Program once");
+           log.error("The somthing wen Wrong please try Again, Check the Program once");
         }
-        return coneection;
-
+        return connection;
     }
 }

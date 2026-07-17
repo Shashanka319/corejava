@@ -16,7 +16,7 @@ public class EmployeeDAOImpl implements EmployeeDAO {
     public int saveEmployee(Employee employee) {
         int response=0;
        String sql ="insert into employees(first_name,last_name,email,hire_date) values(?,?,?,?)";
-       try(Connection connection= DBConnections.getEmployeeConnection();
+       try(Connection connection= DBConnections.getConnection();
            PreparedStatement statement=connection.prepareStatement(sql)
        ){
            statement.setString(1,employee.firstName());
@@ -37,7 +37,7 @@ public class EmployeeDAOImpl implements EmployeeDAO {
     public List<Employee> getAllEmployees() {
         List<Employee> employee=new ArrayList<>();
         String sql="select first_name,last_name,email,hire_date from employees";
-        try(Connection connection= DBConnections.getEmployeeConnection();
+        try(Connection connection= DBConnections.getConnection();
             PreparedStatement statement=connection.prepareStatement(sql);
             ResultSet resultSet=statement.executeQuery()
         ){
