@@ -49,8 +49,6 @@ public class EmployeeDAOImpl implements EmployeeDAO {
                 Employee employees= new Employee(firstName,lastName,email,hireDate);
                 employee.add(employees);
             }
-
-
         }catch(Exception exp){
             log.error("Exception While Executing User Detailes");
         }
