@@ -7,4 +7,5 @@ public interface Station {
     public void stationInfo();
     public abstract void staionRules();
 
+
 }

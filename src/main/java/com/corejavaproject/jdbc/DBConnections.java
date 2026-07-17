@@ -7,21 +7,22 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.util.Properties;
 @Log4j2
-
-public class DBConnections {
+public class DBConnections
+{
     public static Connection getEmployeeConnection(){
-        Connection connection = null;
+        Connection coneection= null;
         try(FileInputStream fileInputStream = new FileInputStream("C:\\Xworkz Internship\\oops\\src\\main\\resources\\application.properties")){
             Properties properties = new Properties();
             properties.load(fileInputStream);
-            connection = (Connection) DriverManager.getConnection(
+            coneection =DriverManager.getConnection(
                     properties.getProperty("db.url"),
                     properties.getProperty("db.username"),
-                    properties.getProperty("db.password")
+                    properties.getProperty("password")
             );
-        }catch(Exception exp){
-            log.error("Error The program check once:{}",exp);
+        }catch (Exception exp){
+            log.error("The somthing wen Wrong please try Again, Check the Program once");
         }
-        return connection;
+        return coneection;
+
     }
 }
