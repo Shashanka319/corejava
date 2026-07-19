@@ -1,18 +1,103 @@
-2026-07-18 15:01:21,762 INFO c.c.m.OrderTask [Thread-1] Thread-1Started
-2026-07-18 15:01:21,762 INFO c.c.m.OrderTask [Thread-0] Thread-0Started
-2026-07-18 15:02:51,790 INFO c.c.m.OrderTask [Thread-1] Thread-1Completed
-2026-07-18 15:02:51,790 INFO c.c.m.OrderTask [Thread-0] Thread-0Completed
-2026-07-18 15:24:03,124 INFO c.c.m.RunnableWithLamda [Thread-1] Thread-1Started
-2026-07-18 15:24:03,124 INFO c.c.m.RunnableWithLamda [Thread-0] Thread-0Started
-2026-07-18 15:24:12,140 INFO c.c.m.RunnableWithLamda [Thread-1] Thread-1Ended
-2026-07-18 15:24:12,140 INFO c.c.m.RunnableWithLamda [Thread-0] Thread-0Ended
-2026-07-18 15:55:50,067 INFO c.c.m.Ticket [Thread-0] Thread-0Started
-2026-07-18 15:55:59,078 INFO c.c.m.Ticket [Thread-0] Thread-0Ended
-2026-07-18 15:56:03,883 INFO c.c.m.Ticket [Thread-0] Thread-0Started
-2026-07-18 15:56:03,883 INFO c.c.m.Ticket [Thread-1] Thread-1Started
-2026-07-18 15:56:12,893 INFO c.c.m.Ticket [Thread-1] Thread-1Ended
-2026-07-18 15:56:12,893 INFO c.c.m.Ticket [Thread-0] Thread-0Ended
-2026-07-18 15:57:53,113 INFO c.c.m.Ticket [Thread-0] Thread-0Started
-2026-07-18 15:57:53,113 INFO c.c.m.Ticket [main] mainStarted
-2026-07-18 15:58:02,124 INFO c.c.m.Ticket [Thread-0] Thread-0Ended
-2026-07-18 15:58:02,124 INFO c.c.m.Ticket [main] mainEnded
+2026-07-19 15:24:31,343 INFO c.c.m.Synchronization [Thread-0] Thread-0inside the Print method
+2026-07-19 15:24:40,368 INFO c.c.m.Synchronization [Thread-0] Thread-0exist the Print method
+2026-07-19 15:24:40,370 INFO c.c.m.Synchronization [Thread-2] Thread-2inside the Print method
+2026-07-19 15:24:49,373 INFO c.c.m.Synchronization [Thread-2] Thread-2exist the Print method
+2026-07-19 15:24:49,373 INFO c.c.m.Synchronization [Thread-1] Thread-1inside the Print method
+2026-07-19 15:24:58,384 INFO c.c.m.Synchronization [Thread-1] Thread-1exist the Print method
+2026-07-19 15:35:32,412 INFO c.c.m.SynchronizationwithThread [Thread-2] Thread-2inside the Print method
+2026-07-19 15:35:32,412 INFO c.c.m.SynchronizationwithThread [Thread-0] Thread-0inside the Print method
+2026-07-19 15:35:32,412 INFO c.c.m.SynchronizationwithThread [Thread-1] Thread-1inside the Print method
+2026-07-19 15:35:41,429 INFO c.c.m.SynchronizationwithThread [Thread-1] Thread-1exist the Print method
+2026-07-19 15:35:41,429 INFO c.c.m.SynchronizationwithThread [Thread-0] Thread-0exist the Print method
+2026-07-19 15:35:41,429 INFO c.c.m.SynchronizationwithThread [Thread-2] Thread-2exist the Print method
+2026-07-19 15:36:03,948 INFO c.c.m.SynchronizationwithThread [Thread-2] Thread-2inside the Print method
+2026-07-19 15:36:03,948 INFO c.c.m.SynchronizationwithThread [Thread-0] Thread-0inside the Print method
+2026-07-19 15:36:03,948 INFO c.c.m.SynchronizationwithThread [Thread-1] Thread-1inside the Print method
+2026-07-19 15:36:06,156 INFO c.c.m.SynchronizationwithThread [Thread-0] Thread-0inside the Print method
+2026-07-19 15:36:06,156 INFO c.c.m.SynchronizationwithThread [Thread-2] Thread-2inside the Print method
+2026-07-19 15:36:06,156 INFO c.c.m.SynchronizationwithThread [Thread-1] Thread-1inside the Print method
+2026-07-19 15:36:15,169 INFO c.c.m.SynchronizationwithThread [Thread-2] Thread-2exist the Print method
+2026-07-19 15:36:15,169 INFO c.c.m.SynchronizationwithThread [Thread-1] Thread-1exist the Print method
+2026-07-19 15:36:15,169 INFO c.c.m.SynchronizationwithThread [Thread-0] Thread-0exist the Print method
+2026-07-19 15:36:31,957 INFO c.c.m.SynchronizationwithThread [Thread-1] Thread-1inside the Print method
+2026-07-19 15:36:31,957 INFO c.c.m.SynchronizationwithThread [Thread-2] Thread-2inside the Print method
+2026-07-19 15:36:31,957 INFO c.c.m.SynchronizationwithThread [Thread-0] Thread-0inside the Print method
+2026-07-19 15:36:40,966 INFO c.c.m.SynchronizationwithThread [Thread-2] Thread-2exist the Print method
+2026-07-19 15:36:40,966 INFO c.c.m.SynchronizationwithThread [Thread-0] Thread-0exist the Print method
+2026-07-19 15:36:40,966 INFO c.c.m.SynchronizationwithThread [Thread-1] Thread-1exist the Print method
+2026-07-19 15:36:58,054 INFO c.c.m.Synchronization [Thread-0] Thread-0inside the Print method
+2026-07-19 15:37:07,063 INFO c.c.m.Synchronization [Thread-0] Thread-0exist the Print method
+2026-07-19 15:37:07,063 INFO c.c.m.Synchronization [Thread-2] Thread-2inside the Print method
+2026-07-19 15:37:16,067 INFO c.c.m.Synchronization [Thread-2] Thread-2exist the Print method
+2026-07-19 15:37:16,067 INFO c.c.m.Synchronization [Thread-1] Thread-1inside the Print method
+2026-07-19 15:37:25,071 INFO c.c.m.Synchronization [Thread-1] Thread-1exist the Print method
+2026-07-19 15:41:08,195 INFO c.c.m.SynchronizationwithThread [Thread-2] Thread-2inside the Print method
+2026-07-19 15:41:08,195 INFO c.c.m.SynchronizationwithThread [Thread-1] Thread-1inside the Print method
+2026-07-19 15:41:08,195 INFO c.c.m.SynchronizationwithThread [Thread-0] Thread-0inside the Print method
+2026-07-19 15:41:17,209 INFO c.c.m.SynchronizationwithThread [Thread-2] Thread-2exist the Print method
+2026-07-19 15:41:17,209 INFO c.c.m.SynchronizationwithThread [Thread-0] Thread-0exist the Print method
+2026-07-19 15:41:17,209 INFO c.c.m.SynchronizationwithThread [Thread-1] Thread-1exist the Print method
+2026-07-19 15:42:18,314 INFO c.c.m.SynchronizationwithThread [Thread-2] Thread-2inside the Print method
+2026-07-19 15:42:18,314 INFO c.c.m.SynchronizationwithThread [Thread-0] Thread-0inside the Print method
+2026-07-19 15:42:18,313 INFO c.c.m.SynchronizationwithThread [Thread-1] Thread-1inside the Print method
+2026-07-19 15:42:27,330 INFO c.c.m.SynchronizationwithThread [Thread-1] Thread-1exist the Print method
+2026-07-19 15:42:27,330 INFO c.c.m.SynchronizationwithThread [Thread-2] Thread-2exist the Print method
+2026-07-19 15:42:27,330 INFO c.c.m.SynchronizationwithThread [Thread-0] Thread-0exist the Print method
+2026-07-19 15:46:23,113 INFO c.c.m.SynchronizationwithThread [Thread-0] Thread-0inside the Print method
+2026-07-19 15:46:23,113 INFO c.c.m.SynchronizationwithThread [Thread-1] Thread-1inside the Print method
+2026-07-19 15:46:23,113 INFO c.c.m.SynchronizationwithThread [Thread-2] Thread-2inside the Print method
+2026-07-19 15:46:32,125 INFO c.c.m.SynchronizationwithThread [Thread-1] Thread-1exist the Print method
+2026-07-19 15:46:32,125 INFO c.c.m.SynchronizationwithThread [Thread-0] Thread-0exist the Print method
+2026-07-19 15:46:32,125 INFO c.c.m.SynchronizationwithThread [Thread-2] Thread-2exist the Print method
+2026-07-19 15:47:13,898 INFO c.c.m.SynchronizationwithThread [Thread-3] Thread-3inside the Print method
+2026-07-19 15:47:13,898 INFO c.c.m.SynchronizationwithThread [Thread-1] Thread-1inside the Print method
+2026-07-19 15:47:13,898 INFO c.c.m.SynchronizationwithThread [Thread-2] Thread-2inside the Print method
+2026-07-19 15:47:22,910 INFO c.c.m.SynchronizationwithThread [Thread-2] Thread-2exist the Print method
+2026-07-19 15:47:22,910 INFO c.c.m.SynchronizationwithThread [Thread-3] Thread-3exist the Print method
+2026-07-19 15:47:22,910 INFO c.c.m.SynchronizationwithThread [Thread-1] Thread-1exist the Print method
+2026-07-19 15:48:31,575 INFO c.c.m.Ticket [Thread-1] Thread-1Started
+2026-07-19 15:48:31,575 INFO c.c.m.Ticket [Thread-0] Thread-0Started
+2026-07-19 15:48:40,584 INFO c.c.m.Ticket [Thread-0] Thread-0Ended
+2026-07-19 15:48:40,584 INFO c.c.m.Ticket [Thread-1] Thread-1Ended
+2026-07-19 15:49:18,755 INFO c.c.m.SynchronizationwithThread [Thread-1] Thread-1inside the Print method
+2026-07-19 15:49:18,755 INFO c.c.m.SynchronizationwithThread [Thread-3] Thread-3inside the Print method
+2026-07-19 15:49:18,755 INFO c.c.m.SynchronizationwithThread [Thread-5] Thread-5inside the Print method
+2026-07-19 15:49:27,768 INFO c.c.m.SynchronizationwithThread [Thread-3] Thread-3exist the Print method
+2026-07-19 15:49:27,768 INFO c.c.m.SynchronizationwithThread [Thread-1] Thread-1exist the Print method
+2026-07-19 15:49:27,768 INFO c.c.m.SynchronizationwithThread [Thread-5] Thread-5exist the Print method
+2026-07-19 15:55:16,848 INFO c.c.m.Print [Thread-2] Thread-2inside the Print method
+2026-07-19 15:55:16,848 INFO c.c.m.Print [Thread-1] Thread-1inside the Print method
+2026-07-19 15:55:16,848 INFO c.c.m.Print [Thread-0] Thread-0inside the Print method
+2026-07-19 15:55:25,867 INFO c.c.m.Print [Thread-0] Thread-0exist the Print method
+2026-07-19 15:55:25,867 INFO c.c.m.Print [Thread-1] Thread-1exist the Print method
+2026-07-19 15:55:25,867 INFO c.c.m.Print [Thread-2] Thread-2exist the Print method
+2026-07-19 16:10:12,397 INFO c.c.m.Print [Thread-0] Thread-0inside the Print method
+2026-07-19 16:10:21,408 INFO c.c.m.Print [Thread-0] Thread-0exist the Print method
+2026-07-19 16:10:21,409 INFO c.c.m.Print [Thread-2] Thread-2inside the Print method
+2026-07-19 16:10:30,411 INFO c.c.m.Print [Thread-2] Thread-2exist the Print method
+2026-07-19 16:10:30,412 INFO c.c.m.Print [Thread-1] Thread-1inside the Print method
+2026-07-19 16:10:39,414 INFO c.c.m.Print [Thread-1] Thread-1exist the Print method
+2026-07-19 16:16:12,444 INFO c.c.m.Print [Thread-0] Thread-0inside the Print method
+2026-07-19 16:16:12,444 INFO c.c.m.Print [Thread-1] Thread-1inside the Print method
+2026-07-19 16:16:12,444 INFO c.c.m.Print [Thread-2] Thread-2inside the Print method
+2026-07-19 16:16:21,458 INFO c.c.m.Print [Thread-1] Thread-1exist the Print method
+2026-07-19 16:16:21,458 INFO c.c.m.Print [Thread-2] Thread-2exist the Print method
+2026-07-19 16:16:21,459 INFO c.c.m.Print [Thread-0] Thread-0exist the Print method
+2026-07-19 16:33:26,717 INFO c.c.m.SynchronizationwithRunnable [Thread-0] Thread-0 Execute the getSynchronization method
+2026-07-19 16:33:35,726 INFO c.c.m.SynchronizationwithRunnable [Thread-0] Thread-0 End the Execution of getSynchronization method
+2026-07-19 16:33:35,727 INFO c.c.m.SynchronizationwithRunnable [Thread-2] Thread-2 Execute the getSynchronization method
+2026-07-19 16:33:44,729 INFO c.c.m.SynchronizationwithRunnable [Thread-2] Thread-2 End the Execution of getSynchronization method
+2026-07-19 16:33:44,729 INFO c.c.m.SynchronizationwithRunnable [Thread-1] Thread-1 Execute the getSynchronization method
+2026-07-19 16:33:53,732 INFO c.c.m.SynchronizationwithRunnable [Thread-1] Thread-1 End the Execution of getSynchronization method
+2026-07-19 16:36:39,508 INFO c.c.m.SynchronizationwithRunnable [Thread-0] Thread-0 Execute the getSynchronization method
+2026-07-19 16:36:48,526 INFO c.c.m.SynchronizationwithRunnable [Thread-0] Thread-0 End the Execution of getSynchronization method
+2026-07-19 16:36:48,526 INFO c.c.m.SynchronizationwithRunnable [Thread-0] Thread-0 execute method started
+2026-07-19 16:36:48,529 INFO c.c.m.SynchronizationwithRunnable [Thread-2] Thread-2 Execute the getSynchronization method
+2026-07-19 16:36:57,532 INFO c.c.m.SynchronizationwithRunnable [Thread-0] Thread-0end the execute the method
+2026-07-19 16:36:57,532 INFO c.c.m.SynchronizationwithRunnable [Thread-2] Thread-2 End the Execution of getSynchronization method
+2026-07-19 16:36:57,532 INFO c.c.m.SynchronizationwithRunnable [Thread-2] Thread-2 execute method started
+2026-07-19 16:36:57,534 INFO c.c.m.SynchronizationwithRunnable [Thread-1] Thread-1 Execute the getSynchronization method
+2026-07-19 16:37:06,542 INFO c.c.m.SynchronizationwithRunnable [Thread-1] Thread-1 End the Execution of getSynchronization method
+2026-07-19 16:37:06,542 INFO c.c.m.SynchronizationwithRunnable [Thread-2] Thread-2end the execute the method
+2026-07-19 16:37:06,543 INFO c.c.m.SynchronizationwithRunnable [Thread-1] Thread-1 execute method started
+2026-07-19 16:37:15,559 INFO c.c.m.SynchronizationwithRunnable [Thread-1] Thread-1end the execute the method
