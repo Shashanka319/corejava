@@ -14,20 +14,24 @@ public class Numbers {
     }
 
     public void getdivision(){
-        System.out.println("Execute the Process of Exception Hndling");
-        System.out.println("Enter the first Number");
-        Scanner scan = new Scanner(System.in);
-        int a = scan.nextInt();
+        System.out.println("Execute the Process of Exception Handling");
         try{
-            System.out.println("Enter the second Number");
-            int b= scan.nextInt();
-            int c = a/b;
-            System.out.println("The sum is"+c);
+            Scanner scan = new Scanner(System.in);
+            System.out.println("Enter the Size of Array");
+            int size = scan.nextInt();
+            int [] arr = new int[size];
+            System.out.println("Enter the value:");
+            int value = scan.nextInt();
+            System.out.println("Enter the index:");
+            int index = scan.nextInt();
+            arr[index]=value;
+            System.out.println(arr[index]);
+
         }catch(Exception ex){
-            System.out.println("Invalid Input,Not give the Non Zero input in denomintor ");
+            System.out.println("Invalid Input please check once ");
 
         }
-        System.out.println("Complete the Process of Exception Hndling");
+        System.out.println("Complete the Process of Exception Handling");
     }
 
     public void getMultipleCatch(){
@@ -43,7 +47,6 @@ public class Numbers {
             int index = scan.nextInt();
             arr[index]=value;
             System.out.println(arr[index]);
-            System.out.println("Complete the Process of Exception Hndling");
 
         }catch (NegativeArraySizeException e){
             System.out.println("Give positive numbers");
@@ -55,8 +58,7 @@ public class Numbers {
         }catch (Exception ex){
             System.out.println("Invalid Input");
         }
-
-
+        System.out.println("Complete the Process of Exception Handling");
     }
 
 }
