@@ -45,7 +45,10 @@ public class Numbers {
             System.out.println(arr[index]);
             System.out.println("Complete the Process of Exception Hndling");
 
-        }catch (ArrayIndexOutOfBoundsException ex){
+        }catch (NegativeArraySizeException e){
+            System.out.println("Give positive numbers");
+        }
+        catch (ArrayIndexOutOfBoundsException ex){
             System.out.println("give the numbers within the Given Array size");
         }catch (InputMismatchException exp){
             System.out.println("Enter only numbers");
