@@ -61,4 +61,52 @@ public class Numbers {
         System.out.println("Complete the Process of Exception Handling");
     }
 
+    public void getFinally(){
+        System.out.println("Execute the Process of Exception Hndling");
+        try{
+            Scanner scan = new Scanner(System.in);
+            System.out.println("Enter the Size of Array");
+            int size = scan.nextInt();
+            int [] arr = new int[size];
+            System.out.println("Enter the value:");
+            int value = scan.nextInt();
+            System.out.println("Enter the index:");
+            int index = scan.nextInt();
+            arr[index]=value;
+            System.out.println(arr[index]);
+
+        }finally {
+            System.out.println("Complete the Process of Exception Hndling");
+        }
+    }
+
+    public void getALl(){
+        System.out.println("Execute the Process of Exception Hndling");
+        try{
+            Scanner scan = new Scanner(System.in);
+            System.out.println("Enter the Size of Array");
+            int size = scan.nextInt();
+            int [] arr = new int[size];
+            System.out.println("Enter the value:");
+            int value = scan.nextInt();
+            System.out.println("Enter the index:");
+            int index = scan.nextInt();
+            arr[index]=value;
+            System.out.println(arr[index]);
+
+        }catch (NegativeArraySizeException e){
+            System.out.println("Give positive numbers");
+        }
+        catch (ArrayIndexOutOfBoundsException ex){
+            System.out.println("give the numbers within the Given Array size");
+        }
+        catch (InputMismatchException exp){
+            System.out.println("Enter only numbers");
+        }catch (Exception ex){
+            System.out.println("Invalid Input");
+        }
+        finally {
+            System.out.println("Complete the Process of Exception Handling");
+        }
+    }
 }

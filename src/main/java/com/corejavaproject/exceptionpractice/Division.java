@@ -8,9 +8,13 @@ public class Division {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the first number:");
         int a=sc.nextInt();
-        System.out.println("Enter the second number:");
-        int b=sc.nextInt();
-        System.out.println("Result:"+(a/b));
+        try{
+            System.out.println("Enter the second number:");
+            int b=sc.nextInt();
+            System.out.println("Result:"+(a/b));
+        }catch(Exception e){
+            System.out.println(e.getMessage());
+        }
         System.out.println("Destroy the Connection");
 
     }

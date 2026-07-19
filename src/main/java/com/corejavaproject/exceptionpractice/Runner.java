@@ -5,6 +5,7 @@ public class Runner {
         Numbers numbers = new Numbers();
        // numbers.normalProcess();
         //numbers.getdivision();
-        numbers.getMultipleCatch();
+        //numbers.getMultipleCatch();
+        numbers.getFinally();
     }
 }
