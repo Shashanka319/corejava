@@ -1,5 +1,6 @@
 package com.corejavaproject.exceptionpractice;
 
+import java.util.InputMismatchException;
 import java.util.Scanner;
 
 public class Numbers {
@@ -32,12 +33,27 @@ public class Numbers {
     public void getMultipleCatch(){
         System.out.println("Execute the Process of Exception Hndling");
         try{
-            Scanner 
+            Scanner scan = new Scanner(System.in);
+            System.out.println("Enter the Size of Array");
+            int size = scan.nextInt();
+            int [] arr = new int[size];
+            System.out.println("Enter the value:");
+            int value = scan.nextInt();
+            System.out.println("Enter the index:");
+            int index = scan.nextInt();
+            arr[index]=value;
+            System.out.println(arr[index]);
+            System.out.println("Complete the Process of Exception Hndling");
+
+        }catch (ArrayIndexOutOfBoundsException ex){
+            System.out.println("give the numbers within the Given Array size");
+        }catch (InputMismatchException exp){
+            System.out.println("Enter only numbers");
+        }catch (Exception ex){
+            System.out.println("Invalid Input");
         }
 
+
     }
-
-
-
 
 }
