@@ -3,12 +3,16 @@ package com.corejavaproject.exceptionpractice;
 import lombok.extern.log4j.Log4j2;
 
 import java.io.FileInputStream;
-import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 @Log4j2
 
 public class ExceptionExample {
-    public void readFromFile(String inputFile,String outputFile) {
+
+    public void readFromFile(String inputFile,String outputFile)throws FileNotFoundException {
+        if(inputFile==null){
+            log.error("Input file is null");
+            throw new FileNotFoundException("Input file is null");
+        }
         FileInputStream fileInputStream = null;
         FileOutputStream fileOutputStream = null;
         log.info("Reading and writing process is start");
@@ -26,4 +30,6 @@ public class ExceptionExample {
             log.info("File closed");
         }
     }
+
+
 }

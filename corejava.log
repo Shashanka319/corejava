@@ -43,3 +43,32 @@
 2026-07-20 16:26:46,271 INFO c.c.e.ExceptionExample [main] Reading and writing process is start
 2026-07-20 16:26:46,285 INFO c.c.e.ExceptionExample [main] Successfully read data from file
 2026-07-20 16:26:46,285 INFO c.c.e.ExceptionExample [main] File closed
+2026-07-20 20:02:36,439 INFO c.c.e.ExceptionExample [main] Reading and writing process is start
+2026-07-20 20:02:36,451 INFO c.c.e.ExceptionExample [main] Successfully read data from file
+2026-07-20 20:02:36,452 INFO c.c.e.ExceptionExample [main] File closed
+2026-07-20 20:02:54,978 INFO c.c.e.ExceptionExample [main] Reading and writing process is start
+2026-07-20 20:02:54,989 INFO c.c.e.ExceptionExample [main] Successfully read data from file
+2026-07-20 20:02:54,990 INFO c.c.e.ExceptionExample [main] File closed
+2026-07-20 20:03:30,242 INFO c.c.e.ExceptionExample [main] Reading and writing process is start
+2026-07-20 20:03:30,253 INFO c.c.e.ExceptionExample [main] Successfully read data from file
+2026-07-20 20:03:30,253 INFO c.c.e.ExceptionExample [main] File closed
+2026-07-20 20:04:49,018 INFO c.c.e.ExceptionExample [main] Reading and writing process is start
+2026-07-20 20:04:49,030 INFO c.c.e.ExceptionExample [main] Successfully read data from file
+2026-07-20 20:04:49,031 INFO c.c.e.ExceptionExample [main] File closed
+2026-07-20 20:04:58,412 INFO c.c.e.ExceptionExample [main] Reading and writing process is start
+2026-07-20 20:04:58,424 INFO c.c.e.ExceptionExample [main] Successfully read data from file
+2026-07-20 20:04:58,426 INFO c.c.e.ExceptionExample [main] File closed
+2026-07-20 20:05:30,473 INFO c.c.e.ExceptionExample [main] Reading and writing process is start
+2026-07-20 20:05:30,485 INFO c.c.e.ExceptionExample [main] Successfully read data from file
+2026-07-20 20:05:30,486 INFO c.c.e.ExceptionExample [main] File closed
+2026-07-20 20:31:14,786 INFO c.c.e.TryWithResource [main] Reading and writing process is start
+2026-07-20 20:31:14,791 INFO c.c.e.TryWithResource [main] Successfully read data from file
+2026-07-20 20:31:45,167 INFO c.c.e.TryWithResource [main] Reading and writing process is start
+2026-07-20 20:31:45,174 INFO c.c.e.TryWithResource [main] Successfully read data from file
+2026-07-20 20:31:45,175 INFO c.c.e.TryWithResource [main] Reading and writing process is end
+2026-07-20 20:31:46,393 INFO c.c.e.TryWithResource [main] Reading and writing process is start
+2026-07-20 20:31:46,404 INFO c.c.e.TryWithResource [main] Successfully read data from file
+2026-07-20 20:31:46,405 INFO c.c.e.TryWithResource [main] Reading and writing process is end
+2026-07-20 20:31:51,352 INFO c.c.e.TryWithResource [main] Reading and writing process is start
+2026-07-20 20:31:51,360 INFO c.c.e.TryWithResource [main] Successfully read data from file
+2026-07-20 20:31:51,361 INFO c.c.e.TryWithResource [main] Reading and writing process is end
