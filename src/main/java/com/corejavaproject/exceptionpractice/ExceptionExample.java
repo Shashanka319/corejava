@@ -8,15 +8,22 @@ import java.io.FileOutputStream;
 @Log4j2
 
 public class ExceptionExample {
-    public void readFromFile(String inputFile,String outputFile) throws FileNotFoundException {
-        try(FileInputStream fis = new FileInputStream(inputFile);
-            FileOutputStream fos = new FileOutputStream(outputFile);){
+    public void readFromFile(String inputFile,String outputFile) {
+        FileInputStream fileInputStream = null;
+        FileOutputStream fileOutputStream = null;
+        log.info("Reading and writing process is start");
+        try{
+            fileInputStream  = new FileInputStream(inputFile);
+            fileOutputStream  = new FileOutputStream(outputFile);
             int data;
-            while ((data = fis.read())!= -1){
-                fos.write(data);
+            while ((data = fileInputStream.read())!= -1){
+                fileOutputStream.write(data);
             }
+            log.info("Successfully read data from file");
         }catch (Exception e){
-            log.info("Exception occured while reading file");
+            log.error("Exception occured while reading file");
+        }finally {
+            log.info("File closed");
         }
     }
 }
