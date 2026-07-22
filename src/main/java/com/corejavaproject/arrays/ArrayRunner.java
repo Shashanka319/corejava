@@ -5,6 +5,7 @@ public class ArrayRunner {
         Array array = new Array();
         array.getApproch1OfOne();
         array.getApproch2OfOne();
-        
+        array.getMutliApproch1();
+        array.getMutliApproch2();
     }
 }
