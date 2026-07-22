@@ -26,9 +26,23 @@ public class ExceptionExample {
             log.info("Successfully read data from file");
         }catch (Exception e){
             log.error("Exception occured while reading file");
-        }finally {
-            log.info("File closed");
-        }
+        } finally {
+                if (fileInputStream != null) {
+                    try {
+                        fileInputStream.close();
+                    } catch (Exception e) {
+                        log.error("Failed to close input stream", e);
+                    }
+                }
+
+                if (fileOutputStream != null) {
+                    try {
+                        fileOutputStream.close();
+                    } catch (Exception e) {
+                        log.error("Failed to close output stream", e);
+                    }
+                }
+            }
     }
 
 
