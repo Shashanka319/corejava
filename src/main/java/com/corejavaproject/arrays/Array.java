@@ -13,6 +13,15 @@ public class Array {
         }
         System.out.println();
     }
-    
+    public  void getApproch2OfOne() {
+        System.out.println("Execute the one dimential array using Another Approch ");
+        int[] array = {10, 20, 30};
+        for (int i = 0; i < array.length; i++) {
+            System.out.println("array[" + i + "] = " + array[i]);
+        }
+        System.out.println();
+    }
 
+
+   
 }
