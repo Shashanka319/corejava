@@ -16,20 +16,18 @@ public class Runner {
         mall.setLocation("Bommasandra");
         mall.setStoreManager("Rajendra");
 
-        User user = new User();
-        user.setUserName("Shashank");
-        user.setEmail("sharathshashank1986@gmail.com");
-        user.setAddress("Niladri Nagar");
-        user.setPhoneNumber(9743873982L);
+        UserInfo users = new UserInfo();
+        users.setUserName("Shashank");
+        users.setEmail("sharathshashank1986@gmail.com");
+        users.setAddress("Niladri Nagar");
+        users.setPhoneNumber(9743873982L);
 
         product.setMall(mall);
         product.setProductId(101);
         product.setProductName("T-shirt");
         product.setStockAvailable(true);
         product.setProductPrice(560.0);
-        product.
-
-
+        product.setUserInfo(users);
 
         list.add(product);
         list.forEach(data -> log.info(data));

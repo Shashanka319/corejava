@@ -7,7 +7,7 @@ import lombok.ToString;
 @Getter
 @Setter
 @ToString
-public class User {
+public class UserInfo {
     String userName;
     String email;
     long phoneNumber;
