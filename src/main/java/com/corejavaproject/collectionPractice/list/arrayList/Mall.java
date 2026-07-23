@@ -11,6 +11,6 @@ public class Mall {
     String name;
     String location;
     String storeManager;
-    int noOFEmployees;
-    boolean jobVacancy;
+    //int noOFEmployees;
+    //boolean jobVacancy;
 }

@@ -1,7 +1,10 @@
 package com.corejavaproject.collectionPractice.list.arrayList;
 
+import lombok.extern.log4j.Log4j2;
+
 import java.util.ArrayList;
 import java.util.List;
+@Log4j2
 
 public class Runner {
     public static void main(String[] args) {
@@ -15,8 +18,14 @@ public class Runner {
 
         product.setMall(mall);
         product.setProductId(101);
-        product.setStockAvailable(true);
         product.setProductName("T-shirt");
+        product.setStockAvailable(true);
+        product.setProductPrice(560.0);
+
+        products.add(product);
+        products.forEach(log::info);
+
+
 
     }
 }
