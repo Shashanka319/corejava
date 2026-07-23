@@ -8,3 +8,22 @@
 2026-07-23 08:47:55,087 INFO j.u.ArrayList [main] Mall(name=KPN Mall, location=Basapura Bangalore, storeManager=Prakash)
 2026-07-23 08:49:34,957 INFO c.c.c.l.a.Runner [main] Product(mall=Mall(name=D-Mart, location=Bommasandra, storeManager=Rajendra), productId=101, productName=T-shirt, stockAvailable=true, productPrice=560.0)
 2026-07-23 08:55:14,888 INFO c.c.c.l.a.Runner [main] Product(mall=Mall(name=D-Mart, location=Bommasandra, storeManager=Rajendra), productId=101, productName=T-shirt, stockAvailable=true, productPrice=560.0, userInfo=UserInfo(userName=Shashank, email=sharathshashank1986@gmail.com, phoneNumber=9743873982, Address=Niladri Nagar))
+2026-07-23 09:00:40,703 INFO c.c.c.l.a.UserRunner [main] User Information:UserInfo(userName=Shashank K, email=sharathshashank1986@gmail.com, phoneNumber=9743873982, Address=Niladri Nagar) 
+2026-07-23 09:02:01,129 INFO c.c.c.l.a.MallRunner [main] Execute the Arraylist Collection(Ordered Collection):
+2026-07-23 09:02:01,136 INFO c.c.c.l.a.MallRunner [main] Mall Informations in Bangalore:
+2026-07-23 09:02:01,141 INFO j.u.ArrayList [main] Mall(name=KPN Mall, location=ShikariPalya Niladri Nagar Bangalore, storeManager=Nagaraj)
+2026-07-23 09:02:01,143 INFO j.u.ArrayList [main] Mall(name=Vishal Mart, location=Niladri Nagar Bangalore, storeManager=null)
+2026-07-23 09:02:01,144 INFO j.u.ArrayList [main] Mall(name=Dmart, location=Bommasandra Electranic City, storeManager=Sharath)
+2026-07-23 09:02:01,144 INFO j.u.ArrayList [main] Mall(name=KPN Mall, location=Basapura Bangalore, storeManager=Prakash)
+2026-07-23 09:02:01,146 INFO c.c.c.l.a.MallRunner [main] Mall Informations :[Mall(name=KPN Mall, location=ShikariPalya Niladri Nagar Bangalore, storeManager=Nagaraj), Mall(name=Vishal Mart, location=Niladri Nagar Bangalore, storeManager=null), Mall(name=Dmart, location=Bommasandra Electranic City, storeManager=Sharath), Mall(name=KPN Mall, location=Basapura Bangalore, storeManager=Prakash)]
+2026-07-23 09:04:21,554 INFO c.c.c.l.a.MallRunner [main] Execute the Arraylist Collection(Ordered Collection):
+2026-07-23 09:04:21,562 INFO c.c.c.l.a.MallRunner [main] Mall Informations in Bangalore:
+2026-07-23 09:04:21,567 INFO j.u.ArrayList [main] Mall(name=KPN Mall, location=ShikariPalya Niladri Nagar Bangalore, storeManager=Nagaraj)
+2026-07-23 09:04:21,568 INFO j.u.ArrayList [main] Mall(name=Vishal Mart, location=Niladri Nagar Bangalore, storeManager=null)
+2026-07-23 09:04:21,568 INFO j.u.ArrayList [main] Mall(name=Dmart, location=Bommasandra Electranic City, storeManager=Sharath)
+2026-07-23 09:04:21,569 INFO j.u.ArrayList [main] Mall(name=KPN Mall, location=Basapura Bangalore, storeManager=Prakash)
+2026-07-23 09:05:41,875 INFO c.c.c.l.a.UserRunner [main] Users Informations in Mall
+2026-07-23 09:05:41,888 INFO c.c.c.l.a.UserRunner [main] UserInfo(userName=Shashank K, email=sharathshashank1986@gmail.com, phoneNumber=9743873982, Address=Niladri Nagar)
+2026-07-23 09:06:41,015 INFO c.c.c.l.a.UserRunner [main] Users Informations in Mall
+2026-07-23 09:08:34,061 INFO c.c.c.l.a.UserRunner [main] Users Informations in Mall
+2026-07-23 09:08:34,083 INFO c.c.c.l.a.UserRunner [main] UserInfo(userName=Shashank K, email=sharathshashank1986@gmail.com, phoneNumber=9743873982, Address=Niladri Nagar)

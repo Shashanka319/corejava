@@ -40,11 +40,9 @@ public class MallRunner {
         mall3.setLocation("Basapura Bangalore");
         mall3.setStoreManager("Prakash");
         // mall3.setNoOFEmployees(21);
-        // mall3.setJobVacancy(true);
+       // mall3.setJobVacancy(true);
         list.add(mall3);
         list.forEach(log::info);
-
-
 
     }
 }
