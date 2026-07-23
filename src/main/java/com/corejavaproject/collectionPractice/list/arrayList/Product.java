@@ -14,4 +14,5 @@ public class Product {
     String productName;
     boolean stockAvailable;
     double productPrice;
+    User user;
 }
