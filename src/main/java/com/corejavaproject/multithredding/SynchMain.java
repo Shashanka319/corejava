@@ -4,6 +4,7 @@ public class SynchMain {
     public static void main(String[] args) {
             Print print = new Print();
             SynchronizationwithThread synchronization = new SynchronizationwithThread();
+            synchronization.setName("Shashanka");
            synchronization.start();
 
            SynchronizationwithThread synchronization2 = new SynchronizationwithThread();

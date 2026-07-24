@@ -125,3 +125,15 @@
 2026-07-24 12:34:02,391 INFO c.c.m.Ticket [Thread-1] Thread-1Started
 2026-07-24 12:34:11,398 INFO c.c.m.Ticket [Thread-0] Thread-0Ended
 2026-07-24 12:34:11,398 INFO c.c.m.Ticket [Thread-1] Thread-1Ended
+2026-07-24 14:51:50,017 INFO c.c.m.Print [Thread-1] Thread-1inside the Print method
+2026-07-24 14:51:50,017 INFO c.c.m.Print [Thread-2] Thread-2inside the Print method
+2026-07-24 14:51:50,017 INFO c.c.m.Print [Thread-0] Thread-0inside the Print method
+2026-07-24 14:51:59,030 INFO c.c.m.Print [Thread-0] Thread-0exist the Print method
+2026-07-24 14:51:59,030 INFO c.c.m.Print [Thread-2] Thread-2exist the Print method
+2026-07-24 14:51:59,030 INFO c.c.m.Print [Thread-1] Thread-1exist the Print method
+2026-07-24 14:52:27,992 INFO c.c.m.Print [Shashanka] Shashankainside the Print method
+2026-07-24 14:52:27,992 INFO c.c.m.Print [Thread-2] Thread-2inside the Print method
+2026-07-24 14:52:27,992 INFO c.c.m.Print [Thread-1] Thread-1inside the Print method
+2026-07-24 14:52:37,002 INFO c.c.m.Print [Thread-2] Thread-2exist the Print method
+2026-07-24 14:52:37,002 INFO c.c.m.Print [Thread-1] Thread-1exist the Print method
+2026-07-24 14:52:37,002 INFO c.c.m.Print [Shashanka] Shashankaexist the Print method

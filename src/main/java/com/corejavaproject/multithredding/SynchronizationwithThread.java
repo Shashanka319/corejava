@@ -8,7 +8,8 @@ public class SynchronizationwithThread extends Thread {
    Print print=new Print();
     @Override
     public  void run(){
-      print.prints();
+      if(print.equals("Thread-0"));
+        print.prints();
     }
 
 }
