@@ -11,6 +11,8 @@ public class Ticket extends Thread{
             Thread.sleep(9000);
         }catch(InterruptedException e){
             log.error("Interrupted Exception");
+        }catch(Exception e){
+            log.error("Exception In Thread");
         }
         log.info(Thread.currentThread().getName()+"Ended");
     }
