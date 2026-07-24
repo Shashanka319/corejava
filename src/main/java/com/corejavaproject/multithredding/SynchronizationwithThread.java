@@ -6,9 +6,10 @@ import lombok.extern.log4j.Log4j2;
 
 public class SynchronizationwithThread extends Thread {
    Print print=new Print();
+   String name = getName();
     @Override
     public  void run(){
-      if(print.equals("Thread-0"));
+      if(name.equals("Thread-0"));
         print.prints();
     }
 

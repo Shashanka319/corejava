@@ -8,7 +8,7 @@ public class Synchronization {
     public synchronized void print(){
         log.info(Thread.currentThread().getName()+"inside the Print method");
         try{
-            Thread.sleep(9000);
+            Thread.sleep(1000);
         }catch(InterruptedException e){
             throw new RuntimeException(e);
         }
