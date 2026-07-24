@@ -10,7 +10,7 @@ public class SynchronizationwithThread extends Thread {
     @Override
     public  void run(){
       if(name.equals("Thread-0"));
-        print.prints();
+      print.prints();
     }
 
 }

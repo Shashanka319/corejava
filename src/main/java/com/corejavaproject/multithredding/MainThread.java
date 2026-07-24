@@ -1,6 +1,6 @@
 package com.corejavaproject.multithredding;
 
-public class ExceptionMain {
+public class MainThread {
     public static void main(String[] args) {
         Adding adding = new Adding();
 
