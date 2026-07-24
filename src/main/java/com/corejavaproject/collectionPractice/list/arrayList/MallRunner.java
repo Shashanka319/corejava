@@ -15,32 +15,24 @@ public class MallRunner {
         mall.setName("KPN Mall");
         mall.setLocation("ShikariPalya Niladri Nagar Bangalore");
         mall.setStoreManager("Dushanth");
-       // mall.setNoOFEmployees(21);
-       // mall.setJobVacancy(true);
         list.add(mall);
 
         Mall mall1 = new Mall();
         mall1.setName("Vishal Mart");
         mall1.setLocation("Niladri Nagar Bangalore");
         mall.setStoreManager("Nagaraj");
-        // mall.setNoOFEmployees(20);
-        //mall.setJobVacancy(false);
         list.add(mall1);
 
         Mall mall2 = new Mall();
         mall2.setName("Dmart");
         mall2.setLocation("Bommasandra Electranic City");
         mall2.setStoreManager("Sharath");
-        // mall2.setNoOFEmployees(200);
-        // mall2.setJobVacancy(true);
         list.add(mall2);
 
         Mall mall3 = new Mall();
         mall3.setName("KPN Mall");
         mall3.setLocation("Basapura Bangalore");
         mall3.setStoreManager("Prakash");
-        // mall3.setNoOFEmployees(21);
-       // mall3.setJobVacancy(true);
         list.add(mall3);
         list.forEach(log::info);
 
