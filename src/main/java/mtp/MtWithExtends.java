@@ -1,7 +1,5 @@
 package mtp;
-
 import lombok.extern.log4j.Log4j2;
-
 @Log4j2
 
 public class MtWithExtends extends Thread{
@@ -11,7 +9,6 @@ public class MtWithExtends extends Thread{
 
         MtWithExtends mt2 = new MtWithExtends();
         mt2.run();
-
     }
     @Override
     public void run(){

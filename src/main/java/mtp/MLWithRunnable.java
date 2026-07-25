@@ -11,7 +11,6 @@ public class MLWithRunnable implements Runnable {
         Thread t2 = new Thread(ml);
         t2.start();
 
-
     }
     @Override
     public void run() {
