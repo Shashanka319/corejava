@@ -16,12 +16,12 @@ public class MLWithLamdasExpression {
         t2.start();
     }
     public void print(){
-       log.info(Thread.currentThread().getName(),"Start the Print using Lamda expressions");
+       log.info(Thread.currentThread().getName()+"Start the Print using Lamda expressions");
        try{
            Thread.sleep(3000);
        }catch(InterruptedException e){
            e.printStackTrace();
        }
-       log.info(Thread.currentThread().getName(),"End the Print using Lamda expressions");
+       log.info(Thread.currentThread().getName()+"End the Print using Lamda expressions");
     }
 }
