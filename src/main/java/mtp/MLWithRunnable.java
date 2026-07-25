@@ -15,12 +15,14 @@ public class MLWithRunnable implements Runnable {
     }
     @Override
     public void run() {
-       log.info(Thread.currentThread().getName()+"Starting the Runnable Process") ;
-       try{
-           Thread.sleep(3000);
-       }catch (Exception e){
-           e.printStackTrace();
-       }
-       log.info(Thread.currentThread().getName()+"Ending the Runnable Process") ;
-    }
+        log.info(Thread.currentThread().getName()+"Starting the Runnable Process") ;
+        try{
+            Thread.sleep(3000);
+        }catch (Exception e){
+            e.printStackTrace();
+        }
+        log.info(Thread.currentThread().getName()+"Ending the Runnable Process") ;
+
+   }
+
 }

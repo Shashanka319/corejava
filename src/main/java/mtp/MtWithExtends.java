@@ -7,19 +7,14 @@ import lombok.extern.log4j.Log4j2;
 public class MtWithExtends extends Thread{
     public static void main(String[] args) {
         MtWithExtends mt = new MtWithExtends();
-        mt.gethread();
         mt.start();
 
         MtWithExtends mt2 = new MtWithExtends();
-        mt2.gethread();
-        mt2.start();
+        mt2.run();
 
     }
     @Override
     public void run(){
-        super.run();
-    }
-    public void gethread(){
         log.info(getName()+"Start the Thread Process");
         try{
             sleep(3000);
@@ -27,6 +22,6 @@ public class MtWithExtends extends Thread{
             log.error(e);
         }
         log.info(getName()+"close the Thread Process");
-
     }
+
 }
