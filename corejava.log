@@ -1,292 +1,94 @@
-2026-07-24 11:11:27,698 INFO c.c.c.l.a.ProductRunner [main] Product(mall=null, productId=101, productName=T-Shirt, stockAvailable=true, productPrice=560.0, userInfo=null)
-2026-07-24 11:11:27,721 INFO j.u.ArrayList [main] Product(mall=null, productId=101, productName=T-Shirt, stockAvailable=true, productPrice=560.0, userInfo=null)
-2026-07-24 11:11:27,723 INFO j.u.ArrayList [main] Product(mall=null, productId=102, productName=Shirt, stockAvailable=true, productPrice=1560.0, userInfo=null)
-2026-07-24 11:11:27,725 INFO c.c.c.l.a.ProductRunner [main] Product(mall=null, productId=101, productName=T-Shirt, stockAvailable=true, productPrice=560.0, userInfo=null)
-2026-07-24 11:11:27,725 INFO c.c.c.l.a.ProductRunner [main] Product(mall=null, productId=102, productName=Shirt, stockAvailable=true, productPrice=1560.0, userInfo=null)
-2026-07-24 11:11:27,727 INFO c.c.c.l.a.ProductRunner [main] Product(mall=null, productId=103, productName=Hat, stockAvailable=true, productPrice=260.0, userInfo=null)
-2026-07-24 11:11:27,729 INFO j.u.s.ForEachOps$ForEachOp$OfRef [main] Product(mall=null, productId=101, productName=T-Shirt, stockAvailable=false, productPrice=1750.0, userInfo=null)
-2026-07-24 11:11:27,730 INFO j.u.s.ForEachOps$ForEachOp$OfRef [main] Product(mall=null, productId=102, productName=Shirt, stockAvailable=false, productPrice=1750.0, userInfo=null)
-2026-07-24 11:11:27,730 INFO j.u.s.ForEachOps$ForEachOp$OfRef [main] Product(mall=null, productId=103, productName=Hat, stockAvailable=false, productPrice=1750.0, userInfo=null)
-2026-07-24 11:11:27,731 INFO j.u.s.ForEachOps$ForEachOp$OfRef [main] Product(mall=null, productId=104, productName=Bag, stockAvailable=false, productPrice=1750.0, userInfo=null)
-2026-07-24 11:15:23,886 INFO c.c.c.l.a.ProductRunner [main] Product(mall=null, productId=101, productName=T-Shirt, stockAvailable=true, productPrice=560.0, userInfo=null)
-2026-07-24 11:15:23,899 INFO j.u.ArrayList [main] Product(mall=null, productId=101, productName=T-Shirt, stockAvailable=true, productPrice=560.0, userInfo=null)
-2026-07-24 11:15:23,900 INFO j.u.ArrayList [main] Product(mall=null, productId=102, productName=Shirt, stockAvailable=true, productPrice=1560.0, userInfo=null)
-2026-07-24 11:15:23,901 INFO c.c.c.l.a.ProductRunner [main] Product(mall=null, productId=101, productName=T-Shirt, stockAvailable=true, productPrice=560.0, userInfo=null)
-2026-07-24 11:15:23,902 INFO c.c.c.l.a.ProductRunner [main] Product(mall=null, productId=102, productName=Shirt, stockAvailable=true, productPrice=1560.0, userInfo=null)
-2026-07-24 11:15:23,902 INFO c.c.c.l.a.ProductRunner [main] Product(mall=null, productId=103, productName=Hat, stockAvailable=true, productPrice=260.0, userInfo=null)
-2026-07-24 11:15:23,905 INFO j.u.s.ForEachOps$ForEachOp$OfRef [main] Product(mall=null, productId=101, productName=T-Shirt, stockAvailable=false, productPrice=1750.0, userInfo=null)
-2026-07-24 11:15:23,906 INFO j.u.s.ForEachOps$ForEachOp$OfRef [main] Product(mall=null, productId=102, productName=Shirt, stockAvailable=false, productPrice=1750.0, userInfo=null)
-2026-07-24 11:15:23,906 INFO j.u.s.ForEachOps$ForEachOp$OfRef [main] Product(mall=null, productId=103, productName=Hat, stockAvailable=false, productPrice=1750.0, userInfo=null)
-2026-07-24 11:15:23,907 INFO j.u.s.ForEachOps$ForEachOp$OfRef [main] Product(mall=null, productId=104, productName=Bag, stockAvailable=false, productPrice=1750.0, userInfo=null)
-2026-07-24 11:15:23,908 INFO c.c.c.l.a.ProductRunner [main] Product(mall=null, productId=101, productName=T-Shirt, stockAvailable=false, productPrice=1750.0, userInfo=null)
-2026-07-24 11:15:23,908 INFO c.c.c.l.a.ProductRunner [main] Product(mall=null, productId=102, productName=Shirt, stockAvailable=false, productPrice=1750.0, userInfo=null)
-2026-07-24 11:15:23,908 INFO c.c.c.l.a.ProductRunner [main] Product(mall=null, productId=103, productName=Hat, stockAvailable=false, productPrice=1750.0, userInfo=null)
-2026-07-24 11:15:23,909 INFO c.c.c.l.a.ProductRunner [main] Product(mall=null, productId=104, productName=Bag, stockAvailable=false, productPrice=1750.0, userInfo=null)
-2026-07-24 11:15:23,909 INFO c.c.c.l.a.ProductRunner [main] Product(mall=null, productId=105, productName=Fan, stockAvailable=true, productPrice=4560.0, userInfo=null)
-2026-07-24 11:16:48,546 INFO c.c.c.l.a.ProductRunner [main] Product(mall=null, productId=101, productName=T-Shirt, stockAvailable=true, productPrice=560.0, userInfo=null)
-2026-07-24 11:16:48,560 INFO j.u.ArrayList [main] Product(mall=null, productId=101, productName=T-Shirt, stockAvailable=true, productPrice=560.0, userInfo=null)
-2026-07-24 11:16:48,562 INFO j.u.ArrayList [main] Product(mall=null, productId=102, productName=Shirt, stockAvailable=true, productPrice=1560.0, userInfo=null)
-2026-07-24 11:16:48,563 INFO c.c.c.l.a.ProductRunner [main] Product(mall=null, productId=101, productName=T-Shirt, stockAvailable=true, productPrice=560.0, userInfo=null)
-2026-07-24 11:16:48,564 INFO c.c.c.l.a.ProductRunner [main] Product(mall=null, productId=102, productName=Shirt, stockAvailable=true, productPrice=1560.0, userInfo=null)
-2026-07-24 11:16:48,564 INFO c.c.c.l.a.ProductRunner [main] Product(mall=null, productId=103, productName=Hat, stockAvailable=true, productPrice=260.0, userInfo=null)
-2026-07-24 11:16:48,566 INFO j.u.s.ForEachOps$ForEachOp$OfRef [main] Product(mall=null, productId=101, productName=T-Shirt, stockAvailable=false, productPrice=1750.0, userInfo=null)
-2026-07-24 11:16:48,567 INFO j.u.s.ForEachOps$ForEachOp$OfRef [main] Product(mall=null, productId=102, productName=Shirt, stockAvailable=false, productPrice=1750.0, userInfo=null)
-2026-07-24 11:16:48,568 INFO j.u.s.ForEachOps$ForEachOp$OfRef [main] Product(mall=null, productId=103, productName=Hat, stockAvailable=false, productPrice=1750.0, userInfo=null)
-2026-07-24 11:16:48,569 INFO j.u.s.ForEachOps$ForEachOp$OfRef [main] Product(mall=null, productId=104, productName=Bag, stockAvailable=false, productPrice=1750.0, userInfo=null)
-2026-07-24 11:16:48,570 INFO c.c.c.l.a.ProductRunner [main] Product(mall=null, productId=101, productName=T-Shirt, stockAvailable=false, productPrice=1750.0, userInfo=null)
-2026-07-24 11:16:48,571 INFO c.c.c.l.a.ProductRunner [main] Product(mall=null, productId=102, productName=Shirt, stockAvailable=false, productPrice=1750.0, userInfo=null)
-2026-07-24 11:16:48,572 INFO c.c.c.l.a.ProductRunner [main] Product(mall=null, productId=103, productName=Hat, stockAvailable=false, productPrice=1750.0, userInfo=null)
-2026-07-24 11:16:48,572 INFO c.c.c.l.a.ProductRunner [main] Product(mall=null, productId=104, productName=Bag, stockAvailable=false, productPrice=1750.0, userInfo=null)
-2026-07-24 11:16:48,573 INFO c.c.c.l.a.ProductRunner [main] Product(mall=null, productId=105, productName=Fan, stockAvailable=true, productPrice=4560.0, userInfo=null)
-2026-07-24 11:16:48,575 INFO c.c.c.l.a.ProductRunner [main] Product(mall=null, productId=101, productName=T-Shirt, stockAvailable=false, productPrice=1750.0, userInfo=null)
-2026-07-24 11:16:48,576 INFO c.c.c.l.a.ProductRunner [main] Product(mall=null, productId=102, productName=Shirt, stockAvailable=false, productPrice=1750.0, userInfo=null)
-2026-07-24 11:16:48,577 INFO c.c.c.l.a.ProductRunner [main] Product(mall=null, productId=103, productName=Hat, stockAvailable=false, productPrice=1750.0, userInfo=null)
-2026-07-24 11:16:48,577 INFO c.c.c.l.a.ProductRunner [main] Product(mall=null, productId=104, productName=Bag, stockAvailable=false, productPrice=1750.0, userInfo=null)
-2026-07-24 11:16:48,577 INFO c.c.c.l.a.ProductRunner [main] Product(mall=null, productId=105, productName=Fan, stockAvailable=true, productPrice=4560.0, userInfo=null)
-2026-07-24 11:16:48,578 INFO c.c.c.l.a.ProductRunner [main] Product(mall=null, productId=105, productName=Fan, stockAvailable=true, productPrice=4560.0, userInfo=null)
-2026-07-24 11:16:48,578 INFO c.c.c.l.a.ProductRunner [main] Product(mall=null, productId=104, productName=Bag, stockAvailable=false, productPrice=1750.0, userInfo=null)
-2026-07-24 11:16:48,578 INFO c.c.c.l.a.ProductRunner [main] Product(mall=null, productId=103, productName=Hat, stockAvailable=false, productPrice=1750.0, userInfo=null)
-2026-07-24 11:16:48,579 INFO c.c.c.l.a.ProductRunner [main] Product(mall=null, productId=102, productName=Shirt, stockAvailable=false, productPrice=1750.0, userInfo=null)
-2026-07-24 11:16:48,579 INFO c.c.c.l.a.ProductRunner [main] Product(mall=null, productId=101, productName=T-Shirt, stockAvailable=false, productPrice=1750.0, userInfo=null)
-2026-07-24 11:21:23,302 INFO c.c.c.l.a.ProductRunner [main] Product(mall=null, productId=101, productName=T-Shirt, stockAvailable=true, productPrice=560.0, userInfo=null)
-2026-07-24 11:21:23,309 INFO j.u.ArrayList [main] Product(mall=null, productId=101, productName=T-Shirt, stockAvailable=true, productPrice=560.0, userInfo=null)
-2026-07-24 11:21:23,310 INFO j.u.ArrayList [main] Product(mall=null, productId=102, productName=Shirt, stockAvailable=true, productPrice=1560.0, userInfo=null)
-2026-07-24 11:21:23,310 INFO c.c.c.l.a.ProductRunner [main] Product(mall=null, productId=101, productName=T-Shirt, stockAvailable=true, productPrice=560.0, userInfo=null)
-2026-07-24 11:21:23,311 INFO c.c.c.l.a.ProductRunner [main] Product(mall=null, productId=102, productName=Shirt, stockAvailable=true, productPrice=1560.0, userInfo=null)
-2026-07-24 11:21:23,311 INFO c.c.c.l.a.ProductRunner [main] Product(mall=null, productId=103, productName=Hat, stockAvailable=true, productPrice=260.0, userInfo=null)
-2026-07-24 11:21:23,312 INFO j.u.s.ForEachOps$ForEachOp$OfRef [main] Product(mall=null, productId=101, productName=T-Shirt, stockAvailable=false, productPrice=1750.0, userInfo=null)
-2026-07-24 11:21:23,312 INFO j.u.s.ForEachOps$ForEachOp$OfRef [main] Product(mall=null, productId=102, productName=Shirt, stockAvailable=false, productPrice=1750.0, userInfo=null)
-2026-07-24 11:21:23,312 INFO j.u.s.ForEachOps$ForEachOp$OfRef [main] Product(mall=null, productId=103, productName=Hat, stockAvailable=false, productPrice=1750.0, userInfo=null)
-2026-07-24 11:21:23,312 INFO j.u.s.ForEachOps$ForEachOp$OfRef [main] Product(mall=null, productId=104, productName=Bag, stockAvailable=false, productPrice=1750.0, userInfo=null)
-2026-07-24 11:21:23,313 INFO c.c.c.l.a.ProductRunner [main] Product(mall=null, productId=101, productName=T-Shirt, stockAvailable=false, productPrice=1750.0, userInfo=null)
-2026-07-24 11:21:23,313 INFO c.c.c.l.a.ProductRunner [main] Product(mall=null, productId=102, productName=Shirt, stockAvailable=false, productPrice=1750.0, userInfo=null)
-2026-07-24 11:21:23,313 INFO c.c.c.l.a.ProductRunner [main] Product(mall=null, productId=103, productName=Hat, stockAvailable=false, productPrice=1750.0, userInfo=null)
-2026-07-24 11:21:23,313 INFO c.c.c.l.a.ProductRunner [main] Product(mall=null, productId=104, productName=Bag, stockAvailable=false, productPrice=1750.0, userInfo=null)
-2026-07-24 11:21:23,313 INFO c.c.c.l.a.ProductRunner [main] Product(mall=null, productId=105, productName=Fan, stockAvailable=true, productPrice=4560.0, userInfo=null)
-2026-07-24 11:21:23,315 INFO c.c.c.l.a.ProductRunner [main] Product(mall=null, productId=101, productName=T-Shirt, stockAvailable=false, productPrice=1750.0, userInfo=null)
-2026-07-24 11:21:23,315 INFO c.c.c.l.a.ProductRunner [main] Product(mall=null, productId=102, productName=Shirt, stockAvailable=false, productPrice=1750.0, userInfo=null)
-2026-07-24 11:21:23,316 INFO c.c.c.l.a.ProductRunner [main] Product(mall=null, productId=103, productName=Hat, stockAvailable=false, productPrice=1750.0, userInfo=null)
-2026-07-24 11:21:23,316 INFO c.c.c.l.a.ProductRunner [main] Product(mall=null, productId=104, productName=Bag, stockAvailable=false, productPrice=1750.0, userInfo=null)
-2026-07-24 11:21:23,316 INFO c.c.c.l.a.ProductRunner [main] Product(mall=null, productId=105, productName=Fan, stockAvailable=true, productPrice=4560.0, userInfo=null)
-2026-07-24 11:21:23,317 INFO c.c.c.l.a.ProductRunner [main] Product(mall=null, productId=106, productName=Shirt, stockAvailable=true, productPrice=560.0, userInfo=null)
-2026-07-24 11:21:23,317 INFO c.c.c.l.a.ProductRunner [main] Product(mall=null, productId=106, productName=Shirt, stockAvailable=true, productPrice=560.0, userInfo=null)
-2026-07-24 11:21:23,318 INFO c.c.c.l.a.ProductRunner [main] Product(mall=null, productId=105, productName=Fan, stockAvailable=true, productPrice=4560.0, userInfo=null)
-2026-07-24 11:21:23,319 INFO c.c.c.l.a.ProductRunner [main] Product(mall=null, productId=104, productName=Bag, stockAvailable=false, productPrice=1750.0, userInfo=null)
-2026-07-24 11:21:23,319 INFO c.c.c.l.a.ProductRunner [main] Product(mall=null, productId=103, productName=Hat, stockAvailable=false, productPrice=1750.0, userInfo=null)
-2026-07-24 11:21:23,319 INFO c.c.c.l.a.ProductRunner [main] Product(mall=null, productId=102, productName=Shirt, stockAvailable=false, productPrice=1750.0, userInfo=null)
-2026-07-24 11:21:23,320 INFO c.c.c.l.a.ProductRunner [main] Product(mall=null, productId=101, productName=T-Shirt, stockAvailable=false, productPrice=1750.0, userInfo=null)
-2026-07-24 11:28:48,809 INFO c.c.c.l.a.Initialization [main] Product(mall=Mall(name=D-Mart, location=Bommasandra, storeManager=Rajendra), productId=101, productName=T-shirt, stockAvailable=true, productPrice=560.0, userInfo=UserInfo(userName=Shashank, email=sharathshashank1986@gmail.com, phoneNumber=9743873982, Address=Niladri Nagar))
-2026-07-24 11:30:54,483 INFO c.c.c.l.a.Initialization [main] Product(mall=Mall(name=D-Mart, location=Bommasandra, storeManager=Rajendra), productId=101, productName=T-shirt, stockAvailable=true, productPrice=560.0, userInfo=UserInfo(userName=Shashank, email=sharathshashank1986@gmail.com, phoneNumber=9743873982, Address=Niladri Nagar))
-2026-07-24 11:30:54,488 INFO c.c.c.l.a.Initialization [main] Product(mall=Mall(name=D-Mart, location=Bommasandra, storeManager=Rajendra), productId=101, productName=T-shirt, stockAvailable=true, productPrice=560.0, userInfo=UserInfo(userName=Shashank, email=sharathshashank1986@gmail.com, phoneNumber=9743873982, Address=Niladri Nagar))
-2026-07-24 11:30:54,488 INFO c.c.c.l.a.Initialization [main] Product(mall=Mall(name=D-Mart, location=Bommasandra, storeManager=Rajendra), productId=101, productName=T-shirt, stockAvailable=true, productPrice=560.0, userInfo=UserInfo(userName=Shashank, email=sharathshashank1986@gmail.com, phoneNumber=9743873982, Address=Niladri Nagar))
-2026-07-24 11:30:56,599 INFO c.c.c.l.a.Initialization [main] Product(mall=Mall(name=D-Mart, location=Bommasandra, storeManager=Rajendra), productId=101, productName=T-shirt, stockAvailable=true, productPrice=560.0, userInfo=UserInfo(userName=Shashank, email=sharathshashank1986@gmail.com, phoneNumber=9743873982, Address=Niladri Nagar))
-2026-07-24 11:30:56,605 INFO c.c.c.l.a.Initialization [main] Product(mall=Mall(name=D-Mart, location=Bommasandra, storeManager=Rajendra), productId=101, productName=T-shirt, stockAvailable=true, productPrice=560.0, userInfo=UserInfo(userName=Shashank, email=sharathshashank1986@gmail.com, phoneNumber=9743873982, Address=Niladri Nagar))
-2026-07-24 11:30:56,605 INFO c.c.c.l.a.Initialization [main] Product(mall=Mall(name=D-Mart, location=Bommasandra, storeManager=Rajendra), productId=101, productName=T-shirt, stockAvailable=true, productPrice=560.0, userInfo=UserInfo(userName=Shashank, email=sharathshashank1986@gmail.com, phoneNumber=9743873982, Address=Niladri Nagar))
-2026-07-24 11:32:13,092 INFO c.c.c.l.a.Initialization [main] Product(mall=Mall(name=D-Mart, location=Bommasandra, storeManager=Rajendra), productId=101, productName=T-shirt, stockAvailable=true, productPrice=560.0, userInfo=UserInfo(userName=Shashank, email=sharathshashank1986@gmail.com, phoneNumber=9743873982, Address=Niladri Nagar))
-2026-07-24 11:32:13,098 INFO c.c.c.l.a.Initialization [main] Product(mall=Mall(name=D-Mart, location=Bommasandra, storeManager=Rajendra), productId=101, productName=T-shirt, stockAvailable=true, productPrice=560.0, userInfo=UserInfo(userName=Shashank, email=sharathshashank1986@gmail.com, phoneNumber=9743873982, Address=Niladri Nagar))
-2026-07-24 11:32:13,099 INFO c.c.c.l.a.Initialization [main] Product(mall=Mall(name=D-Mart, location=Bommasandra, storeManager=Rajendra), productId=101, productName=T-shirt, stockAvailable=true, productPrice=560.0, userInfo=UserInfo(userName=Shashank, email=sharathshashank1986@gmail.com, phoneNumber=9743873982, Address=Niladri Nagar))
-2026-07-24 11:32:30,689 INFO c.c.c.l.a.Initialization [main] Product(mall=Mall(name=D-Mart, location=Bommasandra, storeManager=Rajendra), productId=101, productName=T-shirt, stockAvailable=true, productPrice=560.0, userInfo=UserInfo(userName=Shashank, email=sharathshashank1986@gmail.com, phoneNumber=9743873982, Address=Niladri Nagar))
-2026-07-24 11:32:42,843 INFO c.c.c.l.a.Initialization [main] Product(mall=Mall(name=D-Mart, location=Bommasandra, storeManager=Rajendra), productId=101, productName=T-shirt, stockAvailable=true, productPrice=560.0, userInfo=UserInfo(userName=Shashank, email=sharathshashank1986@gmail.com, phoneNumber=9743873982, Address=Niladri Nagar))
-2026-07-24 11:32:59,766 INFO c.c.c.l.a.Initialization [main] Product(mall=Mall(name=D-Mart, location=Bommasandra, storeManager=Rajendra), productId=101, productName=T-shirt, stockAvailable=true, productPrice=560.0, userInfo=UserInfo(userName=Shashank, email=sharathshashank1986@gmail.com, phoneNumber=9743873982, Address=Niladri Nagar))
-2026-07-24 11:32:59,771 INFO c.c.c.l.a.Initialization [main] Product(mall=Mall(name=D-Mart, location=Bommasandra, storeManager=Rajendra), productId=101, productName=T-shirt, stockAvailable=true, productPrice=560.0, userInfo=UserInfo(userName=Shashank, email=sharathshashank1986@gmail.com, phoneNumber=9743873982, Address=Niladri Nagar))
-2026-07-24 11:32:59,771 INFO c.c.c.l.a.Initialization [main] Product(mall=Mall(name=D-Mart, location=Bommasandra, storeManager=Rajendra), productId=101, productName=T-shirt, stockAvailable=true, productPrice=560.0, userInfo=UserInfo(userName=Shashank, email=sharathshashank1986@gmail.com, phoneNumber=9743873982, Address=Niladri Nagar))
-2026-07-24 11:36:18,094 INFO c.c.c.l.a.Initialization [main] Product(mall=Mall(name=D-Mart, location=Bommasandra, storeManager=Rajendra), productId=101, productName=T-shirt, stockAvailable=true, productPrice=560.0, userInfo=UserInfo(userName=Shashank, email=sharathshashank1986@gmail.com, phoneNumber=9743873982, Address=Niladri Nagar))
-2026-07-24 11:36:18,099 INFO c.c.c.l.a.Initialization [main] Product(mall=Mall(name=D-Mart, location=Bommasandra, storeManager=Rajendra), productId=101, productName=T-shirt, stockAvailable=true, productPrice=560.0, userInfo=UserInfo(userName=Shashank, email=sharathshashank1986@gmail.com, phoneNumber=9743873982, Address=Niladri Nagar))
-2026-07-24 11:38:39,973 INFO c.c.c.l.a.Initialization [main] Product(mall=Mall(name=D-Mart, location=Bommasandra, storeManager=Rajendra), productId=101, productName=T-shirt, stockAvailable=true, productPrice=560.0, userInfo=UserInfo(userName=Shashank, email=sharathshashank1986@gmail.com, phoneNumber=9743873982, Address=Niladri Nagar))
-2026-07-24 11:38:39,984 INFO c.c.c.l.a.Initialization [main] Product(mall=Mall(name=D-Mart, location=Bommasandra, storeManager=Rajendra), productId=101, productName=T-shirt, stockAvailable=true, productPrice=560.0, userInfo=UserInfo(userName=Shashank, email=sharathshashank1986@gmail.com, phoneNumber=9743873982, Address=Niladri Nagar))
-2026-07-24 11:39:08,438 INFO c.c.c.l.a.Initialization [main] Product(mall=Mall(name=D-Mart, location=Bommasandra, storeManager=Rajendra), productId=101, productName=T-shirt, stockAvailable=true, productPrice=560.0, userInfo=UserInfo(userName=Shashank, email=sharathshashank1986@gmail.com, phoneNumber=9743873982, Address=Niladri Nagar))
-2026-07-24 11:39:08,443 INFO c.c.c.l.a.Initialization [main] Product(mall=Mall(name=D-Mart, location=Bommasandra, storeManager=Rajendra), productId=101, productName=T-shirt, stockAvailable=true, productPrice=560.0, userInfo=UserInfo(userName=Shashank, email=sharathshashank1986@gmail.com, phoneNumber=9743873982, Address=Niladri Nagar))
-2026-07-24 11:39:08,443 INFO c.c.c.l.a.Initialization [main] Product(mall=Mall(name=D-Mart, location=Bommasandra, storeManager=Rajendra), productId=101, productName=T-shirt, stockAvailable=true, productPrice=560.0, userInfo=UserInfo(userName=Shashank, email=sharathshashank1986@gmail.com, phoneNumber=9743873982, Address=Niladri Nagar))
-2026-07-24 11:39:13,224 INFO c.c.c.l.a.Initialization [main] Product(mall=Mall(name=D-Mart, location=Bommasandra, storeManager=Rajendra), productId=101, productName=T-shirt, stockAvailable=true, productPrice=560.0, userInfo=UserInfo(userName=Shashank, email=sharathshashank1986@gmail.com, phoneNumber=9743873982, Address=Niladri Nagar))
-2026-07-24 11:39:13,233 INFO c.c.c.l.a.Initialization [main] Product(mall=Mall(name=D-Mart, location=Bommasandra, storeManager=Rajendra), productId=101, productName=T-shirt, stockAvailable=true, productPrice=560.0, userInfo=UserInfo(userName=Shashank, email=sharathshashank1986@gmail.com, phoneNumber=9743873982, Address=Niladri Nagar))
-2026-07-24 11:39:13,233 INFO c.c.c.l.a.Initialization [main] Product(mall=Mall(name=D-Mart, location=Bommasandra, storeManager=Rajendra), productId=101, productName=T-shirt, stockAvailable=true, productPrice=560.0, userInfo=UserInfo(userName=Shashank, email=sharathshashank1986@gmail.com, phoneNumber=9743873982, Address=Niladri Nagar))
-2026-07-24 11:44:36,964 INFO c.c.c.l.a.Initialization [main] Product(mall=Mall(name=D-Mart, location=Bommasandra, storeManager=Rajendra), productId=101, productName=T-shirt, stockAvailable=true, productPrice=560.0, userInfo=UserInfo(userName=Shashank, email=sharathshashank1986@gmail.com, phoneNumber=9743873982, Address=Niladri Nagar))
-2026-07-24 11:44:36,969 INFO c.c.c.l.a.Initialization [main] Product(mall=Mall(name=D-Mart, location=Bommasandra, storeManager=Rajendra), productId=101, productName=T-shirt, stockAvailable=true, productPrice=560.0, userInfo=UserInfo(userName=Shashank, email=sharathshashank1986@gmail.com, phoneNumber=9743873982, Address=Niladri Nagar))
-2026-07-24 11:44:36,970 INFO c.c.c.l.a.Initialization [main] Product(mall=Mall(name=D-Mart, location=Bommasandra, storeManager=Rajendra), productId=101, productName=T-shirt, stockAvailable=true, productPrice=560.0, userInfo=UserInfo(userName=Shashank, email=sharathshashank1986@gmail.com, phoneNumber=9743873982, Address=Niladri Nagar))
-2026-07-24 11:45:22,442 INFO c.c.c.l.a.Initialization [main] Product(mall=Mall(name=D-Mart, location=Bommasandra, storeManager=Rajendra), productId=101, productName=T-shirt, stockAvailable=true, productPrice=560.0, userInfo=UserInfo(userName=Shashank, email=sharathshashank1986@gmail.com, phoneNumber=9743873982, Address=Niladri Nagar))
-2026-07-24 11:45:22,448 INFO c.c.c.l.a.Initialization [main] Product(mall=Mall(name=D-Mart, location=Bommasandra, storeManager=Rajendra), productId=101, productName=T-shirt, stockAvailable=true, productPrice=560.0, userInfo=UserInfo(userName=Shashank, email=sharathshashank1986@gmail.com, phoneNumber=9743873982, Address=Niladri Nagar))
-2026-07-24 11:45:22,448 INFO c.c.c.l.a.Initialization [main] Product(mall=Mall(name=D-Mart, location=Bommasandra, storeManager=Rajendra), productId=101, productName=T-shirt, stockAvailable=true, productPrice=560.0, userInfo=UserInfo(userName=Shashank, email=sharathshashank1986@gmail.com, phoneNumber=9743873982, Address=Niladri Nagar))
-2026-07-24 11:45:41,439 INFO c.c.c.l.a.Initialization [main] Product(mall=Mall(name=D-Mart, location=Bommasandra, storeManager=Rajendra), productId=101, productName=T-shirt, stockAvailable=true, productPrice=560.0, userInfo=UserInfo(userName=Shashank, email=sharathshashank1986@gmail.com, phoneNumber=9743873982, Address=Niladri Nagar))
-2026-07-24 11:45:41,445 INFO c.c.c.l.a.Initialization [main] Product(mall=Mall(name=D-Mart, location=Bommasandra, storeManager=Rajendra), productId=101, productName=T-shirt, stockAvailable=true, productPrice=560.0, userInfo=UserInfo(userName=Shashank, email=sharathshashank1986@gmail.com, phoneNumber=9743873982, Address=Niladri Nagar))
-2026-07-24 11:45:41,445 INFO c.c.c.l.a.Initialization [main] Product(mall=Mall(name=D-Mart, location=Bommasandra, storeManager=Rajendra), productId=101, productName=T-shirt, stockAvailable=true, productPrice=560.0, userInfo=UserInfo(userName=Shashank, email=sharathshashank1986@gmail.com, phoneNumber=9743873982, Address=Niladri Nagar))
-2026-07-24 11:48:22,590 INFO c.c.c.l.a.Initialization [main] Product(mall=Mall(name=D-Mart, location=Bommasandra, storeManager=Rajendra), productId=101, productName=T-shirt, stockAvailable=true, productPrice=560.0, userInfo=UserInfo(userName=Shashank, email=sharathshashank1986@gmail.com, phoneNumber=9743873982, Address=Niladri Nagar))
-2026-07-24 11:48:22,596 INFO c.c.c.l.a.Initialization [main] Product(mall=Mall(name=D-Mart, location=Bommasandra, storeManager=Rajendra), productId=102, productName=Fan, stockAvailable=true, productPrice=6560.0, userInfo=UserInfo(userName=Shashank, email=sharathshashank1986@gmail.com, phoneNumber=9743873982, Address=Niladri Nagar))
-2026-07-24 11:48:22,596 INFO c.c.c.l.a.Initialization [main] Product(mall=Mall(name=D-Mart, location=Bommasandra, storeManager=Rajendra), productId=101, productName=T-shirt, stockAvailable=true, productPrice=560.0, userInfo=UserInfo(userName=Shashank, email=sharathshashank1986@gmail.com, phoneNumber=9743873982, Address=Niladri Nagar))
-2026-07-24 11:49:08,231 INFO c.c.c.l.a.Initialization [main] Product(mall=Mall(name=D-Mart, location=Bommasandra, storeManager=Rajendra), productId=101, productName=T-shirt, stockAvailable=true, productPrice=560.0, userInfo=UserInfo(userName=Shashank, email=sharathshashank1986@gmail.com, phoneNumber=9743873982, Address=Niladri Nagar))
-2026-07-24 11:49:08,237 INFO c.c.c.l.a.Initialization [main] Product(mall=Mall(name=D-Mart, location=Bommasandra, storeManager=Rajendra), productId=102, productName=Fan, stockAvailable=true, productPrice=6560.0, userInfo=UserInfo(userName=Shashank, email=sharathshashank1986@gmail.com, phoneNumber=9743873982, Address=Niladri Nagar))
-2026-07-24 11:49:08,237 INFO c.c.c.l.a.Initialization [main] Product(mall=Mall(name=D-Mart, location=Bommasandra, storeManager=Rajendra), productId=103, productName=Laptop, stockAvailable=true, productPrice=55560.0, userInfo=UserInfo(userName=Shashank, email=sharathshashank1986@gmail.com, phoneNumber=9743873982, Address=Niladri Nagar))
-2026-07-24 11:49:46,479 INFO c.c.c.l.a.Initialization [main] Product(mall=Mall(name=D-Mart, location=Bommasandra, storeManager=Rajendra), productId=101, productName=T-shirt, stockAvailable=true, productPrice=560.0, userInfo=UserInfo(userName=Shashank, email=sharathshashank1986@gmail.com, phoneNumber=9743873982, Address=Niladri Nagar))
-2026-07-24 11:49:46,484 INFO c.c.c.l.a.Initialization [main] Product(mall=Mall(name=D-Mart, location=Bommasandra, storeManager=Rajendra), productId=102, productName=Fan, stockAvailable=true, productPrice=6560.0, userInfo=UserInfo(userName=Shashank, email=sharathshashank1986@gmail.com, phoneNumber=9743873982, Address=Niladri Nagar))
-2026-07-24 11:49:46,485 INFO c.c.c.l.a.Initialization [main] Product(mall=Mall(name=D-Mart, location=Bommasandra, storeManager=Rajendra), productId=103, productName=Wahing machine, stockAvailable=true, productPrice=15560.0, userInfo=UserInfo(userName=Shashank, email=sharathshashank1986@gmail.com, phoneNumber=9743873982, Address=Niladri Nagar))
-2026-07-24 11:51:22,648 INFO c.c.c.l.a.Initialization [main] Product(mall=Mall(name=D-Mart, location=Bommasandra, storeManager=Rajendra), productId=101, productName=T-shirt, stockAvailable=true, productPrice=560.0, userInfo=UserInfo(userName=Shashank, email=sharathshashank1986@gmail.com, phoneNumber=9743873982, Address=Niladri Nagar))
-2026-07-24 11:51:22,655 INFO c.c.c.l.a.Initialization [main] Product(mall=Mall(name=D-Mart, location=Bommasandra, storeManager=Rajendra), productId=102, productName=Fan, stockAvailable=true, productPrice=6560.0, userInfo=UserInfo(userName=Sharath, email=shashank1727@gmail.com, phoneNumber=9743873982, Address=Electranic city))
-2026-07-24 11:51:22,655 INFO c.c.c.l.a.Initialization [main] Product(mall=Mall(name=D-Mart, location=Bommasandra, storeManager=Rajendra), productId=103, productName=Wahing machine, stockAvailable=true, productPrice=15560.0, userInfo=UserInfo(userName=Sharath, email=sharat657@gmail.com, phoneNumber=9743873982, Address=Hulimangala))
-2026-07-24 12:34:02,391 INFO c.c.m.Ticket [Thread-0] Thread-0Started
-2026-07-24 12:34:02,391 INFO c.c.m.Ticket [Thread-1] Thread-1Started
-2026-07-24 12:34:11,398 INFO c.c.m.Ticket [Thread-0] Thread-0Ended
-2026-07-24 12:34:11,398 INFO c.c.m.Ticket [Thread-1] Thread-1Ended
-2026-07-24 14:51:50,017 INFO c.c.m.Print [Thread-1] Thread-1inside the Print method
-2026-07-24 14:51:50,017 INFO c.c.m.Print [Thread-2] Thread-2inside the Print method
-2026-07-24 14:51:50,017 INFO c.c.m.Print [Thread-0] Thread-0inside the Print method
-2026-07-24 14:51:59,030 INFO c.c.m.Print [Thread-0] Thread-0exist the Print method
-2026-07-24 14:51:59,030 INFO c.c.m.Print [Thread-2] Thread-2exist the Print method
-2026-07-24 14:51:59,030 INFO c.c.m.Print [Thread-1] Thread-1exist the Print method
-2026-07-24 14:52:27,992 INFO c.c.m.Print [Shashanka] Shashankainside the Print method
-2026-07-24 14:52:27,992 INFO c.c.m.Print [Thread-2] Thread-2inside the Print method
-2026-07-24 14:52:27,992 INFO c.c.m.Print [Thread-1] Thread-1inside the Print method
-2026-07-24 14:52:37,002 INFO c.c.m.Print [Thread-2] Thread-2exist the Print method
-2026-07-24 14:52:37,002 INFO c.c.m.Print [Thread-1] Thread-1exist the Print method
-2026-07-24 14:52:37,002 INFO c.c.m.Print [Shashanka] Shashankaexist the Print method
-2026-07-24 15:03:38,447 INFO c.c.m.Print [Thread-1] Thread-1inside the Print method
-2026-07-24 15:03:38,447 INFO c.c.m.Print [Thread-2] Thread-2inside the Print method
-2026-07-24 15:03:38,447 INFO c.c.m.Print [Shashanka] Shashankainside the Print method
-2026-07-24 15:03:47,454 INFO c.c.m.Print [Thread-2] Thread-2exist the Print method
-2026-07-24 15:03:47,454 INFO c.c.m.Print [Shashanka] Shashankaexist the Print method
-2026-07-24 15:03:47,453 INFO c.c.m.Print [Thread-1] Thread-1exist the Print method
-2026-07-24 15:04:15,575 INFO c.c.m.Print [Shashanka] Shashankainside the Print method
-2026-07-24 15:04:15,575 INFO c.c.m.Print [Thread-2] Thread-2inside the Print method
-2026-07-24 15:04:15,575 INFO c.c.m.Print [Thread-1] Thread-1inside the Print method
-2026-07-24 15:04:24,583 INFO c.c.m.Print [Shashanka] Shashankaexist the Print method
-2026-07-24 15:04:24,583 INFO c.c.m.Print [Thread-2] Thread-2exist the Print method
-2026-07-24 15:04:24,584 INFO c.c.m.Print [Thread-1] Thread-1exist the Print method
-2026-07-24 15:05:17,373 INFO c.c.m.Print [Shashanka] Shashankainside the Print method
-2026-07-24 15:05:17,373 INFO c.c.m.Print [Thread-1] Thread-1inside the Print method
-2026-07-24 15:05:17,373 INFO c.c.m.Print [Thread-2] Thread-2inside the Print method
-2026-07-24 15:05:26,381 INFO c.c.m.Print [Thread-1] Thread-1exist the Print method
-2026-07-24 15:05:26,381 INFO c.c.m.Print [Shashanka] Shashankaexist the Print method
-2026-07-24 15:05:26,380 INFO c.c.m.Print [Thread-2] Thread-2exist the Print method
-2026-07-24 15:06:02,782 INFO c.c.m.Print [Thread-1] Thread-1inside the Print method
-2026-07-24 15:06:02,782 INFO c.c.m.Print [Shashanka] Shashankainside the Print method
-2026-07-24 15:06:02,782 INFO c.c.m.Print [Thread-2] Thread-2inside the Print method
-2026-07-24 15:06:11,789 INFO c.c.m.Print [Shashanka] Shashankaexist the Print method
-2026-07-24 15:06:11,789 INFO c.c.m.Print [Thread-2] Thread-2exist the Print method
-2026-07-24 15:06:11,789 INFO c.c.m.Print [Thread-1] Thread-1exist the Print method
-2026-07-24 21:36:00,411 INFO c.c.m.SynchronizationwithRunnable [Thread-0] Thread-0 Execute the getSynchronization method
-2026-07-24 21:36:09,424 INFO c.c.m.SynchronizationwithRunnable [Thread-0] Thread-0 End the Execution of getSynchronization method
-2026-07-24 21:36:09,426 INFO c.c.m.SynchronizationwithRunnable [Thread-0] Thread-0 execute method started
-2026-07-24 21:36:09,425 INFO c.c.m.SynchronizationwithRunnable [Thread-2] Thread-2 Execute the getSynchronization method
-2026-07-24 21:36:18,427 INFO c.c.m.SynchronizationwithRunnable [Thread-0] Thread-0end the execute the method
-2026-07-24 21:36:18,427 INFO c.c.m.SynchronizationwithRunnable [Thread-2] Thread-2 End the Execution of getSynchronization method
-2026-07-24 21:36:18,428 INFO c.c.m.SynchronizationwithRunnable [Thread-1] Thread-1 Execute the getSynchronization method
-2026-07-24 21:36:18,428 INFO c.c.m.SynchronizationwithRunnable [Thread-2] Thread-2 execute method started
-2026-07-24 21:36:27,431 INFO c.c.m.SynchronizationwithRunnable [Thread-1] Thread-1 End the Execution of getSynchronization method
-2026-07-24 21:36:27,432 INFO c.c.m.SynchronizationwithRunnable [Thread-1] Thread-1 execute method started
-2026-07-24 21:36:27,431 INFO c.c.m.SynchronizationwithRunnable [Thread-2] Thread-2end the execute the method
-2026-07-24 21:36:36,433 INFO c.c.m.SynchronizationwithRunnable [Thread-1] Thread-1end the execute the method
-2026-07-24 22:01:13,972 INFO c.c.m.SynchronizationMethod [main] main Executing the ObjLocking in Synchronized Method started
-2026-07-24 22:01:14,980 INFO c.c.m.SynchronizationMethod [main] main Terminating the ObjLocking in Synchronized Method finished
-2026-07-24 22:01:14,981 INFO c.c.m.SynchronizationMethod [main] main Executing the ClassLevelLock in Synchronized Method started
-2026-07-24 22:01:15,983 INFO c.c.m.SynchronizationMethod [main] main Terminating the ClassLevelLock in Synchronized Method finished
-2026-07-24 22:01:53,694 INFO c.c.m.SynchronizationMethod [main] main Executing the ObjLocking in Synchronized Method started
-2026-07-24 22:01:54,701 INFO c.c.m.SynchronizationMethod [main] main Terminating the ObjLocking in Synchronized Method finished
-2026-07-24 22:01:54,703 INFO c.c.m.SynchronizationMethod [main] main Executing the ClassLevelLock in Synchronized Method started
-2026-07-24 22:01:55,707 INFO c.c.m.SynchronizationMethod [main] main Terminating the ClassLevelLock in Synchronized Method finished
-2026-07-24 22:02:11,350 INFO c.c.m.SynchronizationMethod [main] main Executing the ObjLocking in Synchronized Method started
-2026-07-24 22:02:14,356 INFO c.c.m.SynchronizationMethod [main] main Terminating the ObjLocking in Synchronized Method finished
-2026-07-24 22:02:14,359 INFO c.c.m.SynchronizationMethod [main] main Executing the ClassLevelLock in Synchronized Method started
-2026-07-24 22:02:15,363 INFO c.c.m.SynchronizationMethod [main] main Terminating the ClassLevelLock in Synchronized Method finished
-2026-07-24 22:02:44,438 INFO c.c.m.SynchronizationMethod [main] main Executing the ObjLocking in Synchronized Method started
-2026-07-24 22:02:47,443 INFO c.c.m.SynchronizationMethod [main] main Terminating the ObjLocking in Synchronized Method finished
-2026-07-24 22:03:15,682 INFO c.c.m.SynchronizationMethod [main] main Executing the ObjLocking in Synchronized Method started
-2026-07-24 22:03:45,533 INFO c.c.m.SynchronizationMethod [main] main Executing the ObjLocking in Synchronized Method started
-2026-07-24 22:03:50,541 INFO c.c.m.SynchronizationMethod [main] main Terminating the ObjLocking in Synchronized Method finished
-2026-07-24 22:03:50,542 INFO c.c.m.SynchronizationMethod [main] main Executing the ClassLevelLock in Synchronized Method started
-2026-07-24 22:03:51,544 INFO c.c.m.SynchronizationMethod [main] main Terminating the ClassLevelLock in Synchronized Method finished
-2026-07-24 22:05:04,123 INFO c.c.m.SynchronizationMethod [main] main Executing the ObjLocking in Synchronized Method started
-2026-07-24 22:05:09,130 INFO c.c.m.SynchronizationMethod [main] main Terminating the ObjLocking in Synchronized Method finished
-2026-07-24 22:05:09,131 INFO c.c.m.SynchronizationMethod [main] main Executing the ClassLevelLock in Synchronized Method started
-2026-07-24 22:05:10,132 INFO c.c.m.SynchronizationMethod [main] main Terminating the ClassLevelLock in Synchronized Method finished
-2026-07-24 22:10:23,028 INFO c.c.m.SynchronizationMethod [main] main Executing the ObjLocking in Synchronized Method started
-2026-07-24 22:10:28,033 INFO c.c.m.SynchronizationMethod [main] main Terminating the ObjLocking in Synchronized Method finished
-2026-07-24 22:10:28,034 INFO c.c.m.SynchronizationMethod [main] main Executing the ClassLevelLock in Synchronized Method started
-2026-07-24 22:10:29,036 INFO c.c.m.SynchronizationMethod [main] main Terminating the ClassLevelLock in Synchronized Method finished
-2026-07-24 22:10:29,037 INFO c.c.m.SynchronizationMethod [main] main Executing the ObjLocking in Synchronized Method started
-2026-07-24 22:10:34,039 INFO c.c.m.SynchronizationMethod [main] main Terminating the ObjLocking in Synchronized Method finished
-2026-07-24 22:10:34,039 INFO c.c.m.SynchronizationMethod [main] main Executing the ClassLevelLock in Synchronized Method started
-2026-07-24 22:10:35,040 INFO c.c.m.SynchronizationMethod [main] main Terminating the ClassLevelLock in Synchronized Method finished
-2026-07-24 22:10:35,041 INFO c.c.m.SynchronizationMethod [main] main Executing the ObjLocking in Synchronized Method started
-2026-07-24 22:10:40,044 INFO c.c.m.SynchronizationMethod [main] main Terminating the ObjLocking in Synchronized Method finished
-2026-07-24 22:10:40,044 INFO c.c.m.SynchronizationMethod [main] main Executing the ClassLevelLock in Synchronized Method started
-2026-07-24 22:10:41,045 INFO c.c.m.SynchronizationMethod [main] main Terminating the ClassLevelLock in Synchronized Method finished
-2026-07-24 22:12:42,182 INFO c.c.m.SynchronizationMethod [main] main Executing the ObjLocking in Synchronized Method started
-2026-07-24 22:12:47,189 INFO c.c.m.SynchronizationMethod [main] main Terminating the ObjLocking in Synchronized Method finished
-2026-07-24 22:12:47,190 INFO c.c.m.SynchronizationMethod [main] main Executing the ClassLevelLock in Synchronized Method started
-2026-07-24 22:12:48,193 INFO c.c.m.SynchronizationMethod [main] main Terminating the ClassLevelLock in Synchronized Method finished
-2026-07-24 22:12:48,194 INFO c.c.m.SynchronizationMethod [main] main Executing the ObjLocking in Synchronized Method started
-2026-07-24 22:12:48,195 INFO c.c.m.SynchronizationMethod [Synchronized Method] Synchronized MethodImplementation of Synchronization Method using Runnable
-2026-07-24 22:12:53,198 INFO c.c.m.SynchronizationMethod [main] main Terminating the ObjLocking in Synchronized Method finished
-2026-07-24 22:12:53,198 INFO c.c.m.SynchronizationMethod [main] main Executing the ClassLevelLock in Synchronized Method started
-2026-07-24 22:12:54,199 INFO c.c.m.SynchronizationMethod [main] main Terminating the ClassLevelLock in Synchronized Method finished
-2026-07-24 22:12:54,201 INFO c.c.m.SynchronizationMethod [main] main Executing the ObjLocking in Synchronized Method started
-2026-07-24 22:12:54,202 INFO c.c.m.SynchronizationMethod [Synchronized Method] Synchronized MethodImplementation of Synchronization Method using Runnable
-2026-07-24 22:12:59,202 INFO c.c.m.SynchronizationMethod [main] main Terminating the ObjLocking in Synchronized Method finished
-2026-07-24 22:12:59,202 INFO c.c.m.SynchronizationMethod [main] main Executing the ClassLevelLock in Synchronized Method started
-2026-07-24 22:13:00,205 INFO c.c.m.SynchronizationMethod [main] main Terminating the ClassLevelLock in Synchronized Method finished
-2026-07-24 22:13:00,206 INFO c.c.m.SynchronizationMethod [Synchronized Method] Synchronized MethodImplementation of Synchronization Method using Runnable
-2026-07-24 22:13:10,389 INFO c.c.m.SynchronizationMethod [main] main Executing the ObjLocking in Synchronized Method started
-2026-07-24 22:13:15,399 INFO c.c.m.SynchronizationMethod [main] main Terminating the ObjLocking in Synchronized Method finished
-2026-07-24 22:13:15,399 INFO c.c.m.SynchronizationMethod [main] main Executing the ClassLevelLock in Synchronized Method started
-2026-07-24 22:13:16,402 INFO c.c.m.SynchronizationMethod [main] main Terminating the ClassLevelLock in Synchronized Method finished
-2026-07-24 22:13:16,403 INFO c.c.m.SynchronizationMethod [main] mainImplementation of Synchronization Method using Runnable
-2026-07-24 22:13:16,404 INFO c.c.m.SynchronizationMethod [main] main Executing the ObjLocking in Synchronized Method started
-2026-07-24 22:13:16,404 INFO c.c.m.SynchronizationMethod [Synchronized Method] Synchronized MethodImplementation of Synchronization Method using Runnable
-2026-07-24 22:13:21,406 INFO c.c.m.SynchronizationMethod [main] main Terminating the ObjLocking in Synchronized Method finished
-2026-07-24 22:13:21,406 INFO c.c.m.SynchronizationMethod [main] main Executing the ClassLevelLock in Synchronized Method started
-2026-07-24 22:13:22,409 INFO c.c.m.SynchronizationMethod [main] main Terminating the ClassLevelLock in Synchronized Method finished
-2026-07-24 22:13:22,409 INFO c.c.m.SynchronizationMethod [main] main Executing the ObjLocking in Synchronized Method started
-2026-07-24 22:13:22,410 INFO c.c.m.SynchronizationMethod [Synchronized Method] Synchronized MethodImplementation of Synchronization Method using Runnable
-2026-07-24 22:13:27,412 INFO c.c.m.SynchronizationMethod [main] main Terminating the ObjLocking in Synchronized Method finished
-2026-07-24 22:13:27,413 INFO c.c.m.SynchronizationMethod [main] main Executing the ClassLevelLock in Synchronized Method started
-2026-07-24 22:13:28,413 INFO c.c.m.SynchronizationMethod [main] main Terminating the ClassLevelLock in Synchronized Method finished
-2026-07-24 22:13:28,414 INFO c.c.m.SynchronizationMethod [Synchronized Method] Synchronized MethodImplementation of Synchronization Method using Runnable
-2026-07-24 22:13:44,757 INFO c.c.m.SynchronizationMethod [main] main Executing the ObjLocking in Synchronized Method started
-2026-07-24 22:13:49,763 INFO c.c.m.SynchronizationMethod [main] main Terminating the ObjLocking in Synchronized Method finished
-2026-07-24 22:13:49,764 INFO c.c.m.SynchronizationMethod [main] main Executing the ClassLevelLock in Synchronized Method started
-2026-07-24 22:13:50,766 INFO c.c.m.SynchronizationMethod [main] main Terminating the ClassLevelLock in Synchronized Method finished
-2026-07-24 22:13:50,767 INFO c.c.m.SynchronizationMethod [main] main Executing the ObjLocking in Synchronized Method started
-2026-07-24 22:13:50,767 INFO c.c.m.SynchronizationMethod [Synchronized Method] Synchronized MethodImplementation of Synchronization Method using Runnable
-2026-07-24 22:13:55,769 INFO c.c.m.SynchronizationMethod [main] main Terminating the ObjLocking in Synchronized Method finished
-2026-07-24 22:13:55,769 INFO c.c.m.SynchronizationMethod [main] main Executing the ClassLevelLock in Synchronized Method started
-2026-07-24 22:13:56,770 INFO c.c.m.SynchronizationMethod [main] main Terminating the ClassLevelLock in Synchronized Method finished
-2026-07-24 22:13:56,771 INFO c.c.m.SynchronizationMethod [main] main Executing the ObjLocking in Synchronized Method started
-2026-07-24 22:13:56,771 INFO c.c.m.SynchronizationMethod [Synchronized Method] Synchronized MethodImplementation of Synchronization Method using Runnable
-2026-07-24 22:14:01,772 INFO c.c.m.SynchronizationMethod [main] main Terminating the ObjLocking in Synchronized Method finished
-2026-07-24 22:14:01,772 INFO c.c.m.SynchronizationMethod [main] main Executing the ClassLevelLock in Synchronized Method started
-2026-07-24 22:14:02,774 INFO c.c.m.SynchronizationMethod [main] main Terminating the ClassLevelLock in Synchronized Method finished
-2026-07-24 22:14:02,775 INFO c.c.m.SynchronizationMethod [Synchronized Method] Synchronized MethodImplementation of Synchronization Method using Runnable
-2026-07-24 22:18:47,838 INFO c.c.m.SynchronizationBlock [Thread-1] Execute the SynchronizationBlock Using Extends of Thread
-2026-07-24 22:19:31,493 INFO c.c.m.SynchronizationBlock [main] Entering process of objLevelLock
-2026-07-24 22:19:33,500 INFO c.c.m.SynchronizationBlock [main] Exiting the ptocess objLevelLock
-2026-07-24 22:19:33,501 INFO c.c.m.SynchronizationBlock [main] Entering process of classLevelLock
-2026-07-24 22:19:35,503 INFO c.c.m.SynchronizationBlock [main] Exiting the process classLevelLock
-2026-07-24 22:19:35,504 INFO c.c.m.SynchronizationBlock [Thread-1] Execute the SynchronizationBlock Using Extends of Thread
-2026-07-24 22:20:40,490 INFO c.c.m.SynchronizationMethod [main] main Executing the ObjLocking in Synchronized Method started
-2026-07-24 22:20:45,511 INFO c.c.m.SynchronizationMethod [main] main Terminating the ObjLocking in Synchronized Method finished
-2026-07-24 22:20:45,512 INFO c.c.m.SynchronizationMethod [main] main Executing the ClassLevelLock in Synchronized Method started
-2026-07-24 22:20:46,514 INFO c.c.m.SynchronizationMethod [main] main Terminating the ClassLevelLock in Synchronized Method finished
-2026-07-24 22:20:46,515 INFO c.c.m.SynchronizationMethod [main] main Executing the ObjLocking in Synchronized Method started
-2026-07-24 22:20:46,516 INFO c.c.m.SynchronizationMethod [SHASHANK] Implementation of Synchronization Method using Runnable
-2026-07-24 22:20:51,516 INFO c.c.m.SynchronizationMethod [main] main Terminating the ObjLocking in Synchronized Method finished
-2026-07-24 22:20:51,517 INFO c.c.m.SynchronizationMethod [main] main Executing the ClassLevelLock in Synchronized Method started
-2026-07-24 22:20:52,518 INFO c.c.m.SynchronizationMethod [main] main Terminating the ClassLevelLock in Synchronized Method finished
-2026-07-24 22:20:52,520 INFO c.c.m.SynchronizationMethod [main] main Executing the ObjLocking in Synchronized Method started
-2026-07-24 22:20:52,520 INFO c.c.m.SynchronizationMethod [SHARATH] Implementation of Synchronization Method using Runnable
-2026-07-24 22:20:57,521 INFO c.c.m.SynchronizationMethod [main] main Terminating the ObjLocking in Synchronized Method finished
-2026-07-24 22:20:57,521 INFO c.c.m.SynchronizationMethod [main] main Executing the ClassLevelLock in Synchronized Method started
-2026-07-24 22:20:58,522 INFO c.c.m.SynchronizationMethod [main] main Terminating the ClassLevelLock in Synchronized Method finished
-2026-07-24 22:20:58,523 INFO c.c.m.SynchronizationMethod [SHASHANK SHARU] Implementation of Synchronization Method using Runnable
-2026-07-24 22:23:54,506 INFO c.c.m.SynchronizationBlock [main] Entering process of objLevelLock
-2026-07-24 22:23:56,513 INFO c.c.m.SynchronizationBlock [main] Exiting the ptocess objLevelLock
-2026-07-24 22:23:56,513 INFO c.c.m.SynchronizationBlock [main] Entering process of classLevelLock
-2026-07-24 22:23:58,515 INFO c.c.m.SynchronizationBlock [main] Exiting the process classLevelLock
-2026-07-24 22:23:58,516 INFO c.c.m.SynchronizationBlock [main] Entering process of objLevelLock
-2026-07-24 22:23:58,516 INFO c.c.m.SynchronizationBlock [Thread-1] Execute the SynchronizationBlock Using Extends of Thread
-2026-07-24 22:24:00,517 INFO c.c.m.SynchronizationBlock [main] Exiting the ptocess objLevelLock
-2026-07-24 22:24:00,517 INFO c.c.m.SynchronizationBlock [main] Entering process of classLevelLock
-2026-07-24 22:24:02,520 INFO c.c.m.SynchronizationBlock [main] Exiting the process classLevelLock
-2026-07-24 22:24:02,521 INFO c.c.m.SynchronizationBlock [main] Entering process of objLevelLock
-2026-07-24 22:24:02,521 INFO c.c.m.SynchronizationBlock [Thread-3] Execute the SynchronizationBlock Using Extends of Thread
-2026-07-24 22:24:04,522 INFO c.c.m.SynchronizationBlock [main] Exiting the ptocess objLevelLock
-2026-07-24 22:24:04,523 INFO c.c.m.SynchronizationBlock [main] Entering process of classLevelLock
-2026-07-24 22:24:06,524 INFO c.c.m.SynchronizationBlock [main] Exiting the process classLevelLock
-2026-07-24 22:24:06,525 INFO c.c.m.SynchronizationBlock [Thread-5] Execute the SynchronizationBlock Using Extends of Thread
+2026-07-25 15:33:30,586 INFO c.c.m.ThreadJoin [Thread-1] Thread-1 - Thread is Started
+2026-07-25 15:33:31,600 INFO c.c.m.ThreadJoin [Thread-1] Thread-1 - Thread is Stopped
+2026-07-25 15:33:31,601 INFO c.c.m.ThreadJoin [Thread-2] Thread-2 - Thread is Started
+2026-07-25 15:33:32,606 INFO c.c.m.ThreadJoin [Thread-2] Thread-2 - Thread is Stopped
+2026-07-25 15:33:46,215 INFO c.c.m.ThreadJoin [Thread-1] Thread-1 - Thread is Started
+2026-07-25 15:33:46,215 INFO c.c.m.ThreadJoin [Thread-2] Thread-2 - Thread is Started
+2026-07-25 15:33:47,224 INFO c.c.m.ThreadJoin [Thread-1] Thread-1 - Thread is Stopped
+2026-07-25 15:33:47,224 INFO c.c.m.ThreadJoin [Thread-2] Thread-2 - Thread is Stopped
+2026-07-25 15:33:56,638 INFO c.c.m.ThreadJoin [Thread-2] Thread-2 - Thread is Started
+2026-07-25 15:33:56,638 INFO c.c.m.ThreadJoin [Thread-1] Thread-1 - Thread is Started
+2026-07-25 15:34:05,646 INFO c.c.m.ThreadJoin [Thread-1] Thread-1 - Thread is Stopped
+2026-07-25 15:34:05,646 INFO c.c.m.ThreadJoin [Thread-2] Thread-2 - Thread is Stopped
+2026-07-25 15:52:29,049 INFO c.c.m.ThreadWithYield [Thread-0] Thread-0-0
+2026-07-25 15:52:29,049 INFO c.c.m.ThreadWithYield [Thread-1] Thread-1-0
+2026-07-25 15:52:29,059 INFO c.c.m.ThreadWithYield [Thread-0] Thread-0-1
+2026-07-25 15:52:29,059 INFO c.c.m.ThreadWithYield [Thread-0] Thread-0-2
+2026-07-25 15:52:29,061 INFO c.c.m.ThreadWithYield [Thread-0] Thread-0-3
+2026-07-25 15:52:29,059 INFO c.c.m.ThreadWithYield [Thread-1] Thread-1-1
+2026-07-25 15:52:29,061 INFO c.c.m.ThreadWithYield [Thread-0] Thread-0-4
+2026-07-25 15:52:29,061 INFO c.c.m.ThreadWithYield [Thread-1] Thread-1-2
+2026-07-25 15:52:29,062 INFO c.c.m.ThreadWithYield [Thread-1] Thread-1-3
+2026-07-25 15:52:29,061 INFO c.c.m.ThreadWithYield [Thread-0] Thread-0-5
+2026-07-25 15:52:29,063 INFO c.c.m.ThreadWithYield [Thread-0] Thread-0is yeilding
+2026-07-25 15:52:29,062 INFO c.c.m.ThreadWithYield [Thread-1] Thread-1-4
+2026-07-25 15:52:29,063 INFO c.c.m.ThreadWithYield [Thread-0] Thread-0-6
+2026-07-25 15:52:29,063 INFO c.c.m.ThreadWithYield [Thread-1] Thread-1-5
+2026-07-25 15:52:29,063 INFO c.c.m.ThreadWithYield [Thread-0] Thread-0-7
+2026-07-25 15:52:29,064 INFO c.c.m.ThreadWithYield [Thread-1] Thread-1is yeilding
+2026-07-25 15:52:29,064 INFO c.c.m.ThreadWithYield [Thread-0] Thread-0-8
+2026-07-25 15:52:29,065 INFO c.c.m.ThreadWithYield [Thread-1] Thread-1-6
+2026-07-25 15:52:29,065 INFO c.c.m.ThreadWithYield [Thread-0] Thread-0-9
+2026-07-25 15:52:29,065 INFO c.c.m.ThreadWithYield [Thread-1] Thread-1-7
+2026-07-25 15:52:29,066 INFO c.c.m.ThreadWithYield [Thread-1] Thread-1-8
+2026-07-25 15:52:29,066 INFO c.c.m.ThreadWithYield [Thread-1] Thread-1-9
+2026-07-25 15:53:01,266 INFO c.c.m.ThreadWithYield [Thread-0] Thread-0-0
+2026-07-25 15:53:01,266 INFO c.c.m.ThreadWithYield [Thread-1] Thread-1-0
+2026-07-25 15:53:01,281 INFO c.c.m.ThreadWithYield [Thread-1] Thread-1-1
+2026-07-25 15:53:01,281 INFO c.c.m.ThreadWithYield [Thread-0] Thread-0-1
+2026-07-25 15:53:01,282 INFO c.c.m.ThreadWithYield [Thread-1] Thread-1-2
+2026-07-25 15:53:01,283 INFO c.c.m.ThreadWithYield [Thread-0] Thread-0-2
+2026-07-25 15:53:01,283 INFO c.c.m.ThreadWithYield [Thread-0] Thread-0-3
+2026-07-25 15:53:01,283 INFO c.c.m.ThreadWithYield [Thread-1] Thread-1-3
+2026-07-25 15:53:01,284 INFO c.c.m.ThreadWithYield [Thread-1] Thread-1-4
+2026-07-25 15:53:01,284 INFO c.c.m.ThreadWithYield [Thread-1] Thread-1-5
+2026-07-25 15:53:01,284 INFO c.c.m.ThreadWithYield [Thread-0] Thread-0-4
+2026-07-25 15:53:01,285 INFO c.c.m.ThreadWithYield [Thread-0] Thread-0-5
+2026-07-25 15:53:01,285 INFO c.c.m.ThreadWithYield [Thread-1] Thread-1is yeilding
+2026-07-25 15:53:01,285 INFO c.c.m.ThreadWithYield [Thread-0] Thread-0is yeilding
+2026-07-25 15:53:01,285 INFO c.c.m.ThreadWithYield [Thread-1] Thread-1-6
+2026-07-25 15:53:01,288 INFO c.c.m.ThreadWithYield [Thread-1] Thread-1-7
+2026-07-25 15:53:01,287 INFO c.c.m.ThreadWithYield [Thread-0] Thread-0-6
+2026-07-25 15:53:01,289 INFO c.c.m.ThreadWithYield [Thread-1] Thread-1-8
+2026-07-25 15:53:01,289 INFO c.c.m.ThreadWithYield [Thread-0] Thread-0-7
+2026-07-25 15:53:01,290 INFO c.c.m.ThreadWithYield [Thread-0] Thread-0-8
+2026-07-25 15:53:01,289 INFO c.c.m.ThreadWithYield [Thread-1] Thread-1-9
+2026-07-25 15:53:01,290 INFO c.c.m.ThreadWithYield [Thread-0] Thread-0-9
+2026-07-25 18:17:10,326 INFO c.c.m.d.main [Thread-1] Thread 2 start with deadlock1
+2026-07-25 18:17:10,326 INFO c.c.m.d.main [Thread-0] Thread 1 start with deadlock
+2026-07-25 18:17:11,341 INFO c.c.m.d.main [Thread-0] Thread 1: Waiting for deadlock1
+2026-07-25 18:17:11,340 INFO c.c.m.d.main [Thread-1] Thread 2: Waiting for deadlock
+2026-07-25 18:17:11,342 INFO c.c.m.d.main [Thread-1] Thread 2: Locking deadlock
+2026-07-25 18:17:11,342 INFO c.c.m.d.main [Thread-0] Thread 1: Locking deadlock1
+2026-07-25 18:27:27,077 INFO m.MLWithRunnable [Thread-0] Thread-0
+2026-07-25 18:27:30,083 INFO m.MLWithRunnable [Thread-0] Thread-0
+2026-07-25 18:28:02,305 INFO m.MLWithRunnable [Thread-0] Thread-0
+2026-07-25 18:28:05,311 INFO m.MLWithRunnable [Thread-0] Thread-0
+2026-07-25 18:28:26,408 INFO m.MLWithRunnable [Thread-1] Thread-1
+2026-07-25 18:28:26,408 INFO m.MLWithRunnable [Thread-0] Thread-0
+2026-07-25 18:28:29,416 INFO m.MLWithRunnable [Thread-1] Thread-1
+2026-07-25 18:28:29,417 INFO m.MLWithRunnable [Thread-0] Thread-0
+2026-07-25 18:28:52,092 INFO m.MLWithRunnable [Thread-0] Thread-0Starting the Runnable Process
+2026-07-25 18:28:52,092 INFO m.MLWithRunnable [Thread-1] Thread-1Starting the Runnable Process
+2026-07-25 18:28:55,100 INFO m.MLWithRunnable [Thread-1] Thread-1
+2026-07-25 18:28:55,100 INFO m.MLWithRunnable [Thread-0] Thread-0
+2026-07-25 18:29:15,380 INFO m.MLWithRunnable [Thread-0] Thread-0Starting the Runnable Process
+2026-07-25 18:29:15,380 INFO m.MLWithRunnable [Thread-1] Thread-1Starting the Runnable Process
+2026-07-25 18:29:18,387 INFO m.MLWithRunnable [Thread-1] Thread-1
+2026-07-25 18:29:18,387 INFO m.MLWithRunnable [Thread-0] Thread-0
+2026-07-25 18:29:48,305 INFO m.MLWithRunnable [Thread-0] Thread-0Starting the Runnable Process
+2026-07-25 18:29:48,305 INFO m.MLWithRunnable [Thread-1] Thread-1Starting the Runnable Process
+2026-07-25 18:29:51,312 INFO m.MLWithRunnable [Thread-0] Thread-0
+2026-07-25 18:29:51,312 INFO m.MLWithRunnable [Thread-1] Thread-1
+2026-07-25 18:32:51,768 INFO m.MLWithRunnable [Thread-0] Thread-0Starting the Runnable Process
+2026-07-25 18:32:51,768 INFO m.MLWithRunnable [Thread-1] Thread-1Starting the Runnable Process
+2026-07-25 18:32:54,775 INFO m.MLWithRunnable [Thread-1] Thread-1
+2026-07-25 18:32:54,775 INFO m.MLWithRunnable [Thread-0] Thread-0
+2026-07-25 18:33:53,151 INFO m.MLWithRunnable [Thread-0] Thread-0Starting the Runnable Process
+2026-07-25 18:33:53,151 INFO m.MLWithRunnable [Thread-1] Thread-1Starting the Runnable Process
+2026-07-25 18:33:56,162 INFO m.MLWithRunnable [Thread-1] Thread-1Ending the Runnable Process
+2026-07-25 18:33:56,159 INFO m.MLWithRunnable [Thread-0] Thread-0Ending the Runnable Process
+2026-07-25 18:40:35,754 INFO m.MLWithLamdasExpression [Thread-0] Thread-0
+2026-07-25 18:40:35,754 INFO m.MLWithLamdasExpression [Thread-1] Thread-1
+2026-07-25 18:40:38,761 INFO m.MLWithLamdasExpression [Thread-1] Thread-1
+2026-07-25 18:40:38,760 INFO m.MLWithLamdasExpression [Thread-0] Thread-0

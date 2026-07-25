@@ -3,9 +3,9 @@ package com.corejavaproject.mutlithreadingpractice;
 import lombok.extern.log4j.Log4j2;
 
 @Log4j2
-public class ThreadJoin {
+public class ThreadWithSleep {
     public static void main(String[] args) {
-        ThreadJoin threadJoin = new ThreadJoin();
+        ThreadWithSleep threadJoin = new ThreadWithSleep();
 
         Runnable runnable = threadJoin::getThread;
 
