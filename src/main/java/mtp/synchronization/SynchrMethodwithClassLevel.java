@@ -14,6 +14,15 @@ public class SynchrMethodwithClassLevel {
         Thread t2 = new Thread(r);
         t1.start();
         t2.start();
+
+        SynchrMethodwithClassLevel sm2 = new SynchrMethodwithClassLevel();
+        Runnable r1 = ()->{
+            getClassLevel();
+        };
+        Thread t3 = new Thread(r1);
+        Thread t4 = new Thread(r1);
+        t3.start();
+        t4.start();
     }
     public static synchronized  void getClassLevel(){
         log.info(Thread.currentThread().getName()+"Execute the getClassLevel in SynchrMethod");

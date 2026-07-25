@@ -201,3 +201,35 @@
 2026-07-25 21:33:46,252 INFO m.s.SyncrMethodWithObj [Thread-1] Thread-1Execute the getObj method in SyncronizedMethod
 2026-07-25 21:33:49,255 INFO m.s.SyncrMethodWithObj [Thread-3] Thread-3Terminate the getObj method in SyncronizedMethod
 2026-07-25 21:33:49,255 INFO m.s.SyncrMethodWithObj [Thread-1] Thread-1Terminate the getObj method in SyncronizedMethod
+2026-07-25 21:37:42,460 INFO m.s.SyncrMethodWithObj [Thread-0] Thread-0Execute the getObj method in SyncronizedMethod
+2026-07-25 21:37:42,460 INFO m.s.SyncrMethodWithObj [Thread-2] Thread-2Execute the getObj method in SyncronizedMethod
+2026-07-25 21:37:45,469 INFO m.s.SyncrMethodWithObj [Thread-0] Thread-0Terminate the getObj method in SyncronizedMethod
+2026-07-25 21:37:45,469 INFO m.s.SyncrMethodWithObj [Thread-2] Thread-2Terminate the getObj method in SyncronizedMethod
+2026-07-25 21:37:45,471 INFO m.s.SyncrMethodWithObj [Thread-1] Thread-1Execute the getObj method in SyncronizedMethod
+2026-07-25 21:37:45,471 INFO m.s.SyncrMethodWithObj [Thread-3] Thread-3Execute the getObj method in SyncronizedMethod
+2026-07-25 21:37:48,474 INFO m.s.SyncrMethodWithObj [Thread-1] Thread-1Terminate the getObj method in SyncronizedMethod
+2026-07-25 21:37:48,473 INFO m.s.SyncrMethodWithObj [Thread-3] Thread-3Terminate the getObj method in SyncronizedMethod
+2026-07-25 21:37:56,584 INFO m.s.SynchrMethodwithClassLevel [Thread-1] Thread-1Execute the getClassLevel in SynchrMethod
+2026-07-25 21:37:59,591 INFO m.s.SynchrMethodwithClassLevel [Thread-1] Thread-1 Terminate the getClassLevel in SynchrMethod
+2026-07-25 21:37:59,593 INFO m.s.SynchrMethodwithClassLevel [Thread-3] Thread-3Execute the getClassLevel in SynchrMethod
+2026-07-25 21:38:02,598 INFO m.s.SynchrMethodwithClassLevel [Thread-3] Thread-3 Terminate the getClassLevel in SynchrMethod
+2026-07-25 21:38:02,599 INFO m.s.SynchrMethodwithClassLevel [Thread-2] Thread-2Execute the getClassLevel in SynchrMethod
+2026-07-25 21:38:05,601 INFO m.s.SynchrMethodwithClassLevel [Thread-2] Thread-2 Terminate the getClassLevel in SynchrMethod
+2026-07-25 21:38:05,604 INFO m.s.SynchrMethodwithClassLevel [Thread-0] Thread-0Execute the getClassLevel in SynchrMethod
+2026-07-25 21:38:08,606 INFO m.s.SynchrMethodwithClassLevel [Thread-0] Thread-0 Terminate the getClassLevel in SynchrMethod
+2026-07-25 21:50:11,099 INFO m.s.SyncrBlockWithClassLevel [Thread-1] Thread-1Execute the getClassLevel bock in SyncroBlock
+2026-07-25 21:50:14,111 INFO m.s.SyncrBlockWithClassLevel [Thread-2] Thread-2Execute the getClassLevel bock in SyncroBlock
+2026-07-25 21:50:14,112 INFO m.s.SyncrBlockWithClassLevel [Thread-1] Thread-1Terminate the getClassLevel in SyncroBlock
+2026-07-25 21:50:17,114 INFO m.s.SyncrBlockWithClassLevel [Thread-3] Thread-3Execute the getClassLevel bock in SyncroBlock
+2026-07-25 21:50:17,116 INFO m.s.SyncrBlockWithClassLevel [Thread-2] Thread-2Terminate the getClassLevel in SyncroBlock
+2026-07-25 21:50:20,117 INFO m.s.SyncrBlockWithClassLevel [Thread-3] Thread-3Terminate the getClassLevel in SyncroBlock
+2026-07-25 21:50:20,117 INFO m.s.SyncrBlockWithClassLevel [Thread-0] Thread-0Execute the getClassLevel bock in SyncroBlock
+2026-07-25 21:50:23,119 INFO m.s.SyncrBlockWithClassLevel [Thread-0] Thread-0Terminate the getClassLevel in SyncroBlock
+2026-07-25 21:50:59,131 INFO m.s.SyncrBlockWithClassLevel [Thread-0] Thread-0Execute the getClassLevel bock in SyncroBlock
+2026-07-25 21:51:02,138 INFO m.s.SyncrBlockWithClassLevel [Thread-3] Thread-3Execute the getClassLevel bock in SyncroBlock
+2026-07-25 21:51:02,139 INFO m.s.SyncrBlockWithClassLevel [Thread-0] Thread-0Execute without locking
+2026-07-25 21:51:05,141 INFO m.s.SyncrBlockWithClassLevel [Thread-3] Thread-3Execute without locking
+2026-07-25 21:51:05,141 INFO m.s.SyncrBlockWithClassLevel [Thread-2] Thread-2Execute the getClassLevel bock in SyncroBlock
+2026-07-25 21:51:08,144 INFO m.s.SyncrBlockWithClassLevel [Thread-2] Thread-2Execute without locking
+2026-07-25 21:51:08,144 INFO m.s.SyncrBlockWithClassLevel [Thread-1] Thread-1Execute the getClassLevel bock in SyncroBlock
+2026-07-25 21:51:11,147 INFO m.s.SyncrBlockWithClassLevel [Thread-1] Thread-1Execute without locking
