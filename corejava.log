@@ -104,3 +104,31 @@
 2026-07-25 18:49:29,418 INFO m.MtWithExtends [main] Thread-0Start the Thread Process
 2026-07-25 18:49:31,875 INFO m.MtWithExtends [main] Thread-0Start the Thread Process
 2026-07-25 18:49:34,882 INFO m.MtWithExtends [main] Thread-0close the Thread Process
+2026-07-25 18:50:48,381 INFO m.MtWithExtends [main] Thread-0Start the Thread Process
+2026-07-25 18:50:51,387 INFO m.MtWithExtends [main] Thread-0close the Thread Process
+2026-07-25 18:50:51,388 INFO m.MtWithExtends [main] Thread-1Start the Thread Process
+2026-07-25 18:50:54,389 INFO m.MtWithExtends [main] Thread-1close the Thread Process
+2026-07-25 18:51:08,051 INFO m.MtWithExtends [main] Thread-0Start the Thread Process
+2026-07-25 18:51:11,056 INFO m.MtWithExtends [main] Thread-0close the Thread Process
+2026-07-25 18:51:11,058 INFO m.MtWithExtends [main] Thread-1Start the Thread Process
+2026-07-25 18:51:14,060 INFO m.MtWithExtends [main] Thread-1close the Thread Process
+2026-07-25 18:51:21,047 INFO m.MtWithExtends [main] Thread-0Start the Thread Process
+2026-07-25 18:51:24,052 INFO m.MtWithExtends [main] Thread-0close the Thread Process
+2026-07-25 18:51:24,053 INFO m.MtWithExtends [main] Thread-1Start the Thread Process
+2026-07-25 18:51:27,056 INFO m.MtWithExtends [main] Thread-1close the Thread Process
+2026-07-25 18:51:35,948 INFO m.MLWithRunnable [Thread-1] Thread-1Starting the Runnable Process
+2026-07-25 18:51:35,948 INFO m.MLWithRunnable [Thread-0] Thread-0Starting the Runnable Process
+2026-07-25 18:51:38,958 INFO m.MLWithRunnable [Thread-0] Thread-0Ending the Runnable Process
+2026-07-25 18:51:38,957 INFO m.MLWithRunnable [Thread-1] Thread-1Ending the Runnable Process
+2026-07-25 18:51:46,610 INFO m.MLWithLamdasExpression [Thread-0] Thread-0Start the Print using Lamda expressions
+2026-07-25 18:51:46,610 INFO m.MLWithLamdasExpression [Thread-1] Thread-1Start the Print using Lamda expressions
+2026-07-25 18:51:49,616 INFO m.MLWithLamdasExpression [Thread-0] Thread-0End the Print using Lamda expressions
+2026-07-25 18:51:49,616 INFO m.MLWithLamdasExpression [Thread-1] Thread-1End the Print using Lamda expressions
+2026-07-25 18:52:03,335 INFO c.c.m.Ticket [Thread-0] Thread-0Started
+2026-07-25 18:52:03,335 INFO c.c.m.Ticket [Thread-1] Thread-1Started
+2026-07-25 18:52:12,343 INFO c.c.m.Ticket [Thread-1] Thread-1Ended
+2026-07-25 18:52:12,342 INFO c.c.m.Ticket [Thread-0] Thread-0Ended
+2026-07-25 18:53:48,516 INFO m.MtWithExtends [Thread-1] Thread-1Start the Thread Process
+2026-07-25 18:53:48,516 INFO m.MtWithExtends [Thread-0] Thread-0Start the Thread Process
+2026-07-25 18:53:51,525 INFO m.MtWithExtends [Thread-1] Thread-1close the Thread Process
+2026-07-25 18:53:51,524 INFO m.MtWithExtends [Thread-0] Thread-0close the Thread Process

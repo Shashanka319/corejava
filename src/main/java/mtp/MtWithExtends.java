@@ -9,6 +9,11 @@ public class MtWithExtends extends Thread{
         MtWithExtends mt = new MtWithExtends();
         mt.gethread();
         mt.start();
+
+        MtWithExtends mt2 = new MtWithExtends();
+        mt2.gethread();
+        mt2.start();
+
     }
     @Override
     public void run(){
