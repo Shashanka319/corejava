@@ -233,3 +233,19 @@
 2026-07-25 21:51:08,144 INFO m.s.SyncrBlockWithClassLevel [Thread-2] Thread-2Execute without locking
 2026-07-25 21:51:08,144 INFO m.s.SyncrBlockWithClassLevel [Thread-1] Thread-1Execute the getClassLevel bock in SyncroBlock
 2026-07-25 21:51:11,147 INFO m.s.SyncrBlockWithClassLevel [Thread-1] Thread-1Execute without locking
+2026-07-25 21:57:04,933 INFO m.s.SyncrBlockWithObjLevel [Thread-0] entering the process
+2026-07-25 21:57:04,933 INFO m.s.SyncrBlockWithObjLevel [Thread-2] entering the process
+2026-07-25 21:57:05,950 INFO m.s.SyncrBlockWithObjLevel [Thread-2] exiting the process
+2026-07-25 21:57:05,950 INFO m.s.SyncrBlockWithObjLevel [Thread-3] entering the process
+2026-07-25 21:57:05,950 INFO m.s.SyncrBlockWithObjLevel [Thread-0] exiting the process
+2026-07-25 21:57:06,952 INFO m.s.SyncrBlockWithObjLevel [Thread-3] exiting the process
+2026-07-25 21:57:06,953 INFO m.s.SyncrBlockWithObjLevel [Thread-1] entering the process
+2026-07-25 21:57:07,955 INFO m.s.SyncrBlockWithObjLevel [Thread-1] exiting the process
+2026-07-25 21:57:39,294 INFO m.s.SyncrBlockWithObjLevel [Thread-2] entering the process
+2026-07-25 21:57:39,294 INFO m.s.SyncrBlockWithObjLevel [Thread-0] entering the process
+2026-07-25 21:57:40,309 INFO m.s.SyncrBlockWithObjLevel [Thread-0] without waiting the thread can exiting the process
+2026-07-25 21:57:40,309 INFO m.s.SyncrBlockWithObjLevel [Thread-3] entering the process
+2026-07-25 21:57:40,309 INFO m.s.SyncrBlockWithObjLevel [Thread-2] without waiting the thread can exiting the process
+2026-07-25 21:57:41,312 INFO m.s.SyncrBlockWithObjLevel [Thread-3] without waiting the thread can exiting the process
+2026-07-25 21:57:41,312 INFO m.s.SyncrBlockWithObjLevel [Thread-1] entering the process
+2026-07-25 21:57:42,315 INFO m.s.SyncrBlockWithObjLevel [Thread-1] without waiting the thread can exiting the process

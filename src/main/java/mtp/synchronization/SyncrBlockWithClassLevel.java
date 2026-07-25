@@ -19,7 +19,6 @@ public class SyncrBlockWithClassLevel {
         Thread t4 = new Thread(r1);
         t3.start();
         t4.start();
-
     }
     public void getClassLevel(){
         synchronized (SyncrBlockWithClassLevel.class){
