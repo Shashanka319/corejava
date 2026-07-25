@@ -313,3 +313,25 @@
 2026-07-25 23:34:23,617 INFO m.Sleep [Thread-0] getSleep is Executed
 2026-07-25 23:34:32,623 INFO m.Sleep [Thread-1] getSleep is Done
 2026-07-25 23:34:32,623 INFO m.Sleep [Thread-0] getSleep is Done
+2026-07-25 23:37:48,755 INFO m.Wait [Thread-0] Waiting Starting
+2026-07-25 23:37:48,760 INFO m.Wait [Thread-1] Waiting Starting
+2026-07-25 23:37:57,761 INFO m.Wait [Thread-0] Waiting Ending
+2026-07-25 23:37:57,763 INFO m.Wait [Thread-1] Waiting Ending
+2026-07-25 23:48:44,837 INFO m.Yeild [Thread-1] Patient coming to Hospital for Health Issue
+2026-07-25 23:48:44,837 INFO m.Yeild [Thread-0] Patient coming to Hospital for Health Issue
+2026-07-25 23:48:44,842 INFO m.Yeild [Thread-1] The Doctor can Check the Patient What Happened That patient
+2026-07-25 23:48:44,842 INFO m.Yeild [Thread-0] The Doctor can Check the Patient What Happened That patient
+2026-07-25 23:56:01,741 INFO m.Yeild [Thread-0] Patient coming to Hospital for Health Issue
+2026-07-25 23:56:01,741 INFO m.Yeild [Thread-1] Patient coming to Hospital for Health Issue
+2026-07-25 23:56:01,747 INFO m.Yeild [Thread-0] Doctor Shifted to Emergency
+2026-07-25 23:56:01,747 INFO m.Yeild [Thread-1] Doctor Shifted to Emergency
+2026-07-25 23:56:01,748 INFO m.Yeild [Thread-0] The Doctor can Check the Patient What Happened That patient
+2026-07-25 23:56:01,748 INFO m.Yeild [Thread-1] The Doctor can Check the Patient What Happened That patient
+2026-07-25 23:57:08,566 INFO m.Yeild [Thread-2] Patient coming to Hospital for Health Issue
+2026-07-25 23:57:08,566 INFO m.Yeild [Thread-0] Patient coming to Hospital for Health Issue
+2026-07-25 23:57:08,566 INFO m.Yeild [Thread-1] Patient coming to Hospital for Health Issue
+2026-07-25 23:57:08,573 INFO m.Yeild [Thread-2] The Doctor can Check the Patient What Happened That patient
+2026-07-25 23:57:08,573 INFO m.Yeild [Thread-0] Doctor Shifted to Emergency
+2026-07-25 23:57:08,574 INFO m.Yeild [Thread-0] The Doctor can Check the Patient What Happened That patient
+2026-07-25 23:57:08,573 INFO m.Yeild [Thread-1] Doctor Shifted to Emergency
+2026-07-25 23:57:08,574 INFO m.Yeild [Thread-1] The Doctor can Check the Patient What Happened That patient
