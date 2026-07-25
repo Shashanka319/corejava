@@ -27,6 +27,6 @@ public class SyncrBlockWithObjLevel {
                 Thread.sleep(1000);
             }catch(InterruptedException e){}
         }
-        log.info("without waiting the thread can exiting the process");
+        log.info("without waiting the thread can hfgexiting the process");
     }
 }

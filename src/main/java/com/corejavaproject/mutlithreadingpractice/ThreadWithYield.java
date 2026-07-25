@@ -12,7 +12,7 @@ public class ThreadWithYield {
        thread1.start();
        thread2.start();
     }
-    public void print(){
+    public synchronized  void print(){
         for (int i = 0; i < 10; i++) {
            log.info(Thread.currentThread().getName()+"-"+i);
            if(i == 5){
