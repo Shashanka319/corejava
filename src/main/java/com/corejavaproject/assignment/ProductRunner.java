@@ -1,4 +1,4 @@
-package com.corejavaproject.collectionPractice.list.arrayList;
+package com.corejavaproject.assignment;
 
 import lombok.extern.log4j.Log4j2;
 
@@ -75,5 +75,8 @@ public class ProductRunner {
 
         list.sort(Comparator.comparing(Product::getProductId));
         list.forEach(log::info);
+
+      // list.sort(Comparator.comparing(Product::getProductPrice));
+        //list.forEach(log::info);
     }
 }
