@@ -4,6 +4,8 @@ import lombok.Getter;
 import lombok.Setter;
 import lombok.ToString;
 
+import java.util.*;
+
 @Getter
 @Setter
 @ToString
@@ -33,9 +35,16 @@ public class ProductWithComparable implements Comparable<ProductWithComparable>{
         pc4.setProductId(103);
         pc4.setProductName("Bag");
         pc4.setProductPrice(560.0);
-        
 
+        List<ProductWithComparable> list = new LinkedList<>();
+        list.add(pc);
+        list.add(pc1);
+        list.add(pc2);
+        list.add(pc3);
+        list.add(pc4);
 
+        Collections.sort(list);
+        list.forEach(System.out::println);
 
     }
     int productId;
