@@ -45,7 +45,6 @@ public class ProductWithComparable implements Comparable<ProductWithComparable>{
 
         Collections.sort(list);
         list.forEach(System.out::println);
-
     }
     int productId;
     String productName;
