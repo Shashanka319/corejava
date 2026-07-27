@@ -17,3 +17,4 @@
 2026-07-27 18:58:33,289 INFO c.c.c.Product [main] Product(id=2, name=T-shirts, available=true, price=767.9)
 2026-07-27 18:58:33,294 INFO c.c.c.Product [main] Product(id=3, name=shirts, available=true, price=4551.0)
 2026-07-27 18:58:33,294 INFO c.c.c.Product [main] Product(id=1, name=Fan, available=true, price=50001.0)
+2026-07-27 19:09:29,988 INFO c.c.c.Product [main] [Product(id=101, name=Shirt, price=1222.5), Product(id=102, name=Fan, price=1222.5), Product(id=103, name=TShirt, price=1222.5)]
