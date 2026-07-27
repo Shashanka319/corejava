@@ -39,8 +39,42 @@ public class Product {
         list.sort(Comparator.comparing(Product ::getId));
         list.forEach(System.out::println);
 
-        
+        Book book = new Book();
+        book.setId(103);
+        book.setType("Rould Long Book");
+        book.setPrice(122.5);
+        book.setAvailable(true);
 
+        Book book1 = new Book();
+        book1.setId(101);
+        book1.setType("UnRould Long Book");
+        book1.setPrice(168.5);
+        book1.setAvailable(true);
+
+        Book book2 = new Book();
+        book2.setId(104);
+        book2.setType(" Long Book");
+        book2.setPrice(122.5);
+        book2.setAvailable(true);
+
+        Book book3 = new Book();
+        book3.setId(102);
+        book3.setType("UnRould A4 Book");
+        book3.setPrice(122.5);
+        book3.setAvailable(true);
+
+        List<Book> list1 = new ArrayList<>();
+        list1.add(book);
+        list1.add(book1);
+        list1.add(book2);
+        list1.add(book3);
+
+        list1.sort(Comparator.comparing(Book::getId));
+        list1.forEach(System.out::println);
+
+        log.info("Sorted by Price");
+        list1.sort(Comparator.comparing(Book::getPrice));
+        list1.forEach(System.out::println);
 
     }
     int id;

@@ -2,10 +2,7 @@ package com.corejavaproject.collectionPractice.list.arrayList;
 
 import lombok.extern.log4j.Log4j2;
 
-import java.util.ArrayList;
-import java.util.Iterator;
-import java.util.List;
-import java.util.ListIterator;
+import java.util.*;
 
 @Log4j2
 
@@ -14,16 +11,15 @@ public class ProductRunner {
         List<Product> list = new ArrayList<>();
 
         Product product = new Product();
-        product.setProductId(101);
+        product.setProductId(105);
         product.setProductName("T-Shirt");
         product.setStockAvailable(true);
         product.setProductPrice(560.0);
         list.add(product);
         list.forEach(data -> log.info(data));
 
-
         Product product1 = new Product();
-        product1.setProductId(102);
+        product1.setProductId(101);
         product1.setProductName("Shirt");
         product1.setStockAvailable(true);
         product1.setProductPrice(1560.0);
@@ -31,7 +27,7 @@ public class ProductRunner {
         list.forEach(log::info);
 
         Product product2 = new Product();
-        product2.setProductId(103);
+        product2.setProductId(106);
         product2.setProductName("Hat");
         product2.setStockAvailable(true);
         product2.setProductPrice(260.0);
@@ -53,7 +49,7 @@ public class ProductRunner {
         }).forEach(log::info);
 
         Product product4= new Product();
-        product4.setProductId(105);
+        product4.setProductId(102);
         product4.setProductName("Fan");
         product4.setStockAvailable(true);
         product4.setProductPrice(4560.0);
@@ -64,7 +60,7 @@ public class ProductRunner {
         }
 
         Product product5= new Product();
-        product5.setProductId(106);
+        product5.setProductId(103);
         product5.setProductName("Shirt");
         product5.setStockAvailable(true);
         product5.setProductPrice(560.0);
@@ -76,6 +72,9 @@ public class ProductRunner {
         while(listIterator.hasPrevious()){
             log.info(listIterator.previous());
         }
+
+        list.sort(Comparator.comparing(Product::getProductId));
+        list.forEach(log::info);
 
     }
 }
