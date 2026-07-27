@@ -14,3 +14,6 @@
 2026-07-27 08:39:42,610 INFO j.l.Iterable [main] Product(name=T-Shirt, quantity=3, available=true, price=5000.0)
 2026-07-27 08:39:42,610 INFO c.c.c.s.h.ProductRuer [main] [Product(name=T-Shirt, quantity=3, available=true, price=5000.0)]
 2026-07-27 08:43:19,840 INFO j.l.Iterable [main] Product(name=T-Shirt, quantity=3, available=true, price=5000.0)
+2026-07-27 18:58:33,289 INFO c.c.c.Product [main] Product(id=2, name=T-shirts, available=true, price=767.9)
+2026-07-27 18:58:33,294 INFO c.c.c.Product [main] Product(id=3, name=shirts, available=true, price=4551.0)
+2026-07-27 18:58:33,294 INFO c.c.c.Product [main] Product(id=1, name=Fan, available=true, price=50001.0)
