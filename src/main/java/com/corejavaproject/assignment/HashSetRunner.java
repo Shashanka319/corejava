@@ -41,13 +41,21 @@ public class HashSetRunner {
         employee5.setEmail("sharu@gmail.com");
         employee5.setAddress("Niladri nagar");
 
+        EmployeeWithHashSet employee6 = new EmployeeWithHashSet();
+        employee6.setId(105);
+        employee6.setName("Sharu");
+        employee6.setEmail("sharu@gmail.com");
+        employee6.setAddress("Niladri nagar");
+
+
+
         Set<EmployeeWithHashSet> set = new HashSet<EmployeeWithHashSet>();
         set.add(employee);
         set.add(employee1);
         set.add(employee2);
         set.add(employee3);
         set.add(employee4);
-        set.add(employee5);
+        set.add(employee6);
         set.forEach(System.out::println);
 
        // for(Employee e: set){

@@ -1,8 +1,39 @@
-2026-07-28 08:30:57,591 INFO c.c.a.m.ProductWithMap [main] 1500
-2026-07-28 08:30:57,614 INFO c.c.a.m.ProductWithMap [main] Shirt
-2026-07-28 08:30:57,615 INFO c.c.a.m.ProductWithMap [main] 5000
-2026-07-28 08:30:57,618 INFO c.c.a.m.ProductWithMap [main] Fan
-2026-07-28 08:30:57,619 INFO c.c.a.m.ProductWithMap [main] 1000
-2026-07-28 08:30:57,620 INFO c.c.a.m.ProductWithMap [main] T-shirt
-2026-07-28 08:30:57,621 INFO c.c.a.m.ProductWithMap [main] 3000
-2026-07-28 08:30:57,622 INFO c.c.a.m.ProductWithMap [main] Mixer
+2026-07-29 07:09:48,090 INFO c.c.a.m.ProductWithMap [main] 1500
+2026-07-29 07:09:48,107 INFO c.c.a.m.ProductWithMap [main] Shirt
+2026-07-29 07:09:48,108 INFO c.c.a.m.ProductWithMap [main] 5000
+2026-07-29 07:09:48,111 INFO c.c.a.m.ProductWithMap [main] Fan
+2026-07-29 07:09:48,112 INFO c.c.a.m.ProductWithMap [main] 1000
+2026-07-29 07:09:48,113 INFO c.c.a.m.ProductWithMap [main] T-shirt
+2026-07-29 07:09:48,114 INFO c.c.a.m.ProductWithMap [main] 3000
+2026-07-29 07:09:48,115 INFO c.c.a.m.ProductWithMap [main] Mixer
+2026-07-29 07:25:43,028 INFO c.c.c.m.h.Runner [main] Key:Customer(id=102, name=Sharath, address=Bangalore) and Value:Account(bankName=SBI Bank, accNo=15601280, balance=6575.09)
+2026-07-29 07:25:43,036 INFO c.c.c.m.h.Runner [main] Key:Customer(id=103, name=Shashi, address=Niladri nagar) and Value:Account(bankName=Canara Bank, accNo=76601200, balance=6575.09)
+2026-07-29 07:25:43,037 INFO c.c.c.m.h.Runner [main] Key:Customer(id=101, name=Shashank, address=Hodigere) and Value:Account(bankName=Canara Bank, accNo=15601080, balance=5675.09)
+2026-07-29 07:28:33,816 INFO c.c.c.m.l.Main [main] Key:Customer(id=102, name=Sharath, address=Bangalore) and Value:Account(bankName=SBI Bank, accNo=15601280, balance=6575.09)
+2026-07-29 07:28:33,821 INFO c.c.c.m.l.Main [main] Key:Customer(id=103, name=Shashi, address=Niladri nagar) and Value:Account(bankName=Canara Bank, accNo=76601200, balance=6575.09)
+2026-07-29 07:28:33,821 INFO c.c.c.m.l.Main [main] Key:Customer(id=101, name=Shashank, address=Hodigere) and Value:Account(bankName=Canara Bank, accNo=15601080, balance=5675.09)
+2026-07-29 07:28:52,391 INFO c.c.c.m.l.Main [main] Key:Customer(id=101, name=Shashank, address=Hodigere) and Value:Account(bankName=Canara Bank, accNo=15601080, balance=5675.09)
+2026-07-29 07:28:52,400 INFO c.c.c.m.l.Main [main] Key:Customer(id=102, name=Sharath, address=Bangalore) and Value:Account(bankName=SBI Bank, accNo=15601280, balance=6575.09)
+2026-07-29 07:28:52,401 INFO c.c.c.m.l.Main [main] Key:Customer(id=103, name=Shashi, address=Niladri nagar) and Value:Account(bankName=Canara Bank, accNo=76601200, balance=6575.09)
+2026-07-29 07:33:52,291 INFO c.c.c.m.S.t.Runner [main] Key:Customer(id=101, name=Shashank, address=Hodigere) and Value:Account(bankName=Canara Bank, accNo=15601080, balance=5675.09)
+2026-07-29 07:33:52,296 INFO c.c.c.m.S.t.Runner [main] Key:Customer(id=102, name=Sharath, address=Bangalore) and Value:Account(bankName=SBI Bank, accNo=15601280, balance=6575.09)
+2026-07-29 07:33:52,297 INFO c.c.c.m.S.t.Runner [main] Key:Customer(id=103, name=Shashi, address=Niladri nagar) and Value:Account(bankName=Canara Bank, accNo=76601200, balance=6575.09)
+2026-07-29 07:36:24,806 INFO c.c.c.m.S.t.Runner [main] Key:Customer(id=101, name=Sharath, address=Bangalore) and Value:Account(bankName=SBI Bank, accNo=15601280, balance=6575.09)
+2026-07-29 07:36:24,811 INFO c.c.c.m.S.t.Runner [main] Key:Customer(id=102, name=Shashank, address=Hodigere) and Value:Account(bankName=Canara Bank, accNo=15601080, balance=5675.09)
+2026-07-29 07:36:24,811 INFO c.c.c.m.S.t.Runner [main] Key:Customer(id=105, name=Shashi, address=Niladri nagar) and Value:Account(bankName=Canara Bank, accNo=76601200, balance=6575.09)
+2026-07-29 07:37:01,292 INFO c.c.c.m.S.t.Runner [main] Key:Customer(id=101, name=Sharath, address=Bangalore) and Value:Account(bankName=Canara Bank, accNo=76601200, balance=6575.09)
+2026-07-29 07:37:01,297 INFO c.c.c.m.S.t.Runner [main] Key:Customer(id=102, name=Shashank, address=Hodigere) and Value:Account(bankName=Canara Bank, accNo=15601080, balance=5675.09)
+2026-07-29 07:37:01,298 INFO c.c.c.m.S.t.Runner [main] Key:Customer(id=105, name=Shashi, address=Niladri nagar) and Value:Account(bankName=SBI Bank, accNo=15601280, balance=6575.09)
+2026-07-29 07:43:51,219 INFO c.c.c.m.h.Runner [main] Key:Customer(id=102, name=Sharath, address=Bangalore) and Value:Account(bankName=SBI Bank, accNo=15601280, balance=6575.09)
+2026-07-29 07:43:51,238 INFO c.c.c.m.h.Runner [main] Key:Customer(id=103, name=Shashi, address=Niladri nagar) and Value:Account(bankName=Canara Bank, accNo=15601080, balance=5675.09)
+2026-07-29 07:43:51,240 INFO c.c.c.m.h.Runner [main] Key:Customer(id=103, name=Shashi, address=Niladri nagar) and Value:Account(bankName=Canara Bank, accNo=76601200, balance=6575.09)
+2026-07-29 07:43:51,242 INFO c.c.c.m.h.Runner [main] Key:Customer(id=101, name=Shashank, address=Hodigere) and Value:Account(bankName=Canara Bank, accNo=15601080, balance=5675.09)
+2026-07-29 07:47:32,620 INFO c.c.c.m.h.Runner [main] Key:Customer(id=102, name=Sharath, address=Bangalore) and Value:{}
+2026-07-29 07:47:32,630 INFO c.c.c.m.h.Runner [main] Key:Customer(id=103, name=Shashi, address=Niladri nagar) and Value:{}
+2026-07-29 07:47:32,631 INFO c.c.c.m.h.Runner [main] Key:Customer(id=101, name=Shashank, address=Hodigere) and Value:{}
+2026-07-29 07:54:51,672 INFO c.c.c.m.h.Runner [main] Key:Customer(id=102, name=Sharath, address=Bangalore) and Value:Account(bankName=SBI Bank, accNo=15601280, balance=6575.09)
+2026-07-29 07:54:51,680 INFO c.c.c.m.h.Runner [main] Key:Customer(id=103, name=Shashi, address=Niladri nagar) and Value:Account(bankName=Canara Bank, accNo=15601080, balance=5675.09)
+2026-07-29 07:54:51,681 INFO c.c.c.m.h.Runner [main] Key:Customer(id=101, name=Shashank, address=Hodigere) and Value:Account(bankName=Canara Bank, accNo=15601080, balance=5675.09)
+2026-07-29 07:54:51,682 INFO c.c.c.m.h.Runner [main] Key:Customer(id=102, name=Sharath, address=Bangalore) and Value:Account(bankName=SBI Bank, accNo=15601280, balance=6575.09)
+2026-07-29 07:54:51,684 INFO c.c.c.m.h.Runner [main] Key:Customer(id=103, name=Shashi, address=Niladri nagar) and Value:Account(bankName=Canara Bank, accNo=15601080, balance=5675.09)
+2026-07-29 07:54:51,685 INFO c.c.c.m.h.Runner [main] Key:Customer(id=101, name=Shashank, address=Hodigere) and Value:Account(bankName=Canara Bank, accNo=15601080, balance=5675.09)

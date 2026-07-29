@@ -15,8 +15,5 @@ public class ProductWithMap {
         map.put("3000", "Mixer");
 
         map.forEach((k,v)->{log.info(k);log.info(v);});
-
-
-
     }
 }

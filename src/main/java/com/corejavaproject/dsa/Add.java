@@ -1,0 +1,15 @@
+package com.corejavaproject.dsa;
+
+import java.util.Scanner;
+
+public class Add {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        int a = scan.nextInt();
+        int b = scan.nextInt();
+        int c = scan.nextInt();
+
+        int sum1=a+b+c;
+        System.out.println(sum1);
+    }
+}
