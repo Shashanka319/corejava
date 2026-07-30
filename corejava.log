@@ -1,39 +1,42 @@
-2026-07-29 07:09:48,090 INFO c.c.a.m.ProductWithMap [main] 1500
-2026-07-29 07:09:48,107 INFO c.c.a.m.ProductWithMap [main] Shirt
-2026-07-29 07:09:48,108 INFO c.c.a.m.ProductWithMap [main] 5000
-2026-07-29 07:09:48,111 INFO c.c.a.m.ProductWithMap [main] Fan
-2026-07-29 07:09:48,112 INFO c.c.a.m.ProductWithMap [main] 1000
-2026-07-29 07:09:48,113 INFO c.c.a.m.ProductWithMap [main] T-shirt
-2026-07-29 07:09:48,114 INFO c.c.a.m.ProductWithMap [main] 3000
-2026-07-29 07:09:48,115 INFO c.c.a.m.ProductWithMap [main] Mixer
-2026-07-29 07:25:43,028 INFO c.c.c.m.h.Runner [main] Key:Customer(id=102, name=Sharath, address=Bangalore) and Value:Account(bankName=SBI Bank, accNo=15601280, balance=6575.09)
-2026-07-29 07:25:43,036 INFO c.c.c.m.h.Runner [main] Key:Customer(id=103, name=Shashi, address=Niladri nagar) and Value:Account(bankName=Canara Bank, accNo=76601200, balance=6575.09)
-2026-07-29 07:25:43,037 INFO c.c.c.m.h.Runner [main] Key:Customer(id=101, name=Shashank, address=Hodigere) and Value:Account(bankName=Canara Bank, accNo=15601080, balance=5675.09)
-2026-07-29 07:28:33,816 INFO c.c.c.m.l.Main [main] Key:Customer(id=102, name=Sharath, address=Bangalore) and Value:Account(bankName=SBI Bank, accNo=15601280, balance=6575.09)
-2026-07-29 07:28:33,821 INFO c.c.c.m.l.Main [main] Key:Customer(id=103, name=Shashi, address=Niladri nagar) and Value:Account(bankName=Canara Bank, accNo=76601200, balance=6575.09)
-2026-07-29 07:28:33,821 INFO c.c.c.m.l.Main [main] Key:Customer(id=101, name=Shashank, address=Hodigere) and Value:Account(bankName=Canara Bank, accNo=15601080, balance=5675.09)
-2026-07-29 07:28:52,391 INFO c.c.c.m.l.Main [main] Key:Customer(id=101, name=Shashank, address=Hodigere) and Value:Account(bankName=Canara Bank, accNo=15601080, balance=5675.09)
-2026-07-29 07:28:52,400 INFO c.c.c.m.l.Main [main] Key:Customer(id=102, name=Sharath, address=Bangalore) and Value:Account(bankName=SBI Bank, accNo=15601280, balance=6575.09)
-2026-07-29 07:28:52,401 INFO c.c.c.m.l.Main [main] Key:Customer(id=103, name=Shashi, address=Niladri nagar) and Value:Account(bankName=Canara Bank, accNo=76601200, balance=6575.09)
-2026-07-29 07:33:52,291 INFO c.c.c.m.S.t.Runner [main] Key:Customer(id=101, name=Shashank, address=Hodigere) and Value:Account(bankName=Canara Bank, accNo=15601080, balance=5675.09)
-2026-07-29 07:33:52,296 INFO c.c.c.m.S.t.Runner [main] Key:Customer(id=102, name=Sharath, address=Bangalore) and Value:Account(bankName=SBI Bank, accNo=15601280, balance=6575.09)
-2026-07-29 07:33:52,297 INFO c.c.c.m.S.t.Runner [main] Key:Customer(id=103, name=Shashi, address=Niladri nagar) and Value:Account(bankName=Canara Bank, accNo=76601200, balance=6575.09)
-2026-07-29 07:36:24,806 INFO c.c.c.m.S.t.Runner [main] Key:Customer(id=101, name=Sharath, address=Bangalore) and Value:Account(bankName=SBI Bank, accNo=15601280, balance=6575.09)
-2026-07-29 07:36:24,811 INFO c.c.c.m.S.t.Runner [main] Key:Customer(id=102, name=Shashank, address=Hodigere) and Value:Account(bankName=Canara Bank, accNo=15601080, balance=5675.09)
-2026-07-29 07:36:24,811 INFO c.c.c.m.S.t.Runner [main] Key:Customer(id=105, name=Shashi, address=Niladri nagar) and Value:Account(bankName=Canara Bank, accNo=76601200, balance=6575.09)
-2026-07-29 07:37:01,292 INFO c.c.c.m.S.t.Runner [main] Key:Customer(id=101, name=Sharath, address=Bangalore) and Value:Account(bankName=Canara Bank, accNo=76601200, balance=6575.09)
-2026-07-29 07:37:01,297 INFO c.c.c.m.S.t.Runner [main] Key:Customer(id=102, name=Shashank, address=Hodigere) and Value:Account(bankName=Canara Bank, accNo=15601080, balance=5675.09)
-2026-07-29 07:37:01,298 INFO c.c.c.m.S.t.Runner [main] Key:Customer(id=105, name=Shashi, address=Niladri nagar) and Value:Account(bankName=SBI Bank, accNo=15601280, balance=6575.09)
-2026-07-29 07:43:51,219 INFO c.c.c.m.h.Runner [main] Key:Customer(id=102, name=Sharath, address=Bangalore) and Value:Account(bankName=SBI Bank, accNo=15601280, balance=6575.09)
-2026-07-29 07:43:51,238 INFO c.c.c.m.h.Runner [main] Key:Customer(id=103, name=Shashi, address=Niladri nagar) and Value:Account(bankName=Canara Bank, accNo=15601080, balance=5675.09)
-2026-07-29 07:43:51,240 INFO c.c.c.m.h.Runner [main] Key:Customer(id=103, name=Shashi, address=Niladri nagar) and Value:Account(bankName=Canara Bank, accNo=76601200, balance=6575.09)
-2026-07-29 07:43:51,242 INFO c.c.c.m.h.Runner [main] Key:Customer(id=101, name=Shashank, address=Hodigere) and Value:Account(bankName=Canara Bank, accNo=15601080, balance=5675.09)
-2026-07-29 07:47:32,620 INFO c.c.c.m.h.Runner [main] Key:Customer(id=102, name=Sharath, address=Bangalore) and Value:{}
-2026-07-29 07:47:32,630 INFO c.c.c.m.h.Runner [main] Key:Customer(id=103, name=Shashi, address=Niladri nagar) and Value:{}
-2026-07-29 07:47:32,631 INFO c.c.c.m.h.Runner [main] Key:Customer(id=101, name=Shashank, address=Hodigere) and Value:{}
-2026-07-29 07:54:51,672 INFO c.c.c.m.h.Runner [main] Key:Customer(id=102, name=Sharath, address=Bangalore) and Value:Account(bankName=SBI Bank, accNo=15601280, balance=6575.09)
-2026-07-29 07:54:51,680 INFO c.c.c.m.h.Runner [main] Key:Customer(id=103, name=Shashi, address=Niladri nagar) and Value:Account(bankName=Canara Bank, accNo=15601080, balance=5675.09)
-2026-07-29 07:54:51,681 INFO c.c.c.m.h.Runner [main] Key:Customer(id=101, name=Shashank, address=Hodigere) and Value:Account(bankName=Canara Bank, accNo=15601080, balance=5675.09)
-2026-07-29 07:54:51,682 INFO c.c.c.m.h.Runner [main] Key:Customer(id=102, name=Sharath, address=Bangalore) and Value:Account(bankName=SBI Bank, accNo=15601280, balance=6575.09)
-2026-07-29 07:54:51,684 INFO c.c.c.m.h.Runner [main] Key:Customer(id=103, name=Shashi, address=Niladri nagar) and Value:Account(bankName=Canara Bank, accNo=15601080, balance=5675.09)
-2026-07-29 07:54:51,685 INFO c.c.c.m.h.Runner [main] Key:Customer(id=101, name=Shashank, address=Hodigere) and Value:Account(bankName=Canara Bank, accNo=15601080, balance=5675.09)
+2026-07-30 07:20:58,274 ERROR c.c.j.DBConnections [main] The somthing wen Wrong please try Again, Check the Program once
+2026-07-30 07:20:58,299 ERROR c.c.j.EmployeeDAOImpl [main] Exception While Executing User Detailes
+2026-07-30 07:20:58,304 INFO c.c.j.EmployeeDAOImpl [main] Inserted the employee detailes,index values:0
+2026-07-30 07:20:58,306 INFO c.c.j.EmployeeRunner [main] Result of employee saving:0
+2026-07-30 07:20:58,333 ERROR c.c.j.DBConnections [main] The somthing wen Wrong please try Again, Check the Program once
+2026-07-30 07:20:58,333 ERROR c.c.j.EmployeeDAOImpl [main] Exception While Executing User Detailes
+2026-07-30 07:20:58,334 INFO c.c.j.EmployeeRunner [main] Result of current Employee Detailes:[]
+2026-07-30 08:14:09,602 ERROR c.c.j.DBConnection [main] Exception while connecting to DB
+java.sql.SQLException: The url cannot be null
+	at java.sql.DriverManager.getConnection(DriverManager.java:596) ~[java.sql:?]
+	at java.sql.DriverManager.getConnection(DriverManager.java:199) ~[java.sql:?]
+	at com.corejavaproject.jdbcwithoracle.DBConnection.getConnection(DBConnection.java:18) [main/:?]
+	at com.corejavaproject.jdbcwithoracle.Main.main(Main.java:5) [main/:?]
+2026-07-30 08:15:13,922 INFO c.c.j.DBConnection [main] Connecting to database...
+2026-07-30 08:15:13,936 ERROR c.c.j.DBConnection [main] Exception while connecting to DB
+java.sql.SQLException: The url cannot be null
+	at java.sql.DriverManager.getConnection(DriverManager.java:596) ~[java.sql:?]
+	at java.sql.DriverManager.getConnection(DriverManager.java:199) ~[java.sql:?]
+	at com.corejavaproject.jdbcwithoracle.DBConnection.getConnection(DBConnection.java:19) [main/:?]
+	at com.corejavaproject.jdbcwithoracle.Main.main(Main.java:5) [main/:?]
+2026-07-30 08:15:13,952 INFO c.c.j.DBConnection [main] DB connection is Successfully established
+2026-07-30 08:18:09,088 INFO c.c.j.DBConnection [main] Connecting to database...
+2026-07-30 08:18:09,108 ERROR c.c.j.DBConnection [main] Exception while connecting to DB
+java.sql.SQLException: The url cannot be null
+	at java.sql.DriverManager.getConnection(DriverManager.java:596) ~[java.sql:?]
+	at java.sql.DriverManager.getConnection(DriverManager.java:199) ~[java.sql:?]
+	at com.corejavaproject.jdbcwithoracle.DBConnection.getConnection(DBConnection.java:19) [main/:?]
+	at com.corejavaproject.jdbcwithoracle.Main.main(Main.java:5) [main/:?]
+2026-07-30 08:18:09,130 INFO c.c.j.DBConnection [main] DB connection is Successfully established
+2026-07-30 08:22:03,523 INFO c.c.j.DBConnection [main] Connecting to database...
+2026-07-30 08:22:04,234 INFO c.c.j.DBConnection [main] DB connection is Successfully established
+2026-07-30 08:22:04,237 INFO c.c.j.Main [main] oracle.jdbc.driver.T4CConnection@5fb759d6
+2026-07-30 08:28:42,197 INFO c.c.j.DBConnection [main] Connecting to database...
+2026-07-30 08:28:42,689 INFO c.c.j.DBConnection [main] DB connection is Successfully established
+2026-07-30 08:28:53,811 INFO c.c.j.DBConnection [main] Connecting to database...
+2026-07-30 08:28:54,283 INFO c.c.j.DBConnection [main] DB connection is Successfully established
+2026-07-30 08:30:07,417 INFO c.c.j.DBConnection [main] Connecting to database...
+2026-07-30 08:30:07,912 INFO c.c.j.DBConnection [main] DB connection is Successfully established
+2026-07-30 08:30:07,913 INFO c.c.j.Main [main] oracle.jdbc.driver.T4CConnection@5fb759d6
+2026-07-30 08:30:09,744 INFO c.c.j.DBConnection [main] Connecting to database...
+2026-07-30 08:30:10,269 INFO c.c.j.DBConnection [main] DB connection is Successfully established
+2026-07-30 08:30:10,271 INFO c.c.j.Main [main] oracle.jdbc.driver.T4CConnection@5fb759d6

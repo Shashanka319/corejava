@@ -20,6 +20,7 @@ public class Runner {
         Account account1 = new Account("SBI Bank",15601280,6575.09);
         Account account2 = new Account("Canara Bank",76601200,6575.09);
 
+
         Map<Customer,Account> map = new HashMap<Customer,Account>();
         map.put(customer,account);
         map.put(customer2,account1);
@@ -32,6 +33,5 @@ public class Runner {
        for(Map.Entry<Customer,Account> entry: entrySetset){
            log.info("Key:{} and Value:{}",entry.getKey(),entry.getValue());
        }
-
     }
 }
