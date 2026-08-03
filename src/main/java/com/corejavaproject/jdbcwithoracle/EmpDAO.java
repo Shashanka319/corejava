@@ -68,4 +68,54 @@ public class EmpDAO {
         }
         return response;
     }
+    // 3. DELETE
+    public String deleteEmployee(int empId) throws SQLException {
+        String response = "Failed to delete employee.";
+        String sql = "DELETE FROM employee WHERE EMP_ID = ?";
+
+        try (Connection conn = DBConnection.getConnection();
+             PreparedStatement statement = conn.prepareStatement(sql)) {
+
+            statement.setInt(1, empId);
+
+            int rowsDeleted = statement.executeUpdate();
+            if (rowsDeleted > 0) {
+                response = "Employee with ID " + empId + " deleted successfully!";
+            } else {
+                response = "No employee found with ID: " + empId;
+            }
+
+        } catch (SQLException ex) {
+            ex.printStackTrace();
+            throw ex;
+        }
+        return response;
+    }
+
+    // 4. SELECT BY ID
+    public Employee getEmployeeById(int empId) throws SQLException {
+        Employee employee = null;
+        String sql = "SELECT EMP_ID, EMP_NAME, EMP_EMAIL, EMP_SALARY FROM employee WHERE EMP_ID = ?";
+
+        try (Connection conn = DBConnection.getConnection();
+             PreparedStatement statement = conn.prepareStatement(sql)) {
+
+            statement.setInt(1, empId);
+
+            try (ResultSet rs = statement.executeQuery()) {
+                if (rs.next()) {
+                    employee = new Employee();
+                    employee.setId(rs.getInt("EMP_ID"));
+                    employee.setName(rs.getString("EMP_NAME"));
+                    employee.setEmail(rs.getString("EMP_EMAIL"));
+                    employee.setSalary(rs.getDouble("EMP_SALARY"));
+                }
+            }
+
+        } catch (SQLException ex) {
+            ex.printStackTrace();
+            throw ex;
+        }
+        return employee;
+    }
 }
