@@ -20,6 +20,9 @@ public class Main {
         try{
             String response=empDAO.saveEmployee(emp);
             System.out.println(response);
+            log.info("Updating employee with ID: {}...", emp.getId());
+            String response1 = empDAO.updateEmployee(emp);
+            log.info("Response: {}", response1);
         }catch(Exception e){
             e.printStackTrace();
         }
