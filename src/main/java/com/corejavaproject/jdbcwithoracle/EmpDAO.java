@@ -5,8 +5,7 @@ import java.sql.*;
 public class EmpDAO {
     public String saveEmployee(Employee employee) throws SQLException {
         String response = null;
-
-        // Subquery gets current MAX ID (103) and adds 1 -> 104
+        
         String sql = "INSERT INTO employee (EMP_ID, EMP_NAME, EMP_EMAIL, EMP_SALARY) "
                 + "VALUES ((SELECT NVL(MAX(EMP_ID), 100) + 1 FROM employee), ?, ?, ?)";
 
