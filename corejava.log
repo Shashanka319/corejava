@@ -1,116 +1,188 @@
-2026-08-03 08:16:12,051 INFO c.c.j.DBConnection [main] Connecting to database...
-2026-08-03 08:16:12,748 INFO c.c.j.DBConnection [main] DB connection is Successfully established
-2026-08-03 08:17:27,663 INFO c.c.j.DBConnection [main] Connecting to database...
-2026-08-03 08:17:28,263 INFO c.c.j.DBConnection [main] DB connection is Successfully established
-2026-08-03 08:21:44,994 INFO c.c.j.DBConnection [main] Connecting to database...
-2026-08-03 08:21:45,625 INFO c.c.j.DBConnection [main] DB connection is Successfully established
-2026-08-03 08:22:03,341 INFO c.c.j.DBConnection [main] Connecting to database...
-2026-08-03 08:22:03,921 INFO c.c.j.DBConnection [main] DB connection is Successfully established
-2026-08-03 08:22:03,923 INFO c.c.j.Main [main] oracle.jdbc.driver.T4CConnection@5fb759d6
-2026-08-03 08:22:03,926 INFO c.c.j.DBConnection [main] Connecting to database...
-2026-08-03 08:22:03,962 INFO c.c.j.DBConnection [main] DB connection is Successfully established
-2026-08-03 08:22:29,835 INFO c.c.j.DBConnection [main] Connecting to database...
-2026-08-03 08:22:30,359 INFO c.c.j.DBConnection [main] DB connection is Successfully established
-2026-08-03 08:22:30,360 INFO c.c.j.Main [main] oracle.jdbc.driver.T4CConnection@5fb759d6
-2026-08-03 08:22:30,363 INFO c.c.j.DBConnection [main] Connecting to database...
-2026-08-03 08:22:30,400 INFO c.c.j.DBConnection [main] DB connection is Successfully established
-2026-08-03 08:23:25,211 INFO c.c.j.DBConnection [main] Connecting to database...
-2026-08-03 08:23:25,775 INFO c.c.j.DBConnection [main] DB connection is Successfully established
-2026-08-03 08:23:25,776 INFO c.c.j.Main [main] oracle.jdbc.driver.T4CConnection@5fb759d6
-2026-08-03 08:23:25,777 INFO c.c.j.DBConnection [main] Connecting to database...
-2026-08-03 08:23:25,816 INFO c.c.j.DBConnection [main] DB connection is Successfully established
-2026-08-03 08:24:17,069 INFO c.c.j.DBConnection [main] Connecting to database...
-2026-08-03 08:24:17,610 INFO c.c.j.DBConnection [main] DB connection is Successfully established
-2026-08-03 08:24:17,611 INFO c.c.j.Main [main] oracle.jdbc.driver.T4CConnection@5fb759d6
-2026-08-03 08:24:17,614 INFO c.c.j.DBConnection [main] Connecting to database...
-2026-08-03 08:24:17,657 INFO c.c.j.DBConnection [main] DB connection is Successfully established
-2026-08-03 08:24:34,191 INFO c.c.j.DBConnection [main] Connecting to database...
-2026-08-03 08:24:34,755 INFO c.c.j.DBConnection [main] DB connection is Successfully established
-2026-08-03 08:24:34,757 INFO c.c.j.Main [main] oracle.jdbc.driver.T4CConnection@5fb759d6
-2026-08-03 08:24:34,760 INFO c.c.j.DBConnection [main] Connecting to database...
-2026-08-03 08:24:34,799 INFO c.c.j.DBConnection [main] DB connection is Successfully established
-2026-08-03 08:24:51,875 INFO c.c.j.DBConnection [main] Connecting to database...
-2026-08-03 08:24:52,421 INFO c.c.j.DBConnection [main] DB connection is Successfully established
-2026-08-03 08:24:52,422 INFO c.c.j.Main [main] oracle.jdbc.driver.T4CConnection@5fb759d6
-2026-08-03 08:24:52,426 INFO c.c.j.DBConnection [main] Connecting to database...
-2026-08-03 08:24:52,467 INFO c.c.j.DBConnection [main] DB connection is Successfully established
-2026-08-03 08:25:11,080 INFO c.c.j.DBConnection [main] Connecting to database...
-2026-08-03 08:25:11,600 INFO c.c.j.DBConnection [main] DB connection is Successfully established
-2026-08-03 08:25:11,602 INFO c.c.j.Main [main] oracle.jdbc.driver.T4CConnection@5fb759d6
-2026-08-03 08:25:11,604 INFO c.c.j.DBConnection [main] Connecting to database...
-2026-08-03 08:25:11,650 INFO c.c.j.DBConnection [main] DB connection is Successfully established
-2026-08-03 08:27:59,619 INFO c.c.j.DBConnection [main] Connecting to database...
-2026-08-03 08:28:00,527 INFO c.c.j.DBConnection [main] DB connection is Successfully established
-2026-08-03 08:28:00,531 INFO c.c.j.Main [main] oracle.jdbc.driver.T4CConnection@5fb759d6
-2026-08-03 08:28:00,537 INFO c.c.j.DBConnection [main] Connecting to database...
-2026-08-03 08:28:00,602 INFO c.c.j.DBConnection [main] DB connection is Successfully established
-2026-08-03 08:30:49,758 INFO c.c.j.DBConnection [main] Connecting to database...
-2026-08-03 08:30:50,241 INFO c.c.j.DBConnection [main] DB connection is Successfully established
-2026-08-03 08:30:50,242 INFO c.c.j.Main [main] oracle.jdbc.driver.T4CConnection@5fb759d6
-2026-08-03 08:30:50,244 INFO c.c.j.DBConnection [main] Connecting to database...
-2026-08-03 08:30:50,279 INFO c.c.j.DBConnection [main] DB connection is Successfully established
-2026-08-03 08:31:43,087 INFO c.c.j.DBConnection [main] Connecting to database...
-2026-08-03 08:31:43,618 INFO c.c.j.DBConnection [main] DB connection is Successfully established
-2026-08-03 08:31:43,619 INFO c.c.j.Main [main] oracle.jdbc.driver.T4CConnection@5fb759d6
-2026-08-03 08:31:43,623 INFO c.c.j.DBConnection [main] Connecting to database...
-2026-08-03 08:31:43,662 INFO c.c.j.DBConnection [main] DB connection is Successfully established
-2026-08-03 08:32:40,033 INFO c.c.j.DBConnection [main] Connecting to database...
-2026-08-03 08:32:40,593 INFO c.c.j.DBConnection [main] DB connection is Successfully established
-2026-08-03 08:32:40,595 INFO c.c.j.Main [main] oracle.jdbc.driver.T4CConnection@5fb759d6
-2026-08-03 08:32:40,597 INFO c.c.j.DBConnection [main] Connecting to database...
-2026-08-03 08:32:40,634 INFO c.c.j.DBConnection [main] DB connection is Successfully established
-2026-08-03 08:34:00,324 INFO c.c.j.DBConnection [main] Connecting to database...
-2026-08-03 08:34:01,156 INFO c.c.j.DBConnection [main] DB connection is Successfully established
-2026-08-03 08:34:01,160 INFO c.c.j.Main [main] oracle.jdbc.driver.T4CConnection@5fb759d6
-2026-08-03 08:34:01,164 INFO c.c.j.DBConnection [main] Connecting to database...
-2026-08-03 08:34:01,239 INFO c.c.j.DBConnection [main] DB connection is Successfully established
-2026-08-03 08:39:36,265 INFO c.c.j.DBConnection [main] Connecting to database...
-2026-08-03 08:39:36,785 INFO c.c.j.DBConnection [main] DB connection is Successfully established
-2026-08-03 08:39:36,786 INFO c.c.j.Main [main] oracle.jdbc.driver.T4CConnection@5fb759d6
-2026-08-03 08:39:36,789 INFO c.c.j.DBConnection [main] Connecting to database...
-2026-08-03 08:39:36,824 INFO c.c.j.DBConnection [main] DB connection is Successfully established
-2026-08-03 08:45:06,961 INFO c.c.j.DBConnection [main] Connecting to database...
-2026-08-03 08:45:07,262 INFO c.c.j.DBConnection [main] DB connection is Successfully established
-2026-08-03 08:45:07,264 INFO c.c.j.Main [main] oracle.jdbc.driver.T4CConnection@5fb759d6
-2026-08-03 08:45:07,266 INFO c.c.j.DBConnection [main] Connecting to database...
-2026-08-03 08:45:07,288 INFO c.c.j.DBConnection [main] DB connection is Successfully established
-2026-08-03 08:46:10,260 INFO c.c.j.DBConnection [main] Connecting to database...
-2026-08-03 08:46:10,536 INFO c.c.j.DBConnection [main] DB connection is Successfully established
-2026-08-03 08:46:10,537 INFO c.c.j.Main [main] oracle.jdbc.driver.T4CConnection@5fb759d6
-2026-08-03 08:46:10,539 INFO c.c.j.DBConnection [main] Connecting to database...
-2026-08-03 08:46:10,558 INFO c.c.j.DBConnection [main] DB connection is Successfully established
-2026-08-03 08:46:23,853 INFO c.c.j.DBConnection [main] Connecting to database...
-2026-08-03 08:46:24,136 INFO c.c.j.DBConnection [main] DB connection is Successfully established
-2026-08-03 08:46:24,136 INFO c.c.j.Main [main] oracle.jdbc.driver.T4CConnection@5fb759d6
-2026-08-03 08:46:24,137 INFO c.c.j.DBConnection [main] Connecting to database...
-2026-08-03 08:46:24,157 INFO c.c.j.DBConnection [main] DB connection is Successfully established
-2026-08-03 08:48:46,485 INFO c.c.j.DBConnection [main] Connecting to database...
-2026-08-03 08:48:46,764 INFO c.c.j.DBConnection [main] DB connection is Successfully established
-2026-08-03 08:48:46,765 INFO c.c.j.Main [main] oracle.jdbc.driver.T4CConnection@5fb759d6
-2026-08-03 08:48:46,767 INFO c.c.j.DBConnection [main] Connecting to database...
-2026-08-03 08:48:46,788 INFO c.c.j.DBConnection [main] DB connection is Successfully established
-2026-08-03 08:49:31,221 INFO c.c.j.DBConnection [main] Connecting to database...
-2026-08-03 08:49:31,608 INFO c.c.j.DBConnection [main] DB connection is Successfully established
-2026-08-03 08:49:31,610 INFO c.c.j.Main [main] oracle.jdbc.driver.T4CConnection@5fb759d6
-2026-08-03 08:49:31,612 INFO c.c.j.DBConnection [main] Connecting to database...
-2026-08-03 08:49:31,641 INFO c.c.j.DBConnection [main] DB connection is Successfully established
-2026-08-03 08:51:25,148 INFO c.c.j.DBConnection [main] Connecting to database...
-2026-08-03 08:51:25,420 INFO c.c.j.DBConnection [main] DB connection is Successfully established
-2026-08-03 08:51:25,421 INFO c.c.j.Main [main] oracle.jdbc.driver.T4CConnection@5fb759d6
-2026-08-03 08:51:25,422 INFO c.c.j.DBConnection [main] Connecting to database...
-2026-08-03 08:51:25,443 INFO c.c.j.DBConnection [main] DB connection is Successfully established
-2026-08-03 08:53:26,650 INFO c.c.j.DBConnection [main] Connecting to database...
-2026-08-03 08:53:27,063 INFO c.c.j.DBConnection [main] DB connection is Successfully established
-2026-08-03 08:53:27,065 INFO c.c.j.Main [main] oracle.jdbc.driver.T4CConnection@5fb759d6
-2026-08-03 08:53:27,067 INFO c.c.j.DBConnection [main] Connecting to database...
-2026-08-03 08:53:27,098 INFO c.c.j.DBConnection [main] DB connection is Successfully established
-2026-08-03 08:55:11,113 INFO c.c.j.DBConnection [main] Connecting to database...
-2026-08-03 08:55:11,392 INFO c.c.j.DBConnection [main] DB connection is Successfully established
-2026-08-03 08:55:11,393 INFO c.c.j.Main [main] oracle.jdbc.driver.T4CConnection@5fb759d6
-2026-08-03 08:55:11,395 INFO c.c.j.DBConnection [main] Connecting to database...
-2026-08-03 08:55:11,417 INFO c.c.j.DBConnection [main] DB connection is Successfully established
-2026-08-03 08:59:50,349 INFO c.c.j.DBConnection [main] Connecting to database...
-2026-08-03 08:59:50,828 INFO c.c.j.DBConnection [main] DB connection is Successfully established
-2026-08-03 08:59:50,829 INFO c.c.j.Main [main] oracle.jdbc.driver.T4CConnection@5fb759d6
-2026-08-03 08:59:50,831 INFO c.c.j.DBConnection [main] Connecting to database...
-2026-08-03 08:59:50,862 INFO c.c.j.DBConnection [main] DB connection is Successfully established
+2026-08-04 00:03:06,822 INFO c.c.j.DBConnection [main] Connecting to database...
+2026-08-04 00:03:07,096 INFO c.c.j.DBConnection [main] DB connection is Successfully established
+2026-08-04 00:03:07,098 INFO c.c.j.Main [main] Database Connection Established: oracle.jdbc.driver.T4CConnection@60f00693
+2026-08-04 00:03:07,099 INFO c.c.j.DBConnection [main] Connecting to database...
+2026-08-04 00:03:07,120 INFO c.c.j.DBConnection [main] DB connection is Successfully established
+2026-08-04 00:03:07,196 INFO c.c.j.Main [main] Save Response: null
+2026-08-04 00:03:07,197 INFO c.c.j.Main [main] Updating employee with ID: 101...
+2026-08-04 00:03:07,197 INFO c.c.j.DBConnection [main] Connecting to database...
+2026-08-04 00:03:07,217 INFO c.c.j.DBConnection [main] DB connection is Successfully established
+2026-08-04 00:03:07,233 INFO c.c.j.Main [main] Update Response: Employee updated successfully!
+2026-08-04 00:09:05,754 INFO c.c.j.DBConnection [main] Connecting to database...
+2026-08-04 00:09:06,032 INFO c.c.j.DBConnection [main] DB connection is Successfully established
+2026-08-04 00:09:06,033 INFO c.c.j.Main [main] Database Connection Established: oracle.jdbc.driver.T4CConnection@5fb759d6
+2026-08-04 00:09:06,035 INFO c.c.j.DBConnection [main] Connecting to database...
+2026-08-04 00:09:06,056 INFO c.c.j.DBConnection [main] DB connection is Successfully established
+2026-08-04 00:09:06,137 ERROR c.c.j.Main [main] An error occurred during DB operation: 
+java.sql.SQLIntegrityConstraintViolationException: ORA-00001: unique constraint (SYSTEM.SYS_C007007) violated
+
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:629) ~[ojdbc8-21.8.0.0.jar:21.8.0.0.0]
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:563) ~[ojdbc8-21.8.0.0.jar:21.8.0.0.0]
+	at oracle.jdbc.driver.T4C8Oall.processError(T4C8Oall.java:1150) ~[ojdbc8-21.8.0.0.jar:21.8.0.0.0]
+	at oracle.jdbc.driver.T4CTTIfun.receive(T4CTTIfun.java:770) ~[ojdbc8-21.8.0.0.jar:21.8.0.0.0]
+	at oracle.jdbc.driver.T4CTTIfun.doRPC(T4CTTIfun.java:298) ~[ojdbc8-21.8.0.0.jar:21.8.0.0.0]
+	at oracle.jdbc.driver.T4C8Oall.doOALL(T4C8Oall.java:497) ~[ojdbc8-21.8.0.0.jar:21.8.0.0.0]
+	at oracle.jdbc.driver.T4CPreparedStatement.doOall8(T4CPreparedStatement.java:151) ~[ojdbc8-21.8.0.0.jar:21.8.0.0.0]
+	at oracle.jdbc.driver.T4CPreparedStatement.executeForRows(T4CPreparedStatement.java:1051) ~[ojdbc8-21.8.0.0.jar:21.8.0.0.0]
+	at oracle.jdbc.driver.OracleStatement.executeSQLStatement(OracleStatement.java:1530) ~[ojdbc8-21.8.0.0.jar:21.8.0.0.0]
+	at oracle.jdbc.driver.OracleStatement.doExecuteWithTimeout(OracleStatement.java:1310) ~[ojdbc8-21.8.0.0.jar:21.8.0.0.0]
+	at oracle.jdbc.driver.OraclePreparedStatement.executeInternal(OraclePreparedStatement.java:3745) ~[ojdbc8-21.8.0.0.jar:21.8.0.0.0]
+	at oracle.jdbc.driver.OraclePreparedStatement.executeLargeUpdate(OraclePreparedStatement.java:3917) ~[ojdbc8-21.8.0.0.jar:21.8.0.0.0]
+	at oracle.jdbc.driver.OraclePreparedStatement.executeUpdate(OraclePreparedStatement.java:3896) ~[ojdbc8-21.8.0.0.jar:21.8.0.0.0]
+	at oracle.jdbc.driver.OraclePreparedStatementWrapper.executeUpdate(OraclePreparedStatementWrapper.java:991) ~[ojdbc8-21.8.0.0.jar:21.8.0.0.0]
+	at com.corejavaproject.jdbcwithoracle.EmpDAO.saveEmployee(EmpDAO.java:20) ~[main/:?]
+	at com.corejavaproject.jdbcwithoracle.Main.main(Main.java:26) [main/:?]
+Caused by: oracle.jdbc.OracleDatabaseException: ORA-00001: unique constraint (SYSTEM.SYS_C007007) violated
+
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:636) ~[ojdbc8-21.8.0.0.jar:21.8.0.0.0]
+	... 15 more
+2026-08-04 00:09:10,348 INFO c.c.j.DBConnection [main] Connecting to database...
+2026-08-04 00:09:10,612 INFO c.c.j.DBConnection [main] DB connection is Successfully established
+2026-08-04 00:09:10,613 INFO c.c.j.Main [main] Database Connection Established: oracle.jdbc.driver.T4CConnection@5fb759d6
+2026-08-04 00:09:10,615 INFO c.c.j.DBConnection [main] Connecting to database...
+2026-08-04 00:09:10,634 INFO c.c.j.DBConnection [main] DB connection is Successfully established
+2026-08-04 00:09:10,703 ERROR c.c.j.Main [main] An error occurred during DB operation: 
+java.sql.SQLIntegrityConstraintViolationException: ORA-00001: unique constraint (SYSTEM.SYS_C007007) violated
+
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:629) ~[ojdbc8-21.8.0.0.jar:21.8.0.0.0]
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:563) ~[ojdbc8-21.8.0.0.jar:21.8.0.0.0]
+	at oracle.jdbc.driver.T4C8Oall.processError(T4C8Oall.java:1150) ~[ojdbc8-21.8.0.0.jar:21.8.0.0.0]
+	at oracle.jdbc.driver.T4CTTIfun.receive(T4CTTIfun.java:770) ~[ojdbc8-21.8.0.0.jar:21.8.0.0.0]
+	at oracle.jdbc.driver.T4CTTIfun.doRPC(T4CTTIfun.java:298) ~[ojdbc8-21.8.0.0.jar:21.8.0.0.0]
+	at oracle.jdbc.driver.T4C8Oall.doOALL(T4C8Oall.java:497) ~[ojdbc8-21.8.0.0.jar:21.8.0.0.0]
+	at oracle.jdbc.driver.T4CPreparedStatement.doOall8(T4CPreparedStatement.java:151) ~[ojdbc8-21.8.0.0.jar:21.8.0.0.0]
+	at oracle.jdbc.driver.T4CPreparedStatement.executeForRows(T4CPreparedStatement.java:1051) ~[ojdbc8-21.8.0.0.jar:21.8.0.0.0]
+	at oracle.jdbc.driver.OracleStatement.executeSQLStatement(OracleStatement.java:1530) ~[ojdbc8-21.8.0.0.jar:21.8.0.0.0]
+	at oracle.jdbc.driver.OracleStatement.doExecuteWithTimeout(OracleStatement.java:1310) ~[ojdbc8-21.8.0.0.jar:21.8.0.0.0]
+	at oracle.jdbc.driver.OraclePreparedStatement.executeInternal(OraclePreparedStatement.java:3745) ~[ojdbc8-21.8.0.0.jar:21.8.0.0.0]
+	at oracle.jdbc.driver.OraclePreparedStatement.executeLargeUpdate(OraclePreparedStatement.java:3917) ~[ojdbc8-21.8.0.0.jar:21.8.0.0.0]
+	at oracle.jdbc.driver.OraclePreparedStatement.executeUpdate(OraclePreparedStatement.java:3896) ~[ojdbc8-21.8.0.0.jar:21.8.0.0.0]
+	at oracle.jdbc.driver.OraclePreparedStatementWrapper.executeUpdate(OraclePreparedStatementWrapper.java:991) ~[ojdbc8-21.8.0.0.jar:21.8.0.0.0]
+	at com.corejavaproject.jdbcwithoracle.EmpDAO.saveEmployee(EmpDAO.java:20) ~[main/:?]
+	at com.corejavaproject.jdbcwithoracle.Main.main(Main.java:26) [main/:?]
+Caused by: oracle.jdbc.OracleDatabaseException: ORA-00001: unique constraint (SYSTEM.SYS_C007007) violated
+
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:636) ~[ojdbc8-21.8.0.0.jar:21.8.0.0.0]
+	... 15 more
+2026-08-04 00:11:16,326 INFO c.c.j.DBConnection [main] Connecting to database...
+2026-08-04 00:11:16,619 INFO c.c.j.DBConnection [main] DB connection is Successfully established
+2026-08-04 00:11:16,621 INFO c.c.j.Main [main] Database Connection Established: oracle.jdbc.driver.T4CConnection@5fb759d6
+2026-08-04 00:11:16,622 INFO c.c.j.DBConnection [main] Connecting to database...
+2026-08-04 00:11:16,644 INFO c.c.j.DBConnection [main] DB connection is Successfully established
+2026-08-04 00:11:16,727 ERROR c.c.j.Main [main] An error occurred during DB operation: 
+java.sql.SQLIntegrityConstraintViolationException: ORA-00001: unique constraint (SYSTEM.SYS_C007008) violated
+
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:629) ~[ojdbc8-21.8.0.0.jar:21.8.0.0.0]
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:563) ~[ojdbc8-21.8.0.0.jar:21.8.0.0.0]
+	at oracle.jdbc.driver.T4C8Oall.processError(T4C8Oall.java:1150) ~[ojdbc8-21.8.0.0.jar:21.8.0.0.0]
+	at oracle.jdbc.driver.T4CTTIfun.receive(T4CTTIfun.java:770) ~[ojdbc8-21.8.0.0.jar:21.8.0.0.0]
+	at oracle.jdbc.driver.T4CTTIfun.doRPC(T4CTTIfun.java:298) ~[ojdbc8-21.8.0.0.jar:21.8.0.0.0]
+	at oracle.jdbc.driver.T4C8Oall.doOALL(T4C8Oall.java:497) ~[ojdbc8-21.8.0.0.jar:21.8.0.0.0]
+	at oracle.jdbc.driver.T4CPreparedStatement.doOall8(T4CPreparedStatement.java:151) ~[ojdbc8-21.8.0.0.jar:21.8.0.0.0]
+	at oracle.jdbc.driver.T4CPreparedStatement.executeForRows(T4CPreparedStatement.java:1051) ~[ojdbc8-21.8.0.0.jar:21.8.0.0.0]
+	at oracle.jdbc.driver.OracleStatement.executeSQLStatement(OracleStatement.java:1530) ~[ojdbc8-21.8.0.0.jar:21.8.0.0.0]
+	at oracle.jdbc.driver.OracleStatement.doExecuteWithTimeout(OracleStatement.java:1310) ~[ojdbc8-21.8.0.0.jar:21.8.0.0.0]
+	at oracle.jdbc.driver.OraclePreparedStatement.executeInternal(OraclePreparedStatement.java:3745) ~[ojdbc8-21.8.0.0.jar:21.8.0.0.0]
+	at oracle.jdbc.driver.OraclePreparedStatement.executeLargeUpdate(OraclePreparedStatement.java:3917) ~[ojdbc8-21.8.0.0.jar:21.8.0.0.0]
+	at oracle.jdbc.driver.OraclePreparedStatement.executeUpdate(OraclePreparedStatement.java:3896) ~[ojdbc8-21.8.0.0.jar:21.8.0.0.0]
+	at oracle.jdbc.driver.OraclePreparedStatementWrapper.executeUpdate(OraclePreparedStatementWrapper.java:991) ~[ojdbc8-21.8.0.0.jar:21.8.0.0.0]
+	at com.corejavaproject.jdbcwithoracle.EmpDAO.saveEmployee(EmpDAO.java:20) ~[main/:?]
+	at com.corejavaproject.jdbcwithoracle.Main.main(Main.java:26) [main/:?]
+Caused by: oracle.jdbc.OracleDatabaseException: ORA-00001: unique constraint (SYSTEM.SYS_C007008) violated
+
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:636) ~[ojdbc8-21.8.0.0.jar:21.8.0.0.0]
+	... 15 more
+2026-08-04 00:13:49,781 INFO c.c.j.DBConnection [main] Connecting to database...
+2026-08-04 00:13:50,042 INFO c.c.j.DBConnection [main] DB connection is Successfully established
+2026-08-04 00:13:50,043 INFO c.c.j.Main [main] Database Connection Established: oracle.jdbc.driver.T4CConnection@5fb759d6
+2026-08-04 00:13:50,045 INFO c.c.j.DBConnection [main] Connecting to database...
+2026-08-04 00:13:50,064 INFO c.c.j.DBConnection [main] DB connection is Successfully established
+2026-08-04 00:13:50,185 ERROR c.c.j.Main [main] An error occurred during DB operation: 
+java.sql.SQLIntegrityConstraintViolationException: ORA-00001: unique constraint (SYSTEM.SYS_C007008) violated
+
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:629) ~[ojdbc8-21.8.0.0.jar:21.8.0.0.0]
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:563) ~[ojdbc8-21.8.0.0.jar:21.8.0.0.0]
+	at oracle.jdbc.driver.T4C8Oall.processError(T4C8Oall.java:1150) ~[ojdbc8-21.8.0.0.jar:21.8.0.0.0]
+	at oracle.jdbc.driver.T4CTTIfun.receive(T4CTTIfun.java:770) ~[ojdbc8-21.8.0.0.jar:21.8.0.0.0]
+	at oracle.jdbc.driver.T4CTTIfun.doRPC(T4CTTIfun.java:298) ~[ojdbc8-21.8.0.0.jar:21.8.0.0.0]
+	at oracle.jdbc.driver.T4C8Oall.doOALL(T4C8Oall.java:497) ~[ojdbc8-21.8.0.0.jar:21.8.0.0.0]
+	at oracle.jdbc.driver.T4CPreparedStatement.doOall8(T4CPreparedStatement.java:151) ~[ojdbc8-21.8.0.0.jar:21.8.0.0.0]
+	at oracle.jdbc.driver.T4CPreparedStatement.executeForRows(T4CPreparedStatement.java:1051) ~[ojdbc8-21.8.0.0.jar:21.8.0.0.0]
+	at oracle.jdbc.driver.OracleStatement.executeSQLStatement(OracleStatement.java:1530) ~[ojdbc8-21.8.0.0.jar:21.8.0.0.0]
+	at oracle.jdbc.driver.OracleStatement.doExecuteWithTimeout(OracleStatement.java:1310) ~[ojdbc8-21.8.0.0.jar:21.8.0.0.0]
+	at oracle.jdbc.driver.OraclePreparedStatement.executeInternal(OraclePreparedStatement.java:3745) ~[ojdbc8-21.8.0.0.jar:21.8.0.0.0]
+	at oracle.jdbc.driver.OraclePreparedStatement.executeLargeUpdate(OraclePreparedStatement.java:3917) ~[ojdbc8-21.8.0.0.jar:21.8.0.0.0]
+	at oracle.jdbc.driver.OraclePreparedStatement.executeUpdate(OraclePreparedStatement.java:3896) ~[ojdbc8-21.8.0.0.jar:21.8.0.0.0]
+	at oracle.jdbc.driver.OraclePreparedStatementWrapper.executeUpdate(OraclePreparedStatementWrapper.java:991) ~[ojdbc8-21.8.0.0.jar:21.8.0.0.0]
+	at com.corejavaproject.jdbcwithoracle.EmpDAO.saveEmployee(EmpDAO.java:21) ~[main/:?]
+	at com.corejavaproject.jdbcwithoracle.Main.main(Main.java:23) [main/:?]
+Caused by: oracle.jdbc.OracleDatabaseException: ORA-00001: unique constraint (SYSTEM.SYS_C007008) violated
+
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:636) ~[ojdbc8-21.8.0.0.jar:21.8.0.0.0]
+	... 15 more
+2026-08-04 00:15:58,376 INFO c.c.j.DBConnection [main] Connecting to database...
+2026-08-04 00:15:58,635 INFO c.c.j.DBConnection [main] DB connection is Successfully established
+2026-08-04 00:15:58,637 INFO c.c.j.Main [main] Database Connection Established: oracle.jdbc.driver.T4CConnection@5fb759d6
+2026-08-04 00:15:58,638 INFO c.c.j.DBConnection [main] Connecting to database...
+2026-08-04 00:15:58,658 INFO c.c.j.DBConnection [main] DB connection is Successfully established
+2026-08-04 00:15:58,772 ERROR c.c.j.Main [main] An error occurred during DB operation: 
+java.sql.SQLIntegrityConstraintViolationException: ORA-00001: unique constraint (SYSTEM.SYS_C007008) violated
+
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:629) ~[ojdbc8-21.8.0.0.jar:21.8.0.0.0]
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:563) ~[ojdbc8-21.8.0.0.jar:21.8.0.0.0]
+	at oracle.jdbc.driver.T4C8Oall.processError(T4C8Oall.java:1150) ~[ojdbc8-21.8.0.0.jar:21.8.0.0.0]
+	at oracle.jdbc.driver.T4CTTIfun.receive(T4CTTIfun.java:770) ~[ojdbc8-21.8.0.0.jar:21.8.0.0.0]
+	at oracle.jdbc.driver.T4CTTIfun.doRPC(T4CTTIfun.java:298) ~[ojdbc8-21.8.0.0.jar:21.8.0.0.0]
+	at oracle.jdbc.driver.T4C8Oall.doOALL(T4C8Oall.java:497) ~[ojdbc8-21.8.0.0.jar:21.8.0.0.0]
+	at oracle.jdbc.driver.T4CPreparedStatement.doOall8(T4CPreparedStatement.java:151) ~[ojdbc8-21.8.0.0.jar:21.8.0.0.0]
+	at oracle.jdbc.driver.T4CPreparedStatement.executeForRows(T4CPreparedStatement.java:1051) ~[ojdbc8-21.8.0.0.jar:21.8.0.0.0]
+	at oracle.jdbc.driver.OracleStatement.executeSQLStatement(OracleStatement.java:1530) ~[ojdbc8-21.8.0.0.jar:21.8.0.0.0]
+	at oracle.jdbc.driver.OracleStatement.doExecuteWithTimeout(OracleStatement.java:1310) ~[ojdbc8-21.8.0.0.jar:21.8.0.0.0]
+	at oracle.jdbc.driver.OraclePreparedStatement.executeInternal(OraclePreparedStatement.java:3745) ~[ojdbc8-21.8.0.0.jar:21.8.0.0.0]
+	at oracle.jdbc.driver.OraclePreparedStatement.executeLargeUpdate(OraclePreparedStatement.java:3917) ~[ojdbc8-21.8.0.0.jar:21.8.0.0.0]
+	at oracle.jdbc.driver.OraclePreparedStatement.executeUpdate(OraclePreparedStatement.java:3896) ~[ojdbc8-21.8.0.0.jar:21.8.0.0.0]
+	at oracle.jdbc.driver.OraclePreparedStatementWrapper.executeUpdate(OraclePreparedStatementWrapper.java:991) ~[ojdbc8-21.8.0.0.jar:21.8.0.0.0]
+	at com.corejavaproject.jdbcwithoracle.EmpDAO.saveEmployee(EmpDAO.java:21) ~[main/:?]
+	at com.corejavaproject.jdbcwithoracle.Main.main(Main.java:23) [main/:?]
+Caused by: oracle.jdbc.OracleDatabaseException: ORA-00001: unique constraint (SYSTEM.SYS_C007008) violated
+
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:636) ~[ojdbc8-21.8.0.0.jar:21.8.0.0.0]
+	... 15 more
+2026-08-04 00:17:06,231 INFO c.c.j.DBConnection [main] Connecting to database...
+2026-08-04 00:17:06,499 INFO c.c.j.DBConnection [main] DB connection is Successfully established
+2026-08-04 00:17:06,500 INFO c.c.j.Main [main] Database Connection Established: oracle.jdbc.driver.T4CConnection@5fb759d6
+2026-08-04 00:17:06,501 INFO c.c.j.DBConnection [main] Connecting to database...
+2026-08-04 00:17:06,522 INFO c.c.j.DBConnection [main] DB connection is Successfully established
+2026-08-04 00:17:06,648 ERROR c.c.j.Main [main] An error occurred during DB operation: 
+java.sql.SQLIntegrityConstraintViolationException: ORA-00001: unique constraint (SYSTEM.SYS_C007008) violated
+
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:629) ~[ojdbc8-21.8.0.0.jar:21.8.0.0.0]
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:563) ~[ojdbc8-21.8.0.0.jar:21.8.0.0.0]
+	at oracle.jdbc.driver.T4C8Oall.processError(T4C8Oall.java:1150) ~[ojdbc8-21.8.0.0.jar:21.8.0.0.0]
+	at oracle.jdbc.driver.T4CTTIfun.receive(T4CTTIfun.java:770) ~[ojdbc8-21.8.0.0.jar:21.8.0.0.0]
+	at oracle.jdbc.driver.T4CTTIfun.doRPC(T4CTTIfun.java:298) ~[ojdbc8-21.8.0.0.jar:21.8.0.0.0]
+	at oracle.jdbc.driver.T4C8Oall.doOALL(T4C8Oall.java:497) ~[ojdbc8-21.8.0.0.jar:21.8.0.0.0]
+	at oracle.jdbc.driver.T4CPreparedStatement.doOall8(T4CPreparedStatement.java:151) ~[ojdbc8-21.8.0.0.jar:21.8.0.0.0]
+	at oracle.jdbc.driver.T4CPreparedStatement.executeForRows(T4CPreparedStatement.java:1051) ~[ojdbc8-21.8.0.0.jar:21.8.0.0.0]
+	at oracle.jdbc.driver.OracleStatement.executeSQLStatement(OracleStatement.java:1530) ~[ojdbc8-21.8.0.0.jar:21.8.0.0.0]
+	at oracle.jdbc.driver.OracleStatement.doExecuteWithTimeout(OracleStatement.java:1310) ~[ojdbc8-21.8.0.0.jar:21.8.0.0.0]
+	at oracle.jdbc.driver.OraclePreparedStatement.executeInternal(OraclePreparedStatement.java:3745) ~[ojdbc8-21.8.0.0.jar:21.8.0.0.0]
+	at oracle.jdbc.driver.OraclePreparedStatement.executeLargeUpdate(OraclePreparedStatement.java:3917) ~[ojdbc8-21.8.0.0.jar:21.8.0.0.0]
+	at oracle.jdbc.driver.OraclePreparedStatement.executeUpdate(OraclePreparedStatement.java:3896) ~[ojdbc8-21.8.0.0.jar:21.8.0.0.0]
+	at oracle.jdbc.driver.OraclePreparedStatementWrapper.executeUpdate(OraclePreparedStatementWrapper.java:991) ~[ojdbc8-21.8.0.0.jar:21.8.0.0.0]
+	at com.corejavaproject.jdbcwithoracle.EmpDAO.saveEmployee(EmpDAO.java:32) ~[main/:?]
+	at com.corejavaproject.jdbcwithoracle.Main.main(Main.java:23) [main/:?]
+Caused by: oracle.jdbc.OracleDatabaseException: ORA-00001: unique constraint (SYSTEM.SYS_C007008) violated
+
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:636) ~[ojdbc8-21.8.0.0.jar:21.8.0.0.0]
+	... 15 more
+2026-08-04 00:31:35,983 INFO c.c.j.DBConnection [main] Connecting to database...
+2026-08-04 00:31:36,244 INFO c.c.j.DBConnection [main] DB connection is Successfully established
+2026-08-04 00:31:36,246 INFO c.c.j.Main [main] Database Connection Established: oracle.jdbc.driver.T4CConnection@5fb759d6
+2026-08-04 00:31:36,248 INFO c.c.j.DBConnection [main] Connecting to database...
+2026-08-04 00:31:36,266 INFO c.c.j.DBConnection [main] DB connection is Successfully established
+2026-08-04 00:31:36,396 INFO c.c.j.Main [main] Save Response: A new user was inserted successfully with ID: 103
+2026-08-04 00:31:36,397 INFO c.c.j.Main [main] Updating employee with ID: 103...
+2026-08-04 00:31:36,397 INFO c.c.j.DBConnection [main] Connecting to database...
+2026-08-04 00:31:36,419 INFO c.c.j.DBConnection [main] DB connection is Successfully established
+2026-08-04 00:31:36,422 INFO c.c.j.Main [main] Update Response: Employee updated successfully!
