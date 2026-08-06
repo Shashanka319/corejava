@@ -22,9 +22,13 @@ public class JavaMain {
             String color = scan.nextLine();
             JavaMain javaMain = new JavaMain();
             javaMain.method1();
+            staticMethod();
         }
     }
     public void method1(){
+        System.out.printf("Hello and welcome!");
+    }
+    public static void staticMethod(){
         System.out.printf("Hello and welcome!");
     }
 }
