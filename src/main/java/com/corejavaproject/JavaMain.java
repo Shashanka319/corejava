@@ -20,6 +20,11 @@ public class JavaMain {
             System.out.println("i = " + i);
             System.out.println("Please enter your favorite color: ");
             String color = scan.nextLine();
+            JavaMain javaMain = new JavaMain();
+            javaMain.method1();
         }
+    }
+    public void method1(){
+        System.out.printf("Hello and welcome!");
     }
 }
