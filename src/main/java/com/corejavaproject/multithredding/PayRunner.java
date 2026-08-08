@@ -15,7 +15,7 @@ public class PayRunner {
         Pay pay4 = new Pay("P004","Sharath","Shashi",1000);
         Pay pay5 = new Pay("P005","kjlj","erht",7888.0);
 
-        List<Pay> paylist = Arrays.asList(pay,pay2,pay3,pay4,pay5);
+        List<Pay> paylist = List.of(pay,pay2,pay3,pay4,pay5);
 
         ExecutorService executor = Executors.newFixedThreadPool(5);
 
