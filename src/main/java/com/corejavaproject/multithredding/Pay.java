@@ -1,8 +1,6 @@
 package com.corejavaproject.multithredding;
-
 import lombok.Getter;
 import lombok.extern.log4j.Log4j2;
-
 import java.util.concurrent.Callable;
 @Log4j2
 @Getter
@@ -19,7 +17,6 @@ public class Pay implements Callable<Pay> {
         this.debtor = debtor;
         this.amount = amount;
     }
-
     @Override
     public Pay call() throws Exception {
         log.info("Processing paymmet:"+payId);
