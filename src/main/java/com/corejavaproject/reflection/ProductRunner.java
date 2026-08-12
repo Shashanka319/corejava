@@ -10,7 +10,7 @@ public class ProductRunner {
     public static void main(String[] args) throws Exception {
         Product product = new Product();
 
-        Class productClass = product.getClass();
+        Class<?> productClass = product.getClass();
 
         //access private variable
         Field field=productClass.getDeclaredField("id");

@@ -33,7 +33,10 @@ public class Employeerunner {
         field3.set(employee,9743873982L);
         log.info("Employe Mobile Number:"+ Employee.MOBILE_NO);
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> a99ea5f (enum)
     }
 }
