@@ -11,6 +11,7 @@ public class EmployeeRunner {
         EmployeeDAO employeeDAO = new EmployeeDAOImpl();
         int result =employeeDAO.saveEmployee(employee);
         log.info("Result of employee saving:{}", result);
+
         log.info("Result of current Employee Detailes:{}", employeeDAO.getAllEmployees());
 
     }
