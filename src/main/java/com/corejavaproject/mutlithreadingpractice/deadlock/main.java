@@ -1,7 +1,4 @@
 package com.corejavaproject.mutlithreadingpractice.deadlock;
-
-import com.corejavaproject.multithredding.Synchronization;
-import lombok.Synchronized;
 import lombok.extern.log4j.Log4j2;
 
 @Log4j2

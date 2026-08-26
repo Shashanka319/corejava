@@ -1,10 +1,12 @@
-2026-08-14 07:54:22,164 INFO c.c.g.BoxRunner [main] Name:Shashank
-2026-08-14 07:54:22,193 INFO c.c.g.BoxRunner [main] Age:22
-2026-08-14 08:22:19,723 INFO c.c.g.GenericMethod [main] Method Info: 101
-2026-08-14 08:22:19,727 INFO c.c.g.GenericMethod [main] Method Info: 102.5
-2026-08-14 08:31:00,090 INFO c.c.g.InfoRunner [main] Name:Shashank
-2026-08-14 08:31:00,095 INFO c.c.g.InfoRunner [main] Age:22
-2026-08-14 08:43:17,572 INFO c.c.g.MultipleBoundeded [main] Shashanka 22
-2026-08-14 08:44:04,156 INFO c.c.g.MultipleBoundeded [main] Name:Shashanka Age:22
-2026-08-14 08:44:24,165 INFO c.c.g.MultipleBoundeded [main] Name:Shashanka Age:22
-2026-08-14 08:44:24,169 INFO c.c.g.MultipleBoundeded [main] Name:Sharath Age:22
+2026-08-26 07:40:29,777 INFO c.c.m.d.main [Thread-1] Thread 2 start with deadlock1
+2026-08-26 07:40:29,777 INFO c.c.m.d.main [Thread-0] Thread 1 start with deadlock
+2026-08-26 07:40:30,807 INFO c.c.m.d.main [Thread-1] Thread 2: Waiting for deadlock
+2026-08-26 07:40:30,807 INFO c.c.m.d.main [Thread-0] Thread 1: Waiting for deadlock1
+2026-08-26 07:40:30,810 INFO c.c.m.d.main [Thread-1] Thread 2: Locking deadlock
+2026-08-26 07:40:30,810 INFO c.c.m.d.main [Thread-0] Thread 1: Locking deadlock1
+2026-08-26 07:40:39,891 INFO c.c.m.d.main [Thread-1] Thread 2 start with deadlock1
+2026-08-26 07:40:39,891 INFO c.c.m.d.main [Thread-0] Thread 1 start with deadlock
+2026-08-26 07:40:40,902 INFO c.c.m.d.main [Thread-1] Thread 2: Waiting for deadlock
+2026-08-26 07:40:40,902 INFO c.c.m.d.main [Thread-0] Thread 1: Waiting for deadlock1
+2026-08-26 07:40:40,903 INFO c.c.m.d.main [Thread-1] Thread 2: Locking deadlock
+2026-08-26 07:40:40,903 INFO c.c.m.d.main [Thread-0] Thread 1: Locking deadlock1
