@@ -1,90 +1,30 @@
-2026-08-31 08:05:11,813 INFO c.c.m.s.CarParking [Thread-9] Car10is try to park
-2026-08-31 08:05:11,813 INFO c.c.m.s.CarParking [Thread-2] Car3is try to park
-2026-08-31 08:05:11,813 INFO c.c.m.s.CarParking [Thread-0] Car1is try to park
-2026-08-31 08:05:11,814 INFO c.c.m.s.CarParking [Thread-5] Car6is try to park
-2026-08-31 08:05:11,814 INFO c.c.m.s.CarParking [Thread-1] Car2is try to park
-2026-08-31 08:05:11,837 INFO c.c.m.s.CarParking [Thread-2] Car3has parked
-2026-08-31 08:05:11,813 INFO c.c.m.s.CarParking [Thread-8] Car9is try to park
-2026-08-31 08:05:11,813 INFO c.c.m.s.CarParking [Thread-7] Car8is try to park
-2026-08-31 08:05:11,837 INFO c.c.m.s.CarParking [Thread-0] Car1has parked
-2026-08-31 08:05:11,813 INFO c.c.m.s.CarParking [Thread-3] Car4is try to park
-2026-08-31 08:05:11,836 INFO c.c.m.s.CarParking [Thread-9] Car10has parked
-2026-08-31 08:05:11,813 INFO c.c.m.s.CarParking [Thread-4] Car5is try to park
-2026-08-31 08:05:11,814 INFO c.c.m.s.CarParking [Thread-6] Car7is try to park
-2026-08-31 08:05:14,840 INFO c.c.m.s.CarParking [Thread-9] Car10is leaving
-2026-08-31 08:05:14,840 INFO c.c.m.s.CarParking [Thread-0] Car1is leaving
-2026-08-31 08:05:14,843 INFO c.c.m.s.CarParking [Thread-5] Car6has parked
-2026-08-31 08:05:14,840 INFO c.c.m.s.CarParking [Thread-2] Car3is leaving
-2026-08-31 08:05:14,843 INFO c.c.m.s.CarParking [Thread-1] Car2has parked
-2026-08-31 08:05:14,844 INFO c.c.m.s.CarParking [Thread-8] Car9has parked
-2026-08-31 08:05:17,844 INFO c.c.m.s.CarParking [Thread-8] Car9is leaving
-2026-08-31 08:05:17,844 INFO c.c.m.s.CarParking [Thread-7] Car8has parked
-2026-08-31 08:05:17,844 INFO c.c.m.s.CarParking [Thread-1] Car2is leaving
-2026-08-31 08:05:17,845 INFO c.c.m.s.CarParking [Thread-3] Car4has parked
-2026-08-31 08:05:17,845 INFO c.c.m.s.CarParking [Thread-5] Car6is leaving
-2026-08-31 08:05:17,845 INFO c.c.m.s.CarParking [Thread-4] Car5has parked
-2026-08-31 08:05:20,846 INFO c.c.m.s.CarParking [Thread-7] Car8is leaving
-2026-08-31 08:05:20,846 INFO c.c.m.s.CarParking [Thread-6] Car7has parked
-2026-08-31 08:05:20,847 INFO c.c.m.s.CarParking [Thread-4] Car5is leaving
-2026-08-31 08:05:20,848 INFO c.c.m.s.CarParking [Thread-3] Car4is leaving
-2026-08-31 08:05:23,847 INFO c.c.m.s.CarParking [Thread-6] Car7is leaving
-2026-08-31 08:05:51,474 INFO c.c.m.s.CarParking [Thread-9] Car10 is try to park
-2026-08-31 08:05:51,474 INFO c.c.m.s.CarParking [Thread-3] Car4 is try to park
-2026-08-31 08:05:51,473 INFO c.c.m.s.CarParking [Thread-2] Car3 is try to park
-2026-08-31 08:05:51,473 INFO c.c.m.s.CarParking [Thread-7] Car8 is try to park
-2026-08-31 08:05:51,473 INFO c.c.m.s.CarParking [Thread-5] Car6 is try to park
-2026-08-31 08:05:51,473 INFO c.c.m.s.CarParking [Thread-1] Car2 is try to park
-2026-08-31 08:05:51,473 INFO c.c.m.s.CarParking [Thread-6] Car7 is try to park
-2026-08-31 08:05:51,473 INFO c.c.m.s.CarParking [Thread-4] Car5 is try to park
-2026-08-31 08:05:51,473 INFO c.c.m.s.CarParking [Thread-0] Car1 is try to park
-2026-08-31 08:05:51,473 INFO c.c.m.s.CarParking [Thread-8] Car9 is try to park
-2026-08-31 08:05:51,487 INFO c.c.m.s.CarParking [Thread-7] Car8 has parked
-2026-08-31 08:05:51,488 INFO c.c.m.s.CarParking [Thread-2] Car3 has parked
-2026-08-31 08:05:51,487 INFO c.c.m.s.CarParking [Thread-9] Car10 has parked
-2026-08-31 08:05:54,490 INFO c.c.m.s.CarParking [Thread-9] Car10is leaving
-2026-08-31 08:05:54,490 INFO c.c.m.s.CarParking [Thread-2] Car3is leaving
-2026-08-31 08:05:54,490 INFO c.c.m.s.CarParking [Thread-7] Car8is leaving
-2026-08-31 08:05:54,491 INFO c.c.m.s.CarParking [Thread-5] Car6 has parked
-2026-08-31 08:05:54,491 INFO c.c.m.s.CarParking [Thread-1] Car2 has parked
-2026-08-31 08:05:54,491 INFO c.c.m.s.CarParking [Thread-0] Car1 has parked
-2026-08-31 08:05:57,492 INFO c.c.m.s.CarParking [Thread-5] Car6is leaving
-2026-08-31 08:05:57,492 INFO c.c.m.s.CarParking [Thread-0] Car1is leaving
-2026-08-31 08:05:57,492 INFO c.c.m.s.CarParking [Thread-3] Car4 has parked
-2026-08-31 08:05:57,493 INFO c.c.m.s.CarParking [Thread-8] Car9 has parked
-2026-08-31 08:05:57,492 INFO c.c.m.s.CarParking [Thread-1] Car2is leaving
-2026-08-31 08:05:57,493 INFO c.c.m.s.CarParking [Thread-6] Car7 has parked
-2026-08-31 08:06:00,493 INFO c.c.m.s.CarParking [Thread-8] Car9is leaving
-2026-08-31 08:06:00,494 INFO c.c.m.s.CarParking [Thread-6] Car7is leaving
-2026-08-31 08:06:00,494 INFO c.c.m.s.CarParking [Thread-4] Car5 has parked
-2026-08-31 08:06:00,494 INFO c.c.m.s.CarParking [Thread-3] Car4is leaving
-2026-08-31 08:06:03,497 INFO c.c.m.s.CarParking [Thread-4] Car5is leaving
-2026-08-31 08:15:21,024 INFO c.c.m.s.CarParking [Thread-4] Car5 is try to park
-2026-08-31 08:15:21,024 INFO c.c.m.s.CarParking [Thread-7] Car8 is try to park
-2026-08-31 08:15:21,024 INFO c.c.m.s.CarParking [Thread-3] Car4 is try to park
-2026-08-31 08:15:21,024 INFO c.c.m.s.CarParking [Thread-0] Car1 is try to park
-2026-08-31 08:15:21,024 INFO c.c.m.s.CarParking [Thread-8] Car9 is try to park
-2026-08-31 08:15:21,024 INFO c.c.m.s.CarParking [Thread-2] Car3 is try to park
-2026-08-31 08:15:21,024 INFO c.c.m.s.CarParking [Thread-9] Car10 is try to park
-2026-08-31 08:15:21,023 INFO c.c.m.s.CarParking [Thread-1] Car2 is try to park
-2026-08-31 08:15:21,024 INFO c.c.m.s.CarParking [Thread-5] Car6 is try to park
-2026-08-31 08:15:21,023 INFO c.c.m.s.CarParking [Thread-6] Car7 is try to park
-2026-08-31 08:15:21,040 INFO c.c.m.s.CarParking [Thread-7] Car8 has parked
-2026-08-31 08:15:21,040 INFO c.c.m.s.CarParking [Thread-3] Car4 has parked
-2026-08-31 08:15:21,040 INFO c.c.m.s.CarParking [Thread-4] Car5 has parked
-2026-08-31 08:15:24,042 INFO c.c.m.s.CarParking [Thread-7] Car8is leaving
-2026-08-31 08:15:24,042 INFO c.c.m.s.CarParking [Thread-3] Car4is leaving
-2026-08-31 08:15:24,042 INFO c.c.m.s.CarParking [Thread-4] Car5is leaving
-2026-08-31 08:15:24,042 INFO c.c.m.s.CarParking [Thread-2] Car3 has parked
-2026-08-31 08:15:24,042 INFO c.c.m.s.CarParking [Thread-5] Car6 has parked
-2026-08-31 08:15:24,043 INFO c.c.m.s.CarParking [Thread-0] Car1 has parked
-2026-08-31 08:15:27,044 INFO c.c.m.s.CarParking [Thread-2] Car3is leaving
-2026-08-31 08:15:27,044 INFO c.c.m.s.CarParking [Thread-1] Car2 has parked
-2026-08-31 08:15:27,044 INFO c.c.m.s.CarParking [Thread-5] Car6is leaving
-2026-08-31 08:15:27,045 INFO c.c.m.s.CarParking [Thread-9] Car10 has parked
-2026-08-31 08:15:27,045 INFO c.c.m.s.CarParking [Thread-0] Car1is leaving
-2026-08-31 08:15:27,046 INFO c.c.m.s.CarParking [Thread-8] Car9 has parked
-2026-08-31 08:15:30,045 INFO c.c.m.s.CarParking [Thread-1] Car2is leaving
-2026-08-31 08:15:30,045 INFO c.c.m.s.CarParking [Thread-6] Car7 has parked
-2026-08-31 08:15:30,046 INFO c.c.m.s.CarParking [Thread-9] Car10is leaving
-2026-08-31 08:15:30,046 INFO c.c.m.s.CarParking [Thread-8] Car9is leaving
-2026-08-31 08:15:33,048 INFO c.c.m.s.CarParking [Thread-6] Car7is leaving
+2026-09-01 08:14:10,132 INFO c.c.m.c.CountDown [Thread-2] Start executeValidationService
+2026-09-01 08:14:10,132 INFO c.c.m.c.CountDown [Thread-1] Start executeAlertService
+2026-09-01 08:14:10,132 INFO c.c.m.c.CountDown [Thread-0] Start executeCacheService
+2026-09-01 08:14:13,154 INFO c.c.m.c.CountDown [Thread-0] CacheServiceis up
+2026-09-01 08:14:16,156 INFO c.c.m.c.CountDown [Thread-1] AlertServiceis up
+2026-09-01 08:14:19,156 INFO c.c.m.c.CountDown [Thread-2] ValidationServiceis up
+2026-09-01 08:15:19,004 INFO c.c.m.c.CountDown [Thread-0] Start executeCacheService
+2026-09-01 08:15:19,004 INFO c.c.m.c.CountDown [Thread-1] Start executeAlertService
+2026-09-01 08:15:19,004 INFO c.c.m.c.CountDown [Thread-2] Start executeValidationService
+2026-09-01 08:15:22,014 INFO c.c.m.c.CountDown [Thread-0] CacheServiceis up
+2026-09-01 08:15:25,015 INFO c.c.m.c.CountDown [Thread-1] AlertServiceis up
+2026-09-01 08:15:28,015 INFO c.c.m.c.CountDown [Thread-2] ValidationServiceis up
+2026-09-01 08:17:27,137 INFO c.c.m.c.CountDown [Thread-1] Start executeAlertService
+2026-09-01 08:17:27,137 INFO c.c.m.c.CountDown [Thread-2] Start executeValidationService
+2026-09-01 08:17:27,137 INFO c.c.m.c.CountDown [Thread-0] Start executeCacheService
+2026-09-01 08:17:30,149 INFO c.c.m.c.CountDown [Thread-0] CacheServiceis up
+2026-09-01 08:17:33,149 INFO c.c.m.c.CountDown [Thread-1] AlertServiceis up
+2026-09-01 08:17:36,149 INFO c.c.m.c.CountDown [Thread-2] ValidationServiceis up
+2026-09-01 08:23:57,937 INFO c.c.m.c.CountDown [Thread-2] Start executeValidationService
+2026-09-01 08:23:57,937 INFO c.c.m.c.CountDown [Thread-0] Start executeCacheService
+2026-09-01 08:23:57,937 INFO c.c.m.c.CountDown [Thread-1] Start executeAlertService
+2026-09-01 08:24:00,947 INFO c.c.m.c.CountDown [Thread-0] CacheServiceis up
+2026-09-01 08:24:03,948 INFO c.c.m.c.CountDown [Thread-1] AlertServiceis up
+2026-09-01 08:24:06,947 INFO c.c.m.c.CountDown [Thread-2] ValidationServiceis up
+2026-09-01 08:26:08,385 INFO c.c.m.c.CountDown [Thread-2] Start executeValidationService
+2026-09-01 08:26:08,385 INFO c.c.m.c.CountDown [Thread-0] Start executeCacheService
+2026-09-01 08:26:08,385 INFO c.c.m.c.CountDown [Thread-1] Start executeAlertService
+2026-09-01 08:26:11,394 INFO c.c.m.c.CountDown [Thread-0] CacheServiceis up
+2026-09-01 08:26:14,395 INFO c.c.m.c.CountDown [Thread-1] AlertServiceis up
+2026-09-01 08:26:17,395 INFO c.c.m.c.CountDown [Thread-2] ValidationServiceis up
