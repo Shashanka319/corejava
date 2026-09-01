@@ -7,7 +7,7 @@ import java.util.concurrent.CountDownLatch;
 public class Metro {
     CountDownLatch latch;
     Metro(CountDownLatch latch){
-        this.latch = new CountDownLatch(1);
+        this.latch = latch;
     }
     public void getLatch(){
         System.out.println("Taking ticket from counter");

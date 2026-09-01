@@ -1,5 +1,6 @@
 package com.corejavaproject.mutlithreadingpractice.countdownlatch;
 
+
 import java.util.concurrent.CountDownLatch;
 import java.util.concurrent.TimeUnit;
 
@@ -17,6 +18,7 @@ public class MetroRunner {
         Runnable r3 =metro3::getLatch;
         Runnable r4 =metro4::getLatch;
 
+
         Thread t1 = new Thread(r1);
         Thread t2 = new Thread(r2);
         Thread t3 = new Thread(r3);
@@ -26,9 +28,20 @@ public class MetroRunner {
         t3.start();
         t4.start();
 
-        latch.await(1, TimeUnit.MINUTES);
-        System.out.println("Start to travell in metro");
-    }
+        Runnable r5= () ->{
+            try{
+                latch.await();
+                System.out.println("Thread5 waiting for other 4 threads process is executed");
+            }catch (InterruptedException e){
+                e.printStackTrace();
+            }
+        };
 
+        Thread t5 = new Thread(r5);
+        t5.start();
+
+        //latch.await(1, TimeUnit.MINUTES);
+        //System.out.println("Start to travell in metro");
+    }
 
 }
