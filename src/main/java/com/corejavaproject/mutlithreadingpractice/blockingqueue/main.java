@@ -2,8 +2,6 @@ package com.corejavaproject.mutlithreadingpractice.blockingqueue;
 
 import java.util.concurrent.ArrayBlockingQueue;
 import java.util.concurrent.BlockingQueue;
-import java.util.concurrent.LinkedBlockingQueue;
-
 public class main {
     public static void main(String[] args) {
         BlockingQueue<Object> queue=new ArrayBlockingQueue<>(5);
