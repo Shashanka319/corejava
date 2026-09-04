@@ -9,7 +9,7 @@ class AutomaticCounter {
         Thread t1 = new Thread(() -> {
             seats.incrementAndGet();
             //seats.decrementAndGet();
-            System.out.println("seat count thread1----" + seats.get());
+            System.out.println("seat count thread1:" + seats.get());
         });
 
         Thread t2 = new Thread(() -> {
@@ -21,14 +21,14 @@ class AutomaticCounter {
           //  }
             seats.incrementAndGet();
            // seats.decrementAndGet();
-            System.out.println("seat count thread2---" + seats.get());
+            System.out.println("seat count thread2:" + seats.get());
         });
 
         t1.start();
-        t1.join();
+       // t1.join();
         t2.start();
-        t2.join();
-       System.out.println("Final seats remaining: " + seats.get());
+       // t2.join();
+      // System.out.println("Final seats remaining: " + seats.get());
 
 
     }
