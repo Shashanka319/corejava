@@ -1,4 +1,4 @@
-package com.corejavaproject.mutlithreadingpractice;
+package com.corejavaproject.mutlithreadingpractice.executorframework;
 
 import lombok.Getter;
 import lombok.ToString;

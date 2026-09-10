@@ -1,6 +1,4 @@
-package com.corejavaproject.mutlithreadingpractice;
-
-import com.corejavaproject.jdbcwithoracle.Employee;
+package com.corejavaproject.mutlithreadingpractice.executorframework;
 
 import java.util.ArrayList;
 import java.util.List;

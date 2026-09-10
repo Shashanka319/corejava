@@ -30,6 +30,5 @@ class AutomaticCounter {
        // t2.join();
       // System.out.println("Final seats remaining: " + seats.get());
 
-
     }
 }

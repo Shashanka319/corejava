@@ -1,6 +1,5 @@
-package com.corejavaproject.mutlithreadingpractice;
+package com.corejavaproject.mutlithreadingpractice.executorframework;
 
-import java.util.ArrayList;
 import java.util.List;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
