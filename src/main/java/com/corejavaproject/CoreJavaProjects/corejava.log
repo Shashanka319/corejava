@@ -1,0 +1,9 @@
+2026-05-31 10:29:18,757 INFO c.c.b.Employee [main] Employee Age:25
+2026-05-31 10:29:18,769 INFO c.c.b.Employee [main] Employee Name:Shashank
+2026-05-31 10:29:18,770 INFO c.c.b.Employee [main] Employee Salary:30000.0
+2026-05-31 10:29:18,775 INFO c.c.b.Employee [main] Employee Address:Niladri Nagar
+2026-05-31 10:39:54,397 INFO c.c.b.Employee [main] Employee Age:25
+2026-05-31 10:39:54,407 INFO c.c.b.Employee [main] Employee Name:Shashank
+2026-05-31 10:39:54,409 INFO c.c.b.Employee [main] Employee Salary:30000.0
+2026-05-31 10:39:54,410 INFO c.c.b.Employee [main] Employee Address:Niladri Nagar
+2026-05-31 10:39:54,411 INFO c.c.b.Employee [main] Address:com.corejavaproject.basics.Address@2f465398
