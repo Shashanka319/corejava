@@ -1,6 +1,4 @@
-package com.corejavaproject.collectionPractice.list.arrayList;
-
-import com.corejavaproject.jdbc.User;
+package com.javapractice.collectionPractice.list.arrayList;
 import lombok.Getter;
 import lombok.Setter;
 import lombok.ToString;
@@ -9,10 +7,10 @@ import lombok.ToString;
 @Setter
 @ToString
 public class Product {
-    Mall mall;
+    com.corejavaproject.collectionPractice.list.arrayList.Mall mall;
     int productId;
     String productName;
     boolean stockAvailable;
     double productPrice;
-    UserInfo userInfo;
+    com.corejavaproject.collectionPractice.list.arrayList.UserInfo userInfo;
 }
