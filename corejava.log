@@ -1,4 +1,4 @@
-2026-09-02 08:01:28,420 INFO c.c.m.c.Barrier [Thread-2] Threads are waiting for barrier thread thread executed
-2026-09-02 08:01:28,420 INFO c.c.m.c.Barrier [Thread-1] Threads are waiting for barrier thread thread executed
-2026-09-02 08:01:28,420 INFO c.c.m.c.Barrier [Thread-3] Threads are waiting for barrier thread thread executed
-2026-09-02 08:01:28,420 INFO c.c.m.c.Barrier [Thread-0] Threads are waiting for barrier thread thread executed
+2026-09-21 08:02:40,853 INFO j.Car [main] Car start
+2026-09-21 08:02:40,866 INFO j.Car [main]  filling the Car fuel
+2026-09-21 08:02:43,432 INFO j.Car [main] Car start
+2026-09-21 08:02:43,439 INFO j.Car [main]  filling the Car fuel
