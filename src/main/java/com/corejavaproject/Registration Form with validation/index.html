@@ -1,0 +1,41 @@
+<!Doctype html>
+<html lang="Eng">
+    <head>
+        <title>Registration Form</title>
+        <script src="script.js"></script>
+    </head>
+    <body>
+        <h2>Registration Form</h2>
+        <form name="registrationForm" onsubmit="return validateForm()">
+            <div>
+                <label for="nameId">Name</label>
+                <span>*</span>
+                <span>:</span>
+                <input type="text" id="nameId" name="nameForName" required
+                placeholder="Enter Name">
+            </div>   <br>
+            <div>
+                <label for ="emailId">Email</label>
+                <span>*</span>
+                <span>:</span>
+                <input type="email" id="emailId" name="emailForEmail" required placeholder="Enter Email">
+            </div> <br>
+            <div>
+                <label for="Password">Password</label>
+                <span>*</span>
+                <span>:</span>
+                <input type="password" id="Password" name="Password" required placeholder="Enter Password">
+            </div> <br>
+            <div>
+                <label for="ConfirmPassword">Confirm Password</label>
+                <span>*</span>
+                <span>:</span>
+                <input type="password" id="ConfirmPassword" name="ConfirmPassword" required placeholder="Confirm Password">
+            </div> <br>
+            <div>
+                <button type="submit" value="Submit">Submit</button>
+                <button type="reset" value="Reset">Reset</button>
+            </div>
+        </form>
+    </body>
+    </html>
