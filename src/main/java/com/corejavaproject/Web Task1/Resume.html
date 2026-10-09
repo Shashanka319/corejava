@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Resume </title>
+    <style>
+        
+        body {
+            font-family: Arial, sans-serif;
+            margin: 50px;
+        }
+        nav a {
+            margin-right: 15px;
+            text-decoration: none;
+        }
+        header {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            border: 1px solid #000;
+            padding: 10px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+         section {
+            margin-bottom: 20px;
+            padding: 15px;
+            margin-top: 10px;
+        }
+         ul {
+            list-style-type: square;
+        }
+        .about-section {
+            padding: 15px;
+            margin: 10px 0;
+            text-align: center;
+        }
+        .about-section img {
+           
+            margin: 0 auto 20px;
+            border-radius: 50%;
+            width: 300px;
+            height: 300px;
+            object-fit: cover;
+        }
+        .contact-info {
+            background-color: #f8f9fa;
+            padding: 15px;
+            margin: 20px 0;
+            border-radius: 10px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        .contact-info p {
+            margin: 10px 0;
+            font-size: 16px;
+        }
+        .contact-info i {
+            margin-right: 10px;
+        }
+    </style>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.9.3/html2pdf.bundle.min.js"></script>
+</head>
+<body style="border: 2px solid black;padding: 5px;background-color: #e6f7ff;">
+    <div class ="container">
+    
+    <nav>
+       
+         <a href="https://www.linkedin.com/in/shashank-k-shashank-k/" target="_blank">
+                <i class="fa-brands fa-linkedin"style="font-size: 50px;"></i>
+            </a>
+            <a href="https://github.com" target="_blank">
+                <img src="https://imgs.search.brave.com/FjOAY2Y7fyITaJL6KmfDGOK8P9CX9xA9VzF1B9xaOvo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2IyL2M1/L2U2L2IyYzVlNjUz/ODRiMWIwZWE0Y2Qz/NTFiNjE1NWUxYjI5/LmpwZw" alt="Logo" height="50" crossorigin="anonymous">
+            </a>
+            <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
+            <img src="https://imgs.search.brave.com/QPURvaMS_9VcTMvz6DQJInCtUqB9nkffML_kdg6DNpU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudmVjdGVlenku/Y29tL3N5c3RlbS9y/ZXNvdXJjZXMvdGh1/bWJuYWlscy8wNDgv/MTE2LzMwMy9zbWFs/bC9nbWFpbC1lbWFp/bC1sb2dvLWljb24t/ZnJlZS1wbmcucG5n" alt="Logo" height="50" crossorigin="anonymous">
+            </a>
+            <hr>
+                
+    </nav>
+
+    <header>
+        
+        <p><marquee>CSE Student</marquee></p>
+    </header>
+    <div class="about-section">
+    <img src="Result_files/mypic.jpeg" alt="img Not Found" width="300" height="300" crossorigin="anonymous">
+    
+    <div class="contact-info">
+        <p><i class="fas fa-user" style="color: #007bff;"></i> <strong>Name:</strong> Shashank K</p>
+        <p><i class="fas fa-map-marker-alt" style="color: #28a745;"></i> <strong>Address:</strong> Channagiri</p>
+        <p><i class="fas fa-envelope" style="color: #dc3545;"></i> <strong>Email:</strong> <a href="mailto:sharathshashank1986@gmail.com" style="color: #dc3545;">sharathshashank1986@gmail.com</a></p>
+        <p><i class="fab fa-github" style="color: #333;"></i> <strong>GitHub:</strong> <a href="https://github.com/Shashanka319" target="_blank" style="color: #333;">https://github.com/Shashanka319</a></p>
+    </div>
+    <button id="download-btn" onclick="downloadResume()" style="display: block; margin: 20px auto; padding: 10px 20px; background-color: #007bff; color: white; border: none; border-radius: 5px; cursor: pointer;">Download Resume as PDF</button>
+    <h3>About Me</h3>
+  <p>My Name is Shashank,My Native is Hodigere,Channagiri Taluk, Davangere District, Karnataka.I am pursuing my BE in Computer Science and Engineering at Governement Engineering College Challakere.now my cgpa is 8.4, My PUC is completed at Shree Basavapriya Science and Commerce PU College Channagiri with 81.5%.My High School is completed at Shree Madhukeshwara High School Hodigere with 87.04% I am Currently Doing internship at XworkZ and SuperMentr</p>
+  <p>
+    During Engineering  Days Participate so Many Hackathons and Competitions.In College Level Hakathons Got the First place in Second Year and in Similarly Got the Second Place in Third Year.Got the Second place.also Got the Specilization and Participation Certificate in inter College Level Hackathons.
+</p>
+  <p>
+  During my internship at XworkZ, I have been involved in various software development projects, gaining hands-on experience in coding, debugging, and collaborating with a team of professionals. This opportunity has allowed me to apply my theoretical knowledge in a practical setting and enhance my problem-solving skills.
+</p>
+
+  </div>
+  <section><hr>
+    <h2>Education Detailes</h2>
+    <table border="1" cellspacing="0" cellpadding="10" >
+        <tr>
+            <th>Education</th>
+            <th>Institution</th>
+            <th>Year of Completion</th>
+            <th>CGPA/Percentage</th>
+        </tr>
+        <tr>
+            <td>Bachelor of Engineering (BE)</td>
+            <td>Government Engineering College Challakere</td>
+            <td>2024 (Expected)</td>
+            <td>8.4 CGPA</td>
+        </tr>
+        <tr>
+            <td>Pre-University Course (PUC)</td>
+            <td>Shree Basavapriya Science and Commerce PU College Channagiri</td>
+            <td>2020</td>
+            <td>81.5%</td>
+        </tr>
+        <tr>
+            <td>High School</td>
+            <td>Shree Madhukeshwara High School Hodigere</td>
+            <td>2018</td>
+            <td>87.04%</td>
+        </tr>
+    </table>
+  </section>
+  <section ><hr>
+        <h2>Technical Core</h2>
+        <ul>
+            <li><strong>Java Development:</strong> Expertise in OOPs, static/non-static logic, and validation.</li>
+            <li><strong>Frontend:</strong> HTML,CSS,JS,basic of Reactjs.</li>
+        </ul>
+    </section><hr>
+
+    <section>
+        <h3>Industry Internships</h3>
+        <ul>
+            <li><strong>Vaidsys Technologies:</strong> Front-End Development role.</li>
+            <li><strong>SuprMentr Technologies:</strong> Full Stack Web Development (MERN).</li>
+            <li><strong>X-workZ:</strong> Software Engineering Intern.</li>
+        </ul>
+    </section><hr>
+
+    <section >
+        <h2>Academic & Personal Goals</h2>
+        
+        
+        <ul>
+            <li>Preparing for the <strong>GATE Exam</strong> for advanced technical specialization.</li>
+            <li>Enhancing <strong>English communication skills</strong> for global collaboration.</li>
+            <li>Interest in high-performance bike specifications and historical commanders.</li>
+        </ul>
+    </section><hr>
+
+    <section>
+        <h2>Important Links</h2>
+        <ul>
+            <li><a href="https://www.linkedin.com/in/shashank-k-shashank-k/" target="_blank">LinkedIn Profile</a></li>
+            <li><a href="https://github.com" target="_blank">GitHub Projects</a></li>
+        </ul>
+    </section>
+    </div>
+
+<script>
+function downloadResume() {
+    html2pdf().set({
+        margin: 1,
+        filename: 'Resume.pdf',
+        image: { type: 'jpeg', quality: 0.98 },
+        html2canvas: { scale: 2, useCORS: true },
+        jsPDF: { unit: 'in', format: 'letter', orientation: 'portrait' }
+    }).from(document.body).save();
+}
+</script>
+</body>
+</html>
